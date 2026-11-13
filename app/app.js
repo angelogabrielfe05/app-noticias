@@ -1,2 +1,325 @@
-// Lógica do app. A navegação entre abas e as notícias entram na tarefa 4.0.
-console.log('NEWs — casca carregada');
+// NEWs — lógica do app.
+// Segurança: títulos e resumos vêm de sites de terceiros, então a tela é montada só com
+// createElement/textContent (nunca innerHTML com dados), e os links passam por linkSeguro().
+import { estaLida, marcarLida, listarSalvos, estaSalva, alternarSalva, ultimaAba, lembrarAba } from './lib/armazenamento.js';
+import { quando, dataCompleta, hora, valorIndicador, variacaoIndicador } from './lib/formatar.js';
+import { carregarGlossario, buscarTermo, dividirEmTermos } from './lib/termos.js';
+
+const ABAS = {
+  politica: { nome: 'Política do Brasil', painel: null },
+  economia: { nome: 'Economia', painel: 'economia' },
+  mercado: { nome: 'Mercado e bolsa', painel: 'mercado' },
+  ia: { nome: 'Inteligência artificial', painel: null },
+};
+const HORAS_PARA_AVISO_DESATUALIZADO = 12;
+// Verde/vermelho só onde "subir" é claramente bom (bolsa e PIB). Juros, inflação e dólar ficam neutros.
+const COLORIR_VARIACAO = new Set(['ibovespa', 'ifix', 'sp500', 'pib']);
+
+const estado = { noticias: null, indicadores: null, carregando: true, erro: null };
+const $ = (sel) => document.querySelector(sel);
+const conteudo = $('#conteudo');
+
+// ---------------------------------------------------------------------------
+// Ajudantes de tela
+// ---------------------------------------------------------------------------
+
+/** Cria um elemento. Textos viram nós de texto (nunca HTML). */
+function el(tag, atributos = {}, ...filhos) {
+  const e = document.createElement(tag);
+  for (const [nome, valor] of Object.entries(atributos)) {
+    if (valor == null || valor === false) continue;
+    if (nome === 'class') e.className = valor;
+    else if (nome === 'texto') e.textContent = valor;
+    else e.setAttribute(nome, valor === true ? '' : valor);
+  }
+  for (const f of filhos.flat()) {
+    if (f == null || f === false) continue;
+    e.append(f instanceof Node ? f : document.createTextNode(String(f)));
+  }
+  return e;
+}
+
+const linkSeguro = (url) => (/^https?:\/\//i.test(url || '') ? url : null);
+
+/** Texto com os termos do glossário viram botões que abrem a explicação. */
+function textoComTermos(texto, jaUsados) {
+  return dividirEmTermos(texto, jaUsados).map((p) =>
+    p.termo
+      ? el('button', { type: 'button', class: 'termo', 'data-acao': 'termo', 'data-termo': p.termo.id, 'aria-label': `${p.texto}: o que é?` }, p.texto)
+      : document.createTextNode(p.texto));
+}
+
+function abaAtual() {
+  const hash = location.hash.replace('#', '');
+  if (hash === 'salvos' || ABAS[hash]) return hash;
+  return ABAS[ultimaAba()] ? ultimaAba() : 'politica';
+}
+
+const noticiasDaAba = (aba) => estado.noticias?.abas?.[aba]?.itens || [];
+const acharNoticia = (id) => {
+  for (const aba of Object.keys(ABAS)) {
+    const n = noticiasDaAba(aba).find((x) => x.id === id);
+    if (n) return { ...n, aba };
+  }
+  return listarSalvos().find((x) => x.id === id) || null;
+};
+
+// ---------------------------------------------------------------------------
+// Cartão de notícia
+// ---------------------------------------------------------------------------
+function cartaoNoticia(n, { emSalvos = false } = {}) {
+  const lida = estaLida(n.id);
+  const salva = estaSalva(n.id);
+  const usados = new Set();
+  const link = linkSeguro(n.link);
+
+  return el('article', { class: `cartao${lida && !emSalvos ? ' lida' : ''}`, 'data-id': n.id },
+    el('p', { class: 'cartao-meta' },
+      el('span', { class: 'fonte' }, n.fonte),
+      n.oficial ? el('span', { class: 'selo-oficial', title: 'Fonte oficial (órgão público ou B3)' }, 'Oficial') : null,
+      el('time', { datetime: n.data, title: dataCompleta(n.data) }, quando(n.data)),
+    ),
+    el('h3', { class: 'cartao-titulo' }, textoComTermos(n.titulo, usados)),
+    n.resumo ? el('p', { class: 'cartao-resumo' }, textoComTermos(n.resumo, usados)) : null,
+    n.tambemEm?.length ? el('p', { class: 'tambem-em' }, `Também em: ${n.tambemEm.join(', ')}`) : null,
+    emSalvos && n.salvoEm ? el('p', { class: 'tambem-em' }, `Salva ${quando(new Date(n.salvoEm).toISOString())}`) : null,
+    el('div', { class: 'cartao-acoes' },
+      link
+        ? el('a', { class: 'botao botao-principal', href: link, target: '_blank', rel: 'noopener noreferrer', 'data-acao': 'abrir' },
+          'Abrir fonte', el('span', { class: 'seta', 'aria-hidden': 'true' }, '↗'))
+        : null,
+      emSalvos
+        ? null
+        : el('button', { type: 'button', class: 'botao', 'data-acao': 'lida', 'aria-pressed': String(lida), 'aria-label': lida ? 'Lida (toque para desmarcar)' : 'Marcar como lida' }, lida ? '✓ Lida' : 'Já li'),
+      el('button', { type: 'button', class: 'botao', 'data-acao': 'salvar', 'aria-pressed': String(salva) },
+        emSalvos ? 'Remover' : salva ? '★ Salva' : '☆ Salvar'),
+    ),
+  );
+}
+
+// ---------------------------------------------------------------------------
+// Painel de números
+// ---------------------------------------------------------------------------
+function painelIndicadores(painelId) {
+  const lista = estado.indicadores?.paineis?.[painelId];
+  if (!lista?.length) return null;
+  return el('section', { class: 'painel', 'aria-label': 'Números do dia' },
+    lista.map((ind) => {
+      const variacao = variacaoIndicador(ind);
+      const anteriorTexto = ind.anterior
+        ? `Anterior: ${valorIndicador({ ...ind, valor: ind.anterior.valor })}${ind.anterior.referencia ? ` (${ind.anterior.referencia})` : ''}`
+        : '';
+      return el('div', { class: `indicador${ind.desatualizado ? ' desatualizado' : ''}`, title: anteriorTexto || null },
+        el('p', { class: 'indicador-nome' }, ind.nome),
+        el('p', { class: 'indicador-valor' }, valorIndicador(ind)),
+        variacao
+          ? el('p', { class: `indicador-variacao ${COLORIR_VARIACAO.has(ind.id) ? variacao.direcao : 'neutra'}` },
+            el('span', { 'aria-hidden': 'true' }, variacao.direcao === 'sobe' ? '▲ ' : variacao.direcao === 'cai' ? '▼ ' : '■ '),
+            el('span', { class: 'sr-only' }, variacao.direcao === 'sobe' ? 'subiu ' : variacao.direcao === 'cai' ? 'caiu ' : 'estável '),
+            variacao.texto)
+          : null,
+        el('p', { class: 'indicador-ref' }, [ind.referencia, ind.fonte].filter(Boolean).join(' · ')),
+        ind.desatualizado ? el('p', { class: 'indicador-aviso' }, 'Não atualizado na última coleta') : null,
+      );
+    }),
+  );
+}
+
+// ---------------------------------------------------------------------------
+// Telas
+// ---------------------------------------------------------------------------
+function telaAba(aba) {
+  const cfg = ABAS[aba];
+  const itens = noticiasDaAba(aba);
+  const lidas = itens.filter((n) => estaLida(n.id)).length;
+  const emDia = itens.length > 0 && lidas === itens.length;
+
+  return [
+    el('div', { class: 'aba-topo' },
+      el('h2', {}, cfg.nome),
+      itens.length ? el('p', { class: 'progresso' }, `${lidas} de ${itens.length} lidas`) : null,
+    ),
+    cfg.painel ? painelIndicadores(cfg.painel) : null,
+    emDia
+      ? el('div', { class: 'em-dia', role: 'status' },
+        el('strong', {}, '✓ Você está em dia'),
+        el('span', {}, ` com ${cfg.nome}. Novas notícias chegam nas próximas horas.`))
+      : null,
+    itens.length
+      ? el('div', { class: 'lista' }, itens.map((n) => cartaoNoticia({ ...n, aba })))
+      : el('div', { class: 'vazio' },
+        el('p', {}, 'Nenhuma notícia importante nas últimas 48 horas.'),
+        el('p', {}, 'Quando sair algo relevante, aparece aqui.')),
+  ];
+}
+
+function telaSalvos() {
+  const salvos = listarSalvos();
+  return [
+    el('div', { class: 'aba-topo' },
+      el('h2', {}, 'Salvos'),
+      salvos.length ? el('p', { class: 'progresso' }, `${salvos.length} ${salvos.length === 1 ? 'notícia' : 'notícias'}`) : null,
+    ),
+    salvos.length
+      ? el('div', { class: 'lista' }, salvos.map((n) => cartaoNoticia(n, { emSalvos: true })))
+      : el('div', { class: 'vazio' },
+        el('p', {}, 'Nenhuma notícia salva ainda.'),
+        el('p', {}, 'Toque em “☆ Salvar” numa notícia para guardá-la aqui e reler com calma.')),
+  ];
+}
+
+function telaErro() {
+  const offline = !navigator.onLine;
+  return el('div', { class: 'vazio erro', role: 'alert' },
+    el('p', {}, offline ? 'Você está sem internet.' : 'Não foi possível carregar as notícias.'),
+    el('p', {}, offline ? 'Conecte-se e tente de novo.' : 'Tente de novo em instantes.'),
+    el('button', { type: 'button', class: 'botao botao-principal', 'data-acao': 'tentar' }, 'Tentar de novo'),
+  );
+}
+
+function renderizar({ manterRolagem = false } = {}) {
+  const aba = abaAtual();
+  const rolagem = window.scrollY;
+
+  let filhos;
+  if (estado.carregando && !estado.noticias) filhos = [el('div', { class: 'vazio' }, el('p', {}, 'Carregando notícias…'))];
+  else if (aba === 'salvos') filhos = telaSalvos();
+  else if (!estado.noticias) filhos = [telaErro()];
+  else filhos = telaAba(aba);
+  conteudo.replaceChildren(...filhos.filter(Boolean));
+
+  // Barra de abas: aba ativa e quantas faltam ler
+  for (const link of document.querySelectorAll('.abas a')) {
+    const id = link.dataset.aba;
+    if (id === aba) link.setAttribute('aria-current', 'page');
+    else link.removeAttribute('aria-current');
+    const faltam = noticiasDaAba(id).filter((n) => !estaLida(n.id)).length;
+    const marcador = link.querySelector('.pendentes');
+    marcador.hidden = faltam === 0;
+    marcador.textContent = faltam;
+    marcador.setAttribute('aria-label', `${faltam} não lidas`);
+  }
+  const salvosLink = $('#botao-salvos');
+  if (aba === 'salvos') salvosLink.setAttribute('aria-current', 'page');
+  else salvosLink.removeAttribute('aria-current');
+  const qtdSalvos = listarSalvos().length;
+  $('#contador-salvos').hidden = qtdSalvos === 0;
+  $('#contador-salvos').textContent = qtdSalvos;
+
+  atualizarCabecalho();
+  window.scrollTo(0, manterRolagem ? rolagem : 0);
+}
+
+function atualizarCabecalho() {
+  const aviso = $('#atualizado');
+  aviso.classList.remove('alerta');
+  if (estado.carregando && !estado.noticias) { aviso.textContent = 'Carregando…'; return; }
+  if (!estado.noticias) { aviso.textContent = navigator.onLine ? 'Sem dados no momento' : 'Sem internet'; aviso.classList.add('alerta'); return; }
+  const gerado = estado.noticias.geradoEm;
+  const horas = (Date.now() - new Date(gerado)) / 3600000;
+  // Recente: "às 20:00 (há 17 min)". Mais antigo: "hoje às 08:00", "ontem às 21:35", "12/11 às 09:00".
+  const rotulo = horas < 6 ? `às ${hora(gerado)} (${quando(gerado)})` : quando(gerado);
+  let texto = `Atualizado ${rotulo}`;
+  if (!navigator.onLine) texto = `Sem internet · notícias atualizadas ${rotulo}`;
+  else if (horas > HORAS_PARA_AVISO_DESATUALIZADO) texto += ' · pode estar desatualizado';
+  if (!navigator.onLine || horas > HORAS_PARA_AVISO_DESATUALIZADO) aviso.classList.add('alerta');
+  if (estado.erro && navigator.onLine) { texto += ' · falha ao atualizar agora'; aviso.classList.add('alerta'); }
+  aviso.textContent = texto;
+}
+
+// ---------------------------------------------------------------------------
+// Dados
+// ---------------------------------------------------------------------------
+async function baixar(caminho) {
+  const r = await fetch(caminho, { cache: 'no-cache' });
+  if (!r.ok) throw new Error(`${caminho}: HTTP ${r.status}`);
+  return r.json();
+}
+
+let glossarioCarregado = false;
+async function carregarDados() {
+  estado.carregando = true;
+  const botao = $('#botao-atualizar');
+  botao.classList.add('girando');
+  botao.setAttribute('aria-busy', 'true');
+  atualizarCabecalho();
+  try {
+    const [noticias, indicadores, glossario] = await Promise.all([
+      baixar('data/noticias.json'),
+      baixar('data/indicadores.json').catch(() => null),
+      glossarioCarregado ? null : baixar('glossario.json').catch(() => null),
+    ]);
+    if (glossario) { carregarGlossario(glossario.termos); glossarioCarregado = true; }
+    estado.noticias = noticias;
+    estado.indicadores = indicadores ?? estado.indicadores;
+    estado.erro = null;
+  } catch (e) {
+    console.warn('Falha ao carregar dados:', e);
+    estado.erro = e;
+  } finally {
+    estado.carregando = false;
+    botao.classList.remove('girando');
+    botao.removeAttribute('aria-busy');
+    renderizar({ manterRolagem: true });
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Explicador de termos (folha que sobe de baixo)
+// ---------------------------------------------------------------------------
+const dialogo = $('#dialogo-termo');
+function abrirTermo(id) {
+  const t = buscarTermo(id);
+  if (!t) return;
+  $('#termo-titulo').textContent = t.termo;
+  $('#termo-explicacao').textContent = t.explicacao;
+  $('#termo-importa').textContent = t.porQueImporta;
+  dialogo.showModal();
+}
+$('#fechar-termo').addEventListener('click', () => dialogo.close());
+dialogo.addEventListener('click', (e) => { if (e.target === dialogo) dialogo.close(); }); // toque fora fecha
+
+// ---------------------------------------------------------------------------
+// Cliques (um ouvinte só para todos os cartões)
+// ---------------------------------------------------------------------------
+conteudo.addEventListener('click', (e) => {
+  const alvo = e.target.closest('[data-acao]');
+  if (!alvo) return;
+  const acao = alvo.dataset.acao;
+  const id = alvo.closest('[data-id]')?.dataset.id;
+
+  if (acao === 'termo') { abrirTermo(alvo.dataset.termo); return; }
+  if (acao === 'tentar') { carregarDados(); return; }
+  if (!id) return;
+
+  if (acao === 'abrir') {
+    // Abrir a fonte conta como lida (o link segue normalmente numa nova aba)
+    if (!estaLida(id)) { marcarLida(id); setTimeout(() => renderizar({ manterRolagem: true }), 0); }
+    return;
+  }
+  if (acao === 'lida') marcarLida(id, !estaLida(id));
+  if (acao === 'salvar') {
+    const noticia = acharNoticia(id);
+    if (noticia) alternarSalva(noticia);
+  }
+  renderizar({ manterRolagem: true });
+});
+
+$('#botao-atualizar').addEventListener('click', () => carregarDados());
+window.addEventListener('hashchange', () => {
+  const aba = abaAtual();
+  if (ABAS[aba]) lembrarAba(aba);
+  renderizar();
+});
+window.addEventListener('online', () => carregarDados());
+window.addEventListener('offline', () => atualizarCabecalho());
+// Ao voltar para o app depois de um tempo, atualiza o "há X min" e busca dados novos
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible' && estado.noticias) {
+    const minutos = (Date.now() - new Date(estado.noticias.geradoEm)) / 60000;
+    if (minutos > 30) carregarDados(); else atualizarCabecalho();
+  }
+});
+
+renderizar();
+carregarDados();

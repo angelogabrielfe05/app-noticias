@@ -5,39 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>NEWs</title>
   <meta name="description" content="Política, Economia, Mercado e IA — só o que importa, de fontes brasileiras e oficiais.">
+  <meta name="color-scheme" content="light dark">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="topo">
-    <h1>NEWs</h1>
-    <p class="subtitulo">Só o essencial de hoje</p>
+    <div class="topo-linha">
+      <h1 class="marca">NEWs</h1>
+      <div class="topo-acoes">
+        <button type="button" class="botao-icone" id="botao-atualizar" aria-label="Atualizar notícias" title="Atualizar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.34 5.66M20 4v7h-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </button>
+        <a href="#salvos" class="botao-icone" id="botao-salvos" aria-label="Notícias salvas" title="Salvos">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>
+          <span class="contador" id="contador-salvos" hidden></span>
+        </a>
+      </div>
+    </div>
+    <p class="atualizado" id="atualizado" aria-live="polite">Carregando…</p>
   </header>
 
-  <main id="conteudo">
-    <section class="aba" id="aba-politica" data-aba="politica">
-      <h2>Política do Brasil</h2>
-      <p class="vazio">Em construção.</p>
-    </section>
-    <section class="aba" id="aba-economia" data-aba="economia" hidden>
-      <h2>Economia</h2>
-      <p class="vazio">Em construção.</p>
-    </section>
-    <section class="aba" id="aba-mercado" data-aba="mercado" hidden>
-      <h2>Mercado e bolsa</h2>
-      <p class="vazio">Em construção.</p>
-    </section>
-    <section class="aba" id="aba-ia" data-aba="ia" hidden>
-      <h2>Inteligência artificial</h2>
-      <p class="vazio">Em construção.</p>
-    </section>
+  <main id="conteudo" tabindex="-1">
+    <!-- Preenchido pelo app.js -->
   </main>
 
   <nav class="abas" aria-label="Abas">
-    <button type="button" data-aba="politica" aria-current="page">Política</button>
-    <button type="button" data-aba="economia">Economia</button>
-    <button type="button" data-aba="mercado">Mercado</button>
-    <button type="button" data-aba="ia">IA</button>
+    <a href="#politica" data-aba="politica">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 21h18M5 21V10m4 11V10m6 11V10m4 11V10M2 10h20L12 3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+      <span>Política</span><span class="pendentes" hidden></span>
+    </a>
+    <a href="#economia" data-aba="economia">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10m6 10V4m6 16v-7m4 7H2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>Economia</span><span class="pendentes" hidden></span>
+    </a>
+    <a href="#mercado" data-aba="mercado">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8m0 0h-5m5 0v5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <span>Mercado</span><span class="pendentes" hidden></span>
+    </a>
+    <a href="#ia" data-aba="ia">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8zM19 16l.8 2.2L22 19l-2.2.8L19 22l-.8-2.2L16 19l2.2-.8z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      <span>IA</span><span class="pendentes" hidden></span>
+    </a>
   </nav>
+
+  <dialog id="dialogo-termo" class="folha" aria-labelledby="termo-titulo">
+    <div class="folha-conteudo">
+      <div class="folha-topo">
+        <h2 id="termo-titulo"></h2>
+        <button type="button" class="botao-icone" id="fechar-termo" aria-label="Fechar">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <p id="termo-explicacao"></p>
+      <h3>Por que importa</h3>
+      <p id="termo-importa"></p>
+    </div>
+  </dialog>
 
   <script src="app.js" type="module"></script>
 </body>

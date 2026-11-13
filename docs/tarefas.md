@@ -28,14 +28,14 @@
 - [x] 3.4 Juntar a coleta de notícias e de indicadores num único comando (`npm run coletar`)
 
 ## 4.0 Telas do app
-- [ ] 4.1 Navegação entre as 4 abas (barra embaixo, fácil de alcançar com o polegar)
-- [ ] 4.2 Cartão de notícia: título, fonte, selo "oficial", data/hora, resumo e botão "Abrir fonte"
-- [ ] 4.3 Painel de números no topo de Economia e Mercado, com a data de cada número
-- [ ] 4.4 Marcar como lida (cartão apagado) e aviso "Você está em dia" na aba
-- [ ] 4.5 Salvar para depois e a tela "Salvos"
-- [ ] 4.6 Escrever o glossário com cerca de 40 termos (`app/glossario.json`) e conferir com você
-- [ ] 4.7 Destacar os termos nas notícias e abrir a explicação ao tocar
-- [ ] 4.8 Mostrar "Atualizado às HH:MM" e mensagens para quando não houver notícia ou faltar internet
+- [x] 4.1 Navegação entre as 4 abas (barra embaixo, fácil de alcançar com o polegar)
+- [x] 4.2 Cartão de notícia: título, fonte, selo "oficial", data/hora, resumo e botão "Abrir fonte"
+- [x] 4.3 Painel de números no topo de Economia e Mercado, com a data de cada número
+- [x] 4.4 Marcar como lida (cartão apagado) e aviso "Você está em dia" na aba
+- [x] 4.5 Salvar para depois e a tela "Salvos"
+- [x] 4.6 Escrever o glossário com cerca de 40 termos (`app/glossario.json`) e conferir com você
+- [x] 4.7 Destacar os termos nas notícias e abrir a explicação ao tocar
+- [x] 4.8 Mostrar "Atualizado às HH:MM" e mensagens para quando não houver notícia ou faltar internet
 
 ## 5.0 Visual e instalação
 - [ ] 5.1 Cores e tipografia legíveis, com claro/escuro automático
