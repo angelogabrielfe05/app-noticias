@@ -1,0 +1,463 @@
+{
+  "geradoEm": "2026-11-13T13:41:25.030Z",
+  "abas": {
+    "politica": {
+      "nome": "Política do Brasil",
+      "janelaHoras": 48,
+      "itens": [
+        {
+          "id": "55ea0272c1a5",
+          "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
+          "resumo": "O Supremo Tribunal Federal (STF) confirmou, nesta quinta-feira (12), a validade da decisão que homologou um acordo para encerrar os processos judiciais sobre perdas financeiras de poupadores provocadas por planos econômicos das décadas de 1980 e 1990. O plenário rejeitou três recursos apresentados por entidades sem…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T00:35:00.000Z",
+          "tambemEm": [],
+          "pontos": 24
+        },
+        {
+          "id": "4dfffd6fb36b",
+          "titulo": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS",
+          "resumo": "O Congresso Nacional aprovou, nesta quinta-feira (12), projeto de lei (PL) que reestrutura as carreiras, com previsão de reajustes, de servidores da Receita Federal, do Instituto Nacional do Seguro Social (INSS), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Instituto Chico Mendes…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T16:18:00.000Z",
+          "tambemEm": [
+            "Agência Senado"
+          ],
+          "pontos": 24
+        },
+        {
+          "id": "ac298efed420",
+          "titulo": "Congresso aprova créditos orçamentários de R$ 152,4 bilhões no Orçamento de 2026",
+          "resumo": "Deputados e senadores aprovaram 26 projetos que abrem crédito extra no Orçamento deste ano",
+          "link": "https://www.camara.leg.br/noticias/1318963-congresso-aprova-creditos-orcamentarios-de-r-1524-bilhoes-no-orcamento-de-2026",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T17:00:00.000Z",
+          "tambemEm": [],
+          "pontos": 16
+        }
+      ]
+    },
+    "economia": {
+      "nome": "Economia",
+      "janelaHoras": 48,
+      "itens": [
+        {
+          "id": "b886bb6d3fa4",
+          "titulo": "INPC, inflação que corrige salários, acumula 4,49% em 12 meses",
+          "resumo": "O Índice Nacional de Preços ao Consumidor (INPC) fechou o mês de outubro em 0,22%. Com isso, o acumulado de 12 meses chega a 4,49%. Em setembro, a inflação de um ano estava em 4,29%. Os dados foram divulgados nesta quinta-feira (12) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas:…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inpc-inflacao-que-corrige-salarios-acumula-449-em-12-meses",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T13:11:00.000Z",
+          "tambemEm": [
+            "IBGE",
+            "Money Times",
+            "Valor Investe"
+          ],
+          "pontos": 32
+        },
+        {
+          "id": "5076674725c2",
+          "titulo": "Dólar dispara 1,58% e fecha a R$ 5,65, maior nível em 17 meses",
+          "resumo": "Em meio a turbulências nos cenários doméstico e internacional, o dólar disparou frente ao real e fechou acima de R$ 5,65 nesta quinta-feira (12), no maior patamar desde junho de 2025. A moeda foi impulsionada pela insatisfação dos investidores com o pacote fiscal anunciado pelo governo e pelo fortalecimento da divisa…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T22:35:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "pontos": 30
+        },
+        {
+          "id": "ffc4cd9885bd",
+          "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado",
+          "resumo": "O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Executivo. Ainda restam quatro…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T00:35:36.000Z",
+          "tambemEm": [
+            "InfoMoney",
+            "Money Times"
+          ],
+          "pontos": 28
+        },
+        {
+          "id": "f5c22dad7bdd",
+          "titulo": "Ministro do Planejamento anuncia novas medidas de ajuste fiscal para 2027",
+          "resumo": "Segundo Moretti, a ideia é reforçar o cenário de estabilização da dívida pública",
+          "link": "https://www.camara.leg.br/noticias/1318603-ministro-do-planejamento-anuncia-novas-medidas-de-ajuste-fiscal-para-2027",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-11T21:28:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "pontos": 28
+        },
+        {
+          "id": "134ddbb03d83",
+          "titulo": "A DeRE e a transposição do balancete para a apuração do IBS e da CBS",
+          "resumo": "Nesta semana, tive a oportunidade de palestrar no XXVIII Congresso Internacional de Direito Tributário da Associação Brasileira de Direito Tributário (ABRADT) em uma mesa na qual se discutiram vários aspectos controvertidos da reforma tributária do consumo. Um dos desafios operacionais mais imediatos da reforma…",
+          "link": "https://valorinveste.globo.com/blogs/alexandre-evaristo-pinto/coluna/a-dere-e-a-transposicao-do-balancete-para-a-apuracao-do-ibs-e-da-cbs.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T10:22:17.000Z",
+          "tambemEm": [],
+          "pontos": 21
+        }
+      ]
+    },
+    "mercado": {
+      "nome": "Mercado e bolsa",
+      "janelaHoras": 48,
+      "itens": [
+        {
+          "id": "12118bdfb36d",
+          "titulo": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
+          "resumo": "Pressionado pelo aumento da inadimplência, principalmente do agronegócio, o Banco do Brasil (BB) registrou lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre de 2026, queda de 66,5% em relação ao mesmo período do ano passado. Com esse cenário, a instituição reduziu pela metade a projeção de lucro para o…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T01:20:00.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times",
+            "InfoMoney"
+          ],
+          "pontos": 32
+        },
+        {
+          "id": "4939e59cdd98",
+          "titulo": "Ibovespa B3 cai 0,43%, pressionado por incerteza fiscal; dólar sobe a R$ 5,65",
+          "resumo": "Outro tema acompanhado de perto pelo mercado hoje foi a divulgação do IPCA de outubro, cujo resultado ficou abaixo das previsões dos analistas",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-043-pressionado-por-incerteza-fiscal-dolar-sobe-a-r-565/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T21:49:22.000Z",
+          "tambemEm": [],
+          "pontos": 28
+        },
+        {
+          "id": "77b4b035e234",
+          "titulo": "Como os FIIs podem reagir à pausa no ciclo de cortes da Selic",
+          "resumo": "Para fundos de papel, cenário é positivo para investidores que buscam renda, segundo especialista do Clube FII",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/como-os-fiis-podem-reagir-a-pausa-no-ciclo-de-cortes-da-selic/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T15:41:39.000Z",
+          "tambemEm": [],
+          "pontos": 27
+        },
+        {
+          "id": "31d501a3a03a",
+          "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos",
+          "resumo": "Gestor explica por que XP Malls vai \"normalizar\" rendimentos após 29 meses de distribuições acima da geração recorrente The post FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T09:05:00.000Z",
+          "tambemEm": [],
+          "pontos": 24
+        },
+        {
+          "id": "ba78b785e919",
+          "titulo": "Lucro da B3 (B3SA3) fica dentro do esperado no 3º tri, a R$ 1,4 bi",
+          "resumo": "A operadora da bolsa de valores de São Paulo, B3 (B3SA3), divulgou nesta quinta-feira resultado de terceiro trimestre em linha com expectativas de analistas, com avanço na receita líquida e no desempenho operacional. Em termos recorrentes, o lucro líquido foi de R$ 1,4 bilhão de julho a setembro, alta de 9,9% sobre um…",
+          "link": "https://www.moneytimes.com.br/lucro-da-b3-b3sa3-fica-dentro-do-esperado-no-3o-tri-a-r-14-bi/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-12T23:09:00.000Z",
+          "tambemEm": [],
+          "pontos": 22
+        }
+      ]
+    },
+    "ia": {
+      "nome": "Inteligência artificial",
+      "janelaHoras": 48,
+      "itens": [
+        {
+          "id": "4bad5afe01a1",
+          "titulo": "Introducing Gemini 4 Hydrogen",
+          "resumo": "",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "fonte": "Google DeepMind",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-12T18:00:50.000Z",
+          "tambemEm": [
+            "Google (blog oficial)",
+            "Tecnoblog"
+          ],
+          "pontos": 27
+        },
+        {
+          "id": "50f48f4b6e64",
+          "titulo": "Entenda o que assinantes perdem com o fim do Gemini Pro no Google AI Plus",
+          "resumo": "O Google vai retirar o acesso aos modelos Pro do plano Google AI Plus , sua assinatura paga mais barata para o Gemini. Com a mudan&ccedil;a, os assinantes n&atilde;o poder&atilde;o mais escolher as vers&otilde;es avan&ccedil;adas da intelig&ecirc;ncia artificial no aplicativo do Gemini e no Modo IA da Busca. O plano…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/entenda-o-que-assinantes-perdem-com-o-fim-do-gemini-pro-no-google-ai-plus/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T13:00:00.000Z",
+          "tambemEm": [],
+          "pontos": 24
+        },
+        {
+          "id": "5931abb3758a",
+          "titulo": "ByteDance prepara agente de IA para competir com Meta, OpenAI e Anthropic",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaFhlSDNrMV9uVUtFQzlJSEMxYmZXX1pCYTJFNUptZ0Nwdnk4OF9zZ0ZJQVgwNzQta3paNVBGd3JRdDRGS3dOUXo2S2I0cFdXNElHYjNCc0NNV0VjRzQ3QWtGSTBNQlo1bjFBZjRfTUhBSTlNRW44cjhFMXh5di1WWWhIdnFUWWJnaGdoX0w3dTF4bnFSUWc1ekprYWJTLXAxM0NrLWFkd0NkdlZrSmpVTnczNUctUU1oWEwwSWVOWVJKRVJKNXZHM2d1LTQzU1lNWURUTVdxa3E?oc=5",
+          "fonte": "Estadão",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-12T19:16:16.000Z",
+          "tambemEm": [],
+          "pontos": 22
+        },
+        {
+          "id": "e7843bb87e4e",
+          "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnZiX1NQMVBRMW1IcjF3cU02V2dJanU3T2Y1TGVZYVQ3VXozQ0xwbGdmeEw5WnFDRGwtM3VGVUxEMnFHY2RsSlJrdXI4ckdXTnR5ajYyUTdEUkhUb1BYcDB5Y3N6WFBtc3NRVUFuMHY3VFB2MVkyQnV1cm5RTHQ3ZjVVQ3ZWY3hVMEN1VzU1M25UbkVrZUhZc1pFZlhJaVFZdnI1dlYyNVIzU0U4dU16TUwzMDlQUk5SdlotQTVNV2o4TlNUWUxZX1ZQQzcwVm55YXBUTVYzb3lTRFU?oc=5",
+          "fonte": "Estadão",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-12T18:30:44.000Z",
+          "tambemEm": [],
+          "pontos": 22
+        },
+        {
+          "id": "529ba5c49861",
+          "titulo": "OpenAI vai aposentar vozes clássicas e Modo Avançado do ChatGPT",
+          "resumo": "A OpenAI vai descontinuar o Modo Avan&ccedil;ado de Voz ( Advanced Voice ) e a Voz Padr&atilde;o ( Standard Voice ) do ChatGPT em 11 de dezembro de 2026. A mudan&ccedil;a marca o fim das vers&otilde;es antigas do recurso de &aacute;udio e a ado&ccedil;&atilde;o definitiva do GPT-Live, modelo de voz mais recente da…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/openai-vai-aposentar-vozes-classicas-e-modo-avancado-do-chatgpt/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-12T15:06:00.000Z",
+          "tambemEm": [],
+          "pontos": 22
+        }
+      ]
+    }
+  },
+  "fontes": [
+    {
+      "id": "agencia-gov",
+      "nome": "Agência Gov",
+      "ok": true,
+      "itens": 15,
+      "erro": null
+    },
+    {
+      "id": "camara",
+      "nome": "Agência Câmara",
+      "ok": true,
+      "itens": 20,
+      "erro": null
+    },
+    {
+      "id": "camara-politica",
+      "nome": "Agência Câmara",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "camara-economia",
+      "nome": "Agência Câmara",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "senado",
+      "nome": "Agência Senado",
+      "ok": true,
+      "itens": 15,
+      "erro": null
+    },
+    {
+      "id": "stf",
+      "nome": "STF",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "agencia-brasil-politica",
+      "nome": "Agência Brasil",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "agencia-brasil-justica",
+      "nome": "Agência Brasil",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "agencia-brasil-economia",
+      "nome": "Agência Brasil",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "bcb",
+      "nome": "Banco Central",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "bcb-copom",
+      "nome": "Banco Central",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "ibge",
+      "nome": "IBGE",
+      "ok": true,
+      "itens": 20,
+      "erro": null
+    },
+    {
+      "id": "receita",
+      "nome": "Receita Federal",
+      "ok": true,
+      "itens": 30,
+      "erro": null
+    },
+    {
+      "id": "b3",
+      "nome": "B3 Bora Investir",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "infomoney",
+      "nome": "InfoMoney",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "moneytimes",
+      "nome": "Money Times",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "valor-investe",
+      "nome": "Valor Investe",
+      "ok": true,
+      "itens": 100,
+      "erro": null
+    },
+    {
+      "id": "exame-invest",
+      "nome": "Exame Invest",
+      "ok": true,
+      "itens": 25,
+      "erro": null
+    },
+    {
+      "id": "seudinheiro",
+      "nome": "Seu Dinheiro",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "tecnoblog-ia",
+      "nome": "Tecnoblog",
+      "ok": true,
+      "itens": 50,
+      "erro": null
+    },
+    {
+      "id": "olhar-digital-ia",
+      "nome": "Olhar Digital",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "canaltech",
+      "nome": "Canaltech",
+      "ok": true,
+      "itens": 50,
+      "erro": null
+    },
+    {
+      "id": "infomoney-ia",
+      "nome": "InfoMoney",
+      "ok": true,
+      "itens": 10,
+      "erro": null
+    },
+    {
+      "id": "openai",
+      "nome": "OpenAI (blog oficial)",
+      "ok": true,
+      "itens": 1385,
+      "erro": null
+    },
+    {
+      "id": "google-ai",
+      "nome": "Google (blog oficial)",
+      "ok": true,
+      "itens": 20,
+      "erro": null
+    },
+    {
+      "id": "deepmind",
+      "nome": "Google DeepMind",
+      "ok": true,
+      "itens": 100,
+      "erro": null
+    },
+    {
+      "id": "anthropic",
+      "nome": "Anthropic (site oficial)",
+      "ok": true,
+      "itens": 100,
+      "erro": null
+    },
+    {
+      "id": "google-news-claude",
+      "nome": "{veiculo}",
+      "ok": true,
+      "itens": 49,
+      "erro": null
+    }
+  ]
+}

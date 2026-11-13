@@ -10,5 +10,8 @@
   "scripts": {
     "dev": "npx --yes http-server app -p 5173 -c-1",
     "coletar": "node scripts/coletar.js"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.12.0"
   }
 }

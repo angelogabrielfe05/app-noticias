@@ -1,0 +1,322 @@
+{
+  "_leia": "Fontes de notícias do NEWs. 'abas' diz para quais abas a fonte pode contribuir. 'filtrar: false' quer dizer que o feed já é só do tema (não precisa de palavra-chave para entrar). 'categoria': oficial (órgão público, B3), empresa (blog oficial de empresa de IA) ou imprensa. Em 'url', {ano} e {mes} são trocados pelo ano e pelo mês atuais (ex.: 2026/novembro). Testadas em 13/11/2026. tipo googlenews: busca do Google Notícias; nome {veiculo} mostra o veículo real de cada notícia. 'veiculos': em buscas do Google Notícias, só entram notícias desses veículos.",
+  "fontes": [
+    { "id": "agencia-gov",
+      "nome": "Agência Gov",
+      "url": "https://agenciagov.ebc.com.br/rss.xml",
+      "categoria": "oficial",
+      "abas": [
+        "politica",
+        "economia",
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "camara",
+      "nome": "Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias",
+      "categoria": "oficial",
+      "abas": [
+        "politica",
+        "economia",
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "camara-politica",
+      "nome": "Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/rss/dinamico/POLITICA",
+      "categoria": "oficial",
+      "abas": [
+        "politica"
+      ],
+      "filtrar": true
+    },
+    { "id": "camara-economia",
+      "nome": "Agência Câmara",
+      "url": "https://www.camara.leg.br/noticias/rss/dinamico/ECONOMIA",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": true
+    },
+    { "id": "senado",
+      "nome": "Agência Senado",
+      "url": "https://www12.senado.leg.br/noticias/rss",
+      "categoria": "oficial",
+      "abas": [
+        "politica",
+        "economia",
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "stf",
+      "nome": "STF",
+      "url": "https://noticias.stf.jus.br/feed/",
+      "categoria": "oficial",
+      "abas": [
+        "politica"
+      ],
+      "filtrar": true
+    },
+    { "id": "agencia-brasil-politica",
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/rss/politica/feed.xml",
+      "categoria": "oficial",
+      "abas": [
+        "politica"
+      ],
+      "filtrar": true
+    },
+    { "id": "agencia-brasil-justica",
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
+      "categoria": "oficial",
+      "abas": [
+        "politica"
+      ],
+      "filtrar": true
+    },
+    { "id": "agencia-brasil-economia",
+      "nome": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",
+      "categoria": "oficial",
+      "abas": [
+        "economia",
+        "mercado"
+      ],
+      "filtrar": true
+    },
+    { "id": "bcb",
+      "nome": "Banco Central",
+      "url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": true
+    },
+    { "id": "bcb-copom",
+      "nome": "Banco Central",
+      "url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": false
+    },
+    { "id": "ibge",
+      "nome": "IBGE",
+      "url": "https://servicodados.ibge.gov.br/api/v3/noticias/?tipo=release&qtd=20",
+      "tipo": "ibge",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": true
+    },
+    { "id": "receita",
+      "nome": "Receita Federal",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/{ano}/{mes}/RSS",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": true
+    },
+    { "id": "b3",
+      "nome": "B3 Bora Investir",
+      "url": "https://borainvestir.b3.com.br/feed/",
+      "categoria": "oficial",
+      "abas": [
+        "mercado"
+      ],
+      "filtrar": true
+    },
+    { "id": "infomoney",
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "mercado",
+        "economia",
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "moneytimes",
+      "nome": "Money Times",
+      "url": "https://www.moneytimes.com.br/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "mercado",
+        "economia"
+      ],
+      "filtrar": true
+    },
+    { "id": "valor-investe",
+      "nome": "Valor Investe",
+      "url": "https://valorinveste.globo.com/rss/valorinveste/",
+      "categoria": "imprensa",
+      "abas": [
+        "mercado",
+        "economia",
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "exame-invest",
+      "nome": "Exame Invest",
+      "url": "https://exame.com/invest/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "mercado"
+      ],
+      "filtrar": true
+    },
+    { "id": "seudinheiro",
+      "nome": "Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "mercado"
+      ],
+      "filtrar": true
+    },
+    { "id": "tecnoblog-ia",
+      "nome": "Tecnoblog",
+      "url": "https://tecnoblog.net/tema/inteligencia-artificial/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "olhar-digital-ia",
+      "nome": "Olhar Digital",
+      "url": "https://olhardigital.com.br/tag/inteligencia-artificial/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "canaltech",
+      "nome": "Canaltech",
+      "url": "https://canaltech.com.br/rss/",
+      "categoria": "imprensa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": true
+    },
+    { "id": "infomoney-ia",
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/tudo-sobre/inteligencia-artificial/feed/",
+      "categoria": "imprensa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "openai",
+      "nome": "OpenAI (blog oficial)",
+      "url": "https://openai.com/news/rss.xml",
+      "categoria": "empresa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "google-ai",
+      "nome": "Google (blog oficial)",
+      "url": "https://blog.google/technology/ai/rss/",
+      "categoria": "empresa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "deepmind",
+      "nome": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "categoria": "empresa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "anthropic",
+      "nome": "Anthropic (site oficial)",
+      "url": "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en",
+      "tipo": "googlenews",
+      "categoria": "empresa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": false
+    },
+    { "id": "google-news-claude",
+      "nome": "{veiculo}",
+      "url": "https://news.google.com/rss/search?q=Anthropic+OR+%22Claude+AI%22+OR+%22Claude+da+Anthropic%22+when:3d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "tipo": "googlenews",
+      "categoria": "imprensa",
+      "abas": [
+        "ia"
+      ],
+      "filtrar": true,
+      "veiculos": [
+        "Estadão",
+        "Folha de S.Paulo",
+        "Folha",
+        "O Globo",
+        "O GLOBO",
+        "g1",
+        "G1",
+        "Valor Econômico",
+        "Valor Investe",
+        "Exame",
+        "InfoMoney",
+        "UOL",
+        "UOL Economia",
+        "CNN Brasil",
+        "Poder360",
+        "Veja",
+        "VEJA",
+        "Época Negócios",
+        "NeoFeed",
+        "Bloomberg Línea",
+        "Bloomberg Línea Brasil",
+        "Reuters",
+        "BBC",
+        "BBC News Brasil",
+        "Forbes Brasil",
+        "MIT Technology Review Brasil",
+        "Tecnoblog",
+        "Olhar Digital",
+        "Canaltech",
+        "TecMundo",
+        "StartSe",
+        "Agência Brasil",
+        "Money Times",
+        "Seu Dinheiro",
+        "E-Investidor",
+        "Estadão E-Investidor",
+        "IT Forum",
+        "Computerworld",
+        "Mobile Time",
+        "Convergência Digital",
+        "The Shift",
+        "Correio Braziliense",
+        "Terra",
+        "Metrópoles",
+        "Estado de Minas",
+        "Gazeta do Povo",
+        "Investing.com Brasil",
+        "InfoMoney"
+      ]
+    }
+  ]
+}

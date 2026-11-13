@@ -11,15 +11,15 @@
 - [x] 1.5 Criar o repositório público no GitHub e enviar o primeiro commit
 
 ## 2.0 Fontes e coleta de notícias
-- [ ] 2.1 Levantar e testar os feeds RSS da aba Política (Planalto/Gov.br, Agência Câmara, Agência Senado, STF, Agência Brasil)
-- [ ] 2.2 Levantar e testar os feeds da aba Economia (BCB, IBGE, Tesouro, Fazenda, Receita, Agência Brasil)
-- [ ] 2.3 Levantar e testar os feeds da aba Mercado (B3, CVM, Tesouro Direto, veículos de finanças)
-- [ ] 2.4 Levantar e testar os feeds da aba IA (veículos BR de tecnologia, ANPD/MCTI, blogs oficiais das empresas)
-- [ ] 2.5 Registrar as fontes aprovadas em `scripts/fontes.json` (URL, aba, se é oficial ou não)
-- [ ] 2.6 Script que baixa e lê todos os feeds, sem quebrar se uma fonte estiver fora do ar
-- [ ] 2.7 Filtro por palavras-chave de cada aba e por data (últimas 24 a 48h)
-- [ ] 2.8 Remoção de repetidas e pontuação (prioridade para fontes oficiais), ficando com as 5 melhores por aba
-- [ ] 2.9 Gravar `app/data/noticias.json` e conferir o resultado com você (as notícias fazem sentido?)
+- [x] 2.1 Levantar e testar os feeds RSS da aba Política (Planalto/Gov.br, Agência Câmara, Agência Senado, STF, Agência Brasil)
+- [x] 2.2 Levantar e testar os feeds da aba Economia (BCB, IBGE, Tesouro, Fazenda, Receita, Agência Brasil)
+- [x] 2.3 Levantar e testar os feeds da aba Mercado (B3, CVM, Tesouro Direto, veículos de finanças)
+- [x] 2.4 Levantar e testar os feeds da aba IA (veículos BR de tecnologia, ANPD/MCTI, blogs oficiais das empresas)
+- [x] 2.5 Registrar as fontes aprovadas em `scripts/fontes.json` (URL, aba, se é oficial ou não)
+- [x] 2.6 Script que baixa e lê todos os feeds, sem quebrar se uma fonte estiver fora do ar
+- [x] 2.7 Filtro por palavras-chave de cada aba e por data (últimas 24 a 48h)
+- [x] 2.8 Remoção de repetidas e pontuação (prioridade para fontes oficiais), ficando com as 5 melhores por aba
+- [x] 2.9 Gravar `app/data/noticias.json` e conferir o resultado com você (as notícias fazem sentido?)
 
 ## 3.0 Painel de números
 - [ ] 3.1 Buscar no Banco Central (SGS): Selic, IPCA 12 meses, dólar PTAX, PIB trimestral e CDI
@@ -45,7 +45,7 @@
 - [ ] 5.5 Testar a instalação (o navegador oferece "Adicionar à tela inicial")
 
 ## 6.0 Robô de atualização
-- [ ] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente)
+- [ ] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente). Antes, o Angelo roda `gh auth refresh -s workflow` para dar a permissão de enviar workflows
 - [ ] 6.2 Fazer o robô rodar `npm run coletar` e salvar os JSON novos com um commit automático
 - [ ] 6.3 Rodar manualmente no GitHub e conferir que os dados foram atualizados
 - [ ] 6.4 Conferir as primeiras execuções automáticas

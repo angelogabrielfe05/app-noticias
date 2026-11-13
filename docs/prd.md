@@ -15,17 +15,19 @@ Uso pessoal do Angelo, principalmente no celular, alguns minutos por dia.
 
 ### 3.1 Quatro abas
 
-| Aba | Cobre | Fontes preferidas (a confirmar na construção) |
+| Aba | Cobre | Fontes (testadas em 13/11/2026, lista completa em `scripts/fontes.json`) |
 |---|---|---|
-| **Política do Brasil** | O que o presidente e o governo fazem, decretos, votações na Câmara e no Senado, leis sancionadas, decisões do STF que mudam regras | Planalto/Gov.br, Agência Câmara de Notícias, Agência Senado, Portal do STF, Agência Brasil |
-| **Economia** | Selic/Copom, inflação, PIB, câmbio, impostos, contas do governo | Banco Central, Agência IBGE de Notícias, Tesouro Nacional, Ministério da Fazenda, Receita Federal, Agência Brasil |
-| **Mercado e bolsa** | Ibovespa, resultados de empresas, dividendos, renda fixa, FIIs, cenário internacional | B3, CVM, Tesouro Direto, além de veículos brasileiros de finanças reconhecidos |
-| **Inteligência artificial** | Lançamentos, uso prático, regulação, mercado | Fontes brasileiras de tecnologia, órgãos oficiais (ANPD, MCTI, Senado no caso do marco legal da IA) e blogs oficiais das empresas de IA, que podem estar em inglês |
+| **Política do Brasil** | O que o presidente e o governo fazem, decretos, votações na Câmara e no Senado, leis sancionadas, decisões do STF que mudam regras | Agência Gov (substitui o Planalto, que não tem feed atualizado), Agência Câmara, Agência Senado, STF, Agência Brasil |
+| **Economia** | Selic/Copom, inflação, PIB, câmbio, impostos, contas do governo | Banco Central (notícias e Copom), IBGE (releases), Receita Federal, Agência Brasil, Agência Câmara/Senado; veículos de finanças com prioridade menor. Fazenda e Tesouro não têm feed público |
+| **Mercado e bolsa** | Ibovespa, resultados de empresas, dividendos, renda fixa, FIIs, cenário internacional | B3 Bora Investir (oficial), InfoMoney, Money Times, Valor Investe, Exame Invest, Seu Dinheiro. CVM e Tesouro Direto sem feed atualizado |
+| **Inteligência artificial** | Lançamentos, uso prático, regulação, mercado | Tecnoblog, Olhar Digital, Canaltech, InfoMoney; blogs oficiais (OpenAI, Google, DeepMind, Anthropic via Google Notícias); cobertura brasileira sobre Claude/Anthropic via Google Notícias, só de veículos confiáveis; regulação via Câmara, Senado e Agência Gov. **Garante pelo menos 1 notícia sobre o Claude** quando houver |
 
 ### 3.2 "Só o importante"
-- **No máximo 5 notícias por aba**, das últimas 24 a 48 horas.
+- **No máximo 5 notícias por aba**, das últimas 48 horas (96 horas se vierem menos de 3, para cobrir fins de semana). Em dia fraco, a aba mostra menos de 5: só entra o que passa de uma nota mínima.
+- A mesma história aparece **uma vez só**, numa única aba, com a indicação das outras fontes que também noticiaram.
 - Seleção **automática e gratuita**: o app lê as fontes, filtra pelas palavras-chave de cada tema, dá prioridade às fontes oficiais e remove notícias repetidas (a mesma notícia publicada em dois lugares aparece uma vez só).
-- Cada notícia mostra: **título, fonte, data/hora e o resumo publicado pela própria fonte**.
+- Cada notícia mostra: **título, fonte, data/hora e o resumo publicado pela própria fonte** (as notícias vindas do Google Notícias não têm resumo).
+- Pesos e palavras-chave ficam em `scripts/temas.json`, para ajustar com o uso.
 - As notícias **se atualizam sozinhas algumas vezes ao dia**, mesmo com o app fechado. Quando você abre o app, tudo já está pronto.
 
 ### 3.3 Painel de números (abas Economia e Mercado)
