@@ -1,0 +1,11 @@
+# Dependências instaladas pelo npm (recriadas com "npm install")
+node_modules/
+
+# Arquivos temporários e de sistema
+*.log
+.DS_Store
+Thumbs.db
+.env
+
+# Registros dos testes no navegador
+.playwright-mcp/

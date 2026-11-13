@@ -1,0 +1,4 @@
+# Quebras de linha padronizadas (LF) entre Windows e o robô do GitHub
+* text=auto eol=lf
+*.png binary
+*.ico binary

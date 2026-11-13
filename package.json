@@ -1,0 +1,14 @@
+{
+  "name": "app-noticias",
+  "version": "0.1.0",
+  "description": "App pessoal de notícias: Política, Economia, Mercado e IA — só o que importa.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "npx --yes http-server app -p 5173 -c-1",
+    "coletar": "node scripts/coletar.js"
+  }
+}
