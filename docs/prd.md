@@ -31,10 +31,10 @@ Uso pessoal do Angelo, principalmente no celular, alguns minutos por dia.
 - As notícias **se atualizam sozinhas algumas vezes ao dia**, mesmo com o app fechado. Quando você abre o app, tudo já está pronto.
 
 ### 3.3 Painel de números (abas Economia e Mercado)
-- **Economia:** Selic, IPCA acumulado em 12 meses, dólar (PTAX) e PIB do último trimestre.
-- **Mercado:** Ibovespa, CDI, IFIX e um índice internacional (ex.: S&P 500).
+- **Economia:** Selic, IPCA acumulado em 12 meses, dólar (PTAX) e PIB do último trimestre (variação contra o trimestre anterior). Fontes: Banco Central (SGS) e IBGE (SIDRA), oficiais.
+- **Mercado:** Ibovespa, CDI, IFIX e S&P 500. Fontes: B3 (oficial) para Ibovespa e IFIX, com o Yahoo Finance de reserva; Banco Central para o CDI; Yahoo Finance (não oficial) para o S&P 500.
 - Dados de fontes públicas e gratuitas (ex.: Banco Central). Se algum número não tiver uma fonte gratuita e confiável, ele sai do painel e a mudança fica registrada aqui.
-- Cada número mostra a data da última atualização.
+- Cada número mostra a data de referência e a variação em relação ao valor anterior. Se a fonte falhar, o painel mantém o último valor salvo, marcado como desatualizado.
 
 ### 3.4 Recursos de leitura e evolução
 - **Abrir a fonte original:** um botão em cada notícia abre o site de onde ela veio.

@@ -22,10 +22,10 @@
 - [x] 2.9 Gravar `app/data/noticias.json` e conferir o resultado com você (as notícias fazem sentido?)
 
 ## 3.0 Painel de números
-- [ ] 3.1 Buscar no Banco Central (SGS): Selic, IPCA 12 meses, dólar PTAX, PIB trimestral e CDI
-- [ ] 3.2 Testar fontes grátis para Ibovespa, IFIX e S&P 500 e escolher a mais confiável (ou tirar do painel e registrar no PRD)
-- [ ] 3.3 Gravar `app/data/indicadores.json` com valor, data e fonte de cada número
-- [ ] 3.4 Juntar a coleta de notícias e de indicadores num único comando (`npm run coletar`)
+- [x] 3.1 Buscar no Banco Central (SGS): Selic, IPCA 12 meses, dólar PTAX, PIB trimestral e CDI
+- [x] 3.2 Testar fontes grátis para Ibovespa, IFIX e S&P 500 e escolher a mais confiável (ou tirar do painel e registrar no PRD)
+- [x] 3.3 Gravar `app/data/indicadores.json` com valor, data e fonte de cada número
+- [x] 3.4 Juntar a coleta de notícias e de indicadores num único comando (`npm run coletar`)
 
 ## 4.0 Telas do app
 - [ ] 4.1 Navegação entre as 4 abas (barra embaixo, fácil de alcançar com o polegar)

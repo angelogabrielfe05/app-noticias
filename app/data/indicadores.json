@@ -1,0 +1,145 @@
+{
+  "geradoEm": "2026-11-13T23:00:52.214Z",
+  "paineis": {
+    "economia": [
+      {
+        "id": "selic",
+        "nome": "Selic",
+        "unidade": "% a.a.",
+        "formato": "percentual",
+        "variacao": "pontos",
+        "valor": 13.75,
+        "data": "2026-09-17",
+        "referencia": "desde 17/09/2026",
+        "anterior": {
+          "valor": 14,
+          "data": "2026-09-16"
+        },
+        "fonte": "Banco Central",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "ipca12m",
+        "nome": "IPCA 12 meses",
+        "unidade": "%",
+        "formato": "percentual",
+        "variacao": "pontos",
+        "valor": 4.63,
+        "data": "2026-10-01",
+        "referencia": "out/2026",
+        "anterior": {
+          "data": "2026-09-01",
+          "valor": 4.58
+        },
+        "fonte": "Banco Central",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "dolar",
+        "nome": "Dólar (PTAX)",
+        "unidade": "R$",
+        "formato": "moeda",
+        "variacao": "percentual",
+        "valor": 5.6518,
+        "data": "2026-11-13",
+        "referencia": "13/11/2026",
+        "anterior": {
+          "data": "2026-11-12",
+          "valor": 5.6143
+        },
+        "fonte": "Banco Central",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "pib",
+        "nome": "PIB no trimestre",
+        "unidade": "%",
+        "formato": "percentual",
+        "variacao": "pontos",
+        "valor": 0.5,
+        "data": "2026-06-01",
+        "referencia": "2º tri 2026",
+        "anterior": {
+          "valor": 1.1,
+          "referencia": "1º tri 2026"
+        },
+        "fonte": "IBGE",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      }
+    ],
+    "mercado": [
+      {
+        "id": "ibovespa",
+        "nome": "Ibovespa",
+        "unidade": "pts",
+        "formato": "pontos",
+        "variacao": "percentual",
+        "valor": 172457.76,
+        "data": "2026-11-13",
+        "referencia": "13/11/2026",
+        "anterior": {
+          "data": "2026-11-12",
+          "valor": 171324.31
+        },
+        "fonte": "B3",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "cdi",
+        "nome": "CDI",
+        "unidade": "% a.a.",
+        "formato": "percentual",
+        "variacao": "pontos",
+        "valor": 13.65,
+        "data": "2026-11-12",
+        "referencia": "12/11/2026",
+        "anterior": {
+          "data": "2026-11-11",
+          "valor": 13.65
+        },
+        "fonte": "Banco Central",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "ifix",
+        "nome": "IFIX",
+        "unidade": "pts",
+        "formato": "pontos",
+        "variacao": "percentual",
+        "valor": 3615.23,
+        "data": "2026-11-13",
+        "referencia": "13/11/2026",
+        "anterior": {
+          "data": "2026-11-12",
+          "valor": 3566.57
+        },
+        "fonte": "B3",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      },
+      {
+        "id": "sp500",
+        "nome": "S&P 500",
+        "unidade": "pts",
+        "formato": "pontos",
+        "variacao": "percentual",
+        "valor": 7561.67,
+        "data": "2026-11-13",
+        "referencia": "13/11/2026",
+        "anterior": {
+          "data": "2026-11-12",
+          "valor": 7592.4
+        },
+        "fonte": "Yahoo Finance",
+        "atualizadoEm": "2026-11-13T23:00:52.214Z",
+        "desatualizado": false
+      }
+    ]
+  }
+}
