@@ -38,11 +38,11 @@
 - [x] 4.8 Mostrar "Atualizado às HH:MM" e mensagens para quando não houver notícia ou faltar internet
 
 ## 5.0 Visual e instalação
-- [ ] 5.1 Cores e tipografia legíveis, com claro/escuro automático
-- [ ] 5.2 Ajuste fino em tela de celular (360 px) e no computador
-- [ ] 5.3 Ícone do app e `manifest.json` (nome, cores, instalação)
-- [ ] 5.4 Service worker: abrir sem internet com as últimas notícias baixadas
-- [ ] 5.5 Testar a instalação (o navegador oferece "Adicionar à tela inicial")
+- [x] 5.1 Cores e tipografia legíveis, com claro/escuro automático
+- [x] 5.2 Ajuste fino em tela de celular (360 px) e no computador
+- [x] 5.3 Ícone do app e `manifest.json` (nome, cores, instalação)
+- [x] 5.4 Service worker: abrir sem internet com as últimas notícias baixadas
+- [x] 5.5 Testar a instalação (o navegador oferece "Adicionar à tela inicial")
 
 ## 6.0 Robô de atualização
 - [ ] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente). Antes, o Angelo roda `gh auth refresh -s workflow` para dar a permissão de enviar workflows

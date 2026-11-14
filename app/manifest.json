@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "NEWs — só o que importa",
+  "short_name": "NEWs",
+  "description": "Política, Economia, Mercado e IA: só o que importa, de fontes brasileiras e oficiais.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f5f1",
+  "theme_color": "#f6f5f1",
+  "categories": ["news", "finance", "education"],
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icones/icone-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icones/icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Economia", "url": "./#economia", "icons": [{ "src": "icones/icone-192.png", "sizes": "192x192" }] },
+    { "name": "Mercado", "url": "./#mercado", "icons": [{ "src": "icones/icone-192.png", "sizes": "192x192" }] },
+    { "name": "Salvos", "url": "./#salvos", "icons": [{ "src": "icones/icone-192.png", "sizes": "192x192" }] }
+  ]
+}

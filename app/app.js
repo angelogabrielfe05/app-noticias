@@ -323,3 +323,10 @@ document.addEventListener('visibilitychange', () => {
 
 renderizar();
 carregarDados();
+
+// Leitura sem internet e instalação na tela inicial (ver sw.js)
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js').catch((e) => console.warn('Service worker não registrado:', e));
+  });
+}

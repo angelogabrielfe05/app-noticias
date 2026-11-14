@@ -22,3 +22,8 @@ App pessoal do Angelo (estudante de Medicina, não é desenvolvedor) para acompa
 - Explicar sem jargão. Recomendar uma opção (no máximo uma alternativa). Tudo gratuito, salvo aprovação explícita.
 - Escopo é sagrado: ideia nova vai para `docs/ideias-futuras.md`.
 - Sempre em português do Brasil.
+
+## Cuidados técnicos
+- `app/sw.js` (service worker): ao adicionar ou renomear arquivos fixos do app, atualize `ARQUIVOS_APP` e aumente `VERSAO`. As partes fixas usam stale-while-revalidate (mudanças aparecem na 2ª abertura); `data/*.json` usa network-first.
+- Ícones: os SVGs em `app/icones/` são a fonte; os PNGs foram gerados a partir deles (192, 512, maskable, apple-touch-icon, favicon-32).
+- Tela montada só com `createElement`/`textContent`: nunca usar `innerHTML` com dados dos feeds.
