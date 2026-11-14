@@ -3,7 +3,7 @@
 //   renova a cópia em segundo plano ("stale-while-revalidate"). Atualizações aparecem na próxima abertura.
 // - Dados (notícias e números): tenta a internet primeiro; sem conexão, usa a última cópia ("network-first").
 // Ao mudar a lista de arquivos fixos, aumente VERSAO para limpar o cache antigo.
-const VERSAO = 'v1';
+const VERSAO = 'v2';
 const CACHE_APP = `news-app-${VERSAO}`;
 const CACHE_DADOS = 'news-dados';
 
@@ -21,6 +21,9 @@ const ARQUIVOS_APP = [
   'icones/favicon-32.png',
   'icones/icone-192.png',
   'icones/apple-touch-icon.png',
+  'fontes/newsreader.woff2',
+  'fontes/newsreader-italico.woff2',
+  'fontes/inter.woff2',
 ];
 const ARQUIVOS_DADOS = ['data/noticias.json', 'data/indicadores.json'];
 

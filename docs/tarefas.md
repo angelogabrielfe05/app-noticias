@@ -43,9 +43,10 @@
 - [x] 5.3 Ícone do app e `manifest.json` (nome, cores, instalação)
 - [x] 5.4 Service worker: abrir sem internet com as últimas notícias baixadas
 - [x] 5.5 Testar a instalação (o navegador oferece "Adicionar à tela inicial")
+- [x] 5.6 Redesenho "Revista elegante" (pedido do Angelo em 14/11): fontes Newsreader + Inter, cor por aba, manchete + notícias numeradas, painel em estilo tabela de jornal
 
 ## 6.0 Robô de atualização
 - [x] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente). Antes, o Angelo roda `gh auth refresh -s workflow` para dar a permissão de enviar workflows
 - [x] 6.2 Fazer o robô rodar `npm run coletar` e salvar os JSON novos com um commit automático
-- [ ] 6.3 Rodar manualmente no GitHub e conferir que os dados foram atualizados
+- [x] 6.3 Rodar manualmente no GitHub e conferir que os dados foram atualizados
 - [ ] 6.4 Conferir as primeiras execuções automáticas

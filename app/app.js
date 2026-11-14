@@ -14,6 +14,7 @@ const ABAS = {
 const HORAS_PARA_AVISO_DESATUALIZADO = 12;
 // Verde/vermelho só onde "subir" é claramente bom (bolsa e PIB). Juros, inflação e dólar ficam neutros.
 const COLORIR_VARIACAO = new Set(['ibovespa', 'ifix', 'sp500', 'pib']);
+const dataDeHoje = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', weekday: 'long', day: 'numeric', month: 'long' });
 
 const estado = { noticias: null, indicadores: null, carregando: true, erro: null };
 const $ = (sel) => document.querySelector(sel);
@@ -67,21 +68,28 @@ const acharNoticia = (id) => {
 // ---------------------------------------------------------------------------
 // Cartão de notícia
 // ---------------------------------------------------------------------------
-function cartaoNoticia(n, { emSalvos = false } = {}) {
+function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
   const lida = estaLida(n.id);
   const salva = estaSalva(n.id);
   const usados = new Set();
   const link = linkSeguro(n.link);
+  // A 1ª notícia de cada aba é a manchete; as outras ganham número (02, 03...)
+  const manchete = !emSalvos && posicao === 0;
 
-  return el('article', { class: `cartao${lida && !emSalvos ? ' lida' : ''}`, 'data-id': n.id },
+  const semNumero = emSalvos || manchete;
+  return el('article', { class: `cartao${manchete ? ' manchete' : ''}${semNumero ? ' sem-numero' : ''}${lida && !emSalvos ? ' lida' : ''}`, 'data-id': n.id, 'data-aba-cor': n.aba },
+    !emSalvos && !manchete ? el('span', { class: 'cartao-numero', 'aria-hidden': 'true' }, String(posicao + 1).padStart(2, '0')) : null,
+    el('div', { class: 'cartao-corpo' },
+    manchete ? el('p', { class: 'chapeu' }, 'Destaque') : null,
+    emSalvos && ABAS[n.aba] ? el('p', { class: 'chapeu' }, ABAS[n.aba].nome) : null,
     el('p', { class: 'cartao-meta' },
       el('span', { class: 'fonte' }, n.fonte),
       n.oficial ? el('span', { class: 'selo-oficial', title: 'Fonte oficial (órgão público ou B3)' }, 'Oficial') : null,
       el('time', { datetime: n.data, title: dataCompleta(n.data) }, quando(n.data)),
     ),
-    el('h3', { class: 'cartao-titulo' }, textoComTermos(n.titulo, usados)),
+    el('h3', { class: 'cartao-titulo' }, lida && !emSalvos ? el('span', { class: 'marca-lida', 'aria-label': 'Lida' }, '✓ ') : null, textoComTermos(n.titulo, usados)),
     n.resumo ? el('p', { class: 'cartao-resumo' }, textoComTermos(n.resumo, usados)) : null,
-    n.tambemEm?.length ? el('p', { class: 'tambem-em' }, `Também em: ${n.tambemEm.join(', ')}`) : null,
+    n.tambemEm?.length ? el('p', { class: 'tambem-em' }, `Também em ${n.tambemEm.join(', ')}`) : null,
     emSalvos && n.salvoEm ? el('p', { class: 'tambem-em' }, `Salva ${quando(new Date(n.salvoEm).toISOString())}`) : null,
     el('div', { class: 'cartao-acoes' },
       link
@@ -94,6 +102,7 @@ function cartaoNoticia(n, { emSalvos = false } = {}) {
       el('button', { type: 'button', class: 'botao', 'data-acao': 'salvar', 'aria-pressed': String(salva) },
         emSalvos ? 'Remover' : salva ? '★ Salva' : '☆ Salvar'),
     ),
+    ), // fim de .cartao-corpo
   );
 }
 
@@ -104,7 +113,8 @@ function painelIndicadores(painelId) {
   const lista = estado.indicadores?.paineis?.[painelId];
   if (!lista?.length) return null;
   return el('section', { class: 'painel', 'aria-label': 'Números do dia' },
-    lista.map((ind) => {
+    el('p', { class: 'painel-titulo' }, 'Números do dia'),
+    el('div', { class: 'painel-grade' }, lista.map((ind) => {
       const variacao = variacaoIndicador(ind);
       const anteriorTexto = ind.anterior
         ? `Anterior: ${valorIndicador({ ...ind, valor: ind.anterior.valor })}${ind.anterior.referencia ? ` (${ind.anterior.referencia})` : ''}`
@@ -121,7 +131,7 @@ function painelIndicadores(painelId) {
         el('p', { class: 'indicador-ref' }, [ind.referencia, ind.fonte].filter(Boolean).join(' · ')),
         ind.desatualizado ? el('p', { class: 'indicador-aviso' }, 'Não atualizado na última coleta') : null,
       );
-    }),
+    })),
   );
 }
 
@@ -134,19 +144,26 @@ function telaAba(aba) {
   const lidas = itens.filter((n) => estaLida(n.id)).length;
   const emDia = itens.length > 0 && lidas === itens.length;
 
+  const porcentagem = itens.length ? Math.round((lidas / itens.length) * 100) : 0;
   return [
     el('div', { class: 'aba-topo' },
+      el('p', { class: 'chapeu' }, itens.length ? `As ${itens.length} que importam hoje` : 'Hoje'),
       el('h2', {}, cfg.nome),
-      itens.length ? el('p', { class: 'progresso' }, `${lidas} de ${itens.length} lidas`) : null,
+      itens.length
+        ? el('div', { class: 'progresso' },
+          el('span', { class: 'progresso-texto' }, `${lidas} de ${itens.length} lidas`),
+          el('span', { class: 'progresso-barra', role: 'progressbar', 'aria-valuemin': '0', 'aria-valuemax': String(itens.length), 'aria-valuenow': String(lidas), 'aria-label': 'Notícias lidas' },
+            el('span', { class: 'progresso-preenchido', style: `width: ${porcentagem}%` })))
+        : null,
     ),
     cfg.painel ? painelIndicadores(cfg.painel) : null,
     emDia
       ? el('div', { class: 'em-dia', role: 'status' },
-        el('strong', {}, '✓ Você está em dia'),
-        el('span', {}, ` com ${cfg.nome}. Novas notícias chegam nas próximas horas.`))
+        el('p', { class: 'em-dia-titulo' }, 'Você está em dia.'),
+        el('p', {}, `Leu tudo o que importa em ${cfg.nome} hoje. Novas notícias chegam nas próximas horas.`))
       : null,
     itens.length
-      ? el('div', { class: 'lista' }, itens.map((n) => cartaoNoticia({ ...n, aba })))
+      ? el('div', { class: 'lista' }, itens.map((n, posicao) => cartaoNoticia({ ...n, aba }, { posicao })))
       : el('div', { class: 'vazio' },
         el('p', {}, 'Nenhuma notícia importante nas últimas 48 horas.'),
         el('p', {}, 'Quando sair algo relevante, aparece aqui.')),
@@ -157,8 +174,9 @@ function telaSalvos() {
   const salvos = listarSalvos();
   return [
     el('div', { class: 'aba-topo' },
+      el('p', { class: 'chapeu' }, 'Para ler com calma'),
       el('h2', {}, 'Salvos'),
-      salvos.length ? el('p', { class: 'progresso' }, `${salvos.length} ${salvos.length === 1 ? 'notícia' : 'notícias'}`) : null,
+      salvos.length ? el('p', { class: 'progresso-texto' }, `${salvos.length} ${salvos.length === 1 ? 'notícia guardada' : 'notícias guardadas'}`) : null,
     ),
     salvos.length
       ? el('div', { class: 'lista' }, salvos.map((n) => cartaoNoticia(n, { emSalvos: true })))
@@ -187,6 +205,8 @@ function renderizar({ manterRolagem = false } = {}) {
   else if (!estado.noticias) filhos = [telaErro()];
   else filhos = telaAba(aba);
   conteudo.replaceChildren(...filhos.filter(Boolean));
+  document.body.dataset.aba = aba; // define a cor da aba no CSS
+  $('#data-hoje').textContent = dataDeHoje.format(new Date());
 
   // Barra de abas: aba ativa e quantas faltam ler
   for (const link of document.querySelectorAll('.abas a')) {
