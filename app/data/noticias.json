@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-14T20:13:12.414Z",
+  "geradoEm": "2026-11-14T22:22:58.540Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -52,22 +52,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
-        },
-        {
-          "id": "b0344f472589",
-          "titulo": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
-          "resumo": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei, de autoria do Executivo, que abre crédito suplementar de R$ 34,9 milhões para o Serviço Federal de Processamento de Dados (Serpro). A verba, proveniente de recursos próprios do Serpro, deve ser destinada ao Datacenter Modular de São Paulo — centro…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T21:44:50.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -75,24 +59,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "5076674725c2",
-          "titulo": "Dólar dispara 1,58% e fecha a R$ 5,65, maior nível em 17 meses",
-          "resumo": "Em meio a turbulências nos cenários doméstico e internacional, o dólar disparou frente ao real e fechou acima de R$ 5,65 nesta quinta-feira (12), no maior patamar desde junho de 2025. A moeda foi impulsionada pela insatisfação dos investidores com o pacote fiscal anunciado pelo governo e pelo fortalecimento da divisa…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T22:35:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
         {
           "id": "ffc4cd9885bd",
           "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado",
@@ -156,6 +122,19 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
+        },
+        {
+          "id": "e2f3ded3e3d6",
+          "titulo": "PIB cresceu em 25 das 27 unidades da federação em 2024",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNXJSVjNFVGREa0RaUXE5NGxOUk1UN1AtRE0tY0pfTzNvSHRqSzhhZ25WYUNTNzNtWWlPNENKdmxmMGdmOG9LbE9oNk0zTVRZZ19TN25SS01fR3BNZW16WlFpVWlxc0NBY3VrUXBna2tuTDc2czBYZ3pFOHhyd2pEQUFIUUdCN21FQTFEaGItVWcwS0l0anB3VW9XU3NubVRxZEJZTVY3UnMtQnQxRnBjSTI1M29IN3NnSGJVaWJmQTIyaS1HNVJlVE5ZWXlLckI2bFdMdzRucUQxUVdhNUszTDJXUQ?oc=5",
+          "fonte": "IBGE",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T13:00:00.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 18
         }
       ]
     },
@@ -164,14 +143,14 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "4939e59cdd98",
-          "titulo": "Ibovespa B3 cai 0,43%, pressionado por incerteza fiscal; dólar sobe a R$ 5,65",
-          "resumo": "Outro tema acompanhado de perto pelo mercado hoje foi a divulgação do IPCA de outubro, cujo resultado ficou abaixo das previsões dos analistas",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-043-pressionado-por-incerteza-fiscal-dolar-sobe-a-r-565/",
+          "id": "a83537a9e444",
+          "titulo": "Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável",
+          "resumo": "Índice termina a semana no azul, enquanto investidores também acompanham novos dados de inflação nos Estados Unidos e os desdobramentos na Nvidia",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-066-apos-aprovacao-de-pacote-fiscal-dolar-fica-praticamente-estavel/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-12T21:49:22.000Z",
+          "data": "2026-11-13T21:42:20.000Z",
           "tambemEm": [
             "Agência Brasil",
             "Money Times",
@@ -180,29 +159,10 @@
             "Exame Invest"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F09%2F25174621%2Fibovespa-b3-cede-027-e-fecha-semana-com-baixa-de-quase-1-dolar-cai-a-r-518.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F09%2F25174621%2Fibovespa-b3-cede-027-e-fecha-semana-com-baixa-de-quase-1-dolar-cai-a-r-518.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
-        },
-        {
-          "id": "e6b0b2462138",
-          "titulo": "Nubank (ROXO34) tem lucro de US$ 1 bilhão no 3º trimestre, alta de 31%",
-          "resumo": "O Nubank (ROXO34) registrou lucro líquido de US$ 1 bilhão no terceiro trimestre, alta de 31% na comparação com mesmo período do ano passado, desconsiderando a variação cambial. O resultado veio em linha com a projeção dos analistas ouvidos pelo Valor, que era de US$ 1,1 bilhão. A rentabilidade (ROE anualizado) foi de…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/12/nubank-roxo34-tem-lucro-de-us-1-bilhao-no-3o-trimestre-alta-de-31percent.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-12T22:01:03.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FC1T5qPS2FGnKGRZMzcxPD-5d-Ys%3D%2F2048x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fh%2FL%2FOG8QOnTH6QLVwNJk5PVw%2Fcopy-of-nbk02872.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FC1T5qPS2FGnKGRZMzcxPD-5d-Ys%3D%2F2048x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fh%2FL%2FOG8QOnTH6QLVwNJk5PVw%2Fcopy-of-nbk02872.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 31
         },
         {
           "id": "58287f804fd5",
@@ -253,6 +213,22 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FXJaiUaohKRjUe3gDHOmJDJseTO4%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fg%2FN%2FcF4ykrQcSq3jOttvTRfQ%2Ffinancial-6806364-1280.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 21
+        },
+        {
+          "id": "31d501a3a03a",
+          "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos",
+          "resumo": "Gestor explica por que XP Malls vai \"normalizar\" rendimentos após 29 meses de distribuições acima da geração recorrente The post FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T09:05:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2FFelipe-Teatini-gestor-do-XP-Malls-XPML11-Imagem_-divulgacao.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2FFelipe-Teatini-gestor-do-XP-Malls-XPML11-Imagem_-divulgacao.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         }
       ]
     },
@@ -305,6 +281,21 @@
           "pontos": 22
         },
         {
+          "id": "64155a393bcd",
+          "titulo": "Claude caiu? IA da Anthropic instável nesta sexta-feira (13)",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFNiTW96VHlXRHRpWWpTbGdMRml1aUVYSXJxV1BBeE9JdGFrd1FXTkpEMmt1UWQ0QXBwcW9PTnprZU1wQmRYUl82T0hSQTlFdGl3SzBuMmNfRXRGNkJISkp4dTRzQlNIM0xWWGJKc2t6ZzVsR1dOdVVtVGU2VjYyUDBMeHVLbTZuWFFnVFlJMlZ5WVJZT2pGTXNXOTRvMW5na2JQVVI2QTJkMkhTZW5qUXFHcWdzVGxQZ0HSAb8BQVVfeXFMTzc1dXFpRHhoU05PWFYtRmdTQ1oxNzBOckliV1hrZ3lpcGVUdUVVUHNPS0lMTHVPZ2ZvMDExQ1FnUmZhM1JwVDhveVVSMkc1dkhBa2sxZDR1bzBIMnVOakNZRVVhckZEQUhrZm1UaUI0OUNhUHFsRTBtQnB2Qk1CM2NKdGJwcFp1OG5CbC1fQmFKZ3NXMzNxeGNUZlZyNnEwM041VU83Z0pJTGwtZzhSbWZVZWlJMWVSTkRTb2xWamc?oc=5",
+          "fonte": "Estadão",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T14:21:44.000Z",
+          "tambemEm": [
+            "Exame"
+          ],
+          "foto": null,
+          "pontos": 22
+        },
+        {
           "id": "44c69603ddc5",
           "titulo": "Investidores disputam IPO da Anthropic, mas questionam liderança em IA",
           "resumo": "",
@@ -315,20 +306,7 @@
           "data": "2026-11-13T22:19:36.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 22
-        },
-        {
-          "id": "e7843bb87e4e",
-          "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnZiX1NQMVBRMW1IcjF3cU02V2dJanU3T2Y1TGVZYVQ3VXozQ0xwbGdmeEw5WnFDRGwtM3VGVUxEMnFHY2RsSlJrdXI4ckdXTnR5ajYyUTdEUkhUb1BYcDB5Y3N6WFBtc3NRVUFuMHY3VFB2MVkyQnV1cm5RTHQ3ZjVVQ3ZWY3hVMEN1VzU1M25UbkVrZUhZc1pFZlhJaVFZdnI1dlYyNVIzU0U4dU16TUwzMDlQUk5SdlotQTVNV2o4TlNUWUxZX1ZQQzcwVm55YXBUTVYzb3lTRFU?oc=5",
-          "fonte": "Estadão",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T20:29:41.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 22
+          "pontos": 20
         }
       ]
     }
@@ -422,7 +400,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 35,
+      "itens": 32,
       "erro": null
     },
     {
@@ -534,7 +512,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 34,
+      "itens": 33,
       "erro": null
     }
   ]
