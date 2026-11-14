@@ -28,6 +28,7 @@ Uso pessoal do Angelo, principalmente no celular, alguns minutos por dia.
 - Seleção **automática e gratuita**: o app lê as fontes, filtra pelas palavras-chave de cada tema, dá prioridade às fontes oficiais e remove notícias repetidas (a mesma notícia publicada em dois lugares aparece uma vez só).
 - Cada notícia mostra: **título, fonte, data/hora e o resumo publicado pela própria fonte** (as notícias vindas do Google Notícias não têm resumo).
 - Pesos e palavras-chave ficam em `scripts/temas.json`, para ajustar com o uso.
+- **Fotos** (adicionado em 14/11): a manchete de cada aba tem foto grande e as outras notícias, miniatura. A foto é a capa da própria página da notícia (ou do feed), com crédito "Foto: fonte", reduzida para ~30–90 KB. Sem foto, aparece uma capa editorial na cor da aba. As fotos da edição atual ficam guardadas para ler sem internet.
 - As notícias **se atualizam sozinhas algumas vezes ao dia**, mesmo com o app fechado. Quando você abre o app, tudo já está pronto.
 
 ### 3.3 Painel de números (abas Economia e Mercado)

@@ -25,6 +25,7 @@ App pessoal do Angelo (estudante de Medicina, não é desenvolvedor) para acompa
 
 ## Cuidados técnicos
 - `app/sw.js` (service worker): ao adicionar ou renomear arquivos fixos do app, atualize `ARQUIVOS_APP` e aumente `VERSAO`. As partes fixas usam stale-while-revalidate (mudanças aparecem na 2ª abertura); `data/*.json` usa network-first.
+- Fotos: `scripts/lib/imagens.js` (robô) acha a capa e monta os endereços do wsrv.nl; memória em `cache/imagens.json` (7 dias). No app, `midia()` mostra foto ou capa editorial; o service worker guarda as fotos em `news-fotos` e o app apaga as antigas.
 - Ícones: os SVGs em `app/icones/` são a fonte; os PNGs foram gerados a partir deles (192, 512, maskable, apple-touch-icon, favicon-32).
 - Tela montada só com `createElement`/`textContent`: nunca usar `innerHTML` com dados dos feeds.
 - **Dados gerados (`app/data/*.json`, `cache/acervo.json`) são do robô.** Ao testar `npm run coletar` localmente, NÃO commitar esses arquivos: antes do commit, rode `git checkout -- app/data cache` (ou `git pull` antes de testar). Commitar dados locais gera conflito com os commits automáticos do robô.

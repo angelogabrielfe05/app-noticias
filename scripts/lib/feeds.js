@@ -90,7 +90,33 @@ function lerXml(texto) {
     resumo: encurtar(limparTexto(item.description ?? item.summary ?? item.content ?? item['content:encoded'])),
     data: lerData(item.pubDate, item.published, item.updated, item['dc:date']),
     origem: limparTexto(item.source),
+    imagemFeed: imagemDoItem(item),
   }));
+}
+
+/**
+ * Foto que vem dentro do próprio feed (plano B: a foto de capa da página é preferida).
+ * Procura em media:content, media:thumbnail, enclosure e na 1ª <img> do texto.
+ */
+function imagemDoItem(item) {
+  const lista = (v) => (Array.isArray(v) ? v : v ? [v] : []);
+  const candidatos = [
+    ...lista(item['media:content']).filter((m) => !m['@_medium'] || m['@_medium'] === 'image').map((m) => m['@_url']),
+    ...lista(item['media:group']).flatMap((g) => lista(g['media:content']).map((m) => m['@_url'])),
+    ...lista(item['media:thumbnail']).map((m) => m['@_url']),
+    ...lista(item.enclosure).filter((e) => String(e['@_type'] || '').startsWith('image')).map((e) => e['@_url']),
+  ];
+  for (const campo of [item['content:encoded'], item.description, item.content]) {
+    const html = typeof campo === 'object' ? campo?.['#text'] : campo;
+    const src = String(html || '').match(/<img[^>]+src=["']([^"']+)["']/i)?.[1];
+    if (src) candidatos.push(src);
+  }
+  return candidatos.find((u) => typeof u === 'string' && /^https:\/\//i.test(u) && !pareceLogo(u)) || null;
+}
+
+/** Logotipos, ícones e imagens-padrão não servem como foto da notícia. */
+export function pareceLogo(url) {
+  return /logo|icon|favicon|sprite|placeholder|avatar|default[-_.]|blank\.|pixel|\.svg(\?|$)|\.gif(\?|$)/i.test(url);
 }
 
 function lerIbge(texto) {

@@ -8,11 +8,13 @@ import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { lerTodas, veiculoAceito } from './lib/feeds.js';
 import { prepararTemas, classificar, montarAbas } from './lib/selecao.js';
+import { adicionarFotos } from './lib/imagens.js';
 
 const RAIZ = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ARQ_FONTES = path.join(RAIZ, 'scripts', 'fontes.json');
 const ARQ_TEMAS = path.join(RAIZ, 'scripts', 'temas.json');
 const ARQ_ACERVO = path.join(RAIZ, 'cache', 'acervo.json');
+const ARQ_IMAGENS = path.join(RAIZ, 'cache', 'imagens.json');
 const ARQ_SAIDA = path.join(RAIZ, 'app', 'data', 'noticias.json');
 
 const lerJson = (arq, padrao) => (existsSync(arq) ? JSON.parse(readFileSync(arq, 'utf8')) : padrao);
@@ -46,6 +48,9 @@ export async function coletarNoticias({ agora = new Date() } = {}) {
   // 3. Classificar por aba, juntar repetidas e escolher as melhores
   const abas = montarAbas(classificar(acervo, fontesPorId, temas), temas, agora);
 
+  // 3b. Foto de cada notícia escolhida (capa da página ou do feed)
+  await adicionarFotos(Object.values(abas).flatMap((aba) => aba.itens), ARQ_IMAGENS, agora);
+
   // 4. Gravar o arquivo que o app lê
   const saida = {
     geradoEm: agora.toISOString(),
@@ -62,6 +67,7 @@ export async function coletarNoticias({ agora = new Date() } = {}) {
         categoria: i.categoria,
         data: i.data,
         tambemEm: i.tambemEm,
+        foto: i.foto || null,
         pontos: i.pontos,
       })),
     }])),

@@ -50,8 +50,8 @@ export function alternarSalva(noticia) {
   if (estaSalva(noticia.id)) {
     salvos = salvos.filter((s) => s.id !== noticia.id);
   } else {
-    const { id, titulo, resumo, link, fonte, oficial, data, tambemEm, aba } = noticia;
-    salvos.push({ id, titulo, resumo, link, fonte, oficial, data, tambemEm, aba, salvoEm: Date.now() });
+    const { id, titulo, resumo, link, fonte, oficial, data, tambemEm, aba, foto } = noticia;
+    salvos.push({ id, titulo, resumo, link, fonte, oficial, data, tambemEm, aba, foto, salvoEm: Date.now() });
   }
   gravar(CHAVES.salvos, salvos);
   return estaSalva(noticia.id);

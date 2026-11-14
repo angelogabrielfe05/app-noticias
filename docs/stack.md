@@ -24,6 +24,7 @@ Fontes (RSS + API BCB) ──► GitHub Actions (script Node.js, cron 3h)
 | Agendamento | GitHub Actions com `schedule` (cron a cada 3h) e `workflow_dispatch` (rodar manualmente) | Grátis |
 | Código | Repositório **público** no GitHub (conta `angelogabrielfe05`) | Exigência do Pages grátis |
 | Hospedagem | GitHub Pages | Grátis, mesma conta |
+| Fotos | Capa da página da notícia (og:image) achada pelo robô; reduzida pelo wsrv.nl (serviço gratuito e de código aberto) para WebP 800×450 e 192×192 | 5 MB viram ~90 KB; libera CORS para guardar offline |
 | Dados do usuário | `localStorage` (lidas, salvas) | Sem login e sem banco de dados |
 
 ## Custos e contas

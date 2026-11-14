@@ -3,9 +3,10 @@
 //   renova a cópia em segundo plano ("stale-while-revalidate"). Atualizações aparecem na próxima abertura.
 // - Dados (notícias e números): tenta a internet primeiro; sem conexão, usa a última cópia ("network-first").
 // Ao mudar a lista de arquivos fixos, aumente VERSAO para limpar o cache antigo.
-const VERSAO = 'v2';
+const VERSAO = 'v3';
 const CACHE_APP = `news-app-${VERSAO}`;
 const CACHE_DADOS = 'news-dados';
+const CACHE_FOTOS = 'news-fotos'; // fotos reduzidas (wsrv.nl); o app.js apaga as que não são da edição atual
 
 const ARQUIVOS_APP = [
   './',
@@ -79,9 +80,23 @@ async function guardadaERenova(evento, pedido) {
   return nova || Response.error();
 }
 
+/** Fotos: usa a cópia guardada; se não houver, baixa e guarda (para ler sem internet). */
+async function fotoGuardada(pedido) {
+  const cache = await caches.open(CACHE_FOTOS);
+  const guardada = await cache.match(pedido);
+  if (guardada) return guardada;
+  const resposta = await fetch(pedido);
+  if (resposta.ok) await cache.put(pedido, resposta.clone());
+  return resposta;
+}
+
 self.addEventListener('fetch', (evento) => {
   const pedido = evento.request;
   const url = new URL(pedido.url);
+  if (pedido.method === 'GET' && url.hostname === 'wsrv.nl') {
+    evento.respondWith(fotoGuardada(pedido));
+    return;
+  }
   if (pedido.method !== 'GET' || url.origin !== self.location.origin) return; // links externos seguem normais
   if (url.pathname.includes('/data/')) {
     evento.respondWith(primeiroInternet(pedido));

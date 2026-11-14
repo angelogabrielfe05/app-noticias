@@ -44,6 +44,7 @@
 - [x] 5.4 Service worker: abrir sem internet com as últimas notícias baixadas
 - [x] 5.5 Testar a instalação (o navegador oferece "Adicionar à tela inicial")
 - [x] 5.6 Redesenho "Revista elegante" (pedido do Angelo em 14/11): fontes Newsreader + Inter, cor por aba, manchete + notícias numeradas, painel em estilo tabela de jornal
+- [x] 5.7 Fotos (pedido do Angelo em 14/11): foto de capa da página da notícia (og:image) ou do feed, reduzida pelo wsrv.nl; manchete grande + miniaturas; capa editorial na cor da aba quando não há foto; fotos da edição atual guardadas para ler sem internet
 
 ## 6.0 Robô de atualização
 - [x] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente). Antes, o Angelo roda `gh auth refresh -s workflow` para dar a permissão de enviar workflows

@@ -66,6 +66,59 @@ const acharNoticia = (id) => {
 };
 
 // ---------------------------------------------------------------------------
+// Fotos: foto da notícia (reduzida pelo robô) ou, sem foto, uma "capa editorial" na cor da aba
+// ---------------------------------------------------------------------------
+const CACHE_FOTOS = 'news-fotos'; // mesmo nome usado no sw.js
+
+function iconeDaAba(aba) {
+  const svg = document.querySelector(`.abas a[data-aba="${aba}"] svg`);
+  return svg ? svg.cloneNode(true) : null;
+}
+
+function capaEditorial(n, tamanho) {
+  return el('div', { class: `capa capa-${tamanho}`, 'aria-hidden': 'true' },
+    iconeDaAba(n.aba),
+    tamanho === 'grande' ? el('span', { class: 'capa-legenda' }, [ABAS[n.aba]?.nome, n.fonte].filter(Boolean).join(' · ')) : null);
+}
+
+function midia(n, tamanho, prioridade = false) {
+  const url = linkSeguro(n.foto?.[tamanho]);
+  if (!url) return capaEditorial(n, tamanho);
+  const grande = tamanho === 'grande';
+  const img = el('img', {
+    src: url, alt: '', width: grande ? 800 : 192, height: grande ? 450 : 192,
+    loading: prioridade ? 'eager' : 'lazy', fetchpriority: prioridade ? 'high' : null, decoding: 'async',
+    referrerpolicy: 'no-referrer', crossorigin: 'anonymous',
+  });
+  const figura = el('figure', { class: `foto foto-${tamanho}` }, img, grande ? el('figcaption', {}, `Foto: ${n.fonte}`) : null);
+  // Se a foto não carregar (fonte fora do ar, sem internet e sem cópia), mostra a capa editorial
+  img.addEventListener('error', () => figura.replaceWith(capaEditorial(n, tamanho)), { once: true });
+  return figura;
+}
+
+/**
+ * Fotos para ler sem internet: guarda as da edição atual (~1 MB) em segundo plano
+ * e apaga do celular as que não são mais usadas. Respeita o modo "economia de dados".
+ */
+async function sincronizarFotos() {
+  if (!('caches' in window) || !estado.noticias) return;
+  try {
+    const atuais = new Set(Object.values(estado.noticias.abas).flatMap((a) => a.itens)
+      .flatMap((i) => (i.foto ? [i.foto.grande, i.foto.miniatura] : [])).map((u) => new URL(u).href));
+    const cache = await caches.open(CACHE_FOTOS);
+    const guardadas = new Set();
+    for (const pedido of await cache.keys()) {
+      if (atuais.has(pedido.url)) guardadas.add(pedido.url);
+      else await cache.delete(pedido);
+    }
+    if (!navigator.onLine || navigator.connection?.saveData) return;
+    for (const url of atuais) {
+      if (!guardadas.has(url)) await cache.add(new Request(url, { mode: 'cors', referrerPolicy: 'no-referrer' })).catch(() => {});
+    }
+  } catch { /* sem acesso ao cache: ignora */ }
+}
+
+// ---------------------------------------------------------------------------
 // Cartão de notícia
 // ---------------------------------------------------------------------------
 function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
@@ -80,14 +133,20 @@ function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
   return el('article', { class: `cartao${manchete ? ' manchete' : ''}${semNumero ? ' sem-numero' : ''}${lida && !emSalvos ? ' lida' : ''}`, 'data-id': n.id, 'data-aba-cor': n.aba },
     !emSalvos && !manchete ? el('span', { class: 'cartao-numero', 'aria-hidden': 'true' }, String(posicao + 1).padStart(2, '0')) : null,
     el('div', { class: 'cartao-corpo' },
+    manchete ? midia(n, 'grande', true) : null,
     manchete ? el('p', { class: 'chapeu' }, 'Destaque') : null,
     emSalvos && ABAS[n.aba] ? el('p', { class: 'chapeu' }, ABAS[n.aba].nome) : null,
-    el('p', { class: 'cartao-meta' },
-      el('span', { class: 'fonte' }, n.fonte),
-      n.oficial ? el('span', { class: 'selo-oficial', title: 'Fonte oficial (órgão público ou B3)' }, 'Oficial') : null,
-      el('time', { datetime: n.data, title: dataCompleta(n.data) }, quando(n.data)),
+    el('div', { class: 'cabeca' },
+      el('div', { class: 'cabeca-texto' },
+        el('p', { class: 'cartao-meta' },
+          el('span', { class: 'fonte' }, n.fonte),
+          n.oficial ? el('span', { class: 'selo-oficial', title: 'Fonte oficial (órgão público ou B3)' }, 'Oficial') : null,
+          el('time', { datetime: n.data, title: dataCompleta(n.data) }, quando(n.data)),
+        ),
+        el('h3', { class: 'cartao-titulo' }, lida && !emSalvos ? el('span', { class: 'marca-lida', 'aria-label': 'Lida' }, '✓ ') : null, textoComTermos(n.titulo, usados)),
+      ),
+      manchete ? null : midia(n, 'miniatura'),
     ),
-    el('h3', { class: 'cartao-titulo' }, lida && !emSalvos ? el('span', { class: 'marca-lida', 'aria-label': 'Lida' }, '✓ ') : null, textoComTermos(n.titulo, usados)),
     n.resumo ? el('p', { class: 'cartao-resumo' }, textoComTermos(n.resumo, usados)) : null,
     n.tambemEm?.length ? el('p', { class: 'tambem-em' }, `Também em ${n.tambemEm.join(', ')}`) : null,
     emSalvos && n.salvoEm ? el('p', { class: 'tambem-em' }, `Salva ${quando(new Date(n.salvoEm).toISOString())}`) : null,
@@ -273,6 +332,7 @@ async function carregarDados() {
     estado.noticias = noticias;
     estado.indicadores = indicadores ?? estado.indicadores;
     estado.erro = null;
+    sincronizarFotos();
   } catch (e) {
     console.warn('Falha ao carregar dados:', e);
     estado.erro = e;
