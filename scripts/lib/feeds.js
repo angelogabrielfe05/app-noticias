@@ -134,7 +134,8 @@ export async function lerFonte(fonte, agora = new Date()) {
   const erros = [];
   for (const url of expandirUrl(fonte.url, agora)) {
     try {
-      const texto = await baixar(url);
+      // Uma segunda tentativa antes de desistir (falhas de rede passageiras são comuns)
+      const texto = await baixar(url).catch(() => baixar(url));
       let lidos = fonte.tipo === 'ibge' ? lerIbge(texto) : lerXml(texto);
       if (fonte.tipo === 'googlenews') {
         lidos = lidos.map(ajustarGoogleNews);
@@ -142,7 +143,8 @@ export async function lerFonte(fonte, agora = new Date()) {
       }
       itens.push(...lidos);
     } catch (e) {
-      erros.push(`${e.name === 'TimeoutError' ? 'tempo esgotado' : e.message}`);
+      const motivo = e.cause?.code || e.cause?.message;
+      erros.push(`${e.name === 'TimeoutError' ? 'tempo esgotado' : e.message}${motivo ? ` (${motivo})` : ''}`);
     }
   }
   const validos = itens
