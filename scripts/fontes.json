@@ -117,6 +117,17 @@
       ],
       "filtrar": true
     },
+    { "id": "ibge-google",
+      "nome": "IBGE",
+      "url": "https://news.google.com/rss/search?q=site:agenciadenoticias.ibge.gov.br+when:3d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "tipo": "googlenews",
+      "categoria": "oficial",
+      "abas": [
+        "economia"
+      ],
+      "filtrar": true,
+      "_nota": "Reserva: a API do IBGE não responde aos servidores do GitHub (fora do Brasil)."
+    },
     { "id": "receita",
       "nome": "Receita Federal",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/{ano}/{mes}/RSS",
