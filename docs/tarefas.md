@@ -50,4 +50,4 @@
 - [x] 6.1 Criar o workflow do GitHub Actions (a cada 3h e com botão para rodar manualmente). Antes, o Angelo roda `gh auth refresh -s workflow` para dar a permissão de enviar workflows
 - [x] 6.2 Fazer o robô rodar `npm run coletar` e salvar os JSON novos com um commit automático
 - [x] 6.3 Rodar manualmente no GitHub e conferir que os dados foram atualizados
-- [ ] 6.4 Conferir as primeiras execuções automáticas
+- [x] 6.4 Conferir as primeiras execuções automáticas
