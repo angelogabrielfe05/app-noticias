@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-14T16:47:54.050Z",
+  "geradoEm": "2026-11-14T16:49:49.643Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -113,16 +113,16 @@
           "pontos": 24
         },
         {
-          "id": "f3f31eaf8e34",
-          "titulo": "Ibovespa sobe com dados do varejo, balanços e ajuste fiscal; 5 coisas para saber antes de investir hoje (13)",
-          "resumo": "O Ibovespa (IBOV) retornou ao campo positivo nesta sexta-feira (13). O principal índice da B3 registra leve alta, após abrir o dia em queda. O movimento ocorre em meio à divulgação dos dados de vendas no varejo do Brasil, que surpreendeu ao aumentar 0,2% em setembro na comparação com o mês anterior. Além disso, os […]",
-          "link": "https://www.moneytimes.com.br/ibovespa-sobe-com-dados-do-varejo-balancos-e-ajuste-fiscal-5-coisas-para-saber-antes-de-investir-hoje-13-davs/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T13:35:25.000Z",
+          "id": "71adb9253bc4",
+          "titulo": "Montadoras podem reduzir imposto sobre carro zero km com reciclagem de veículos velhos",
+          "resumo": "Nova portaria do Ministério Desenvolvimento, Indústria, Comércio e Serviços, como parte do Programa Mover, quer estimular destinação adequada e facilita a verificação da origem de peças usadas. Veja como aderir",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T19:42:00.000Z",
           "tambemEm": [],
-          "pontos": 20
+          "pontos": 19
         }
       ]
     },
@@ -360,6 +360,13 @@
       "ok": false,
       "itens": 0,
       "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+    },
+    {
+      "id": "ibge-google",
+      "nome": "IBGE",
+      "ok": true,
+      "itens": 36,
+      "erro": null
     },
     {
       "id": "receita",
