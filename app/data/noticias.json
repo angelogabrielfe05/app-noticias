@@ -1,10 +1,22 @@
 {
-  "geradoEm": "2026-11-13T23:00:52.214Z",
+  "geradoEm": "2026-11-14T16:46:40.682Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "706659a6fe37",
+          "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
+          "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-14T00:23:00.000Z",
+          "tambemEm": [],
+          "pontos": 22
+        },
         {
           "id": "55ea0272c1a5",
           "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
@@ -15,20 +27,6 @@
           "categoria": "oficial",
           "data": "2026-11-13T00:35:00.000Z",
           "tambemEm": [],
-          "pontos": 24
-        },
-        {
-          "id": "4dfffd6fb36b",
-          "titulo": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS",
-          "resumo": "O Congresso Nacional aprovou, nesta quinta-feira (12), projeto de lei (PL) que reestrutura as carreiras, com previsão de reajustes, de servidores da Receita Federal, do Instituto Nacional do Seguro Social (INSS), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Instituto Chico Mendes…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T16:18:00.000Z",
-          "tambemEm": [
-            "Agência Senado"
-          ],
           "pontos": 22
         },
         {
@@ -41,7 +39,19 @@
           "categoria": "oficial",
           "data": "2026-11-13T14:47:36.000Z",
           "tambemEm": [],
-          "pontos": 19
+          "pontos": 16
+        },
+        {
+          "id": "b0344f472589",
+          "titulo": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
+          "resumo": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei, de autoria do Executivo, que abre crédito suplementar de R$ 34,9 milhões para o Serviço Federal de Processamento de Dados (Serpro). A verba, proveniente de recursos próprios do Serpro, deve ser destinada ao Datacenter Modular de São Paulo — centro…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T21:44:50.000Z",
+          "tambemEm": [],
+          "pontos": 16
         }
       ]
     },
@@ -50,20 +60,18 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "b886bb6d3fa4",
-          "titulo": "INPC, inflação que corrige salários, acumula 4,49% em 12 meses",
-          "resumo": "O Índice Nacional de Preços ao Consumidor (INPC) fechou o mês de outubro em 0,22%. Com isso, o acumulado de 12 meses chega a 4,49%. Em setembro, a inflação de um ano estava em 4,29%. Os dados foram divulgados nesta quinta-feira (12) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Notícias relacionadas:…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/inpc-inflacao-que-corrige-salarios-acumula-449-em-12-meses",
+          "id": "5076674725c2",
+          "titulo": "Dólar dispara 1,58% e fecha a R$ 5,65, maior nível em 17 meses",
+          "resumo": "Em meio a turbulências nos cenários doméstico e internacional, o dólar disparou frente ao real e fechou acima de R$ 5,65 nesta quinta-feira (12), no maior patamar desde junho de 2025. A moeda foi impulsionada pela insatisfação dos investidores com o pacote fiscal anunciado pelo governo e pelo fortalecimento da divisa…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-12T13:11:00.000Z",
+          "data": "2026-11-12T22:35:00.000Z",
           "tambemEm": [
-            "IBGE",
-            "Money Times",
             "Valor Investe"
           ],
-          "pontos": 32
+          "pontos": 28
         },
         {
           "id": "ffc4cd9885bd",
@@ -75,22 +83,10 @@
           "categoria": "oficial",
           "data": "2026-11-13T00:35:36.000Z",
           "tambemEm": [
-            "InfoMoney",
-            "Money Times"
+            "Money Times",
+            "InfoMoney"
           ],
-          "pontos": 28
-        },
-        {
-          "id": "757cc6f9a0fd",
-          "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
-          "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
-          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
-          "fonte": "Receita Federal",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T14:44:01.000Z",
-          "tambemEm": [],
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "e86009199f76",
@@ -102,19 +98,31 @@
           "categoria": "oficial",
           "data": "2026-11-13T18:44:53.000Z",
           "tambemEm": [],
-          "pontos": 26
+          "pontos": 24
         },
         {
-          "id": "71adb9253bc4",
-          "titulo": "Montadoras podem reduzir imposto sobre carro zero km com reciclagem de veículos velhos",
-          "resumo": "Nova portaria do Ministério Desenvolvimento, Indústria, Comércio e Serviços, como parte do Programa Mover, quer estimular destinação adequada e facilita a verificação da origem de peças usadas. Veja como aderir",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis",
-          "fonte": "Agência Gov",
+          "id": "757cc6f9a0fd",
+          "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
+          "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
+          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
+          "fonte": "Receita Federal",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-13T19:42:00.000Z",
+          "data": "2026-11-13T14:44:01.000Z",
           "tambemEm": [],
-          "pontos": 21
+          "pontos": 24
+        },
+        {
+          "id": "f3f31eaf8e34",
+          "titulo": "Ibovespa sobe com dados do varejo, balanços e ajuste fiscal; 5 coisas para saber antes de investir hoje (13)",
+          "resumo": "O Ibovespa (IBOV) retornou ao campo positivo nesta sexta-feira (13). O principal índice da B3 registra leve alta, após abrir o dia em queda. O movimento ocorre em meio à divulgação dos dados de vendas no varejo do Brasil, que surpreendeu ao aumentar 0,2% em setembro na comparação com o mês anterior. Além disso, os […]",
+          "link": "https://www.moneytimes.com.br/ibovespa-sobe-com-dados-do-varejo-balancos-e-ajuste-fiscal-5-coisas-para-saber-antes-de-investir-hoje-13-davs/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T13:35:25.000Z",
+          "tambemEm": [],
+          "pontos": 20
         }
       ]
     },
@@ -133,39 +141,51 @@
           "data": "2026-11-12T21:49:22.000Z",
           "tambemEm": [
             "Agência Brasil",
+            "Money Times",
             "Valor Investe",
             "Seu Dinheiro",
-            "Exame Invest",
-            "InfoMoney",
-            "Money Times"
+            "Exame Invest"
           ],
           "pontos": 32
         },
         {
-          "id": "12118bdfb36d",
-          "titulo": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
-          "resumo": "Pressionado pelo aumento da inadimplência, principalmente do agronegócio, o Banco do Brasil (BB) registrou lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre de 2026, queda de 66,5% em relação ao mesmo período do ano passado. Com esse cenário, a instituição reduziu pela metade a projeção de lucro para o…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T01:20:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "pontos": 28
+          "id": "58287f804fd5",
+          "titulo": "De calote a briga milionária na Justiça: veja o que movimentou os fundos imobiliários (FIIs) na semana",
+          "resumo": "De calote a briga nos tribunais, a semana foi movimentada no mercado de fundos imobiliários (FIIs), com operações de compra de imóveis, mudanças na carteira de inquilinos e problemas envolvendo contratos de locação. Entre os destaques, o Patria Malls (PMLL11) acertou a venda de sua participação em um shopping center…",
+          "link": "https://www.moneytimes.com.br/de-calote-a-briga-milionaria-na-justica-veja-o-que-movimentou-os-fundos-imobiliarios-fiis-na-semana-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-14T12:30:00.000Z",
+          "tambemEm": [],
+          "pontos": 24
         },
         {
-          "id": "77b4b035e234",
-          "titulo": "Como os FIIs podem reagir à pausa no ciclo de cortes da Selic",
-          "resumo": "Para fundos de papel, cenário é positivo para investidores que buscam renda, segundo especialista do Clube FII",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/como-os-fiis-podem-reagir-a-pausa-no-ciclo-de-cortes-da-selic/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T15:41:39.000Z",
+          "id": "e6b0b2462138",
+          "titulo": "Nubank (ROXO34) tem lucro de US$ 1 bilhão no 3º trimestre, alta de 31%",
+          "resumo": "O Nubank (ROXO34) registrou lucro líquido de US$ 1 bilhão no terceiro trimestre, alta de 31% na comparação com mesmo período do ano passado, desconsiderando a variação cambial. O resultado veio em linha com a projeção dos analistas ouvidos pelo Valor, que era de US$ 1,1 bilhão. A rentabilidade (ROE anualizado) foi de…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/12/nubank-roxo34-tem-lucro-de-us-1-bilhao-no-3o-trimestre-alta-de-31percent.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-12T22:01:03.000Z",
+          "tambemEm": [
+            "Money Times",
+            "InfoMoney"
+          ],
+          "pontos": 24
+        },
+        {
+          "id": "16e0df97fa60",
+          "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
+          "resumo": "Casa de análise libera acesso a estratégia de investimentos para o governo Lula 4; veja como acessar mais de 20 ativos gratuitamente The post Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/economia/lula-e-peca-chave-para-ibovespa-voltar-aos-200-mil-pontos-empiricus-traca-possiveis-cenarios-fiscais-para-o-brasil-e-seus-efeitos-na-bolsa-lbrdml140/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-14T13:00:00.000Z",
           "tambemEm": [],
-          "pontos": 25
+          "pontos": 22
         },
         {
           "id": "221e418e5d41",
@@ -179,19 +199,7 @@
           "tambemEm": [
             "Money Times"
           ],
-          "pontos": 24
-        },
-        {
-          "id": "31d501a3a03a",
-          "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos",
-          "resumo": "Gestor explica por que XP Malls vai \"normalizar\" rendimentos após 29 meses de distribuições acima da geração recorrente The post FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T09:05:00.000Z",
-          "tambemEm": [],
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -199,20 +207,6 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "5bf4951adbe9",
-          "titulo": "Introducing ChatGPT Wallet",
-          "resumo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-13T15:00:00.000Z",
-          "tambemEm": [
-            "Olhar Digital"
-          ],
-          "pontos": 28
-        },
         {
           "id": "4bad5afe01a1",
           "titulo": "Introducing Gemini 4 Hydrogen",
@@ -230,42 +224,54 @@
           "pontos": 27
         },
         {
-          "id": "64155a393bcd",
-          "titulo": "Claude caiu? IA da Anthropic instável nesta sexta-feira (13)",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFNiTW96VHlXRHRpWWpTbGdMRml1aUVYSXJxV1BBeE9JdGFrd1FXTkpEMmt1UWQ0QXBwcW9PTnprZU1wQmRYUl82T0hSQTlFdGl3SzBuMmNfRXRGNkJISkp4dTRzQlNIM0xWWGJKc2t6ZzVsR1dOdVVtVGU2VjYyUDBMeHVLbTZuWFFnVFlJMlZ5WVJZT2pGTXNXOTRvMW5na2JQVVI2QTJkMkhTZW5qUXFHcWdzVGxQZ0HSAb8BQVVfeXFMTzc1dXFpRHhoU05PWFYtRmdTQ1oxNzBOckliV1hrZ3lpcGVUdUVVUHNPS0lMTHVPZ2ZvMDExQ1FnUmZhM1JwVDhveVVSMkc1dkhBa2sxZDR1bzBIMnVOakNZRVVhckZEQUhrZm1UaUI0OUNhUHFsRTBtQnB2Qk1CM2NKdGJwcFp1OG5CbC1fQmFKZ3NXMzNxeGNUZlZyNnEwM041VU83Z0pJTGwtZzhSbWZVZWlJMWVSTkRTb2xWamc?oc=5",
-          "fonte": "Estadão",
+          "id": "5bf4951adbe9",
+          "titulo": "Introducing ChatGPT Wallet",
+          "resumo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "fonte": "OpenAI (blog oficial)",
           "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T14:21:44.000Z",
+          "categoria": "empresa",
+          "data": "2026-11-13T15:00:00.000Z",
           "tambemEm": [
-            "Exame"
+            "Olhar Digital"
           ],
           "pontos": 25
         },
         {
-          "id": "e7843bb87e4e",
-          "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
+          "id": "c53802e97981",
+          "titulo": "O Google teve o melhor modelo de IA durante treze dias; a Anthropic tomou o posto, e a resposta levou 24 horas",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnZiX1NQMVBRMW1IcjF3cU02V2dJanU3T2Y1TGVZYVQ3VXozQ0xwbGdmeEw5WnFDRGwtM3VGVUxEMnFHY2RsSlJrdXI4ckdXTnR5ajYyUTdEUkhUb1BYcDB5Y3N6WFBtc3NRVUFuMHY3VFB2MVkyQnV1cm5RTHQ3ZjVVQ3ZWY3hVMEN1VzU1M25UbkVrZUhZc1pFZlhJaVFZdnI1dlYyNVIzU0U4dU16TUwzMDlQUk5SdlotQTVNV2o4TlNUWUxZX1ZQQzcwVm55YXBUTVYzb3lTRFU?oc=5",
-          "fonte": "Estadão",
+          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVzQwXzJDVDd4NllHbzJvTlVPcTROb0ZoWHlGdTJ0QmFCNGFyNDhXZTlxWHB6Mng1R1VvVmE5a2lwQVo5ME8wTjZNUWlXUENvVG5mMFVkZm44bWt0ZXVzcjVUdmNSMTZGZWhhd09pSHFDVU11N1NwVUZsLWZLM0dVeTY4STV1ckZOcE1jWUtaS3IxeFZFTENIa0ZmQkZaZVNycDIxMy1yQlZfbmNVSmFobVhRZVlNYXhmVlA2bGFzclcwbmpyWUVaNGNRSE42TGpicGVJdWtnLUtpXzM4WVB5X2dLVmpnVFZjeGx0c0h1a3lwX2FFNEZQYW1PY1JYdFY1Z3d5R1NyN09LdTVrRk55T1NyeVlPU01WdUhteA?oc=5",
+          "fonte": "Terra",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T20:29:41.000Z",
+          "data": "2026-11-14T11:08:00.000Z",
           "tambemEm": [],
           "pontos": 24
         },
         {
-          "id": "7d6a84050b8d",
-          "titulo": "CEO da Anthropic fala sobre segurança em IA e adoção corporativa",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSEM1Mk00Sk0zY1dvbWQ3d2xqWGFaN0Z6ME5IT2VicWRSemNzS0ZVYm5SV085ODFCZkVNeDVyZmxhTGxuRTNmTlVmb2VnSTUwcjlNR2ItbjBtS0pBbmFqaHVmWnFiT214VEl2SHIwbWY5d21kWjlvdzcxNkpUMVFRY2I3My11RW42bmZvMFJ5d1NoLTlwNVJpQWdBYlpNU2hfcVR3NkNmem9TbmUtam1tLXNPd2o2cGwyOGJCaw?oc=5",
-          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "id": "fd67b33d486f",
+          "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
+          "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T17:22:00.000Z",
+          "data": "2026-11-14T08:00:00.000Z",
           "tambemEm": [],
-          "pontos": 24
+          "pontos": 23
+        },
+        {
+          "id": "44c69603ddc5",
+          "titulo": "Investidores disputam IPO da Anthropic, mas questionam liderança em IA",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVBRRmhHR01TOE9JMkZBUE13WklpNmlMWTdESGN2UmxuV0ZfeVpQRG1CbFg2aFpLUjF2YjBOdkRwR0E3dVZFNGpvTnhfMTNGZEU4b19QOUJ5M2NxTm13R3BpWGVWR3cySlZZRW5pSWM5WC1GMzdFQ05IRU9ISzRRamRrTGQ2RUs1eTFoZ1FMOEJubUxtcS1Bd01pbWNOanFzd1V3UTM4bndoR2U1d1VndG8tZF9sS0xZSmpPRXU5VFg?oc=5",
+          "fonte": "CNN Brasil",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-13T22:19:36.000Z",
+          "tambemEm": [],
+          "pontos": 22
         }
       ]
     }
@@ -351,9 +357,9 @@
     {
       "id": "ibge",
       "nome": "IBGE",
-      "ok": true,
-      "itens": 20,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed"
     },
     {
       "id": "receita",
@@ -436,7 +442,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1386,
+      "itens": 1387,
       "erro": null
     },
     {
@@ -464,7 +470,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 41,
+      "itens": 36,
       "erro": null
     }
   ]
