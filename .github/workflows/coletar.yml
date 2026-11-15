@@ -1,17 +1,16 @@
-# Robô do NEWs: busca notícias e números a cada 3 horas e salva no repositório.
-# Também pode ser rodado na hora: aba "Actions" do GitHub → "Coletar notícias" → "Run workflow"
-# (ou no terminal: gh workflow run coletar.yml).
+# Robô do NEWs: busca notícias e números a cada 3 horas, salva no repositório e publica o app.
+# Quem dispara:
+# - o despertador externo (cron-job.org), nos horários certos, via "workflow_dispatch";
+# - o agendamento do próprio GitHub (reserva: costuma atrasar ou pular horários);
+# - na mão: aba "Actions" → "Coletar notícias" → "Run workflow" (ou: gh workflow run coletar.yml).
 name: Coletar notícias
 
 on:
   schedule:
-    # A cada 3 horas, no minuto 17 (o minuto 0 é o mais congestionado no GitHub). Horário em UTC:
-    # no horário de Brasília roda às 00:17, 03:17, 06:17, 09:17, 12:17, 15:17, 18:17 e 21:17.
+    # Reserva, a cada 3 horas no minuto 17. Horário em UTC: no horário de Brasília,
+    # 00:17, 03:17, 06:17, 09:17, 12:17, 15:17, 18:17 e 21:17.
     - cron: "17 */3 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write # para salvar os arquivos de dados no repositório
 
 concurrency:
   group: coleta # nunca duas coletas ao mesmo tempo
@@ -21,23 +20,42 @@ jobs:
   coletar:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write # para salvar os arquivos de dados no repositório
+    outputs:
+      salvou: ${{ steps.salvar.outputs.salvou }}
     steps:
       - name: Baixar o código
         uses: actions/checkout@v5
 
+      # O agendamento do GitHub às vezes chega atrasado, logo depois de uma coleta do despertador externo.
+      # Nesse caso não precisa coletar de novo.
+      - name: Conferir se a última coleta é recente
+        id: conferir
+        if: github.event_name == 'schedule'
+        run: |
+          minutos=$(node -e "const d=require('./app/data/noticias.json');console.log(Math.round((Date.now()-new Date(d.geradoEm))/60000))" || echo 9999)
+          echo "Última coleta: há $minutos minutos."
+          if [ "$minutos" -lt 120 ]; then echo "pular=sim" >> "$GITHUB_OUTPUT"; echo "Recente: pulando esta vez."; fi
+
       - name: Preparar o Node.js
+        if: steps.conferir.outputs.pular != 'sim'
         uses: actions/setup-node@v5
         with:
           node-version: 24
           cache: npm
 
       - name: Instalar dependências
+        if: steps.conferir.outputs.pular != 'sim'
         run: npm ci
 
       - name: Coletar notícias e números
+        if: steps.conferir.outputs.pular != 'sim'
         run: npm run coletar
 
       - name: Salvar dados novos
+        id: salvar
+        if: steps.conferir.outputs.pular != 'sim'
         run: |
           git config user.name "NEWs (robô)"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -50,3 +68,14 @@ jobs:
           # Se alguém salvou algo no meio tempo, junta antes de enviar
           git pull --rebase origin main
           git push origin HEAD:main
+          echo "salvou=sim" >> "$GITHUB_OUTPUT"
+
+  # Publica o app com os dados novos (ver publicar.yml)
+  publicar:
+    needs: coletar
+    if: needs.coletar.outputs.salvou == 'sim'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/publicar.yml

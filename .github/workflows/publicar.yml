@@ -1,0 +1,44 @@
+# Publica a pasta app/ no GitHub Pages (o endereço do app na internet).
+# Roda em três situações:
+# 1. Quando alguém envia mudanças no código do app (push em app/);
+# 2. Chamado pelo robô (coletar.yml) logo depois de salvar notícias novas
+#    — commits do robô não disparam outros workflows sozinhos, por isso ele chama este;
+# 3. Na mão: aba "Actions" → "Publicar o app" → "Run workflow".
+name: Publicar o app
+
+on:
+  push:
+    branches: [main]
+    paths: ["app/**", ".github/workflows/publicar.yml"]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write # publicar no GitHub Pages
+  id-token: write # o GitHub Pages confere que a publicação veio deste repositório
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: pages # uma publicação por vez; a seguinte espera a anterior terminar
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.publicacao.outputs.page_url }}
+    steps:
+      - name: Baixar a versão mais nova (inclui os dados que o robô acabou de salvar)
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Empacotar a pasta do app
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: app
+
+      - name: Publicar
+        id: publicacao
+        uses: actions/deploy-pages@v5
