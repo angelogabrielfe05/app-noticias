@@ -1,5 +1,532 @@
 [
   {
+    "titulo": "IPO da Anthropic põe à prova a aposta de US$ 1,4 trilhão em IA",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVU3WW9ORGhFY2Mwd1laQW5YbHV1OEVoZFJrOVlNNFExbHIzUldzcWhpUTVhSWZyTlZuUnAxZXUxVDlLaVZyRldBQ0NENzB2VW1vZTFXZDJDbDR3MmdaUTR1YkZGUXhiWHYxYUlDdmlnQXVpSmtncktrcFk1Nmw4eGNqNmF1Y3A0NXpUTzU0Q2lHcnZMR2Ftcm9VbHJjS1ZSRTJkYQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T16:09:01.000Z",
+    "origem": "Exame",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Exame",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Híbridos mais vendidos: BYD põe três no top 10, mas GWM lidera",
+    "link": "https://canaltech.com.br/carros/hibridos-mais-vendidos-byd-poe-tres-no-top-10-mas-gwm-lidera/",
+    "resumo": "O ranking com os 10 carros h&iacute;bridos mais vendidos do Brasil em outubro de 2026 fechou com a BYD como a montadora com mais modelos na lista (tr&ecirc;s), mas a GWM com o mais emplacado do per&iacute;odo. O carro h&iacute;brido mais vendido do m&ecirc;s foi o Haval H6 , com 5.792 unidades emplacadas, somadas…",
+    "data": "2026-11-15T16:02:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/ZE565QjlJiha2j4aDjqb9zc3pCw=/0x0/filters:format(webp):quality(85)/e8d213fd-a4d3-4de6-a88c-d50f36d786bc.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Petição para trazer Jensen Huang de volta à Nvidia já tem mais de 100 mil assinaturas e apoio de Elon Musk",
+    "link": "https://www.seudinheiro.com/2026/internacional/peticao-para-trazer-jensen-huang-de-volta-a-nvidia-ja-tem-mais-de-100-mil-assinaturas-e-apoio-de-elon-musk/",
+    "resumo": "Mobilização ganhou força nas redes e dentro da própria companhia, enquanto investidores também pressionam o conselho a não acelerar a escolha de um substituto The post Petição para trazer Jensen Huang de volta à Nvidia já tem mais de 100 mil assinaturas e apoio de Elon Musk appeared first on Seu Dinheiro .",
+    "data": "2026-11-15T16:01:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dia de Sorte acumula e prêmio principal do próximo sorteio vai a R$ 900 mil",
+    "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-acumula-e-premio-principal-do-proximo-sorteio-vai-a-r-900-mil/",
+    "resumo": "O próximo sorteio acontece na segunda-feira, 16 de novembro The post Dia de Sorte acumula e prêmio principal do próximo sorteio vai a R$ 900 mil appeared first on InfoMoney .",
+    "data": "2026-11-15T15:55:41.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img_7609_1.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Timemania hoje: sem acertadores, prêmio acumula e vai a R$ 28 mi",
+    "link": "https://www.infomoney.com.br/consumo/timemania-hoje-sem-acertadores-premio-acumula-e-vai-a-r-28-mi/",
+    "resumo": "Próximo sorteio acontece na terça-feira, 17 de novembro The post Timemania hoje: sem acertadores, prêmio acumula e vai a R$ 28 mi appeared first on InfoMoney .",
+    "data": "2026-11-15T15:44:20.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/10/dylan-nolte-RSsqjpezn6o-unsplash-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Quina hoje: ninguém acerta números do concurso 7168 e prêmio acumula; veja valor",
+    "link": "https://www.infomoney.com.br/consumo/quina-hoje-ninguem-acerta-numeros-do-concurso-7168-e-premio-acumula-veja-valor/",
+    "resumo": "Prêmio do próximo concurso é estimado em R$ 13,5 milhões The post Quina hoje: ninguém acerta números do concurso 7168 e prêmio acumula; veja valor appeared first on InfoMoney .",
+    "data": "2026-11-15T15:35:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/08/quina-caixa-divulgacao.png?fit=300%2C158&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Mega-Sena acumula e prêmio do próximo sorteio vai a R$ 34 milhões",
+    "link": "https://www.infomoney.com.br/consumo/mega-sena-acumula-e-premio-do-proximo-sorteio-vai-a-r-34-milhoes/",
+    "resumo": "O próximo sorteio está marcado para terça-feira, 17 de novembro The post Mega-Sena acumula e prêmio do próximo sorteio vai a R$ 34 milhões appeared first on InfoMoney .",
+    "data": "2026-11-15T15:27:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2019/06/cropped-mega-sena-2.jpg?fit=225%2C300&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "15.11.2026 (Brasília-DF) Presidente em exercício, Geraldo Alckmin, visita sala de monitoramento do Enem - 02",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/atividades-do-governo/261115122135_15-11-2026-qq-vpr-alckmin-enem",
+    "resumo": "",
+    "data": "2026-11-15T15:23:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Lotofácil hoje: aposta do RS leva prêmio principal de R$ 6 milhões",
+    "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-aposta-leva-premio-principal-de-r-6-milhoes/",
+    "resumo": "Sorteio aconteceu neste domingo (15) The post Lotofácil hoje: aposta do RS leva prêmio principal de R$ 6 milhões appeared first on InfoMoney .",
+    "data": "2026-11-15T15:17:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/10/reais-dinheiro.webp?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "A questão de US$ 145 bilhões: o que esposa de Jensen Huang pode levar em um divórcio",
+    "link": "https://www.infomoney.com.br/business/global/a-questao-de-us-145-bilhoes-o-que-esposa-de-jensen-huang-pode-levar-em-um-divorcio/",
+    "resumo": "Após admitir relacionamentos extraconjugais e deixar o comando da Nvidia, Jensen Huang passou a enfrentar especulações sobre como a lei da Califórnia dividiria sua fortuna em caso de separação The post A questão de US$ 145 bilhões: o que esposa de Jensen Huang pode levar em um divórcio appeared first on InfoMoney .",
+    "data": "2026-11-15T15:14:23.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/JENSEN-HUANGS-145-BILLION-QUESTION-WHAT-CALIFORNIA-DIVORCE-LAW-SAYS-LORI-HUANG-COULD-GET.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "15.11.2026 (Brasília-DF) Presidente em exercício, Geraldo Alckmin, visita sala de monitoramento do Enem - 01",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/atividades-do-governo/261115120905_15-11-2026-vpr-sala-monitoramento-enem",
+    "resumo": "",
+    "data": "2026-11-15T15:12:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "EUA: Trump cobra Congresso por aprovação de verbas para modernizar sistema de tráfego aéreo",
+    "link": "https://www.moneytimes.com.br/eua-trump-cobra-congresso-por-aprovacao-de-verbas-para-modernizar-sistema-de-trafego-aereo-lmrs/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, cobrou do Congresso norte-americano a aprovação de verbas para modernizar o sistema de aviação do país. Em postagem feita há pouco na rede social Truth Social, ele afirmou: “Temos o conhecimento e o plano para o Sistema de Controle de Voo, precisamos que o Congresso…",
+    "data": "2026-11-15T15:10:24.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Treze anos de espera: por que GTA 6 virou um fenômeno que une três gerações",
+    "link": "https://www.infomoney.com.br/business/global/treze-anos-de-espera-por-que-gta-6-virou-um-fenomeno-que-une-tres-geracoes/",
+    "resumo": "Jogo chega em 19 de novembro com 12 milhões de reservas digitais, faz rivais adiarem lançamentos e pode tirar público de \"Jogos Vorazes\", \"Vingadores\" e \"Duna\" The post Treze anos de espera: por que GTA 6 virou um fenômeno que une três gerações appeared first on InfoMoney .",
+    "data": "2026-11-15T15:03:36.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/FROM-GEN-X-TO-GEN-Z-UNICORN-GAME-GTA-VIS-MULTIGENERATIONAL-PULL-IS-A-THREAT-TO-HOLLYWOODS-HOLIDAY-BLOCKBUSTERS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Petição para retorno de Jensen Huang à Nvidia supera 100 mil assinaturas e ganha apoio de Elon Musk",
+    "link": "https://www.moneytimes.com.br/peticao-para-retorno-de-jensen-huang-a-nvidia-supera-100-mil-assinaturas-e-ganha-apoio-de-elon-musk-lmrs/",
+    "resumo": "Uma petição em favor de Jensen Huang já ultrapassou 100 mil assinaturas e reuniu alguns dos principais nomes da indústria de tecnologia. Criada por acionistas e funcionários atuais e antigos da Nvidia, a petição questiona a saída do executivo e pede que ele possa retornar ao comando da companhia enquanto uma…",
+    "data": "2026-11-15T15:01:22.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "7 produtos da Amazon para esperar a Black Friday antes de comprar",
+    "link": "https://canaltech.com.br/produtos/7-produtos-da-amazon-para-esperar-a-black-friday-antes-de-comprar/",
+    "resumo": "A Black Friday 2026 acontece no pr&oacute;ximo dia 27 e pode ser uma boa oportunidade para comprar produtos da Amazon com desconto . S eparamos oito deles que merecem entrar na lista de espera para a Black Friday, com metas de pre&ccedil;o para identificar quando uma promo&ccedil;&atilde;o realmente compensa. Se…",
+    "data": "2026-11-15T15:00:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/q200p7G7ltqQzZtqFg18AEm4uUc=/0x0/filters:format(webp):quality(85)/2e874640-7949-4fef-9244-7074cb96b7f7.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Fusão com a Tesla pode ser o atalho da SpaceX para entrar no S&P 500",
+    "link": "https://www.infomoney.com.br/mercados/fusao-com-a-tesla-pode-ser-o-atalho-da-spacex-para-entrar-no-sp-500/",
+    "resumo": "Inclusão no principal índice dos EUA garantiria cerca de US$ 100 bilhões em demanda de fundos passivos; acordo pode ser anunciado já no próximo mês The post Fusão com a Tesla pode ser o atalho da SpaceX para entrar no S&P 500 appeared first on InfoMoney .",
+    "data": "2026-11-15T14:55:28.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/telao-spaceX.png?fit=300%2C196&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
+    "link": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
+    "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setembro, divulgado na…",
+    "data": "2026-11-15T14:50:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
+    "link": "https://www.seudinheiro.com/2026/economia/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-cbcb/",
+    "resumo": "Gestoras reduzem risco em ações, câmbio e juros após a eleição, com caixa maior, dólar forte e foco em setores defensivos The post Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros appeared first on Seu Dinheiro .",
+    "data": "2026-11-15T14:42:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Qual é a diferença entre os modelos Muse Wonder, Muse Spark e Muse Ember?",
+    "link": "https://canaltech.com.br/inteligencia-artificial/qual-e-a-diferenca-entre-os-modelos-muse-wonder-muse-spark-e-muse-ember/",
+    "resumo": "A Meta desenvolveu tr&ecirc;s modelos de intelig&ecirc;ncia artificial da fam&iacute;lia Muse , cada um pensado para um tipo de tarefa. O Muse Wonder &eacute; indicado para atividades complexas, que exigem racioc&iacute;nio e planejamento, e o Muse Spark atende &agrave;s intera&ccedil;&otilde;es do dia a dia com a…",
+    "data": "2026-11-15T14:30:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/otpqo0i0Ysos6O25e53iQ6esANQ=/0x0/filters:format(webp):quality(85)/bdab883d-a035-4832-a4dd-4647b3ef4fea.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dia de Sorte: confira o resultado do concurso 1348 sorteado neste domingo (15)",
+    "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1348-sorteado-neste-domingo-15/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 650 mil The post Dia de Sorte: confira o resultado do concurso 1348 sorteado neste domingo (15) appeared first on InfoMoney .",
+    "data": "2026-11-15T14:22:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Timemania hoje, concurso 2468: confira o resultado sorteado neste domingo (15)",
+    "link": "https://www.infomoney.com.br/consumo/timemania-hoje-concurso-2468-confira-o-resultado-sorteado-neste-domingo-15/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 27,5 milhões The post Timemania hoje, concurso 2468: confira o resultado sorteado neste domingo (15) appeared first on InfoMoney .",
+    "data": "2026-11-15T14:17:34.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/timemania.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ninguém acerta as seis dezenas da Mega-Sena 3086, e prêmio acumula em R$ 34 milhões; veja números sorteados",
+    "link": "https://valorinveste.globo.com/loterias/noticia/2026/11/15/resultado-da-mega-sena-3086-hoje-divulgado-veja-numeros-sorteados.ghtml",
+    "resumo": "O resultado da Mega-Sena 3086 com prêmio de R$ 26,8 milhões foi divulgado neste domingo (15), em São Paulo, e ninguém acertou as seis dezenas. Com isso, o prêmio acumulou em R$ 34 milhões para o próximo sorteio que vai ser realizado na terça-feira (17). Os números sorteados hoje foram: 03 - 20 - 35 - 38 - 43 - 46 VEJA…",
+    "data": "2026-11-15T14:05:04.000Z",
+    "imagemFeed": "https://s2-valorinveste.glbimg.com/jNDopr5mnYYcVbileDN1pZqE06o=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/0/W/1n0a4zTFOLOGPGeTgYow/resultado-da-mega-sena-3086.jpg",
+    "fonteId": "valor-investe",
+    "fonte": "Valor Investe",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Lava-louças Electrolux: quanto vale pagar na Black Friday 2026?",
+    "link": "https://canaltech.com.br/eletro/lava-loucas-electrolux-quanto-vale-pagar-na-black-friday-2026/",
+    "resumo": "A Black Friday pode ser uma boa oportunidade para comprar uma lava-lou&ccedil;as Electrolux, mas nem todo desconto anunciado significa um pre&ccedil;o realmente baixo. Por isso, analisamos o hist&oacute;rico dos &uacute;ltimos 12 meses de tr&ecirc;s modelos da marca para definir valores que fazem sentido na data. As…",
+    "data": "2026-11-15T14:00:01.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/yYwadPD3SMKHeXvkDQ6StAPPHOU=/0x0/filters:format(webp):quality(85)/fc33272d-0cf2-4665-9295-bf1c17650882.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Por que o futuro da inteligência artificial depende da abertura de capital da Anthropic nesta semana; entenda",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNTDJ0LXVuNzJZZTg2ZTBwWjV0VjFFdU84NjBnUTJ1ZVdKajBHUHJyS1M5Z3V0TWZTUWZ2NW0xcHY3bTlpRVpxSG1XZGxPeEMxMkZEMmpPbTFpcE1VanNzZnhXVUZDdVE1ODZ0X05sdzhoWG9WWV9IaVdSWXNUbXRzaDM2a3NGeF9sNy01dTEzQUN5bGhib3Y5TXlFaUlMZjFVNkw1NXlLS2JOV3hUV0VpMGJKSXljOXN3b1RyMTRVWWlEekFkQWRvd0ljZW8ta0JGRE8xVnN0Q21HVTE2T1hJeE5XRXoxbWJzWlhiQ3VqMUwzWnRUWEx2MVA0Q1MtaVZyV3gyOWZLRVgwV1pwQ04w0gGeAkFVX3lxTE9hZ3hXdDRPcGtRaTdIeTdmeGtzRzFWMHVoVkRJaHJndkR2VUhycVFwYXl0SjJwRTFjckZoX1oxUnhKUU5tZEJqaHRORTI0cFNPVUstTE1pS1JhdHRqb0ljdWl4WGdBUmpVMHBUSkl6MHNBYjRNWXg3WHUtbXQ0R1c2UElOMTRDb1hQUHcyaUc1RkxJenNkVGRwbW1pMzlhTXZhWlVuQ244T2FQNktqb2xPX3I3MGJzcXZ4Y3hwc3E0aXlQb0otNEwyT2hSS1JjTG9QLTBzNGNuUFJEbXFOWVpoaUgyREcwanNVaW03STNLaDJzZy1rNzg0bTBsNEE5eU1xNXByOEs3REk4YkZWS3Q3NF81ZjU5em4zNDZxVlE?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T13:37:57.000Z",
+    "origem": "Época Negócios",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Época Negócios",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
+    "link": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
+    "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalmente em caixa. O […]",
+    "data": "2026-11-15T13:31:08.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Natália Zuccala é a convidada do programa Conversa com o Autor, da Rádio MEC",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/natalia-zuccala-e-a-convidada-do-programa-conversa-com-o-autor-da-radio-mec",
+    "resumo": "Escritora fala de sua trajetória literária em bate-papo com apresentadora Katy Navarro",
+    "data": "2026-11-15T13:30:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "5 notebooks bons até R$ 4.000 que valem a pena comprar na Black Friday 2026",
+    "link": "https://canaltech.com.br/notebook/black-friday-notebooks-bons-ate-4000-reais-para-comprar/",
+    "resumo": "Encontrar um notebook equilibrado sem estourar o or&ccedil;amento &eacute; o objetivo da maioria dos consumidores durante a Black Friday. A faixa de R$ 4.000 &eacute; considerada o \"sweet spot\" do varejo brasileiro , j&aacute; que separa as m&aacute;quinas de entrada b&aacute;sicas dos modelos mainstream que entregam…",
+    "data": "2026-11-15T13:30:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/OAgeo33f2AW-UH1Zbp--w_PXQBo=/0x0/filters:format(webp):quality(85)/ddc799f7-e10d-457a-954d-c52ec74759b5.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bitcoin recua neste domingo (15) e acumula perdas na semana; veja os preços das criptomoedas",
+    "link": "https://www.moneytimes.com.br/bitcoin-recua-neste-domingo-15-e-acumula-perdas-na-semana-veja-os-precos-das-criptomoedas-lmrs/",
+    "resumo": "As maiores criptomoedas do mundo operam majoritariamente no negativo neste domingo (15), com desempenho também negativo ao longo da semana. Por volta das 9h30 (horário de Brasília), o bitcoin (BTC) apresentava queda de 2,52% nas últimas 24 horas, a US$ 65,416.76. Na semana, a cripto registrava recuo de 13,78%. Já o…",
+    "data": "2026-11-15T13:24:56.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
+    "resumo": "O Supremo Tribunal Federal (STF) terá em seu Salão Nobre, a partir da próxima terça-feira (17), um símbolo da justiça na tradição yorubá, o Oxê de Xangô. Trata-se de um machado com lâminas nas duas pontas, simbolizando a igualdade no julgamento, sem favorecer um lado em detrimento de outro. O Oxê é envergado por…",
+    "data": "2026-11-15T13:24:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Anthropic mira avaliação de US$ 1 trilhão em oferta pública de ações",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXIybHRNdmtYZjNsNjVFOFRkLUtJb1gzNmYwa3N4UVptbFZyc1VKMml1VWdXX1MtcUgtQVBpMWV5Y2lYdmIxV2w0LXd1X0paWHJnZnRsb20xUXExWF8xMV9wb2daRlZtOWhNZldBMzFVNVpCTzhzRVZGcjlHLWI0dnFPZjNrTXBMY251azVxajM5SXFMbUx5NnlXdUJ3WHMyVVFnRi1sQnZJTDh1UXpZdFZibm9tR0h3WDRBdHhxaw?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T13:15:31.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Banco ABC Brasil (ABCB3) compra participação em gestora com R$ 24 bilhões sob gestão por R$ 690 milhões",
+    "link": "https://www.seudinheiro.com/2026/empresas/banco-abc-brasil-abcb3-compra-participacao-em-gestora-com-r-24-bilhoes-sob-gestao-por-r-690-milhoes-cbcb/",
+    "resumo": "Aquisição será feita em etapas, com compras anuais de participações adicionais entre 2028 e 2031 The post Banco ABC Brasil (ABCB3) compra participação em gestora com R$ 24 bilhões sob gestão por R$ 690 milhões appeared first on Seu Dinheiro .",
+    "data": "2026-11-15T13:12:06.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Trump: investidores de todo o mundo odiaram ver o que aconteceu no dia da eleição",
+    "link": "https://www.moneytimes.com.br/trump-investidores-de-todo-o-mundo-odiaram-ver-o-que-aconteceu-no-dia-da-eleicao-lmrs/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que investidores não gostaram do resultado das eleições de meio de mandato no país e que o mercado de ações perdeu U$ 3 trilhões. A votação terminou com uma mudança histórica no Congresso norte-americano: a vitória dos democratas impôs uma derrota ao presidente…",
+    "data": "2026-11-15T13:09:46.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Pânico ou oportunidade? Entenda por que a queda do bitcoin e a Black Friday podem formar uma combinação rara",
+    "link": "https://www.seudinheiro.com/2026/criptomoedas/panico-ou-oportunidade-entenda-por-que-a-queda-do-bitcoin-e-a-black-friday-podem-formar-uma-combinacao-rara-lbrdgm106/",
+    "resumo": "Em novembro, época de Black Friday, todo mundo vira um pouco “caçador de promoção”. Compara preços, desconfia do desconto que parece bom demais, e espera o momento certo para aproveitar a melhor oferta e realizar uma compra. Quem investe em criptomoedas está vivendo algo parecido. O bitcoin (BTC), que chegou à máxima…",
+    "data": "2026-11-15T13:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Lula defende que Brasil exporte conhecimento e tecnologia e volta a criticar tarifaço dos EUA",
+    "link": "https://www.moneytimes.com.br/lula-defende-que-brasil-exporte-conhecimento-e-tecnologia-e-volta-a-criticar-tarifaco-dos-eua-lmrs/",
+    "resumo": "O presidente Luiz Inácio Lula da Silva (PT) defendeu neste domingo (15), em declaração à imprensa, em Manila, nas Filipinas, a necessidade de o Brasil deixar de ser uma nação “eternamente em desenvolvimento” e passe a figurar entre os países desenvolvidos. Para isso, o petista destacou a importância de investimentos…",
+    "data": "2026-11-15T12:51:47.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Claude caiu? IA da Anthropic instável nesta sexta-feira (13)",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS19JMVd4aU9NeGZUQWd4STA0NFRqdExMVzNRMmhQamZwd3Q0YTRYd3JVSFZNcHhGUHBtX1NpdnhtbjFRamcxTzRRaFRfcG1hVmdJS2libFpZVlFnNTBYek5nT0RIaWlYNnd4dGt0QlVaWjlqaVplQk5kano4THRIek94MzBQelZPUXp3T1JLMjBVeFVKZnpaN3Q0RU56VzFuVHJWeTl2OWpkRmFqdml3Z3ZwMEgtWVdYZEpfaDhiNU1sbDVk?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T12:33:23.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "ABC Brasil (ABCB3) fecha compra da Angá Asset; transação pode alcançar R$ 690 milhões",
+    "link": "https://www.moneytimes.com.br/abc-brasil-abcb3-fecha-compra-da-anga-asset-transacao-pode-alcancar-r-690-milhoes-lmrs/",
+    "resumo": "O Banco ABC Brasil (ABCB3) assinou contrato de compra e venda de quotas para a aquisição de participação na Angá Controle Holding, que consolida os investimentos da Angá Asset Management, gestora independente com aproximadamente R$ 24 bilhões sob gestão, mostra fato relevante divulgado na noite de sábado (14). De…",
+    "data": "2026-11-15T12:03:14.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "\"Omissão de velocidade\" dá multa? Veja o que diz a lei",
+    "link": "https://canaltech.com.br/carros/omissao-de-velocidade-da-multa-veja-o-que-diz-a-lei/",
+    "resumo": "O excesso de velocidade no tr&acirc;nsito &eacute; uma das multas mais comuns e mais aplicadas no Brasil , e isso todo mundo sabe. O que poucos talvez tenham conhecimento &eacute; que a \"omiss&atilde;o de velocidade\" ou, em termos mais simples, o ato de dirigir muito devagar , tamb&eacute;m pode configurar…",
+    "data": "2026-11-15T12:01:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/V0fwSqi7hVOPPAgPkFhzjPX5SPk=/0x0/filters:format(webp):quality(85)/1f98c050-8e44-4a0f-ac00-7cdf0c06f8cb.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Por que você continua vendo anúncios de produtos que já comprou?",
+    "link": "https://canaltech.com.br/apps/por-que-voce-continua-vendo-anuncios-de-produtos-que-ja-comprou/",
+    "resumo": "As empresas acompanham sua navega&ccedil;&atilde;o na internet para entender seus interesses e escolher os an&uacute;ncios mais adequados. Por isso, uma pesquisa no Google, uma visita a uma loja online ou um produto adicionado ao carrinho podem influenciar as ofertas que aparecem para voc&ecirc;. Mas voc&ecirc;…",
+    "data": "2026-11-15T11:00:03.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/kqXk5OE4dg0i-w8k-6yLwcMOdyw=/0x0/filters:format(webp):quality(85)/2b8e6c40-e275-4e60-a467-602e180beffe.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "A ferramenta que te ajuda a sobreviver depois do seu último salário",
+    "link": "https://www.seudinheiro.com/2026/colunistas/a-ferramenta-que-te-ajuda-a-sobreviver-depois-do-seu-ultimo-salario-julw/",
+    "resumo": "Todos queremos viver bastante, mas imagine alguém que recebe seu último salário aos 65 anos e vive até os 95. São três décadas de contas, compromissos, planos e sonhos The post A ferramenta que te ajuda a sobreviver depois do seu último salário appeared first on Seu Dinheiro .",
+    "data": "2026-11-15T11:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
+    "link": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
+    "resumo": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-15T10:04:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Obra de Van Gogh de US$ 180 milhões testa apetite de investidores pelo mercado de arte",
+    "link": "https://exame.com/invest/mercados/obra-de-van-gogh-de-us-180-milhoes-testa-apetite-de-investidores-pelo-mercado-de-arte/",
+    "resumo": "Leilões em Nova York devem movimentar US$ 2,4 bilhões, igualando o resultado do ano passado, em meio à recuperação das vendas e à maior confiança dos colecionadores",
+    "data": "2026-11-15T10:03:30.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Atração turística da Islândia, Blue Lagoon vai ter ação na bolsa: você compraria?",
+    "link": "https://exame.com/invest/mercados/atracao-turistica-da-islandia-blue-lagoon-vai-ter-acao-na-bolsa-voce-compraria/",
+    "resumo": "Famosa por suas águas termais, Blue Lagoon prepara IPO, mas enfrenta riscos vulcânicos",
+    "data": "2026-11-15T10:03:22.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Grupo Mateus vê varejo no Nordeste acelerar: 'Mercado dá sinais de melhora', diz CEO",
+    "link": "https://exame.com/invest/mercados/grupo-mateus-ve-varejo-no-nordeste-acelerar-mercado-da-sinais-de-melhora-diz-ceo/",
+    "resumo": "Fundador do maior supermercado do Norte e Nordeste diz, porém, que juros altos exigem cautela e defende reduzir dívida antes de abrir novas lojas",
+    "data": "2026-11-15T09:00:35.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "ByteDance prepara agente de IA para competir com Meta, OpenAI e Anthropic",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaFhlSDNrMV9uVUtFQzlJSEMxYmZXX1pCYTJFNUptZ0Nwdnk4OF9zZ0ZJQVgwNzQta3paNVBGd3JRdDRGS3dOUXo2S2I0cFdXNElHYjNCc0NNV0VjRzQ3QWtGSTBNQlo1bjFBZjRfTUhBSTlNRW44cjhFMXh5di1WWWhIdnFUWWJnaGdoX0w3dTF4bnFSUWc1ekprYWJTLXAxM0NrLWFkd0NkdlZrSmpVTnczNUctUU1oWEwwSWVOWVJKRVJKNXZHM2d1LTQzU1lNWURUTVdxa3E?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T08:54:16.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Resultados da Nvidia e IPO da Anthropic devem marcar semana em Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmNkUzE0UnMyLW5UV1NnXzFuMkF0U0g4T25ZTTNaUFNpQVRfZFUxNDF0Yl9ybFBXeFpxVl9BTlVpZ0Z2aEVoTWRtQzl1V2xZRzVzOXQyX2dVMTJUTkZDZGhTVVBRaDMyc2kyRDYtdTF4S0N0cWVBMzdzd3FLQTdDSS1FZE5HVThFdkxoWHowWF9Ib01yTHZCOFI3U000OTM0R1RpUUNCVFdaemNTbmtGN3N2dmZxbUdOVUxweUcxZW02Q3VuYkE?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T08:00:41.000Z",
+    "origem": "CNN Brasil",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "CNN Brasil",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem",
+    "link": "https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/",
+    "resumo": "Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .",
+    "data": "2026-11-15T08:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Inteligencia-artificial.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA",
+    "link": "https://www.infomoney.com.br/mercados/xp-restricoes-a-data-centers-nos-eua-podem-atrasar-mas-nao-travar-boom-da-ia/",
+    "resumo": "Expectativa é de que interrupção pós-eleições de meio mandato reduzam investimentos a até 5% The post XP: Restrições a data centers nos EUA podem atrasar, mas não travar boom da IA appeared first on InfoMoney .",
+    "data": "2026-11-15T08:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/12/DATA-CENTERS-ELECTRICITY_3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "15.11.2026 (Manila - Filipinas) Presidente Lula se reúne com o Primeiro-Ministro de Singapura, Lawrence Wong",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/viagens-internacionais/261115034405_15-11-26-pr-lula-filipinas-bilateral-singapura",
+    "resumo": "",
+    "data": "2026-11-15T06:44:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "15.11.2026 (Manila - Filipinas) Presidente Lula se reúne com o Primeiro-Ministro do Canadá, Mark Carney",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/viagens-internacionais/261115034135_15-11-26-pr-lula-filipinas-bilateral-canada",
+    "resumo": "",
+    "data": "2026-11-15T06:42:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnZiX1NQMVBRMW1IcjF3cU02V2dJanU3T2Y1TGVZYVQ3VXozQ0xwbGdmeEw5WnFDRGwtM3VGVUxEMnFHY2RsSlJrdXI4ckdXTnR5ajYyUTdEUkhUb1BYcDB5Y3N6WFBtc3NRVUFuMHY3VFB2MVkyQnV1cm5RTHQ3ZjVVQ3ZWY3hVMEN1VzU1M25UbkVrZUhZc1pFZlhJaVFZdnI1dlYyNVIzU0U4dU16TUwzMDlQUk5SdlotQTVNV2o4TlNUWUxZX1ZQQzcwVm55YXBUTVYzb3lTRFU?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T06:34:53.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "15.11.2026 (Manila - Filipinas) Presidente Lula faz balanço da agenda internacional em coletiva à imprensa 02",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/viagens-internacionais/261115030136_pr-lula-asean-selo-declaracao-a-imprensa-1",
+    "resumo": "",
+    "data": "2026-11-15T06:15:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "15.11.2026 (Manila - Filipinas) Presidente Lula faz balanço da agenda internacional em coletiva à imprensa 01",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/viagens-internacionais/261115030505_pr-lula-asean-selo-declaracao-a-imprensa",
+    "resumo": "",
+    "data": "2026-11-15T06:14:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "Black Friday do investidor tem ofertas de até 200% do CDI, cashback e descontos em seguros; confira",
     "link": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/11/15/black-friday-do-investidor-tem-ofertas-de-ate-200percent-do-cdi-cashback-e-descontos-em-seguros-confira.ghtml",
     "resumo": "A Black Friday, período tradicionalmente associado aos descontos do comércio, também chegou ao mercado financeiro. Bancos, plataformas de investimentos e seguradoras aproveitam o mês de novembro para oferecer condições especiais em aplicações, previdência privada, seguros, câmbio e até consórcios. Entre as promoções…",
@@ -854,34 +1381,12 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Anthropic mira avaliação de US$ 1 trilhão em oferta pública de ações",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXIybHRNdmtYZjNsNjVFOFRkLUtJb1gzNmYwa3N4UVptbFZyc1VKMml1VWdXX1MtcUgtQVBpMWV5Y2lYdmIxV2w0LXd1X0paWHJnZnRsb20xUXExWF8xMV9wb2daRlZtOWhNZldBMzFVNVpCTzhzRVZGcjlHLWI0dnFPZjNrTXBMY251azVxajM5SXFMbUx5NnlXdUJ3WHMyVVFnRi1sQnZJTDh1UXpZdFZibm9tR0h3WDRBdHhxaw?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T09:04:49.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
     "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
     "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
     "data": "2026-11-14T08:00:00.000Z",
     "imagemFeed": null,
     "fonteId": "infomoney-ia",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzVOd0k5V1FFZ25sSUxoMUtVZS1jSi05V2FjMWVWcWdxYkt5WlBHb0ZkWTVpRTU1c2JsTDRSOG9tOE16TXlWNjNUdmZCNTctQndQTEk3SC1YOWJnaFdqMXpxQmdwVHhqdndDREJ1Q3NNV1N4dERCTHdlR1lrS2hpTlhZbVBsX1FsQWViYTJpT1dFZU1UOUxGT2U5LVU3a3l6UTNabFVPaEVHMGVySUJNZk5MN1JPX19TOTdzQXhuZ9IBxAFBVV95cUxNQXVDRkpFOVZwY2dyd1Z0R3VUVzg1SVFoSUZXdFZVanJ0YWswU2FSWmZWMmlHbW5hVjRpdHk3QWswcm9zZE4tWkQ0aUZQYlR0R0Q4S3htcEdYRk9xYnVhamJGazBhdXYyaTJZcmpMZndUN2hHTlVFdnBzbTF6S3dYcHFkQmViV3VhZTg3VWNsWHU4anp0VEkzN2pIRTdKRG84Slo4bF9WZGxYWExMR1FJSVNPMm96N3p4UHJoLVUyVUhZZjJs?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T08:00:00.000Z",
-    "origem": "InfoMoney",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
@@ -997,6 +1502,17 @@
     "fonteId": "ibge-google",
     "fonte": "IBGE",
     "categoria": "oficial"
+  },
+  {
+    "titulo": "Building strong safety evaluations",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
+    "resumo": "",
+    "data": "2026-11-14T01:40:13.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
+    "categoria": "empresa"
   },
   {
     "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
@@ -1499,17 +2015,6 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Anthropic lança Claude Mythos 5.2 e Fable 5.2, novas versões de sua IA ‘superpoderosa’",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnZiX1NQMVBRMW1IcjF3cU02V2dJanU3T2Y1TGVZYVQ3VXozQ0xwbGdmeEw5WnFDRGwtM3VGVUxEMnFHY2RsSlJrdXI4ckdXTnR5ajYyUTdEUkhUb1BYcDB5Y3N6WFBtc3NRVUFuMHY3VFB2MVkyQnV1cm5RTHQ3ZjVVQ3ZWY3hVMEN1VzU1M25UbkVrZUhZc1pFZlhJaVFZdnI1dlYyNVIzU0U4dU16TUwzMDlQUk5SdlotQTVNV2o4TlNUWUxZX1ZQQzcwVm55YXBUTVYzb3lTRFU?oc=5",
-    "resumo": "",
-    "data": "2026-11-13T20:29:41.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "Confiança da indústria atinge menor nível desde maio de 2020",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020",
     "resumo": "A confiança dos empresários industriais caiu seis pontos em novembro, passando de 46,2 para 40,2 pontos, segundo levantamento divulgado pela Confederação Nacional da Indústria (CNI) nesta sexta-feira (13). O Índice de Confiança do Empresário Industrial (Icei) chegou ao menor nível desde maio de 2020, quando marcou…",
@@ -1716,6 +2221,17 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzVOd0k5V1FFZ25sSUxoMUtVZS1jSi05V2FjMWVWcWdxYkt5WlBHb0ZkWTVpRTU1c2JsTDRSOG9tOE16TXlWNjNUdmZCNTctQndQTEk3SC1YOWJnaFdqMXpxQmdwVHhqdndDREJ1Q3NNV1N4dERCTHdlR1lrS2hpTlhZbVBsX1FsQWViYTJpT1dFZU1UOUxGT2U5LVU3a3l6UTNabFVPaEVHMGVySUJNZk5MN1JPX19TOTdzQXhuZ9IBxAFBVV95cUxNQXVDRkpFOVZwY2dyd1Z0R3VUVzg1SVFoSUZXdFZVanJ0YWswU2FSWmZWMmlHbW5hVjRpdHk3QWswcm9zZE4tWkQ0aUZQYlR0R0Q4S3htcEdYRk9xYnVhamJGazBhdXYyaTJZcmpMZndUN2hHTlVFdnBzbTF6S3dYcHFkQmViV3VhZTg3VWNsWHU4anp0VEkzN2pIRTdKRG84Slo4bF9WZGxYWExMR1FJSVNPMm96N3p4UHJoLVUyVUhZZjJs?oc=5",
+    "resumo": "",
+    "data": "2026-11-13T19:08:03.000Z",
+    "origem": "InfoMoney",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
   {
@@ -1931,17 +2447,6 @@
     "fonteId": "camara",
     "fonte": "Agência Câmara",
     "categoria": "oficial"
-  },
-  {
-    "titulo": "Building strong safety evaluations",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
-    "resumo": "",
-    "data": "2026-11-13T18:06:18.000Z",
-    "origem": "Anthropic",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
   },
   {
     "titulo": "Dunlop revela impacto real da invasão dos pneus importados no Brasil",
@@ -4320,16 +4825,6 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "ByteDance prepara agente de IA para competir com Meta, OpenAI e Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaFhlSDNrMV9uVUtFQzlJSEMxYmZXX1pCYTJFNUptZ0Nwdnk4OF9zZ0ZJQVgwNzQta3paNVBGd3JRdDRGS3dOUXo2S2I0cFdXNElHYjNCc0NNV0VjRzQ3QWtGSTBNQlo1bjFBZjRfTUhBSTlNRW44cjhFMXh5di1WWWhIdnFUWWJnaGdoX0w3dTF4bnFSUWc1ekprYWJTLXAxM0NrLWFkd0NkdlZrSmpVTnczNUctUU1oWEwwSWVOWVJKRVJKNXZHM2d1LTQzU1lNWURUTVdxa3E?oc=5",
-    "resumo": "",
-    "data": "2026-11-12T19:16:16.000Z",
-    "origem": "Estadão",
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "Nvidia perde US$ 1,1 tri desde o pico, valor superior ao de toda a bolsa brasileira",
     "link": "https://exame.com/invest/mercados/nvidia-perde-us-11-tri-desde-o-pico-valor-superior-ao-de-toda-a-bolsa-brasileira/",
     "resumo": "Somente nos últimos cinco pregões, entre 6 e 12 de novembro, a companhia perdeu US$ 493 bilhões em valor de mercado",
@@ -6399,388 +6894,5 @@
     "fonteId": "valor-investe",
     "fonte": "Valor Investe",
     "categoria": "imprensa"
-  },
-  {
-    "titulo": "Claude transformou planilha em uma conversa",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTmhOYTEyd1hpa3N0NVVpUmhvZVRXUzB2enB0R1B4MUVDSHczNnhnOEdYVVRKTF94d3BMWXZSRFl5SjFrWDlaUmhsU29ZVGNBU1Y0QnhZU1Vfd2lrNlYyX2VIaTRPc0dTS0VCQWNKdEV1ekNySGlmTzR4d0g4UjJmT2dn?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T16:02:29.000Z",
-    "origem": "StartSe",
-    "fonteId": "google-news-claude",
-    "fonte": "StartSe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
-    "resumo": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-    "data": "2026-11-11T16:00:00.000Z",
-    "imagemFeed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp",
-    "fonteId": "google-ai",
-    "fonte": "Google (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Quatro em cada dez crianças já consultam inteligência artificial sobre dinheiro, aponta estudo",
-    "link": "https://valorinveste.globo.com/educacao-financeira/noticia/2026/11/11/quatro-em-cada-dez-criancas-ja-consultam-inteligencia-artificial-sobre-dinheiro-aponta-estudo.ghtml",
-    "resumo": "Quatro em cada dez crianças e adolescentes britânicos, de 6 a 18 anos, já recorrem à inteligência artificial (IA) para tirar dúvidas sobre dinheiro. E, ao contrário do que se pode imaginar, a principal curiosidade não é como ficar rico rapidamente, mas como gastar melhor, comparar preços e economizar nas compras. Os…",
-    "data": "2026-11-11T15:36:37.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/DvT-wFdT0kN4gt57Nw4X_y16hOo=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/R/8/ECeqcLR3SnfGZAVAO6iQ/gettyimages-1837289306.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-    "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-    "resumo": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-    "data": "2026-11-11T15:00:15.000Z",
-    "imagemFeed": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
-    "fonteId": "deepmind",
-    "fonte": "Google DeepMind",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Claude ganha apps de produtividade com IA para concorrer com pacote Office e Google Workspace",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU1VYakNoT3luODZIc09Xbk9DaFlaeXRBZERoZTFYNXR1Qzd2cmpMbXNkSVpzYzNlNTdOaW5ORmh1RlpWaFNycXJ6dndrX1ZNenVaLWN5N3dzSVRleDVCRy1aNjhKSE1ib25Yb1V1amd4MWl3MURybHhqQ0NjNkpYeVhWeVpGQWFXdkVKTUFicTRVdllCam81cFpEaU1XMm03WGNRZEc0RWUxQTZVa0RCRXBVMHlMVjdlYlhjUnJDU254eTRGa3FRRDVxMjdqZEoyV0swYUdEOW5lSFFudV9aUGExNUw4dDMtUnfSAe8BQVVfeXFMUF9NUDFXUG9HUTR6Mzg5Mlh6Sl9jczlId2JLOXRzZ0ozWVdLbUFncG5ETF9jclhwVTlYMDFNVjFtUlBWTm5VbXJ2RFZGa05XNTZvVW1EVHpCUFp3MmtYTkxlNmFCS3U4eDMtNU5SVkM1dHA4Z1ZCSWF2QzIyZTBLMzNXbmdwVmVnWTdnNEFzSlJrQzhUV3BNbUI5R2N1TTBnb0lCUlNHM3lpb1lmTGR3N1NCZmh5ZnVSQnZNcFItU2tWVlpPaUJSNC1ka3RqdEdTRk9ycW5QVUVTMGVfYkY5OEJjWVJYeXpKUkUyT2hGMGc?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T15:00:00.000Z",
-    "origem": "Estadão",
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Alexa+ com IA ganha versão para ser usada no computador no Brasil",
-    "link": "https://olhardigital.com.br/2026/11/11/reviews/alexa-com-ia-ganha-versao-para-ser-usada-no-computador-no-brasil/",
-    "resumo": "Saiba como funciona a nova Alexa+ no computador, que sincroniza conversas com a linha Echo e exige cadastro para acesso antecipado O post Alexa+ com IA ganha versão para ser usada no computador no Brasil apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-11T14:53:51.000Z",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "TSMC aprova investir até US$ 1 bi em Anthropic e OpenAI e reforça aposta em IA além de chips",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZHY1cFFZdnprVklwaDlWcC03R0JUdnVfV045d2xhaWp0aHQxNmVLM0puRW9lOVd6SjEzQXRGX2F4Tmx6dmtxd05xY2tkbjZNVzMyMVkxaVB0QXRnaGFsaXl5ZUU2ajZxeFd1cnhhWVktM1dBZDh0WTF2STV4RDlpOWJ1WmtvSjhTQ2xZMy1wZWlTRGxrVEdCMUNSSXBoay1PY0o0S3ItY2ZBa1lheXBGR2lIWnJiRnNwbHlOUDkyM3Y0T3drV1piTUhXei1WYjgtSmlvVnA3MVVrR01XTGI5b29QTGNsU0tudUJLXzlDX2lkdw?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T14:51:00.000Z",
-    "origem": "UOL Economia",
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic Mira Avaliação de Us$ 1,4 Trilhão em IPO Aguardado Pelo Mercado",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1JUdkpncHF0emN5NG5OUmNIOHV4Vm9zZ3ZVTmRMc0FSb290OG51ZkFSblpVMHpfNThpRTNJS1cyaHFFcjBiblZXLWw0QkdNQ05iLVRuSkZXYTNwMGxZS18tS0l3R1R6MURrNi0tYUJPeFlDbm9iN3lVTkJMYi1IR0tCejBmQkNfd0hucmZLYTBsZk5IdjV2RGVoYnJNeDFJR2NlUGdrWldrd1Y1cHhSNXhxRERZUQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T14:46:28.000Z",
-    "origem": "Forbes Brasil",
-    "fonteId": "google-news-claude",
-    "fonte": "Forbes Brasil",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Nvidia perde 'meia B3' após CEO ser ligado a suposta espiã chinesa",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/11/nvidia-perde-meia-b3-apos-ceo-ser-ligado-a-suposta-espia-chinesa.ghtml",
-    "resumo": "A Nvidia, desenvolvedora global de semicondutores voltados à inteligência artificial (IA), perdeu US$ 430 bilhões em valor de mercado nos dois últimos pregões, em meio às repercussões de uma investigação de que o seu CEO, Jensen Huang, teria mantido uma relação com uma mulher suspeita de atuar para a inteligência…",
-    "data": "2026-11-11T14:43:58.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/t_eO7UlhfqtN0Hf1kKEoomePAzw=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/z/7/BMek32SC20LBjRZnSZlA/451567846.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Setor de serviços varia -0,1% em setembro, impactado pelos transportes",
-    "link": "https://borainvestir.b3.com.br/noticias/setor-de-servicos-varia-01-em-setembro-impactado-pelos-transportes/",
-    "resumo": "Em 12 meses, atividades crescem 1,9%, revela o IBGE",
-    "data": "2026-11-11T13:52:42.000Z",
-    "fonteId": "b3",
-    "fonte": "B3 Bora Investir",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "OpenAI testa perfis comerciais oficiais de empresas no ChatGPT",
-    "link": "https://olhardigital.com.br/2026/11/11/pro/openai-testa-perfis-comerciais-oficiais-de-empresas-no-chatgpt/",
-    "resumo": "Com o Business Hub, empresas verificadas podem atualizar dados, integrar estoques e preços em tempo real e acompanhar menções no ChatGPT O post OpenAI testa perfis comerciais oficiais de empresas no ChatGPT apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-11T13:35:48.000Z",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Petrobras (PETR4; PETR3) tomba na bolsa após resultados do 3º tri",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/11/petrobras-petr4-petr3-b3-bolsa-apos-resultados-do-3o-tri.ghtml",
-    "resumo": "O crescimento dos números do terceiro trimestre da Petrobras (PETR4) não animou o mercado. A empresa reportou lucro líquido de R$ 39,7 bilhões no período, o que representa uma alta de 21,5% em relação ao mesmo período do ano passado. Apesar disso, os papéis registraram forte desvalorização, restringindo os ganhos do…",
-    "data": "2026-11-11T13:33:11.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/HRmD0rwKwGsK1EVplnk7zrddVZs=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/m/J/bLdqH8QYqjcZUfc1U0yQ/2025-08-16t174551z-119122991-rc2g8gany38p-rtrmadp-3-petrobras-raizen.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic amplia compromissos mínimos firmados com Microsoft e Google em cerca de US$ 9 bi",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVzlzcTlpYjJPR2tBMWtzb2N2Z2d0clUtVGROd05lUGttSV9UVTNyNTZ0aktKTHNGWU9uYXJSUWpxZzNyX045VFNqaktWUEphekVOaXdZY29pRWw3ZE9VRXFveVYtNWotbVI2VDdOdFhsSUhOck1iSlMyaGdsWWtCcXN0SThDUHlxUVBsQ0czNWthdWg5Y0otY3RqZWViaTFoT1BiRHdoOTI2cFhrTTdaTHBFeDFxV08yMU55MW13MDFpcGNTSXpjM0xSbWJyend0c1FOSE5lNDdCYVJoMEU0eEpMN3FMS0VwNklWZUUxVQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T13:30:00.000Z",
-    "origem": "UOL Economia",
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Demanda pelo IPO da Anthropic supera oferta de ações várias vezes, diz Bloomberg",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGFFbS1jZjdXQ3VWU2VqdTEzQnBwUklGcG5Icmp2S1JzUXZLc0FaMDVyaFZYQlJKYmcyMkxFamRXckZxeUZQU2ltNjV2OGpYcWFlMnIya2tEeU41TzRwcW9TOGtONmttX1NjTm5DaVBuMzB6N3ljSlpJQTR2cG1kTXYtaEJrckRaVG8zdWJ5cXowdDZYOGhhbVhRWFdDaXl2a3FncEhkcTJoaUpvR1BMcUNnV0REbTBwbEtOWW0yU1hIZDU5VzNZaHVhRmhuMWhu?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T13:26:00.000Z",
-    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonteId": "google-news-claude",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Operação conjunta apreende carga milionária de celulares e medicamentos emagrecedores no Paraná",
-    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-conjunta-apreende-carga-milionaria-de-celulares-e-medicamentos-emagrecedores-no-parana",
-    "resumo": "Fiscalização realizada em São Miguel do Iguaçu resultou na apreensão de 1.900 celulares, 20 mil ampolas medicamentos emagrecedores e uma pistola com acessórios e munições.",
-    "data": "2026-11-11T13:25:38.000Z",
-    "imagemFeed": null,
-    "fonteId": "receita",
-    "fonte": "Receita Federal",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "A IA pode transformar ataques cibernéticos em uma “pandemia digital”? Entenda",
-    "link": "https://www.infomoney.com.br/business/a-ia-pode-transformar-ataques-ciberneticos-em-uma-pandemia-digital-entenda/",
-    "resumo": "Avanço dos agentes autônomos amplia preocupações com ataques capazes de comprometer empresas e cadeias de fornecedores The post A IA pode transformar ataques cibernéticos em uma “pandemia digital”? Entenda appeared first on InfoMoney .",
-    "data": "2026-11-11T13:07:50.000Z",
-    "fonteId": "infomoney-ia",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Reset de uso do Claude: quem pode resgatar e como fazer",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZENha2E4ZWREVUFBVml6OC1RZWNOMkY2U1Z5OFpQZU9jUU5WS0NaOUFjRjBOUDZfMl8wenYxaWFZZElwblo2QW8xNzh4QVN3dWdIMnJIWkRRaks0Rk5qVFhLYjBrSHMya09GY21lVnB2anhXTEE0SnNIc1Nqd0NnTmZnbXBISW1BbEx4TXRtU3dSVUxGc3Z5c1F0R1JLblhyVFJtWkU0UjFxM3FVakVMM1BGU2g?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T13:03:16.000Z",
-    "origem": "Exame",
-    "fonteId": "google-news-claude",
-    "fonte": "Exame",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Receita Federal e Polícia Federal apreendem 15 mil litros de acetato de etila destinados à exportação ilegal para a Bolívia",
-    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-policia-federal-apreendem-15-mil-litros-de-acetato-de-etila-destinados-a-exportacao-ilegal-para-a-bolivia",
-    "resumo": "Ação conjunta em Corumbá/MS impediu o envio clandestino de produto químico controlado com potencial para refinar cerca de 34 toneladas de cocaína.",
-    "data": "2026-11-11T12:20:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "receita",
-    "fonte": "Receita Federal",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Anthropic revela mais de US$ 10 bilhões em novos contratos",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXdlVVF6dmljUFdTSVRkZzZ0R19oZzJORVlSbXJIQ1lyc1RPbEZLbW5pM0dITWVxWnhwd2REUmZpV3lSbHZ0bmxHUzdTNFVSQWppS0JwckZGZnRYVm1Wc1NCcVlFZEdRa2Ezcnc3RG1YN2E1czN0T0YtV24tWnhXOG1UM1dfWmRybUNFLWdBaXUzZE9hODlyQkJqSll6U0dqcjJwZlF2ejExZHB6bnREbWN0U1k2MzloMkVZ?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T12:15:00.000Z",
-    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "fonteId": "google-news-claude",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dados de inflação dos EUA de outubro são ‘perturbadores’, diz Goolsbee, do Fed",
-    "link": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/11/dados-de-inflacao-dos-eua-de-outubro-sao-perturbadores-diz-goolsbee-do-fed.ghtml",
-    "resumo": "O presidente da distrital de Chicago do Federal Reserve (Fed), Austan Goolsbee, classificou como “perturbadores” os dados de inflação ao consumidor de outubro nos Estados Unidos e afirmou que a autoridade monetária precisa enfrentar a persistência das pressões inflacionárias. “É mais um relatório preocupante, beirando…",
-    "data": "2026-11-11T12:09:02.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/_wexobyAhYXDMU8bohR7YOy0k50=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/8/F/BD3BKJRWGxbUAoldGlxQ/2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa fecha em alta e dólar cai a R$ 5,56, com possível ajuste fiscal",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/11/ibovespa-dolar-hoje-11-11-2026.ghtml",
-    "resumo": "O Ibovespa, principal índice de ações brasileiro, encerrou o pregão desta quarta-feira (11) em alta, enquanto a cotação do dólar comercial recuou, após renovar a máxima do ano na sessão anterior. O mercado financeiro atuou focado na recepção do primeiro pacote de ajuste fiscal articulado pelo governo Luiz Inácio Lula…",
-    "data": "2026-11-11T12:03:28.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/G1Dp0u6PweBqbId2AfHUgdK6hCA=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/i/Z/k3RyABQmejhzrAZcgjPQ/116690658-debatedoscandidatosapresidentenatvgloboflaviobolsonaroelula.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Volume de serviços varia -0,1% em setembro",
-    "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48546-release-pms-setembro.html",
-    "resumo": "Período Variação (%) Volume Receita Nominal Setembro 26 / Agosto 26* -0,1 0,5 Setembro 26 / Setembro 25 -0,1 6,4 Acumulada Janeiro-Setembro 1,5 7,2 Acumulada em 12 Meses 1,9 7,3 * série com ajuste sazonal Em setembro de 2026, o volume de serviços variou...",
-    "data": "2026-11-11T12:00:00.000Z",
-    "fonteId": "ibge",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Em setembro, indústria recua em 9 dos 15 locais pesquisados",
-    "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48542-pim-pf-regional-setembro-2026-release.html",
-    "resumo": "Com a queda de 0,8% na produção industrial em setembro de 2026, na série com ajuste sazonal, 9 dos 15 locais pesquisados pelo IBGE acompanharam esse movimento negativo. Goiás (-4,1%), São Paulo (-3,8%) e Pernambuco (-3,0%) apresentaram os recuos mais...",
-    "data": "2026-11-11T12:00:00.000Z",
-    "fonteId": "ibge",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Cury (CURY) pagará R$ 200 milhões em dividendos; veja quem recebe e quando",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/11/cury-cury-pagara-r-200-milhoes-em-dividendos-veja-quem-recebe-e-quando.ghtml",
-    "resumo": "O Conselho de Administração da Cury (CURY) aprovou a distribuição de dividendos intercalares no montante total de R$ 200 milhões para os acionistas da empresa. O montante correspondente a R$ 0,64 por ação ordinária da empresa. Terão direito aos proventos os acionistas da companhia que constarem na base da empresa ao…",
-    "data": "2026-11-11T11:30:57.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/Eh5vvYH76SpEZjRmUBUi9AB6gwI=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/s/H/2348OWSw6Rg0qoDOgxgw/money-9330837-1280.png",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
-    "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
-    "resumo": "O relatório final da LDO deve ser votado na Comissão de Orçamento até 9 de dezembro, e o Orçamento Anual, em 16 de dezembro",
-    "data": "2026-11-11T11:29:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/gettyimages-2301924367-768x512.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Petrobras (PETR4), Telefônica (VIVT3), Cury (CURY3) e mais: veja os destaques das empresas",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/11/petrobras-petr4-telefonica-vivt3-cury-cury3-e-mais-veja-os-destaques-das-empresas.ghtml",
-    "resumo": "A Petrobras (PETR3; PETR4) terminou o terceiro trimestre de 2026 com lucro líquido de R$ 39,75 bilhões, alta de 21,5% em comparação com o lucro de R$ 32,7 bilhões apurado no mesmo intervalo do ano anterior. A teleconferência será realizada às 13h. O conselho de administração da estatal aprovou o pagamento de…",
-    "data": "2026-11-11T11:15:44.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/IGzBUPlOKtvNP8SnkrNXxl1o3MU=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/a/p/9UdTPgRMOiGssjvPR4oA/2026-03-06t004000z-757184003-rc2iwea0qcvi-rtrmadp-3-petrobras-results.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Robô chinês de 4 metros tem capacidade para erguer 500 quilos",
-    "link": "https://olhardigital.com.br/2026/11/11/robotica/robo-chines-de-4-metros-tem-capacidade-para-erguer-500-quilos/",
-    "resumo": "Conheça o Neo1, robô chinês de 4 metros e 1,2 tonelada, projetado para tarefas pesadas e com capacidade anunciada de 500 kg O post Robô chinês de 4 metros tem capacidade para erguer 500 quilos apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-11T11:06:40.000Z",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "DeepSeek e outras empresas chinesas de IA têm apenas 10% da receita da OpenAI e da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS01LTlE3NTFTdENjRDNmandSSGFDWS16TkRxcmZJZDFlMVJrQVdaY0FERHkzdHE3MW00U2NWWXRhWld2VnhkUHdwNTloZS00VGlQSWlCZXVnSFcyZVp6TGdEX0xHUlI0Q0t0TTctQ1RGTTNzNnV5cEpnZUJHQTJSeUR4c2ljQW41SzNHS1R6Y3I3NW1MMjY0SmY1ejdFajRybEJBcVMtNVdMMk43VEpzNDdYVlAxR2dYMkhYUWxNZzA3MDBIcDVQSGFJY0g4ZGVyazRNNDB0NGx6ZVQzNGlqVlZqUXZqMTBLQllZeVRTYXBoMmdCdFVuWHNENNIBigJBVV95cUxQZ3pWLWhOakN5dHBRX0Q1LXh6UVJDdVlZY1NrbHpVbkxhUU9Pdlh3RzNITUFvWjVDQm9sRVhKak9LWW9nbGZiSUZpTjJYak45YVpEbUxPcmJnelZ0T0FTZHRXTHFzang0YUZxWEN0b3RnMEROdzlwVmFGcXRqZ3VwR3RZb3libjJRVFE1d0VlQ0M2bWtlOWU5V3hpbWxTb1RGdW13MmljR2NTZ0VRTEtxbG9HeHJCdlFhV19EQWkzTkZNdk5CYkNRUW8tdmFYeE1YbU12QXZUcFNnTXBINXVWWlJiSHRrbGZJT3kwdmRlcFA1SEFwaUs0R0ZQMnF1bEdkd0dROW40WmN4QQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T11:02:18.000Z",
-    "origem": "Valor Econômico",
-    "fonteId": "google-news-claude",
-    "fonte": "Valor Econômico",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Receita Federal apreende drogas e medicamentos irregulares em ações de combate aos ilícitos no Acre e em Rondônia",
-    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-apreende-drogas-e-medicamentos-irregulares-em-acoes-de-combate-aos-ilicitos-no-acre-e-em-rondonia",
-    "resumo": "Operações realizadas pela Receita Federal no Acre e em Rondônia resultaram na apreensão de drogas e medicamentos de comercialização irregular, reforçando a atuação do órgão no combate ao tráfico e à circulação ilícita de mercadorias nas regiões de fronteira.",
-    "data": "2026-11-11T10:38:52.000Z",
-    "imagemFeed": null,
-    "fonteId": "receita",
-    "fonte": "Receita Federal",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Pacote fiscal de até R$ 80 bi e crise na Nvidia ditam o ritmo do mercado",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/11/pacote-fiscal-de-ate-r-80-bi-e-crise-na-nvidia-ditam-o-ritmo-do-mercado.ghtml",
-    "resumo": "A base governista do presidente Luiz Inácio Lula da Silva alinha com as lideranças do Congresso Nacional a apresentação de um conjunto de medidas de ajuste fiscal com impacto estimado em até R$ 80 bilhões para 2027 para tentar assegurar a meta de resultado primário. A antecipação da proposta ocorreu enquanto o…",
-    "data": "2026-11-11T10:38:30.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/EeEXW1n01dBlIwfyWnDFROiPVHU=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/B/V/vfx7XKS5qJHzXBvsOSZQ/lula-em-pronunciamento-em-rede-nacional-no-domingo.avif",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "O que André Lara Resende entendeu e Lula ainda não",
-    "link": "https://valorinveste.globo.com/blogs/fernando-torres/post/2026/11/o-que-andre-lara-resende-entendeu-e-lula-ainda-nao.ghtml",
-    "resumo": "O pronunciamento do presidente Lula no domingo mostra que ele ainda não entendeu que tipo de recado precisa dar aos agentes econômicos do país (e não apenas para a Faria Lima) sobre a condução da política fiscal no seu quarto mandato. É natural que, depois de vencer uma eleição em que defendeu as políticas sociais dos…",
-    "data": "2026-11-11T10:04:57.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/cpddWQb5rhB68AC5MEzruSf8oxQ=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/L/a/QH3bMjT8yA3glTwG6vxg/fernando-torres.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ricos usam crédito para planejar e baixa renda, para fechar o mês",
-    "link": "https://valorinveste.globo.com/objetivo/organize-as-contas/noticia/2026/11/11/ricos-usam-credito-para-planejar-e-baixa-renda-para-fechar-o-mes.ghtml",
-    "resumo": "A relação do brasileiro com o crédito reproduz a desigualdade social do país: enquanto as famílias de maior renda utilizam o limite bancário para programar compras e acumular vantagens, as classes mais vulneráveis recorrem aos empréstimos e cartões para pagamento de dívidas e necessidades do cotidiano, de acordo com…",
-    "data": "2026-11-11T10:00:00.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/dDbquklXvIc6Q1JNVRYvmj9XdsY=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2022/X/A/07dVPLRWSf71nuNET4Bw/minimo.jpeg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic busca avaliação de US$ 1,4 tri em IPO, testando entusiasmo com IA",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ2g4R0dRcFFQckYwUENUZDg4bk1HdDV2QU5nZG9RYVU4WG5UNUhHbXoyNjNIWE1aSnZUemtzUU1wU1ZvM295aTBDdDhkMjViM3dkZzk2ZkxBTTZVTGI2c2hJeXFuU2VmMHZadTc4TFJ0WXVMU0xfRWoxNUFlMDR4aUtJOU1RQU5MTFZQbF9IZU5xQXptY0RNQWNtcFlWVWJhTDAxOUJUR245MERlNW1Wd9IBtgFBVV95cUxNQlJnSXU4dm5fOGtpazB1OXZocHdla0VHUmdtTURqS2pvRUV0bDNFeXl4cUVfR21xaDBDVnNlRlZRVEhnbVVZeVhldUpzUUgtemVYUW5NX1QwLVpoN1hDYWhDbTRvVl9EVWM4WExXQzliMjdRbjB6MzdiNjdvTW1rN3NKWlhmcHBPMjhyVW9BeGpxcGxJV29yQ1hscENuRm5lbGZwc3ZJVk05bDZDczVEZlc2VjBBUQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-11T09:35:51.000Z",
-    "origem": "InfoMoney",
-    "fonteId": "google-news-claude",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Gestores são imunes aos vieses comportamentais?",
-    "link": "https://valorinveste.globo.com/blogs/hudson-bessa/coluna/gestores-sao-imunes-aos-vieses-comportamentais.ghtml",
-    "resumo": "O tamanho e a propagação das perdas entre os fundos de ações no dia seguinte das eleições presidenciais indicam que muitos gestores embarcaram com muita convicção na possibilidade de vitória da oposição. A história é bem conhecida. No dia seguinte ao segundo turno a bolsa derreteu 13,88%, a quinta maior queda desde o…",
-    "data": "2026-11-11T09:20:00.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/NInyDF4DyH9ZGHF1_SUPdOOLL-I=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/7/C/FPAFpoTjetZjdOAMasxw/hudson-1-.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Tesouro Direto: taxas recuam com possível ajuste fiscal, mas prefixado ainda paga 15%",
-    "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/11/tesouro-direto-hoje-11-11-2026-prefixado-ipca-juros-eua-acompanhe.ghtml",
-    "resumo": "Depois de uma sessão marcada por novo estresse e reprecificação na curva de juros, o mercado de títulos públicos do Tesouro Direto registrou nesta quarta-feira (11) leve queda. O movimento refletiu a digestão inicial da proposta de ajuste fiscal de até R$ 80 bilhões costurada pelo governo Lula com o Congresso…",
-    "data": "2026-11-11T09:10:00.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/s-K623kYrofWVan0BR1Gye25tc0=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2023/t/b/VZDs5NSJ6ollluswGFrA/gettyimages-119833184.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dois terços das empresas investem em IA sem calcular o retorno financeiro",
-    "link": "https://tecnoblog.net/noticias/dois-tercos-das-empresas-investem-em-ia-sem-calcular-o-retorno-financeiro/",
-    "resumo": "Ainda assim, perspectiva é positiva para 67% das companhias do Brasil. Dois terços das empresas investem em IA sem calcular o retorno financeiro",
-    "data": "2026-11-11T09:09:36.000Z",
-    "imagemFeed": "https://files.tecnoblog.net/wp-content/uploads/2026/01/capa-freelas-perde-emprego-pra-ia.png",
-    "fonteId": "tecnoblog-ia",
-    "fonte": "Tecnoblog",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "ETF de títulos atrelados à inflação de mesmo prazo vira moda. É melhor que Tesouro Direto?",
-    "link": "https://valorinveste.globo.com/produtos/renda-fixa/noticia/2026/11/11/etf-de-titulos-atrelados-a-inflacao-de-mesmo-prazo-vira-moda-e-melhor-que-tesouro-direto.ghtml",
-    "resumo": "Uma nova modalidade de ETF, fundo negociado em bolsa que acompanha um indicador de mercado, de renda fixa está avançando entre os brasileiros que gostam do Tesouro Direto: os ETFs monoativos de títulos públicos que acompanham a inflação. Esses produtos compram apenas essa modalidade de papel, com o mesmo prazo de…",
-    "data": "2026-11-11T09:00:00.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/L1-ARqzh3ZZ6dy9OsM0SAC6WrPo=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/m/3/pBxkdbTcqLw7gIttFHJQ/porco.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Experience the art and legacy of Dr. Esther Mahlangu",
-    "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
-    "resumo": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
-    "data": "2026-11-11T09:00:00.000Z",
-    "imagemFeed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
-    "fonteId": "google-ai",
-    "fonte": "Google (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "ChatGPT Plus for veterans and servicemembers",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "resumo": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "data": "2026-11-11T08:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "openai",
-    "fonte": "OpenAI (blog oficial)",
-    "categoria": "empresa"
   }
 ]

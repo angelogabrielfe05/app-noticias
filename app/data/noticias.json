@@ -1,10 +1,27 @@
 {
-  "geradoEm": "2026-11-15T06:28:26.593Z",
+  "geradoEm": "2026-11-15T16:21:04.742Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "2115df6f7c5f",
+          "outrosIds": [],
+          "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
+          "resumo": "O Supremo Tribunal Federal (STF) terá em seu Salão Nobre, a partir da próxima terça-feira (17), um símbolo da justiça na tradição yorubá, o Oxê de Xangô. Trata-se de um machado com lâminas nas duas pontas, simbolizando a igualdade no julgamento, sem favorecer um lado em detrimento de outro. O Oxê é envergado por…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-15T13:24:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "706659a6fe37",
           "outrosIds": [],
@@ -21,42 +38,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "f03d09866098",
-          "outrosIds": [
-            "63906b362b03"
-          ],
-          "titulo": "Fachin suspende prazos processuais após instabilidade da Microsoft",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, decidiu nesta sexta-feira (13) suspender os prazos processuais no sistema judiciário de todo o país em razão das falhas ocorridas nos sistemas da Microsoft. Pela decisão, a contagem dos prazos fica…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T18:50:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_bAn8IXIRXyYwunj0469lBVVY7Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9237.jpg%3Fitok%3DUSlDvFeJ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_bAn8IXIRXyYwunj0469lBVVY7Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9237.jpg%3Fitok%3DUSlDvFeJ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
-          "id": "ef5d3e5ba324",
-          "outrosIds": [],
-          "titulo": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
-          "resumo": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada máxima de trabalho para 40 horas semanais, e garante dois…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T14:47:36.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -64,23 +45,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "757cc6f9a0fd",
-          "outrosIds": [],
-          "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
-          "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
-          "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
-          "fonte": "Receita Federal",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T14:44:01.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.gov.br%2Freceitafederal%2Fpt-br%2Fassuntos%2Fnoticias%2F2026%2Fnovembro%2Fpgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026%2Fsn-26-27.png%2F%40%40images%2F1ad6f761-9528-498d-90ad-164b68df568d.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.gov.br%2Freceitafederal%2Fpt-br%2Fassuntos%2Fnoticias%2F2026%2Fnovembro%2Fpgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026%2Fsn-26-27.png%2F%40%40images%2F1ad6f761-9528-498d-90ad-164b68df568d.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
         {
           "id": "e86009199f76",
           "outrosIds": [],
@@ -96,42 +60,21 @@
           "pontos": 22
         },
         {
-          "id": "6f16a18e8c3d",
+          "id": "f53004f96290",
           "outrosIds": [],
-          "titulo": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
-          "resumo": "Adiar a votação dos pontos pendentes do ajuste fiscal do governo (PLP 299/2026) para terça-feira (17) propiciará mais condições para os senadores avaliarem suas posições. Foi o que afirmou o presidente do Senado, Davi Alcolumbre em coletiva de imprensa nesta quinta-feira (12). A declaração ocorreu após as 21h, ao fim…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T14:57:48.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi%2Fentrevsita_davi_print_01.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi%2Fentrevsita_davi_print_01.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "ceba6f333cfd",
-          "outrosIds": [
-            "6a327ad0b873"
-          ],
-          "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
-          "resumo": "O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feira, 12, pelo Senado…",
-          "link": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
+          "titulo": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
+          "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setembro, divulgado na…",
+          "link": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-14T15:00:32.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
+          "data": "2026-11-15T14:50:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 19
         },
         {
           "id": "95b40db48f2b",
@@ -149,6 +92,40 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
+        },
+        {
+          "id": "71adb9253bc4",
+          "outrosIds": [],
+          "titulo": "Montadoras podem reduzir imposto sobre carro zero km com reciclagem de veículos velhos",
+          "resumo": "Nova portaria do Ministério Desenvolvimento, Indústria, Comércio e Serviços, como parte do Programa Mover, quer estimular destinação adequada e facilita a verificação da origem de peças usadas. Veja como aderir",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T19:42:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fmdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis%2F%40%40download%2Fimage%2Fpatio.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fmdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis%2F%40%40download%2Fimage%2Fpatio.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
+        },
+        {
+          "id": "bb1123b7ae1e",
+          "outrosIds": [],
+          "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
+          "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalmente em caixa. O […]",
+          "link": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-15T13:31:08.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fbolsa-brasil-acoes-mercado.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fbolsa-brasil-acoes-mercado.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
         }
       ]
     },
@@ -163,10 +140,7 @@
             "e426843a3269",
             "d378d4173ff0",
             "aaaaeb830cb3",
-            "03ec23ebdf9e",
-            "b1e22273133b",
-            "c74a61c9c03c",
-            "20067718943e"
+            "03ec23ebdf9e"
           ],
           "titulo": "Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável",
           "resumo": "Índice termina a semana no azul, enquanto investidores também acompanham novos dados de inflação nos Estados Unidos e os desdobramentos na Nvidia",
@@ -178,9 +152,8 @@
           "tambemEm": [
             "Agência Brasil",
             "Money Times",
-            "Valor Investe",
-            "Seu Dinheiro",
-            "Exame Invest"
+            "Exame Invest",
+            "Seu Dinheiro"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -203,7 +176,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         },
         {
           "id": "16e0df97fa60",
@@ -220,43 +193,41 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 18
         },
         {
-          "id": "4fd03b3beb0d",
-          "outrosIds": [
-            "5c15fd16d480"
-          ],
-          "titulo": "Banco do Brasil (BBAS3): ações estendem queda após tombo no lucro",
-          "resumo": "As ações do Banco do Brasil (BBAS3) engataram mais um dia de queda nesta sexta-feira (13), estendendo o movimento negativo iniciado na véspera após a divulgação do balanço do terceiro trimestre. Os papéis encerraram o pregão com queda de 2,45%, cotados a R$ 15,10. Do início do ano até agora, a desvalorização acumulada…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/banco-do-brasil-bbas3-acoes-estendem-queda-apos-tombo-no-lucro.ghtml",
+          "id": "398c6e2a0f7b",
+          "outrosIds": [],
+          "titulo": "Atração turística da Islândia, Blue Lagoon vai ter ação na bolsa: você compraria?",
+          "resumo": "Famosa por suas águas termais, Blue Lagoon prepara IPO, mas enfrenta riscos vulcânicos",
+          "link": "https://exame.com/invest/mercados/atracao-turistica-da-islandia-blue-lagoon-vai-ter-acao-na-bolsa-voce-compraria/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-15T10:03:22.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
+        },
+        {
+          "id": "940a6ce948e4",
+          "outrosIds": [],
+          "titulo": "Ibovespa e dólar contrariam a lógica do mercado e sobem na semana; entenda",
+          "resumo": "O mercado encerra a semana sob uma dinâmica um tanto quanto atípica. Tanto o Ibovespa quanto o dólar à vista fecharam as últimas cinco sessões com valorização na casa dos 2%. A busca por proteção diante das dúvidas com o pacote fiscal conviveu com um repique pontual da bolsa apoiado pela temporada de balanços. O dólar…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/13/ibovespa-e-dolar-contrariam-a-logica-do-mercado-e-sobem-na-semana-entenda.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T14:44:22.000Z",
+          "data": "2026-11-13T21:21:21.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FWZZw-ZVk6hbiowQnCKKkP6ewD3o%3D%2F780x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FG%2FO%2F9Y48jwTAayBTQVxjz74A%2Fbanco-do-brasil.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FWZZw-ZVk6hbiowQnCKKkP6ewD3o%3D%2F780x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FG%2FO%2F9Y48jwTAayBTQVxjz74A%2Fbanco-do-brasil.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPXKZT_z6VSfZF6oSKkhkO89odIw%3D%2F2309x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fw%2Fb%2FCT8wegQGWEfqzvVnfoFA%2Fgettyimages-1307372672.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPXKZT_z6VSfZF6oSKkhkO89odIw%3D%2F2309x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fw%2Fb%2FCT8wegQGWEfqzvVnfoFA%2Fgettyimages-1307372672.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
-        },
-        {
-          "id": "31d501a3a03a",
-          "outrosIds": [],
-          "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos",
-          "resumo": "Gestor explica por que XP Malls vai \"normalizar\" rendimentos após 29 meses de distribuições acima da geração recorrente The post FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T09:05:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2FFelipe-Teatini-gestor-do-XP-Malls-XPML11-Imagem_-divulgacao.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2FFelipe-Teatini-gestor-do-XP-Malls-XPML11-Imagem_-divulgacao.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
+          "pontos": 17
         }
       ]
     },
@@ -265,39 +236,18 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "5bf4951adbe9",
-          "outrosIds": [
-            "941ff5ac79d2"
-          ],
-          "titulo": "Introducing ChatGPT Wallet",
-          "resumo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-          "link": "https://openai.com/index/introducing-chatgpt-wallet",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-13T15:00:00.000Z",
-          "tambemEm": [
-            "Olhar Digital"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F2xTvIZkcQhKk3VNFioQ4CR%2F4efb84a6adbddb41311f6b18158fad8b%2Fintroducing-chatgpt-wallet-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F2xTvIZkcQhKk3VNFioQ4CR%2F4efb84a6adbddb41311f6b18158fad8b%2Fintroducing-chatgpt-wallet-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
-          "id": "c53802e97981",
+          "id": "178e46f51a18",
           "outrosIds": [],
-          "titulo": "O Google teve o melhor modelo de IA durante treze dias; a Anthropic tomou o posto, e a resposta levou 24 horas",
+          "titulo": "IPO da Anthropic põe à prova a aposta de US$ 1,4 trilhão em IA",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVzQwXzJDVDd4NllHbzJvTlVPcTROb0ZoWHlGdTJ0QmFCNGFyNDhXZTlxWHB6Mng1R1VvVmE5a2lwQVo5ME8wTjZNUWlXUENvVG5mMFVkZm44bWt0ZXVzcjVUdmNSMTZGZWhhd09pSHFDVU11N1NwVUZsLWZLM0dVeTY4STV1ckZOcE1jWUtaS3IxeFZFTENIa0ZmQkZaZVNycDIxMy1yQlZfbmNVSmFobVhRZVlNYXhmVlA2bGFzclcwbmpyWUVaNGNRSE42TGpicGVJdWtnLUtpXzM4WVB5X2dLVmpnVFZjeGx0c0h1a3lwX2FFNEZQYW1PY1JYdFY1Z3d5R1NyN09LdTVrRk55T1NyeVlPU01WdUhteA?oc=5",
-          "fonte": "Terra",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVU3WW9ORGhFY2Mwd1laQW5YbHV1OEVoZFJrOVlNNFExbHIzUldzcWhpUTVhSWZyTlZuUnAxZXUxVDlLaVZyRldBQ0NENzB2VW1vZTFXZDJDbDR3MmdaUTR1YkZGUXhiWHYxYUlDdmlnQXVpSmtncktrcFk1Nmw4eGNqNmF1Y3A0NXpUTzU0Q2lHcnZMR2Ftcm9VbHJjS1ZSRTJkYQ?oc=5",
+          "fonte": "Exame",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-14T11:08:00.000Z",
+          "data": "2026-11-15T16:09:01.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 22
+          "pontos": 24
         },
         {
           "id": "fd67b33d486f",
@@ -313,41 +263,41 @@
           "data": "2026-11-14T08:00:00.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 22
-        },
-        {
-          "id": "432fd157cbf1",
-          "outrosIds": [],
-          "titulo": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
-          "resumo": "Levantamento analisou mais de 8 milhões de mensagens. Respostas erradas, instruções ignoradas e pedidos mal compreendidos são principais causas de frustração. Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
-          "link": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
-          "fonte": "Tecnoblog",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T13:42:16.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2021%2F12%2Ftipos-de-inteligencia-artificial-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2021%2F12%2Ftipos-de-inteligencia-artificial-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 20
         },
         {
-          "id": "50f48f4b6e64",
+          "id": "e2299add8b87",
           "outrosIds": [],
-          "titulo": "Entenda o que assinantes perdem com o fim do Gemini Pro no Google AI Plus",
-          "resumo": "O Google vai retirar o acesso aos modelos Pro do plano Google AI Plus , sua assinatura paga mais barata para o Gemini. Com a mudan&ccedil;a, os assinantes n&atilde;o poder&atilde;o mais escolher as vers&otilde;es avan&ccedil;adas da intelig&ecirc;ncia artificial no aplicativo do Gemini e no Modo IA da Busca. O plano…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/entenda-o-que-assinantes-perdem-com-o-fim-do-gemini-pro-no-google-ai-plus/",
-          "fonte": "Canaltech",
+          "titulo": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
+          "resumo": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T13:00:00.000Z",
+          "data": "2026-11-15T10:04:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F_14RHRWoRn0cTCUZr1IyQq2gMVw%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F_14RHRWoRn0cTCUZr1IyQq2gMVw%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 15
+        },
+        {
+          "id": "8b54fa5611e9",
+          "outrosIds": [],
+          "titulo": "Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem",
+          "resumo": "Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-15T08:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FInteligencia-artificial.jpg%3Ffit%3D1920%252C1280%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FInteligencia-artificial.jpg%3Ffit%3D1920%252C1280%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 15
         }
       ]
     }
@@ -441,7 +391,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 30,
+      "itens": 19,
       "erro": null
     },
     {
@@ -553,7 +503,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 33,
+      "itens": 31,
       "erro": null
     }
   ]
