@@ -199,6 +199,10 @@ export function montarAbas(classificadas, temas, agora = new Date()) {
     if (item.pontos < (temas.pontuacaoMinimaExibir ?? 0)) continue;
     const chaveFonte = item.aba + '|' + item.fonte;
     if ((porFonte[chaveFonte] || 0) >= temas.maxPorFonte) continue;
+    // Buscas do Google Notícias trazem vários veículos com nomes diferentes: o limite vale para a busca inteira
+    const chaveBusca = item.busca ? item.aba + '|busca|' + item.fonteId : null;
+    if (chaveBusca && (porFonte[chaveBusca] || 0) >= (temas.maxPorBusca ?? 1)) continue;
+    if (chaveBusca) porFonte[chaveBusca] = (porFonte[chaveBusca] || 0) + 1;
     // Mesma história já escolhida em outra aba? Compara todas as versões de cada grupo.
     if (escolhidas.some((e) => e.links.some((l) => item.links.includes(l))
       || e.assinaturas.some((a) => item.assinaturas.some((b) => parecidas(a, b))))) continue;
@@ -227,7 +231,8 @@ export function montarAbas(classificadas, temas, agora = new Date()) {
 
   // Tira os campos internos antes de devolver
   for (const aba of Object.values(resumo)) {
-    aba.itens = aba.itens.map(({ assinaturas: _a, links: _l, ...limpo }) => limpo);
+    // `links` fica: são todas as versões da história (o app usa para não "desmarcar" uma lida que trocou de link)
+    aba.itens = aba.itens.map(({ assinaturas: _a, ...limpo }) => limpo);
   }
   return resumo;
 }

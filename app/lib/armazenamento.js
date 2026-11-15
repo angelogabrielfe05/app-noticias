@@ -24,6 +24,8 @@ function gravar(chave, valor) {
 
 // --- Lidas: { id: data em que foi lida } -----------------------------------
 let lidas = ler(CHAVES.lidas, {});
+// Dado estranho guardado (ex.: "null" ou uma lista) não pode travar o app
+if (!lidas || typeof lidas !== 'object' || Array.isArray(lidas)) lidas = {};
 {
   // Esquece lidas antigas para o armazenamento não crescer para sempre
   const limite = Date.now() - DIAS_PARA_ESQUECER_LIDAS * 86400000;
@@ -32,6 +34,18 @@ let lidas = ler(CHAVES.lidas, {});
 }
 
 export const estaLida = (id) => Boolean(lidas[id]);
+
+/**
+ * A mesma história pode trocar de link entre uma coleta e outra (ex.: chegou a versão de uma fonte oficial).
+ * Se alguma versão anterior já foi lida, a nova também conta como lida.
+ */
+export function herdarLidas(itens) {
+  let mudou = false;
+  for (const n of itens) {
+    if (!lidas[n.id] && n.outrosIds?.some((o) => lidas[o])) { lidas[n.id] = Date.now(); mudou = true; }
+  }
+  if (mudou) gravar(CHAVES.lidas, lidas);
+}
 
 export function marcarLida(id, lida = true) {
   if (lida) lidas[id] = Date.now();
@@ -42,8 +56,9 @@ export function marcarLida(id, lida = true) {
 // --- Salvos: lista com a notícia inteira (o noticias.json muda a cada coleta) ---
 let salvos = ler(CHAVES.salvos, []);
 if (!Array.isArray(salvos)) salvos = [];
+salvos = salvos.filter((s) => s && typeof s === 'object' && s.id && s.titulo);
 
-export const listarSalvos = () => [...salvos].sort((a, b) => b.salvoEm - a.salvoEm);
+export const listarSalvos = () => [...salvos].sort((a, b) => (Number(b.salvoEm) || 0) - (Number(a.salvoEm) || 0));
 export const estaSalva = (id) => salvos.some((s) => s.id === id);
 
 export function alternarSalva(noticia) {

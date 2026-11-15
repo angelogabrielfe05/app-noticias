@@ -7,6 +7,7 @@
   },
   "maxPorAba": 5,
   "maxPorFonte": 2,
+  "maxPorBusca": 1,
   "pontuacaoMinima": 5,
   "negativasGerais": {
     "mega-sena": -10,
@@ -261,6 +262,8 @@
         "dicas": -2,
         "do ar": -5,
         "instabilidade": -4,
+        "instavel": -5,
+        "caiu": -4,
         "pane": -4,
         "falha de autenticacao": -4,
         "falha": -3

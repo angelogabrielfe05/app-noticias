@@ -18,6 +18,7 @@ const ARQ_IMAGENS = path.join(RAIZ, 'cache', 'imagens.json');
 const ARQ_SAIDA = path.join(RAIZ, 'app', 'data', 'noticias.json');
 
 const lerJson = (arq, padrao) => (existsSync(arq) ? JSON.parse(readFileSync(arq, 'utf8')) : padrao);
+const idDoLink = (link) => createHash('sha1').update(link).digest('hex').slice(0, 12);
 const gravarJson = (arq, dados) => {
   mkdirSync(path.dirname(arq), { recursive: true });
   writeFileSync(arq, JSON.stringify(dados, null, 2) + '\n');
@@ -46,7 +47,9 @@ export async function coletarNoticias({ agora = new Date() } = {}) {
   gravarJson(ARQ_ACERVO, acervo);
 
   // 3. Classificar por aba, juntar repetidas e escolher as melhores
-  const abas = montarAbas(classificar(acervo, fontesPorId, temas), temas, agora);
+  //    (`busca`: veio de uma busca do Google Notícias, que tem limite próprio de itens por aba)
+  const comBusca = acervo.map((i) => ({ ...i, busca: fontesPorId[i.fonteId].tipo === 'googlenews' }));
+  const abas = montarAbas(classificar(comBusca, fontesPorId, temas), temas, agora);
 
   // 3b. Foto de cada notícia escolhida (capa da página ou do feed)
   await adicionarFotos(Object.values(abas).flatMap((aba) => aba.itens), ARQ_IMAGENS, agora);
@@ -58,7 +61,9 @@ export async function coletarNoticias({ agora = new Date() } = {}) {
       nome: temasBrutos.abas[id].nome,
       janelaHoras: aba.janelaHoras,
       itens: aba.itens.map((i) => ({
-        id: createHash('sha1').update(i.link).digest('hex').slice(0, 12),
+        id: idDoLink(i.link),
+        // Outras versões da mesma história: se uma já foi lida, o app considera esta lida também
+        outrosIds: (i.links || []).filter((l) => l !== i.link).map(idDoLink),
         titulo: i.titulo,
         resumo: i.resumo,
         link: i.link,

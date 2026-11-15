@@ -3,7 +3,7 @@
 //   renova a cópia em segundo plano ("stale-while-revalidate"). Atualizações aparecem na próxima abertura.
 // - Dados (notícias e números): tenta a internet primeiro; sem conexão, usa a última cópia ("network-first").
 // Ao mudar a lista de arquivos fixos, aumente VERSAO para limpar o cache antigo.
-const VERSAO = 'v3';
+const VERSAO = 'v4';
 const CACHE_APP = `news-app-${VERSAO}`;
 const CACHE_DADOS = 'news-dados';
 const CACHE_FOTOS = 'news-fotos'; // fotos reduzidas (wsrv.nl); o app.js apaga as que não são da edição atual
@@ -48,14 +48,25 @@ self.addEventListener('activate', (evento) => {
   })());
 });
 
-async function primeiroInternet(pedido) {
+const ESPERA_INTERNET_MS = 4000; // sinal fraco: depois disso, mostra a cópia guardada
+
+async function primeiroInternet(evento, pedido) {
   const cache = await caches.open(CACHE_DADOS);
-  try {
-    const resposta = await fetch(pedido);
-    if (resposta.ok) await cache.put(pedido.url.split('?')[0], resposta.clone());
+  const chave = pedido.url.split('?')[0];
+  const daInternet = fetch(pedido).then(async (resposta) => {
+    if (!resposta.ok) throw new Error(`HTTP ${resposta.status}`);
+    await cache.put(chave, resposta.clone());
     return resposta;
+  });
+  evento.waitUntil(daInternet.catch(() => {})); // se chegar depois, ainda renova a cópia
+  const demorou = new Promise((resolve) => setTimeout(resolve, ESPERA_INTERNET_MS, 'demorou'));
+  try {
+    const primeira = await Promise.race([daInternet, demorou]);
+    if (primeira !== 'demorou') return primeira;
+    const guardada = await cache.match(chave);
+    return guardada || (await daInternet); // sem cópia: espera a internet mesmo
   } catch (erro) {
-    const guardada = await cache.match(pedido.url.split('?')[0]);
+    const guardada = await cache.match(chave);
     if (guardada) return guardada;
     throw erro;
   }
@@ -99,7 +110,7 @@ self.addEventListener('fetch', (evento) => {
   }
   if (pedido.method !== 'GET' || url.origin !== self.location.origin) return; // links externos seguem normais
   if (url.pathname.includes('/data/')) {
-    evento.respondWith(primeiroInternet(pedido));
+    evento.respondWith(primeiroInternet(evento, pedido));
   } else {
     evento.respondWith(guardadaERenova(evento, pedido));
   }

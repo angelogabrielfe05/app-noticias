@@ -1,7 +1,7 @@
 // NEWs — lógica do app.
 // Segurança: títulos e resumos vêm de sites de terceiros, então a tela é montada só com
 // createElement/textContent (nunca innerHTML com dados), e os links passam por linkSeguro().
-import { estaLida, marcarLida, listarSalvos, estaSalva, alternarSalva, ultimaAba, lembrarAba } from './lib/armazenamento.js';
+import { estaLida, marcarLida, herdarLidas, listarSalvos, estaSalva, alternarSalva, ultimaAba, lembrarAba } from './lib/armazenamento.js';
 import { quando, dataCompleta, hora, valorIndicador, variacaoIndicador } from './lib/formatar.js';
 import { carregarGlossario, buscarTermo, dividirEmTermos } from './lib/termos.js';
 
@@ -149,7 +149,7 @@ function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
     ),
     n.resumo ? el('p', { class: 'cartao-resumo' }, textoComTermos(n.resumo, usados)) : null,
     n.tambemEm?.length ? el('p', { class: 'tambem-em' }, `Também em ${n.tambemEm.join(', ')}`) : null,
-    emSalvos && n.salvoEm ? el('p', { class: 'tambem-em' }, `Salva ${quando(new Date(n.salvoEm).toISOString())}`) : null,
+    emSalvos && quando(n.salvoEm) ? el('p', { class: 'tambem-em' }, `Salva ${quando(n.salvoEm)}`) : null,
     el('div', { class: 'cartao-acoes' },
       link
         ? el('a', { class: 'botao botao-principal', href: link, target: '_blank', rel: 'noopener noreferrer', 'data-acao': 'abrir' },
@@ -330,6 +330,7 @@ async function carregarDados() {
     ]);
     if (glossario) { carregarGlossario(glossario.termos); glossarioCarregado = true; }
     estado.noticias = noticias;
+    herdarLidas(Object.values(noticias.abas || {}).flatMap((a) => a.itens || []));
     estado.indicadores = indicadores ?? estado.indicadores;
     estado.erro = null;
     sincronizarFotos();
