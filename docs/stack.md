@@ -21,7 +21,7 @@ Fontes (RSS + API BCB) ──► GitHub Actions (script Node.js, cron 3h)
 | Instalação/offline | PWA (manifest + service worker) | Ícone na tela inicial e leitura offline |
 | Coleta | Script Node.js (`scripts/`), dependências mínimas (parser de RSS/XML) | Roda no GitHub Actions |
 | Indicadores | API SGS do Banco Central (Selic, IPCA 12m, PTAX, PIB, CDI); Ibovespa, IFIX e S&P 500 a definir na construção | Oficial e gratuito |
-| Agendamento | GitHub Actions com `schedule` (cron a cada 3h) e `workflow_dispatch` (rodar manualmente) | Grátis |
+| Agendamento | cron-job.org chama o robô (`workflow_dispatch`) a cada 3h; o `schedule` do GitHub fica de reserva | Grátis (o agendamento do GitHub se mostrou irregular: 3 de 7 execuções em 22h) |
 | Código | Repositório **público** no GitHub (conta `angelogabrielfe05`) | Exigência do Pages grátis |
 | Hospedagem | GitHub Pages | Grátis, mesma conta |
 | Fotos | Capa da página da notícia (og:image) achada pelo robô; reduzida pelo wsrv.nl (serviço gratuito e de código aberto) para WebP 800×450 e 192×192 | 5 MB viram ~90 KB; libera CORS para guardar offline |
@@ -32,7 +32,7 @@ Fontes (RSS + API BCB) ──► GitHub Actions (script Node.js, cron 3h)
 - Contas: só o GitHub (já existe e já está autenticada no `gh`).
 
 ## Limitações conhecidas
-- O cron do GitHub Actions pode atrasar alguns minutos ou mais.
+- O cron do GitHub Actions pode atrasar ou pular horários (por isso o despertador externo cron-job.org).
 - Workflows agendados de repositório público são desativados depois de 60 dias sem atividade no repositório. Os commits automáticos de dados devem manter o repositório ativo. Conferir na revisão.
 - Lidas e salvas se perdem se os dados do navegador forem limpos ou se você trocar de aparelho.
 

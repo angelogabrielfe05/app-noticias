@@ -4,9 +4,9 @@ App pessoal do Angelo (estudante de Medicina, não é desenvolvedor) para acompa
 
 ## Stack
 - Front: HTML/CSS/JS puros, sem framework e sem build; PWA (manifest + service worker).
-- Coleta: script Node.js em `scripts/`, rodado pelo GitHub Actions a cada ~3h; grava `app/data/*.json`.
+- Coleta: script Node.js em `scripts/`, rodado pelo GitHub Actions (`coletar.yml`) a cada 3h; grava `app/data/*.json` e chama `publicar.yml`. Quem dispara nos horários certos é o cron-job.org (conta do Angelo, chave fine-grained só com Actions: write neste repositório); o `schedule` do GitHub é só reserva e pula se a última coleta tem menos de 2h.
 - Indicadores: API SGS do Banco Central (+ fonte a definir para Ibovespa, IFIX e S&P 500).
-- Hospedagem: GitHub Pages, repositório público na conta `angelogabrielfe05`.
+- Hospedagem: GitHub Pages (modo "GitHub Actions", publica só a pasta `app/` via `publicar.yml`), repositório público na conta `angelogabrielfe05`. Link: https://angelogabrielfe05.github.io/app-noticias/
 - Dados do usuário: `localStorage` (sem login).
 
 ## Documentos (ler antes de trabalhar)
