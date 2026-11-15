@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-14T22:22:58.540Z",
+  "geradoEm": "2026-11-15T06:28:26.593Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -7,6 +7,7 @@
       "itens": [
         {
           "id": "706659a6fe37",
+          "outrosIds": [],
           "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
           "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
           "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
@@ -19,26 +20,30 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         },
         {
-          "id": "55ea0272c1a5",
-          "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
-          "resumo": "O Supremo Tribunal Federal (STF) confirmou, nesta quinta-feira (12), a validade da decisão que homologou um acordo para encerrar os processos judiciais sobre perdas financeiras de poupadores provocadas por planos econômicos das décadas de 1980 e 1990. O plenário rejeitou três recursos apresentados por entidades sem…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos",
+          "id": "f03d09866098",
+          "outrosIds": [
+            "63906b362b03"
+          ],
+          "titulo": "Fachin suspende prazos processuais após instabilidade da Microsoft",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, decidiu nesta sexta-feira (13) suspender os prazos processuais no sistema judiciário de todo o país em razão das falhas ocorridas nos sistemas da Microsoft. Pela decisão, a contagem dos prazos fica…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-suspende-prazos-processuais-apos-instabilidade-da-microsoft",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-13T00:35:00.000Z",
+          "data": "2026-11-13T18:50:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_bAn8IXIRXyYwunj0469lBVVY7Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9237.jpg%3Fitok%3DUSlDvFeJ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_bAn8IXIRXyYwunj0469lBVVY7Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9237.jpg%3Fitok%3DUSlDvFeJ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 17
         },
         {
           "id": "ef5d3e5ba324",
+          "outrosIds": [],
           "titulo": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
           "resumo": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada máxima de trabalho para 40 horas semanais, e garante dois…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
@@ -60,26 +65,8 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "ffc4cd9885bd",
-          "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado",
-          "resumo": "O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Executivo. Ainda restam quatro…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T00:35:36.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Ftexto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado%2F20261112_02739cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Ftexto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado%2F20261112_02739cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "757cc6f9a0fd",
+          "outrosIds": [],
           "titulo": "PGDAS-D é atualizado para atender à Reforma Tributária a partir de novembro de 2026",
           "resumo": "Mudanças na apuração do Simples Nacional incluem o fim da escolha do regime de caixa ou competência e a obrigatoriedade de informar a folha de salários dos últimos 12 meses.",
           "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/pgdas-d-e-atualizado-para-atender-a-reforma-tributaria-a-partir-de-novembro-de-2026",
@@ -96,6 +83,7 @@
         },
         {
           "id": "e86009199f76",
+          "outrosIds": [],
           "titulo": "Primeiras medidas do ajuste fiscal",
           "resumo": "",
           "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/primeiras-medidas-do-ajuste-fiscal",
@@ -108,7 +96,46 @@
           "pontos": 22
         },
         {
+          "id": "6f16a18e8c3d",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal: adiamento de votação dá mais tempo para reflexão, diz Davi",
+          "resumo": "Adiar a votação dos pontos pendentes do ajuste fiscal do governo (PLP 299/2026) para terça-feira (17) propiciará mais condições para os senadores avaliarem suas posições. Foi o que afirmou o presidente do Senado, Davi Alcolumbre em coletiva de imprensa nesta quinta-feira (12). A declaração ocorreu após as 21h, ao fim…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/ajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T14:57:48.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi%2Fentrevsita_davi_print_01.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fajuste-fiscal-adiamento-de-votacao-da-mais-tempo-para-reflexao-diz-davi%2Fentrevsita_davi_print_01.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "ceba6f333cfd",
+          "outrosIds": [
+            "6a327ad0b873"
+          ],
+          "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
+          "resumo": "O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feira, 12, pelo Senado…",
+          "link": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-14T15:00:32.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
+        },
+        {
           "id": "95b40db48f2b",
+          "outrosIds": [],
           "titulo": "Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios",
           "resumo": "Bruno Moretti cita supersalários e benefícios fiscais; texto ainda tramita no Congresso e enfrenta desconfiança do mercado e de alas do governo The post Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/politica/em-video-ministro-afirma-que-ajuste-fiscal-preserva-direitos-e-combate-privilegios/",
@@ -121,19 +148,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
-        },
-        {
-          "id": "e2f3ded3e3d6",
-          "titulo": "PIB cresceu em 25 das 27 unidades da federação em 2024",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNXJSVjNFVGREa0RaUXE5NGxOUk1UN1AtRE0tY0pfTzNvSHRqSzhhZ25WYUNTNzNtWWlPNENKdmxmMGdmOG9LbE9oNk0zTVRZZ19TN25SS01fR3BNZW16WlFpVWlxc0NBY3VrUXBna2tuTDc2czBYZ3pFOHhyd2pEQUFIUUdCN21FQTFEaGItVWcwS0l0anB3VW9XU3NubVRxZEJZTVY3UnMtQnQxRnBjSTI1M29IN3NnSGJVaWJmQTIyaS1HNVJlVE5ZWXlLckI2bFdMdzRucUQxUVdhNUszTDJXUQ?oc=5",
-          "fonte": "IBGE",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T13:00:00.000Z",
-          "tambemEm": [],
-          "foto": null,
           "pontos": 18
         }
       ]
@@ -144,6 +158,16 @@
       "itens": [
         {
           "id": "a83537a9e444",
+          "outrosIds": [
+            "f9cf5623f9e3",
+            "e426843a3269",
+            "d378d4173ff0",
+            "aaaaeb830cb3",
+            "03ec23ebdf9e",
+            "b1e22273133b",
+            "c74a61c9c03c",
+            "20067718943e"
+          ],
           "titulo": "Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável",
           "resumo": "Índice termina a semana no azul, enquanto investidores também acompanham novos dados de inflação nos Estados Unidos e os desdobramentos na Nvidia",
           "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-066-apos-aprovacao-de-pacote-fiscal-dolar-fica-praticamente-estavel/",
@@ -166,6 +190,7 @@
         },
         {
           "id": "58287f804fd5",
+          "outrosIds": [],
           "titulo": "De calote a briga milionária na Justiça: veja o que movimentou os fundos imobiliários (FIIs) na semana",
           "resumo": "De calote a briga nos tribunais, a semana foi movimentada no mercado de fundos imobiliários (FIIs), com operações de compra de imóveis, mudanças na carteira de inquilinos e problemas envolvendo contratos de locação. Entre os destaques, o Patria Malls (PMLL11) acertou a venda de sua participação em um shopping center…",
           "link": "https://www.moneytimes.com.br/de-calote-a-briga-milionaria-na-justica-veja-o-que-movimentou-os-fundos-imobiliarios-fiis-na-semana-igdl/",
@@ -178,10 +203,11 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "16e0df97fa60",
+          "outrosIds": [],
           "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
           "resumo": "Casa de análise libera acesso a estratégia de investimentos para o governo Lula 4; veja como acessar mais de 20 ativos gratuitamente The post Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa appeared first on Seu Dinheiro .",
           "link": "https://www.seudinheiro.com/2026/economia/lula-e-peca-chave-para-ibovespa-voltar-aos-200-mil-pontos-empiricus-traca-possiveis-cenarios-fiscais-para-o-brasil-e-seus-efeitos-na-bolsa-lbrdml140/",
@@ -194,28 +220,30 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
-          "id": "221e418e5d41",
-          "titulo": "CSN (CSNA3) tomba após prejuízo de R$ 1,24 bilhão",
-          "resumo": "A CSN (Companhia Siderúrgica Nacional) registrou prejuízo líquido de R$ 1,24 bilhão no terceiro trimestre de 2026, revertendo o lucro líquido de R$ 76 milhões apurado no mesmo trimestre de 2025. Os papéis derreteram 12%, no pregão de hoje, e fecharam cotados a R$ 3,72. De acordo com as demonstrações de resultados…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/csn-csna3-tomba-apos-prejuizo-de-r-124-bilhao.ghtml",
+          "id": "4fd03b3beb0d",
+          "outrosIds": [
+            "5c15fd16d480"
+          ],
+          "titulo": "Banco do Brasil (BBAS3): ações estendem queda após tombo no lucro",
+          "resumo": "As ações do Banco do Brasil (BBAS3) engataram mais um dia de queda nesta sexta-feira (13), estendendo o movimento negativo iniciado na véspera após a divulgação do balanço do terceiro trimestre. Os papéis encerraram o pregão com queda de 2,45%, cotados a R$ 15,10. Do início do ano até agora, a desvalorização acumulada…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/13/banco-do-brasil-bbas3-acoes-estendem-queda-apos-tombo-no-lucro.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T15:30:36.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "data": "2026-11-13T14:44:22.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FXJaiUaohKRjUe3gDHOmJDJseTO4%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fg%2FN%2FcF4ykrQcSq3jOttvTRfQ%2Ffinancial-6806364-1280.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FXJaiUaohKRjUe3gDHOmJDJseTO4%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fg%2FN%2FcF4ykrQcSq3jOttvTRfQ%2Ffinancial-6806364-1280.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FWZZw-ZVk6hbiowQnCKKkP6ewD3o%3D%2F780x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FG%2FO%2F9Y48jwTAayBTQVxjz74A%2Fbanco-do-brasil.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FWZZw-ZVk6hbiowQnCKKkP6ewD3o%3D%2F780x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FG%2FO%2F9Y48jwTAayBTQVxjz74A%2Fbanco-do-brasil.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "31d501a3a03a",
+          "outrosIds": [],
           "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos",
           "resumo": "Gestor explica por que XP Malls vai \"normalizar\" rendimentos após 29 meses de distribuições acima da geração recorrente The post FII XPML11 prepara corte de até 20% nos dividendos após pagamentos “turbinados”, e gestor abre o jogo sobre os motivos appeared first on Seu Dinheiro .",
           "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/",
@@ -238,6 +266,9 @@
       "itens": [
         {
           "id": "5bf4951adbe9",
+          "outrosIds": [
+            "941ff5ac79d2"
+          ],
           "titulo": "Introducing ChatGPT Wallet",
           "resumo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
           "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -256,6 +287,7 @@
         },
         {
           "id": "c53802e97981",
+          "outrosIds": [],
           "titulo": "O Google teve o melhor modelo de IA durante treze dias; a Anthropic tomou o posto, e a resposta levou 24 horas",
           "resumo": "",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVzQwXzJDVDd4NllHbzJvTlVPcTROb0ZoWHlGdTJ0QmFCNGFyNDhXZTlxWHB6Mng1R1VvVmE5a2lwQVo5ME8wTjZNUWlXUENvVG5mMFVkZm44bWt0ZXVzcjVUdmNSMTZGZWhhd09pSHFDVU11N1NwVUZsLWZLM0dVeTY4STV1ckZOcE1jWUtaS3IxeFZFTENIa0ZmQkZaZVNycDIxMy1yQlZfbmNVSmFobVhRZVlNYXhmVlA2bGFzclcwbmpyWUVaNGNRSE42TGpicGVJdWtnLUtpXzM4WVB5X2dLVmpnVFZjeGx0c0h1a3lwX2FFNEZQYW1PY1JYdFY1Z3d5R1NyN09LdTVrRk55T1NyeVlPU01WdUhteA?oc=5",
@@ -265,10 +297,13 @@
           "data": "2026-11-14T11:08:00.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "fd67b33d486f",
+          "outrosIds": [
+            "d7f61f271825"
+          ],
           "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
           "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
@@ -281,31 +316,37 @@
           "pontos": 22
         },
         {
-          "id": "64155a393bcd",
-          "titulo": "Claude caiu? IA da Anthropic instável nesta sexta-feira (13)",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFNiTW96VHlXRHRpWWpTbGdMRml1aUVYSXJxV1BBeE9JdGFrd1FXTkpEMmt1UWQ0QXBwcW9PTnprZU1wQmRYUl82T0hSQTlFdGl3SzBuMmNfRXRGNkJISkp4dTRzQlNIM0xWWGJKc2t6ZzVsR1dOdVVtVGU2VjYyUDBMeHVLbTZuWFFnVFlJMlZ5WVJZT2pGTXNXOTRvMW5na2JQVVI2QTJkMkhTZW5qUXFHcWdzVGxQZ0HSAb8BQVVfeXFMTzc1dXFpRHhoU05PWFYtRmdTQ1oxNzBOckliV1hrZ3lpcGVUdUVVUHNPS0lMTHVPZ2ZvMDExQ1FnUmZhM1JwVDhveVVSMkc1dkhBa2sxZDR1bzBIMnVOakNZRVVhckZEQUhrZm1UaUI0OUNhUHFsRTBtQnB2Qk1CM2NKdGJwcFp1OG5CbC1fQmFKZ3NXMzNxeGNUZlZyNnEwM041VU83Z0pJTGwtZzhSbWZVZWlJMWVSTkRTb2xWamc?oc=5",
-          "fonte": "Estadão",
+          "id": "432fd157cbf1",
+          "outrosIds": [],
+          "titulo": "Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+          "resumo": "Levantamento analisou mais de 8 milhões de mensagens. Respostas erradas, instruções ignoradas e pedidos mal compreendidos são principais causas de frustração. Um em cada três usuários xinga ChatGPT, Gemini ou Claude",
+          "link": "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/",
+          "fonte": "Tecnoblog",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T14:21:44.000Z",
-          "tambemEm": [
-            "Exame"
-          ],
-          "foto": null,
-          "pontos": 22
+          "data": "2026-11-13T13:42:16.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2021%2F12%2Ftipos-de-inteligencia-artificial-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2021%2F12%2Ftipos-de-inteligencia-artificial-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         },
         {
-          "id": "44c69603ddc5",
-          "titulo": "Investidores disputam IPO da Anthropic, mas questionam liderança em IA",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVBRRmhHR01TOE9JMkZBUE13WklpNmlMWTdESGN2UmxuV0ZfeVpQRG1CbFg2aFpLUjF2YjBOdkRwR0E3dVZFNGpvTnhfMTNGZEU4b19QOUJ5M2NxTm13R3BpWGVWR3cySlZZRW5pSWM5WC1GMzdFQ05IRU9ISzRRamRrTGQ2RUs1eTFoZ1FMOEJubUxtcS1Bd01pbWNOanFzd1V3UTM4bndoR2U1d1VndG8tZF9sS0xZSmpPRXU5VFg?oc=5",
-          "fonte": "CNN Brasil",
+          "id": "50f48f4b6e64",
+          "outrosIds": [],
+          "titulo": "Entenda o que assinantes perdem com o fim do Gemini Pro no Google AI Plus",
+          "resumo": "O Google vai retirar o acesso aos modelos Pro do plano Google AI Plus , sua assinatura paga mais barata para o Gemini. Com a mudan&ccedil;a, os assinantes n&atilde;o poder&atilde;o mais escolher as vers&otilde;es avan&ccedil;adas da intelig&ecirc;ncia artificial no aplicativo do Gemini e no Modo IA da Busca. O plano…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/entenda-o-que-assinantes-perdem-com-o-fim-do-gemini-pro-no-google-ai-plus/",
+          "fonte": "Canaltech",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-13T22:19:36.000Z",
+          "data": "2026-11-13T13:00:00.000Z",
           "tambemEm": [],
-          "foto": null,
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F_14RHRWoRn0cTCUZr1IyQq2gMVw%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F_14RHRWoRn0cTCUZr1IyQq2gMVw%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F74b11b2f-3b3c-45a8-b667-25d3c00a65ae.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
           "pontos": 20
         }
       ]
@@ -400,7 +441,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 32,
+      "itens": 30,
       "erro": null
     },
     {
