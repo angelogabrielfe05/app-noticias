@@ -63,4 +63,10 @@ Puxada de `docs/ideias-futuras.md`. A ordem leva em conta o quanto ajuda no dia 
 7. Detalhes técnicos da revisão (fotos que são logotipos, S&P 500 durante o pregão etc.). Ver `docs/ideias-futuras.md`.
 
 ## Ajustes no workflow
-_(a preencher com a resposta do Angelo)_
+**Angelo (15/11/2026):** nenhuma etapa travou. Instalou no celular, o app abriu normalmente, sem lentidão nem erro.
+
+Aprendizados para os próximos apps (observados durante a construção):
+- **Pasta `references/` da skill não encontrada:** a skill `criar-web-app` cita arquivos de apoio (entrevista, modelos, checklist de revisão, publicação) que não estavam disponíveis. O trabalho seguiu sem eles; vale conferir a instalação da skill.
+- **Agendamento do GitHub Actions é irregular** (3 de 7 execuções em 22 h). Em apps com robô agendado, já planejar o despertador externo (cron-job.org) desde a etapa 2.
+- **GitHub Pages com pasta própria e robô:** commits do robô não disparam outros workflows. O padrão que funcionou foi um `publicar.yml` (deploy por Actions), chamado também pelo robô depois de cada coleta.
+- **Telas de configuração em sites de terceiros** (GitHub, cron-job.org) foram a parte mais trabalhosa para o Angelo. Pedir prints a cada passo funcionou bem.
