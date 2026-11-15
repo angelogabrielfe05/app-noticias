@@ -152,7 +152,8 @@ function definicoes(hoje) {
 }
 
 export async function coletarIndicadores({ agora = new Date() } = {}) {
-  const anteriores = existsSync(ARQ_SAIDA) ? JSON.parse(readFileSync(ARQ_SAIDA, 'utf8')) : null;
+  let anteriores = null;
+  try { if (existsSync(ARQ_SAIDA)) anteriores = JSON.parse(readFileSync(ARQ_SAIDA, 'utf8')); } catch { /* arquivo ilegível: segue sem os valores anteriores */ }
   const paineis = {};
   let falhas = 0;
   let total = 0;

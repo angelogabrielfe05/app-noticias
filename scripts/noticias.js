@@ -17,7 +17,15 @@ const ARQ_ACERVO = path.join(RAIZ, 'cache', 'acervo.json');
 const ARQ_IMAGENS = path.join(RAIZ, 'cache', 'imagens.json');
 const ARQ_SAIDA = path.join(RAIZ, 'app', 'data', 'noticias.json');
 
-const lerJson = (arq, padrao) => (existsSync(arq) ? JSON.parse(readFileSync(arq, 'utf8')) : padrao);
+// Arquivos de configuração (sem padrão) precisam estar certos; os de memória (acervo), se corromperem, recomeçam vazios
+const lerJson = (arq, padrao) => {
+  if (!existsSync(arq)) return padrao;
+  try { return JSON.parse(readFileSync(arq, 'utf8')); } catch (e) {
+    if (padrao === undefined) throw e;
+    console.log(`  ⚠ ${path.basename(arq)} ilegível, recomeçando do zero`);
+    return padrao;
+  }
+};
 const idDoLink = (link) => createHash('sha1').update(link).digest('hex').slice(0, 12);
 const gravarJson = (arq, dados) => {
   mkdirSync(path.dirname(arq), { recursive: true });

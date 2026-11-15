@@ -73,7 +73,8 @@ async function acharFoto(item) {
  * `arquivoMemoria`: onde guardar o que já foi verificado.
  */
 export async function adicionarFotos(itens, arquivoMemoria, agora = new Date()) {
-  const memoria = existsSync(arquivoMemoria) ? JSON.parse(readFileSync(arquivoMemoria, 'utf8')) : {};
+  let memoria = {};
+  try { if (existsSync(arquivoMemoria)) memoria = JSON.parse(readFileSync(arquivoMemoria, 'utf8')); } catch { /* memória ilegível: recomeça */ }
   const limite = agora.getTime() - DIAS_NA_MEMORIA * 86400000;
   for (const [link, registro] of Object.entries(memoria)) if (new Date(registro.em).getTime() < limite) delete memoria[link];
 

@@ -229,12 +229,12 @@ main {
 .tambem-em { margin: 0 0 8px; font-size: 0.72rem; color: var(--tinta-suave); }
 
 .cartao.lida .cartao-titulo, .cartao.lida .cartao-resumo { color: var(--tinta-suave); }
-.cartao.lida { opacity: 0.7; }
+/* Lida: título e resumo em tom mais suave (contraste ainda acima de 4,5:1) e foto em preto e branco */
 .marca-lida { color: var(--cor-aba); font-family: var(--sans); font-size: 0.85em; }
 
-.cartao-acoes { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.cartao-acoes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
 .botao {
-  display: inline-flex; align-items: center; justify-content: center; min-height: 38px; padding: 0 13px;
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 12px;
   border: 1px solid var(--fio); border-radius: 999px; background: transparent; color: var(--tinta);
   font: inherit; font-size: 0.8rem; font-weight: 600; text-decoration: none; cursor: pointer;
 }

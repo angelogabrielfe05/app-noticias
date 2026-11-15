@@ -12,8 +12,9 @@ const ABAS = {
   ia: { nome: 'Inteligência artificial', painel: null },
 };
 const HORAS_PARA_AVISO_DESATUALIZADO = 12;
-// Verde/vermelho só onde "subir" é claramente bom (bolsa e PIB). Juros, inflação e dólar ficam neutros.
-const COLORIR_VARIACAO = new Set(['ibovespa', 'ifix', 'sp500', 'pib']);
+// Verde/vermelho só onde "subir" é claramente bom (bolsa). Juros, inflação, dólar e PIB ficam neutros
+// (PIB de 1,1% para 0,5% ainda é crescimento; em vermelho pareceria queda).
+const COLORIR_VARIACAO = new Set(['ibovespa', 'ifix', 'sp500']);
 const dataDeHoje = new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', weekday: 'long', day: 'numeric', month: 'long' });
 
 const estado = { noticias: null, indicadores: null, carregando: true, erro: null };
@@ -103,8 +104,10 @@ function midia(n, tamanho, prioridade = false) {
 async function sincronizarFotos() {
   if (!('caches' in window) || !estado.noticias) return;
   try {
-    const atuais = new Set(Object.values(estado.noticias.abas).flatMap((a) => a.itens)
-      .flatMap((i) => (i.foto ? [i.foto.grande, i.foto.miniatura] : [])).map((u) => new URL(u).href));
+    // Foto grande só da manchete (1ª de cada aba); nas outras e nos salvos aparece só a miniatura
+    const atuais = new Set(Object.values(estado.noticias.abas)
+      .flatMap((a) => (a.itens || []).map((i, posicao) => (posicao === 0 ? [i.foto?.grande, i.foto?.miniatura] : [i.foto?.miniatura])))
+      .flat().map(linkSeguro).filter(Boolean).map((u) => new URL(u).href));
     const cache = await caches.open(CACHE_FOTOS);
     const guardadas = new Set();
     for (const pedido of await cache.keys()) {
@@ -143,7 +146,7 @@ function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
           n.oficial ? el('span', { class: 'selo-oficial', title: 'Fonte oficial (órgão público ou B3)' }, 'Oficial') : null,
           el('time', { datetime: n.data, title: dataCompleta(n.data) }, quando(n.data)),
         ),
-        el('h3', { class: 'cartao-titulo' }, lida && !emSalvos ? el('span', { class: 'marca-lida', 'aria-label': 'Lida' }, '✓ ') : null, textoComTermos(n.titulo, usados)),
+        el('h3', { class: 'cartao-titulo' }, lida && !emSalvos ? el('span', { class: 'marca-lida' }, el('span', { 'aria-hidden': 'true' }, '✓ '), el('span', { class: 'sr-only' }, 'Lida: ')) : null, textoComTermos(n.titulo, usados)),
       ),
       manchete ? null : midia(n, 'miniatura'),
     ),
@@ -157,7 +160,7 @@ function cartaoNoticia(n, { emSalvos = false, posicao = 0 } = {}) {
         : null,
       emSalvos
         ? null
-        : el('button', { type: 'button', class: 'botao', 'data-acao': 'lida', 'aria-pressed': String(lida), 'aria-label': lida ? 'Lida (toque para desmarcar)' : 'Marcar como lida' }, lida ? '✓ Lida' : 'Já li'),
+        : el('button', { type: 'button', class: 'botao', 'data-acao': 'lida', 'aria-pressed': String(lida) }, lida ? '✓ Lida' : 'Já li'),
       el('button', { type: 'button', class: 'botao', 'data-acao': 'salvar', 'aria-pressed': String(salva) },
         emSalvos ? 'Remover' : salva ? '★ Salva' : '☆ Salvar'),
     ),
@@ -204,9 +207,12 @@ function telaAba(aba) {
   const emDia = itens.length > 0 && lidas === itens.length;
 
   const porcentagem = itens.length ? Math.round((lidas / itens.length) * 100) : 0;
+  // Dia fraco de notícias: o robô amplia a janela de 48 para 96 horas
+  const janela = estado.noticias?.abas?.[aba]?.janelaHoras || 48;
+  const periodo = janela > 48 ? 'nos últimos dias' : 'hoje';
   return [
     el('div', { class: 'aba-topo' },
-      el('p', { class: 'chapeu' }, itens.length ? `As ${itens.length} que importam hoje` : 'Hoje'),
+      el('p', { class: 'chapeu' }, itens.length ? `As ${itens.length} que importam ${periodo}` : 'Hoje'),
       el('h2', {}, cfg.nome),
       itens.length
         ? el('div', { class: 'progresso' },
@@ -224,7 +230,7 @@ function telaAba(aba) {
     itens.length
       ? el('div', { class: 'lista' }, itens.map((n, posicao) => cartaoNoticia({ ...n, aba }, { posicao })))
       : el('div', { class: 'vazio' },
-        el('p', {}, 'Nenhuma notícia importante nas últimas 48 horas.'),
+        el('p', {}, `Nenhuma notícia importante nas últimas ${janela} horas.`),
         el('p', {}, 'Quando sair algo relevante, aparece aqui.')),
   ];
 }
@@ -391,6 +397,7 @@ window.addEventListener('hashchange', () => {
   const aba = abaAtual();
   if (ABAS[aba]) lembrarAba(aba);
   renderizar();
+  conteudo.focus({ preventScroll: true }); // leitor de tela começa pela aba nova, não fica na barra de baixo
 });
 window.addEventListener('online', () => carregarDados());
 window.addEventListener('offline', () => atualizarCabecalho());
@@ -402,6 +409,8 @@ document.addEventListener('visibilitychange', () => {
   }
 });
 
+// Aberto por um atalho do ícone (ex.: ./#economia): essa também vira a última aba
+if (ABAS[location.hash.slice(1)]) lembrarAba(location.hash.slice(1));
 renderizar();
 carregarDados();
 

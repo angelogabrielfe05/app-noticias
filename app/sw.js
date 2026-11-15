@@ -3,7 +3,7 @@
 //   renova a cópia em segundo plano ("stale-while-revalidate"). Atualizações aparecem na próxima abertura.
 // - Dados (notícias e números): tenta a internet primeiro; sem conexão, usa a última cópia ("network-first").
 // Ao mudar a lista de arquivos fixos, aumente VERSAO para limpar o cache antigo.
-const VERSAO = 'v4';
+const VERSAO = 'v5';
 const CACHE_APP = `news-app-${VERSAO}`;
 const CACHE_DADOS = 'news-dados';
 const CACHE_FOTOS = 'news-fotos'; // fotos reduzidas (wsrv.nl); o app.js apaga as que não são da edição atual
@@ -31,7 +31,8 @@ const ARQUIVOS_DADOS = ['data/noticias.json', 'data/indicadores.json'];
 self.addEventListener('install', (evento) => {
   evento.waitUntil((async () => {
     const app = await caches.open(CACHE_APP);
-    await app.addAll(ARQUIVOS_APP);
+    // 'no-cache': confere com o servidor (o GitHub Pages manda o navegador guardar 10 min e viria a versão velha)
+    await app.addAll(ARQUIVOS_APP.map((u) => new Request(u, { cache: 'no-cache' })));
     // Dados: se falhar (ex.: instalou sem internet), não impede a instalação
     const dados = await caches.open(CACHE_DADOS);
     await Promise.allSettled(ARQUIVOS_DADOS.map((u) => dados.add(u)));
@@ -77,7 +78,7 @@ async function guardadaERenova(evento, pedido) {
   // Páginas (navegação) sempre usam o index.html guardado, com ou sem ?algo#aba no endereço
   const chave = pedido.mode === 'navigate' ? new URL('index.html', self.registration.scope).href : pedido;
   const guardada = await cache.match(chave, { ignoreSearch: true });
-  const renovar = fetch(pedido)
+  const renovar = fetch(pedido.url, { cache: 'no-cache' })
     .then((resposta) => {
       if (resposta.ok) return cache.put(chave, resposta.clone()).then(() => resposta);
       return resposta;
