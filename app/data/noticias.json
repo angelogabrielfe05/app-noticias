@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-15T16:21:04.742Z",
+  "geradoEm": "2026-11-15T20:39:43.379Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -20,7 +20,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "706659a6fe37",
@@ -45,20 +45,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "e86009199f76",
-          "outrosIds": [],
-          "titulo": "Primeiras medidas do ajuste fiscal",
-          "resumo": "",
-          "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/primeiras-medidas-do-ajuste-fiscal",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T18:44:53.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 22
-        },
         {
           "id": "f53004f96290",
           "outrosIds": [],
@@ -91,39 +77,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 16
         },
         {
-          "id": "71adb9253bc4",
+          "id": "ceba6f333cfd",
           "outrosIds": [],
-          "titulo": "Montadoras podem reduzir imposto sobre carro zero km com reciclagem de veículos velhos",
-          "resumo": "Nova portaria do Ministério Desenvolvimento, Indústria, Comércio e Serviços, como parte do Programa Mover, quer estimular destinação adequada e facilita a verificação da origem de peças usadas. Veja como aderir",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T19:42:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fmdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis%2F%40%40download%2Fimage%2Fpatio.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fmdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis%2F%40%40download%2Fimage%2Fpatio.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
-          "id": "bb1123b7ae1e",
-          "outrosIds": [],
-          "titulo": "Incerteza fiscal leva gestoras a elevar caixa e a rever apostas em ativos brasileiros",
-          "resumo": "A reeleição de Luiz Inácio Lula da Silva levou gestoras a reduzir o risco em ativos brasileiros, elevar o caixa e buscar proteção no dólar e em ações defensivas. Apostas em queda dos juros após o primeiro turno foram revistas diante das incertezas fiscais. Na Asset1, a carteira de ações está totalmente em caixa. O […]",
-          "link": "https://www.moneytimes.com.br/incerteza-fiscal-leva-gestoras-a-elevar-caixa-e-a-rever-apostas-em-ativos-brasileiros-lmrs/",
+          "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
+          "resumo": "O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feira, 12, pelo Senado…",
+          "link": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-15T13:31:08.000Z",
+          "data": "2026-11-14T15:00:32.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fbolsa-brasil-acoes-mercado.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fbolsa-brasil-acoes-mercado.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
         }
@@ -139,8 +108,7 @@
             "f9cf5623f9e3",
             "e426843a3269",
             "d378d4173ff0",
-            "aaaaeb830cb3",
-            "03ec23ebdf9e"
+            "aaaaeb830cb3"
           ],
           "titulo": "Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável",
           "resumo": "Índice termina a semana no azul, enquanto investidores também acompanham novos dados de inflação nos Estados Unidos e os desdobramentos na Nvidia",
@@ -152,7 +120,6 @@
           "tambemEm": [
             "Agência Brasil",
             "Money Times",
-            "Exame Invest",
             "Seu Dinheiro"
           ],
           "foto": {
@@ -160,6 +127,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 31
+        },
+        {
+          "id": "93178eadf7c1",
+          "outrosIds": [],
+          "titulo": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
+          "resumo": "Estatal registra patrimônio líquido negativo e despesas financeiras em alta; governo prevê aporte de R$ 6 bilhões até o fim de 2027 The post Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-15T20:38:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "58287f804fd5",
@@ -211,23 +195,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 17
-        },
-        {
-          "id": "940a6ce948e4",
-          "outrosIds": [],
-          "titulo": "Ibovespa e dólar contrariam a lógica do mercado e sobem na semana; entenda",
-          "resumo": "O mercado encerra a semana sob uma dinâmica um tanto quanto atípica. Tanto o Ibovespa quanto o dólar à vista fecharam as últimas cinco sessões com valorização na casa dos 2%. A busca por proteção diante das dúvidas com o pacote fiscal conviveu com um repique pontual da bolsa apoiado pela temporada de balanços. O dólar…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/13/ibovespa-e-dolar-contrariam-a-logica-do-mercado-e-sobem-na-semana-entenda.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-13T21:21:21.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPXKZT_z6VSfZF6oSKkhkO89odIw%3D%2F2309x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fw%2Fb%2FCT8wegQGWEfqzvVnfoFA%2Fgettyimages-1307372672.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPXKZT_z6VSfZF6oSKkhkO89odIw%3D%2F2309x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fw%2Fb%2FCT8wegQGWEfqzvVnfoFA%2Fgettyimages-1307372672.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
         }
       ]
     },
@@ -251,9 +218,7 @@
         },
         {
           "id": "fd67b33d486f",
-          "outrosIds": [
-            "d7f61f271825"
-          ],
+          "outrosIds": [],
           "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
           "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
@@ -264,6 +229,23 @@
           "tambemEm": [],
           "foto": null,
           "pontos": 20
+        },
+        {
+          "id": "2bf2e8fbdb53",
+          "outrosIds": [],
+          "titulo": "Coreia do Sul investiga 1º colocado em prova após fraude com IA",
+          "resumo": "Após suspeita inicial de uso de óculos inteligentes, candidato admitiu fraude; governo pretende suspender seu certificado O post Coreia do Sul investiga 1º colocado em prova após fraude com IA apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/15/inteligencia-artificial/coreia-do-sul-investiga-1o-colocado-em-prova-apos-fraude-com-ia/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-15T19:09:09.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
         },
         {
           "id": "e2299add8b87",
@@ -279,23 +261,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
-        },
-        {
-          "id": "8b54fa5611e9",
-          "outrosIds": [],
-          "titulo": "Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem",
-          "resumo": "Para Mark Williams, professor da Universidade de Boston, ambiente de financiamento mais difícil levará a um escrutínio maior das decisões de investimento The post Executivos encaram difícil escolha sobre gastos com IA à medida que os custos crescem appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/global/executivos-encaram-dificil-escolha-sobre-gastos-com-ia-a-medida-que-os-custos-crescem/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T08:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FInteligencia-artificial.jpg%3Ffit%3D1920%252C1280%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FInteligencia-artificial.jpg%3Ffit%3D1920%252C1280%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 15
         }
@@ -391,7 +356,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 19,
+      "itens": 17,
       "erro": null
     },
     {
@@ -503,7 +468,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 31,
+      "itens": 30,
       "erro": null
     }
   ]
