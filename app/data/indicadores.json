@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-15T21:09:08.326Z",
+  "geradoEm": "2026-11-15T21:17:20.490Z",
   "paineis": {
     "economia": [
       {
@@ -16,7 +16,7 @@
           "data": "2026-09-16"
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -33,7 +33,7 @@
           "valor": 4.58
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -50,7 +50,7 @@
           "valor": 5.6143
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -67,7 +67,7 @@
           "referencia": "1º tri 2026"
         },
         "fonte": "IBGE",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       }
     ],
@@ -86,7 +86,7 @@
           "valor": 171324.31
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -103,7 +103,7 @@
           "valor": 13.65
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -120,7 +120,7 @@
           "valor": 3566.57
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       },
       {
@@ -137,7 +137,7 @@
           "valor": 7592.4
         },
         "fonte": "Yahoo Finance",
-        "atualizadoEm": "2026-11-15T21:09:08.326Z",
+        "atualizadoEm": "2026-11-15T21:17:20.490Z",
         "desatualizado": false
       }
     ]

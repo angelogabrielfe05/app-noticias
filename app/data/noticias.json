@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-15T21:09:08.326Z",
+  "geradoEm": "2026-11-15T21:17:20.490Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -485,7 +485,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 29,
+      "itens": 28,
       "erro": null
     }
   ]
