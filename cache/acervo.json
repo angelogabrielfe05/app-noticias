@@ -1,5 +1,16 @@
 [
   {
+    "titulo": "Investidores asiáticos pagam ágio para acessar ações de Anthropic e OpenAI",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjMzak5XdmVJQ1lfbkNXSERpcVlvYkotY2p0WURCLUJjYk9Hamd2bmJVdTZVQUhPa01VSmVUbFhnU2s5cjdOYlZzWENDRXlWODBFTWJpeWFQeERRYk1SS3djWXQzWXM2V0licEh3UU9melRJem4yLTIxYlhJRURlTTR0V3ZuemVMa1ZiRDlWX05JUzdRRm5nMHZ4MDRIb2R6UmdYc0VwdzNXX2JaQ2tJRHJFLXFaS3czR2xTc3VHYlJBVGhQLVJ30gHWAUFVX3lxTE9hUTVOOEV2LTBmYVZvUFIxY016ekJCTDlJOWQzd1dJSHVtcG5abDMxX0MxQXRHbW1rOUdYeGZhV0E3b0ZJNkxwWU0zZFNTYy00eVNxaEU5NXEtM00xdDhIVkZyUk5qY2xvODRmX0tycG4yQXN2ejk0MnRSa0MyRjFTMFZqUGREelpOdml4eDZlMExfai00VmVITzBFa19DbV9Eak5PRkJ6azdKcTBqUHhjX2lhd2lVTWlBVklnT3BWWUtxazdUbmdLbHd4MzRBZm5tbmZ4d3c?oc=5",
+    "resumo": "",
+    "data": "2026-11-16T05:52:16.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "O que é a Busca Visual Aprimorada no app Fotos do iOS? Veja como ativar",
     "link": "https://canaltech.com.br/apps/o-que-e-a-busca-visual-aprimorada-no-app-fotos-do-ios-veja-como-ativar/",
     "resumo": "A Busca Visual Aprimorada &eacute; uma fun&ccedil;&atilde;o do aplicativo Fotos, da Apple, no qual &eacute; poss&iacute;vel pesquisar na galeria por pontos tur&iacute;sticos ou locais de interesse. O modo est&aacute; dispon&iacute;vel para iOS, iPadOS e macOS e funciona at&eacute; com a geolocaliza&ccedil;&atilde;o…",
@@ -782,6 +793,17 @@
     "imagemFeed": null,
     "fonteId": "exame-invest",
     "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic acelera significativamente o desenvolvimento de modelos usando a própria IA",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzFxc3FtRTdxb05NUEF6d0dNYmNPN01VeGhjajZIR2p1RlJJNlNoR2ZyY3RwR2p1d1BnUHIxdjRtMVBMeDI3ZlY3aGh5Y09qUW5FZ19vU0JOQzV6Slg4NmsxZ1VORlRkd2x6eTQ1NVJ6NTN2LWJ2cThYTUxIem5MTjY2UTJaWk9iYmtEWTEwWXlESkZzQnVIb1NWLTFxcmVqOHhia3lLWlRsLXpIR21CYTNKVkpxalFHbkZCS1FUcWFMUnVQajdvcnFEeWk5MTNoNV9KZmplUk4yUlJEam5CaHdmMjdOVV9UbFE?oc=5",
+    "resumo": "",
+    "data": "2026-11-15T09:53:25.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
     "categoria": "imprensa"
   },
   {
@@ -2582,17 +2604,6 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic acelera significativamente o desenvolvimento de modelos usando a própria IA",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzFxc3FtRTdxb05NUEF6d0dNYmNPN01VeGhjajZIR2p1RlJJNlNoR2ZyY3RwR2p1d1BnUHIxdjRtMVBMeDI3ZlY3aGh5Y09qUW5FZ19vU0JOQzV6Slg4NmsxZ1VORlRkd2x6eTQ1NVJ6NTN2LWJ2cThYTUxIem5MTjY2UTJaWk9iYmtEWTEwWXlESkZzQnVIb1NWLTFxcmVqOHhia3lLWlRsLXpIR21CYTNKVkpxalFHbkZCS1FUcWFMUnVQajdvcnFEeWk5MTNoNV9KZmplUk4yUlJEam5CaHdmMjdOVV9UbFE?oc=5",
-    "resumo": "",
-    "data": "2026-11-13T19:09:32.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
     "categoria": "imprensa"
   },
   {

@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T03:17:27.435Z",
+  "geradoEm": "2026-11-16T06:17:32.904Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -217,18 +217,18 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "178e46f51a18",
+          "id": "ffbba8875e69",
           "outrosIds": [],
-          "titulo": "IPO da Anthropic põe à prova a aposta de US$ 1,4 trilhão em IA",
+          "titulo": "Investidores asiáticos pagam ágio para acessar ações de Anthropic e OpenAI",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVU3WW9ORGhFY2Mwd1laQW5YbHV1OEVoZFJrOVlNNFExbHIzUldzcWhpUTVhSWZyTlZuUnAxZXUxVDlLaVZyRldBQ0NENzB2VW1vZTFXZDJDbDR3MmdaUTR1YkZGUXhiWHYxYUlDdmlnQXVpSmtncktrcFk1Nmw4eGNqNmF1Y3A0NXpUTzU0Q2lHcnZMR2Ftcm9VbHJjS1ZSRTJkYQ?oc=5",
-          "fonte": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjMzak5XdmVJQ1lfbkNXSERpcVlvYkotY2p0WURCLUJjYk9Hamd2bmJVdTZVQUhPa01VSmVUbFhnU2s5cjdOYlZzWENDRXlWODBFTWJpeWFQeERRYk1SS3djWXQzWXM2V0licEh3UU9melRJem4yLTIxYlhJRURlTTR0V3ZuemVMa1ZiRDlWX05JUzdRRm5nMHZ4MDRIb2R6UmdYc0VwdzNXX2JaQ2tJRHJFLXFaS3czR2xTc3VHYlJBVGhQLVJ30gHWAUFVX3lxTE9hUTVOOEV2LTBmYVZvUFIxY016ekJCTDlJOWQzd1dJSHVtcG5abDMxX0MxQXRHbW1rOUdYeGZhV0E3b0ZJNkxwWU0zZFNTYy00eVNxaEU5NXEtM00xdDhIVkZyUk5qY2xvODRmX0tycG4yQXN2ejk0MnRSa0MyRjFTMFZqUGREelpOdml4eDZlMExfai00VmVITzBFa19DbV9Eak5PRkJ6azdKcTBqUHhjX2lhd2lVTWlBVklnT3BWWUtxazdUbmdLbHd4MzRBZm5tbmZ4d3c?oc=5",
+          "fonte": "Valor Econômico",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-15T16:09:01.000Z",
+          "data": "2026-11-16T05:52:16.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 23
+          "pontos": 24
         },
         {
           "id": "fd67b33d486f",
@@ -259,7 +259,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         },
         {
           "id": "41cd4b66eb6b",
@@ -499,7 +499,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 27,
+      "itens": 28,
       "erro": null
     }
   ]
