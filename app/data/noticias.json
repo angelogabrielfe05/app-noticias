@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T09:17:26.209Z",
+  "geradoEm": "2026-11-16T12:17:26.821Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -65,6 +65,61 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "0d9064c7a597",
+          "outrosIds": [],
+          "titulo": "Mercado reduz projeções para inflação e crescimento da economia em 202",
+          "resumo": "O mercado financeiro reduziu as projeções para a inflação e o crescimento da economia brasileira em 2026. Ao mesmo tempo, elevou a estimativa para a cotação do dólar no fim do próximo ano. A previsão para a taxa básica de juros (Selic) permaneceu estável. As estimativas das instituições financeiras constam do Boletim…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T12:12:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "326682687fe4",
+          "outrosIds": [
+            "be65df0b197c"
+          ],
+          "titulo": "Boletim Focus: Sobe expectativa para dólar, inflação e juros em 2027",
+          "resumo": "A expectativa dos economistas para o dólar, a inflação e os juros em 2027 subiu, apontou o Boletim Focus divulgado pelo Banco Central nesta segunda-feira (16). Na contramão, a perspectiva para o Produto Interno Bruto (PIB) no próximo ano desabou. Este é o terceiro boletim após a eleição do presidente Luiz Inácio Lula…",
+          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/16/boletim-focus-sobe-expectativa-para-dolar-inflacao-e-juros-em-2027.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T11:45:28.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "795c49512026",
+          "outrosIds": [],
+          "titulo": "Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026",
+          "resumo": "Para 2027, a estimativa da Selic subiu de 12,50% para 12,75% The post Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026 appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T11:36:43.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F20231025_150126-3-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F20231025_150126-3-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "96ad11f3a7ca",
           "outrosIds": [],
           "titulo": "Após ter votado contra, presidente do PL diz que ajuste fiscal do Lula gera calote, aumento de impostos e pedalada fiscal",
@@ -82,42 +137,21 @@
           "pontos": 24
         },
         {
-          "id": "2934b5df79ae",
-          "outrosIds": [
-            "823cd8e6271c"
-          ],
-          "titulo": "Fed “tem trabalho a fazer sobre inflação”, diz presidente do Fed de Kansas City",
-          "resumo": "O Federal Reserve possui as ferramentas e a responsabilidade para lidar com as pressões sobre os preços que estão “ficando muito altas”, e o banco central dos Estados Unidos “tem trabalho a fazer sobre a inflação”, afirmou neste domingo (15) o presidente do Federal Reserve de Kansas City, Jeff Schmid. Schmid, em…",
-          "link": "https://www.moneytimes.com.br/fed-tem-trabalho-a-fazer-sobre-inflacao-diz-presidente-do-fed-de-kansas-city-fets/",
+          "id": "ac685030fca9",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que vê ‘tesouraço’",
+          "resumo": "A proposta de ajuste fiscal do governo Luiz Inácio Lula da Silva (PT), que prevê economia de até R$ 60 bilhões em 2027, conseguiu desagradar ao mesmo tempo economistas, para quem a medida vai na direção certa, mas é tímida demais, e deputados de esquerda, que avaliam o pacote como rigoroso demais e também um […]",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-ve-tesouraco/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T07:14:00.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F08%2Ffederal-reserve-fed-juros-estados-unidos-eua.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F08%2Ffederal-reserve-fed-juros-estados-unidos-eua.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
-        },
-        {
-          "id": "95b40db48f2b",
-          "outrosIds": [],
-          "titulo": "Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios",
-          "resumo": "Bruno Moretti cita supersalários e benefícios fiscais; texto ainda tramita no Congresso e enfrenta desconfiança do mercado e de alas do governo The post Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/politica/em-video-ministro-afirma-que-ajuste-fiscal-preserva-direitos-e-combate-privilegios/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-14T17:50:33.000Z",
+          "data": "2026-11-16T11:28:10.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F10%2Flula-cop31.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F10%2Flula-cop31.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 21
         }
       ]
     },
@@ -125,6 +159,61 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "170124449626",
+          "outrosIds": [
+            "71d5c6b690e6"
+          ],
+          "titulo": "Lucro líquido da Mitre Realty (MTRE3) sobe para R$ 15,7 milhões no 3º trimestre",
+          "resumo": "A construtora e incorporadora Mitre (MTRE3) teve lucro líquido de R$ 15,7 milhões no terceiro trimestre de 2026, 81,6% acima do resultado obtido um ano antes, segundo balanço divulgado nesta segunda-feira (16). A margem bruta no período foi de 28,8%, ante os 25,7% do terceiro trimestre de 2025. A companhia teve…",
+          "link": "https://www.moneytimes.com.br/lucro-liquido-da-mitre-realty-mtre3-sobe-para-r-157-milhoes-no-3o-trimestre-lmrs/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T11:58:22.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "7fca8d56e785",
+          "outrosIds": [],
+          "titulo": "Ibovespa Futuro cai com IBC-Br e cautela externa antes de balanço da Nvidia",
+          "resumo": "Também nesta semana, o presidente dos Estados Unidos, Donald Trump, vai se reunir com os presidentes da China, Xi Jinping, e da Rússia, Vladimir Putin The post Ibovespa Futuro cai com IBC-Br e cautela externa antes de balanço da Nvidia appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-ibc-br-e-cautela-externa-antes-de-balanco-da-nvidia/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T12:13:14.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "69dcc7669da4",
+          "outrosIds": [],
+          "titulo": "Caixa Seguridade (CXSE3), BrasilAgro (AGRO3) e mais duas empresas pagam dividendos nesta semana",
+          "resumo": "Algumas companhias listadas no Ibovespa, como Caixa Seguridade (CXSE3) e BrasilAgro (AGRO3), distribuem dividendos ou juros sobre capital próprio (JCP) aos seus acionistas nesta semana. Na segunda-feira (9), o BrasilAgro distribui dividendos de R$ 0,3012 para os acionistas das ações AGRO3. No caso, a data de corte é…",
+          "link": "https://www.moneytimes.com.br/caixa-seguridade-cxse3-brasilagro-agro3-e-mais-duas-empresas-pagam-dividendos-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T10:15:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fjcps-dividendos-ambev-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fjcps-dividendos-ambev-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "93178eadf7c1",
           "outrosIds": [],
@@ -143,76 +232,21 @@
           "pontos": 22
         },
         {
-          "id": "58287f804fd5",
+          "id": "59d71947bdb7",
           "outrosIds": [],
-          "titulo": "De calote a briga milionária na Justiça: veja o que movimentou os fundos imobiliários (FIIs) na semana",
-          "resumo": "De calote a briga nos tribunais, a semana foi movimentada no mercado de fundos imobiliários (FIIs), com operações de compra de imóveis, mudanças na carteira de inquilinos e problemas envolvendo contratos de locação. Entre os destaques, o Patria Malls (PMLL11) acertou a venda de sua participação em um shopping center…",
-          "link": "https://www.moneytimes.com.br/de-calote-a-briga-milionaria-na-justica-veja-o-que-movimentou-os-fundos-imobiliarios-fiis-na-semana-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-14T12:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Fambipar-dividas-endividamento-inadimplencia-calote-sem-dinheiro-bolso-vazio-fundo-imobiliario-imagem-pixabay-1820796.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "16e0df97fa60",
-          "outrosIds": [],
-          "titulo": "Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa",
-          "resumo": "Casa de análise libera acesso a estratégia de investimentos para o governo Lula 4; veja como acessar mais de 20 ativos gratuitamente The post Lula é peça-chave para Ibovespa voltar aos 200 mil pontos? Empiricus traça possíveis cenários fiscais para o Brasil e seus efeitos na bolsa appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/economia/lula-e-peca-chave-para-ibovespa-voltar-aos-200-mil-pontos-empiricus-traca-possiveis-cenarios-fiscais-para-o-brasil-e-seus-efeitos-na-bolsa-lbrdml140/",
+          "titulo": "O mercado só vê crise fiscal e penaliza FIIs, Fiagros e FI-Infras — mas BTG vê imóveis baratos e renda de até IPCA+ 15%",
+          "resumo": "O medo de uma piora das contas públicas derrubou as cotas dos fundos listados, mas não necessariamente os negócios por trás delas The post O mercado só vê crise fiscal e penaliza FIIs, Fiagros e FI-Infras — mas BTG vê imóveis baratos e renda de até IPCA+ 15% appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/o-mercado-so-ve-crise-fiscal-e-penaliza-fiis-fiagros-e-fi-infras-mas-btg-ve-imoveis-baratos-e-renda-em-dois-digitos-mlim/",
           "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-14T13:00:00.000Z",
+          "data": "2026-11-16T10:10:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F01%2FAdobe-Express-file-10.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F04%2FFIIs-FIInfra.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F04%2FFIIs-FIInfra.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
-        },
-        {
-          "id": "e426843a3269",
-          "outrosIds": [
-            "f9cf5623f9e3"
-          ],
-          "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) derrete; veja o que rolou no Ibovespa",
-          "resumo": "Em uma semana marcada pela volatilidade, o Ibovespa (IBOV) conseguiu se manter no campo positivo. O principal índice da bolsa brasileira acumulou ganhos de 2,35% na semana e encerrou a última sessão aos 172.457,76 pontos, com valorização de 0,66%. Já o dólar à vista terminou a R$ 5,6550, com alta de 2,66% ante o real…",
-          "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-14T13:26:00.000Z",
-          "tambemEm": [
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
-          "id": "398c6e2a0f7b",
-          "outrosIds": [],
-          "titulo": "Atração turística da Islândia, Blue Lagoon vai ter ação na bolsa: você compraria?",
-          "resumo": "Famosa por suas águas termais, Blue Lagoon prepara IPO, mas enfrenta riscos vulcânicos",
-          "link": "https://exame.com/invest/mercados/atracao-turistica-da-islandia-blue-lagoon-vai-ter-acao-na-bolsa-voce-compraria/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T10:03:22.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -238,6 +272,23 @@
           "pontos": 24
         },
         {
+          "id": "e3915f7e4cf0",
+          "outrosIds": [],
+          "titulo": "The King’s Trust and OpenAI launch £1m partnership",
+          "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "link": "https://openai.com/index/the-kings-trust-and-openai",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-16T00:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "ffbba8875e69",
           "outrosIds": [],
           "titulo": "Investidores asiáticos pagam ágio para acessar ações de Anthropic e OpenAI",
@@ -249,24 +300,24 @@
           "data": "2026-11-16T05:52:16.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "4b0fc5b701ff",
+          "id": "91e58e2ea930",
           "outrosIds": [],
-          "titulo": "Our new blog for science",
-          "resumo": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-          "link": "https://openai.com/index/our-new-blog-for-science",
+          "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "resumo": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
           "fonte": "OpenAI (blog oficial)",
           "oficial": false,
           "categoria": "empresa",
-          "data": "2026-11-15T22:00:00.000Z",
+          "data": "2026-11-16T09:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F34LfcwNBjpeCtav2XM8FhI%2F462f77d234875c50af8cc3368e9c529c%2Flvmh-media-division-partnership-seo-v2.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F34LfcwNBjpeCtav2XM8FhI%2F462f77d234875c50af8cc3368e9c529c%2Flvmh-media-division-partnership-seo-v2.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 17
         }
       ]
     }
@@ -360,7 +411,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 16,
+      "itens": 10,
       "erro": null
     },
     {
@@ -444,7 +495,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1389,
+      "itens": 1391,
       "erro": null
     },
     {
@@ -472,7 +523,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 28,
+      "itens": 29,
       "erro": null
     }
   ]
