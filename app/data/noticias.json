@@ -1,10 +1,29 @@
 {
-  "geradoEm": "2026-11-15T21:17:20.490Z",
+  "geradoEm": "2026-11-16T00:17:24.324Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
-      "janelaHoras": 48,
+      "janelaHoras": 96,
       "itens": [
+        {
+          "id": "711ae7d53a14",
+          "outrosIds": [
+            "647808d4075f"
+          ],
+          "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
+          "resumo": "Após quase quatro horas de votação, o Senado aprovou nesta quinta-feira (12) o texto-base do projeto de ajuste fiscal do governo, por 45 votos a 31. A proposta prevê medidas para reduzir despesas e ampliar a arrecadação, com economia estimada entre R$ 50 bilhões e R$ 60 bilhões em 2027, segundo o ministro Bruno…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-13T00:54:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FTvOMb2Hb5US1-3Zj1B458fNfYng%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-2_0.jpg%3Fitok%3D-u9GH371&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FTvOMb2Hb5US1-3Zj1B458fNfYng%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-2_0.jpg%3Fitok%3D-u9GH371&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
         {
           "id": "2115df6f7c5f",
           "outrosIds": [],
@@ -23,21 +42,21 @@
           "pontos": 23
         },
         {
-          "id": "706659a6fe37",
+          "id": "ef5d3e5ba324",
           "outrosIds": [],
-          "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
-          "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
-          "fonte": "Agência Brasil",
+          "titulo": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
+          "resumo": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada máxima de trabalho para 40 horas semanais, e garante dois…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
+          "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-14T00:23:00.000Z",
+          "data": "2026-11-13T14:47:36.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 16
         }
       ]
     },
@@ -103,36 +122,10 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "a83537a9e444",
-          "outrosIds": [
-            "f9cf5623f9e3",
-            "e426843a3269",
-            "d378d4173ff0",
-            "aaaaeb830cb3"
-          ],
-          "titulo": "Ibovespa B3 sobe 0,66% após aprovação de pacote fiscal; dólar fica praticamente estável",
-          "resumo": "Índice termina a semana no azul, enquanto investidores também acompanham novos dados de inflação nos Estados Unidos e os desdobramentos na Nvidia",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-066-apos-aprovacao-de-pacote-fiscal-dolar-fica-praticamente-estavel/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T21:42:20.000Z",
-          "tambemEm": [
-            "Agência Brasil",
-            "Money Times",
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F06184748%2Fibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 31
-        },
-        {
           "id": "93178eadf7c1",
           "outrosIds": [],
-          "titulo": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 18% em um ano",
-          "resumo": "Estatal registra patrimônio líquido negativo e despesas financeiras em alta; governo prevê aporte de R$ 6 bilhões até o fim de 2027 The post Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 18% em um ano appeared first on InfoMoney .",
+          "titulo": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
+          "resumo": "Estatal tem queda nas receitas com encomendas e envios internacionais e gasta R$ 2,5 bilhões com juros; governo prevê aporte de R$ 6 bilhões em 2027 The post Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
           "fonte": "InfoMoney",
           "oficial": false,
@@ -180,21 +173,46 @@
           "pontos": 18
         },
         {
-          "id": "398c6e2a0f7b",
-          "outrosIds": [],
-          "titulo": "Atração turística da Islândia, Blue Lagoon vai ter ação na bolsa: você compraria?",
-          "resumo": "Famosa por suas águas termais, Blue Lagoon prepara IPO, mas enfrenta riscos vulcânicos",
-          "link": "https://exame.com/invest/mercados/atracao-turistica-da-islandia-blue-lagoon-vai-ter-acao-na-bolsa-voce-compraria/",
+          "id": "e426843a3269",
+          "outrosIds": [
+            "f9cf5623f9e3"
+          ],
+          "titulo": "Magazine Luiza (MGLU3) vira foguete, enquanto CSN (CSNA3) derrete; veja o que rolou no Ibovespa",
+          "resumo": "Em uma semana marcada pela volatilidade, o Ibovespa (IBOV) conseguiu se manter no campo positivo. O principal índice da bolsa brasileira acumulou ganhos de 2,35% na semana e encerrou a última sessão aos 172.457,76 pontos, com valorização de 0,66%. Já o dólar à vista terminou a R$ 5,6550, com alta de 2,66% ante o real…",
+          "link": "https://www.moneytimes.com.br/magazine-luiza-mglu3-lidera-ganhos-com-alta-de-mais-de-39-enquanto-csn-csna3-e-a-pior-acao-da-semana-veja-o-que-rolou-no-ibovespa-davs/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-14T13:26:00.000Z",
+          "tambemEm": [
+            "Seu Dinheiro"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
+        },
+        {
+          "id": "2ca0fa6f6c55",
+          "outrosIds": [
+            "fcb99858f2cc"
+          ],
+          "titulo": "Fusão entre SpaceX e Tesla pode obrigar fundos a comprar US$ 100 bilhões em ações",
+          "resumo": "A eventual entrada da companhia combinada no S&P 500 levaria fundos passivos a ampliar suas posições e poderia alterar o peso de outras empresas no principal índice acionário dos EUA",
+          "link": "https://exame.com/invest/mercados/fusao-entre-spacex-e-tesla-pode-obrigar-fundos-a-comprar-us-100-bilhoes-em-acoes/",
           "fonte": "Exame Invest",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-15T10:03:22.000Z",
-          "tambemEm": [],
+          "data": "2026-11-15T14:34:02.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fspacex_tesla.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fspacex_tesla.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         }
       ]
     },
@@ -214,7 +232,7 @@
           "data": "2026-11-15T16:09:01.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "fd67b33d486f",
@@ -229,6 +247,23 @@
           "tambemEm": [],
           "foto": null,
           "pontos": 20
+        },
+        {
+          "id": "4b0fc5b701ff",
+          "outrosIds": [],
+          "titulo": "Our new blog for science",
+          "resumo": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-15T22:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
         },
         {
           "id": "41cd4b66eb6b",
@@ -263,23 +298,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
-        },
-        {
-          "id": "e2299add8b87",
-          "outrosIds": [],
-          "titulo": "Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente",
-          "resumo": "Os modelos estão ficando melhores rapidamente. Mas inteligência não é sinônimo de confiabilidade operacional O post Atenção, empresas! Inteligência artificial não é sinônimo de operação inteligente apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/15/colunistas/atencao-empresas-inteligencia-artificial-nao-e-sinonimo-de-operacao-inteligente/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T10:04:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fagentes-de-IA.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
         }
       ]
     }
@@ -373,7 +391,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 16,
+      "itens": 15,
       "erro": null
     },
     {
@@ -457,7 +475,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1387,
+      "itens": 1389,
       "erro": null
     },
     {
