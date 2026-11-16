@@ -1,43 +1,45 @@
 {
-  "geradoEm": "2026-11-16T12:17:26.821Z",
+  "geradoEm": "2026-11-16T15:17:29.645Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 96,
       "itens": [
         {
-          "id": "711ae7d53a14",
-          "outrosIds": [
-            "647808d4075f"
-          ],
-          "titulo": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi",
-          "resumo": "Após quase quatro horas de votação, o Senado aprovou nesta quinta-feira (12) o texto-base do projeto de ajuste fiscal do governo, por 45 votos a 31. A proposta prevê medidas para reduzir despesas e ampliar a arrecadação, com economia estimada entre R$ 50 bilhões e R$ 60 bilhões em 2027, segundo o ministro Bruno…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi",
+          "id": "55ea0272c1a5",
+          "outrosIds": [],
+          "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
+          "resumo": "O Supremo Tribunal Federal (STF) confirmou, nesta quinta-feira (12), a validade da decisão que homologou um acordo para encerrar os processos judiciais sobre perdas financeiras de poupadores provocadas por planos econômicos das décadas de 1980 e 1990. O plenário rejeitou três recursos apresentados por entidades sem…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-13T00:54:00.000Z",
+          "data": "2026-11-13T00:35:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FTvOMb2Hb5US1-3Zj1B458fNfYng%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-2_0.jpg%3Fitok%3D-u9GH371&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FTvOMb2Hb5US1-3Zj1B458fNfYng%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-2_0.jpg%3Fitok%3D-u9GH371&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 22
         },
         {
-          "id": "2115df6f7c5f",
-          "outrosIds": [],
-          "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
-          "resumo": "O Supremo Tribunal Federal (STF) terá em seu Salão Nobre, a partir da próxima terça-feira (17), um símbolo da justiça na tradição yorubá, o Oxê de Xangô. Trata-se de um machado com lâminas nas duas pontas, simbolizando a igualdade no julgamento, sem favorecer um lado em detrimento de outro. O Oxê é envergado por…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
+          "id": "4dfffd6fb36b",
+          "outrosIds": [
+            "b0344f472589"
+          ],
+          "titulo": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS",
+          "resumo": "O Congresso Nacional aprovou, nesta quinta-feira (12), projeto de lei (PL) que reestrutura as carreiras, com previsão de reajustes, de servidores da Receita Federal, do Instituto Nacional do Seguro Social (INSS), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Instituto Chico Mendes…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-15T13:24:00.000Z",
-          "tambemEm": [],
+          "data": "2026-11-12T16:18:00.000Z",
+          "tambemEm": [
+            "Agência Senado"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWpHQLHg4TI5bUUW34lMi1HTUKbQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-3.jpg%3Fitok%3DNm4TId_D&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWpHQLHg4TI5bUUW34lMi1HTUKbQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-3.jpg%3Fitok%3DNm4TId_D&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -65,9 +67,26 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "b77bafd17ce5",
+          "outrosIds": [],
+          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
+          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T14:36:40.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "0d9064c7a597",
           "outrosIds": [],
-          "titulo": "Mercado reduz projeções para inflação e crescimento da economia em 202",
+          "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
           "resumo": "O mercado financeiro reduziu as projeções para a inflação e o crescimento da economia brasileira em 2026. Ao mesmo tempo, elevou a estimativa para a cotação do dólar no fim do próximo ano. A previsão para a taxa básica de juros (Selic) permaneceu estável. As estimativas das instituições financeiras constam do Boletim…",
           "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
           "fonte": "Agência Brasil",
@@ -103,6 +122,23 @@
           "pontos": 26
         },
         {
+          "id": "37efbd5fb298",
+          "outrosIds": [],
+          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
+          "resumo": "Caio Megale vê menos espaço para sustentar o arcabouço fiscal com aumento de receita e alerta para o risco de inflação sem ajuste das contas The post Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T14:31:40.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "795c49512026",
           "outrosIds": [],
           "titulo": "Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026",
@@ -118,40 +154,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F20231025_150126-3-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "96ad11f3a7ca",
-          "outrosIds": [],
-          "titulo": "Após ter votado contra, presidente do PL diz que ajuste fiscal do Lula gera calote, aumento de impostos e pedalada fiscal",
-          "resumo": "O líder da Oposição no Senado, Rogério Marinho (PL-RN), criticou a proposta de ajuste fiscal defendida pelo governo Lula (PT) e afirmou que as medidas promoverão um calote nos entes federativos, aumento de impostos e uma pedalada fiscal. “O que é que nós vimos quando nos debruçamos sobre o tema? Calote, ou seja,…",
-          "link": "https://www.moneytimes.com.br/apos-ter-votado-contra-presidente-do-pl-diz-que-ajuste-fiscal-do-lula-gera-calote-aumento-de-impostos-e-pedalada-fiscal-fets/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T08:49:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2F55284808111-fdcbbc0b08-o-scaled-e1786454518917.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2F55284808111-fdcbbc0b08-o-scaled-e1786454518917.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "ac685030fca9",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal de Lula é considerado tímido pelo mercado, mas racha esquerda, que vê ‘tesouraço’",
-          "resumo": "A proposta de ajuste fiscal do governo Luiz Inácio Lula da Silva (PT), que prevê economia de até R$ 60 bilhões em 2027, conseguiu desagradar ao mesmo tempo economistas, para quem a medida vai na direção certa, mas é tímida demais, e deputados de esquerda, que avaliam o pacote como rigoroso demais e também um […]",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-de-lula-e-considerado-timido-pelo-mercado-mas-racha-esquerda-que-ve-tesouraco/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T11:28:10.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F10%2Flula-cop31.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F10%2Flula-cop31.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         }
       ]
     },
@@ -159,6 +161,65 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "9914bb083ae4",
+          "outrosIds": [
+            "93178eadf7c1"
+          ],
+          "titulo": "Atividade econômica tem queda de 0,9% no terceiro trimestre",
+          "resumo": "A atividade econômica no Brasil registrou queda no terceiro trimestre, de acordo com informações divulgadas nesta segunda-feira (16) pelo Banco Central (BC). O Índice de Atividade Econômica do BC (IBC-Br) teve redução de 0,9% de julho a setembro em relação ao trimestre anterior (abril a junho), de acordo com dados…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/atividade-economica-tem-queda-de-09-no-terceiro-trimestre",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T15:02:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FBvL6tQQdt_Ew12RtZEA43y_8L8A%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Feconomia_1609210423_0.jpg%3Fitok%3DIAozND8N&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FBvL6tQQdt_Ew12RtZEA43y_8L8A%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Feconomia_1609210423_0.jpg%3Fitok%3DIAozND8N&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
+          "id": "2ddb6232a3db",
+          "outrosIds": [
+            "69dcc7669da4"
+          ],
+          "titulo": "Agenda de Dividendos: Caixa Seguridade (CXSE3), Irani (RANI3) e BrasilAgro (AGRO3) remuneram o investidor nesta semana",
+          "resumo": "Proventos chegam a R$ 0,80 por ação; veja a lista completa de pagamentos",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-caixa-seguridade-cxse3-irani-rani3-e-brasilagro-agro3-remuneram-o-investidor-nesta-semana/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T12:39:13.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
+          "id": "efb525954f21",
+          "outrosIds": [],
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na terceira semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-terceira-semana-de-novembro/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T13:00:40.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F05%2F21121126%2Ffiis-de-papel-confianca-investidor.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F05%2F21121126%2Ffiis-de-papel-confianca-investidor.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
         {
           "id": "170124449626",
           "outrosIds": [
@@ -181,72 +242,21 @@
           "pontos": 26
         },
         {
-          "id": "7fca8d56e785",
+          "id": "26647c660dec",
           "outrosIds": [],
-          "titulo": "Ibovespa Futuro cai com IBC-Br e cautela externa antes de balanço da Nvidia",
-          "resumo": "Também nesta semana, o presidente dos Estados Unidos, Donald Trump, vai se reunir com os presidentes da China, Xi Jinping, e da Rússia, Vladimir Putin The post Ibovespa Futuro cai com IBC-Br e cautela externa antes de balanço da Nvidia appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-cai-com-ibc-br-e-cautela-externa-antes-de-balanco-da-nvidia/",
+          "titulo": "Finfluencers ainda falam de ações, cripto e dólar, mas também de FIIs e commodities",
+          "resumo": "Segundo a 11ª edição do relatório Finfluence, da Anbima, citações de commodities, Fundos Imobiliários (FIIs) e renda fixa começam a aparecer mais nas publicações no 1º semestre de 2026; menção a fundos e ouro recuou The post Finfluencers ainda falam de ações, cripto e dólar, mas também de FIIs e commodities appeared…",
+          "link": "https://www.infomoney.com.br/onde-investir/finfluencers-ainda-falam-de-acoes-cripto-e-dolar-mas-tambem-de-fiis-e-commodities/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T12:13:14.000Z",
+          "data": "2026-11-16T15:16:45.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela_16-11-2026_1276_.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela_16-11-2026_1276_.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "69dcc7669da4",
-          "outrosIds": [],
-          "titulo": "Caixa Seguridade (CXSE3), BrasilAgro (AGRO3) e mais duas empresas pagam dividendos nesta semana",
-          "resumo": "Algumas companhias listadas no Ibovespa, como Caixa Seguridade (CXSE3) e BrasilAgro (AGRO3), distribuem dividendos ou juros sobre capital próprio (JCP) aos seus acionistas nesta semana. Na segunda-feira (9), o BrasilAgro distribui dividendos de R$ 0,3012 para os acionistas das ações AGRO3. No caso, a data de corte é…",
-          "link": "https://www.moneytimes.com.br/caixa-seguridade-cxse3-brasilagro-agro3-e-mais-duas-empresas-pagam-dividendos-mlem/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T10:15:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fjcps-dividendos-ambev-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fjcps-dividendos-ambev-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "93178eadf7c1",
-          "outrosIds": [],
-          "titulo": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
-          "resumo": "Estatal tem queda nas receitas com encomendas e envios internacionais e gasta R$ 2,5 bilhões com juros; governo prevê aporte de R$ 6 bilhões em 2027 The post Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T20:38:01.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "59d71947bdb7",
-          "outrosIds": [],
-          "titulo": "O mercado só vê crise fiscal e penaliza FIIs, Fiagros e FI-Infras — mas BTG vê imóveis baratos e renda de até IPCA+ 15%",
-          "resumo": "O medo de uma piora das contas públicas derrubou as cotas dos fundos listados, mas não necessariamente os negócios por trás delas The post O mercado só vê crise fiscal e penaliza FIIs, Fiagros e FI-Infras — mas BTG vê imóveis baratos e renda de até IPCA+ 15% appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/o-mercado-so-ve-crise-fiscal-e-penaliza-fiis-fiagros-e-fi-infras-mas-btg-ve-imoveis-baratos-e-renda-em-dois-digitos-mlim/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T10:10:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F04%2FFIIs-FIInfra.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F04%2FFIIs-FIInfra.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
         }
       ]
     },
@@ -255,20 +265,42 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "052236129a46",
+          "id": "847ca80a3bc6",
           "outrosIds": [],
-          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
-          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
+          "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
+          "resumo": "A turnê de apresentação da Anthropic está programada para durar até a ‌próxima quarta-feira, quando a empresa de IA deve definir o preço do IPO de US$64 bilhões The post Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T08:45:30.000Z",
+          "data": "2026-11-16T14:23:35.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
+          "pontos": 24
+        },
+        {
+          "id": "91fdf88a5f9b",
+          "outrosIds": [
+            "66de4252fb94",
+            "14e48e349cc1",
+            "ed751fdb1b3c"
+          ],
+          "titulo": "Futuros do TSX caem com resultados da Nvidia e IPO da Anthropic no radar",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzVsMjhsQjF3a2FGTDBVVUl3WXBrUTJhalNlOGlxR0tDUEt1MEg1ZWVxRjJOOTVtSkZtOXFTN3p5b3pWbEgzcGR1TkZnaGwtZzRScHVDTzZxclk2SjlHbTB6c2Q3bEg2dDVoNVBpRHBkeEJVRVlKNXVBVnk2MDFNWVJTQ2RWbFZVX0VlNE8wVTA1WVlIdkhDRjA3MDlSYU9NNjFSR215cklaT0lIQ2tIVXdWNE9kaGJOUmdiUTJVWWRvWDJVS0Zn?oc=5",
+          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T12:26:00.000Z",
+          "tambemEm": [
+            "Folha de S.Paulo",
+            "Bloomberg Línea Brasil",
+            "CNN Brasil"
+          ],
+          "foto": null,
           "pontos": 24
         },
         {
@@ -289,35 +321,38 @@
           "pontos": 24
         },
         {
-          "id": "ffbba8875e69",
+          "id": "052236129a46",
           "outrosIds": [],
-          "titulo": "Investidores asiáticos pagam ágio para acessar ações de Anthropic e OpenAI",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjMzak5XdmVJQ1lfbkNXSERpcVlvYkotY2p0WURCLUJjYk9Hamd2bmJVdTZVQUhPa01VSmVUbFhnU2s5cjdOYlZzWENDRXlWODBFTWJpeWFQeERRYk1SS3djWXQzWXM2V0licEh3UU9melRJem4yLTIxYlhJRURlTTR0V3ZuemVMa1ZiRDlWX05JUzdRRm5nMHZ4MDRIb2R6UmdYc0VwdzNXX2JaQ2tJRHJFLXFaS3czR2xTc3VHYlJBVGhQLVJ30gHWAUFVX3lxTE9hUTVOOEV2LTBmYVZvUFIxY016ekJCTDlJOWQzd1dJSHVtcG5abDMxX0MxQXRHbW1rOUdYeGZhV0E3b0ZJNkxwWU0zZFNTYy00eVNxaEU5NXEtM00xdDhIVkZyUk5qY2xvODRmX0tycG4yQXN2ejk0MnRSa0MyRjFTMFZqUGREelpOdml4eDZlMExfai00VmVITzBFa19DbV9Eak5PRkJ6azdKcTBqUHhjX2lhd2lVTWlBVklnT3BWWUtxazdUbmdLbHd4MzRBZm5tbmZ4d3c?oc=5",
-          "fonte": "Valor Econômico",
+          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
+          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T05:52:16.000Z",
+          "data": "2026-11-16T08:45:30.000Z",
           "tambemEm": [],
-          "foto": null,
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
           "pontos": 23
         },
         {
-          "id": "91e58e2ea930",
+          "id": "b6a40a41eed0",
           "outrosIds": [],
-          "titulo": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "resumo": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-          "link": "https://openai.com/index/lvmh-media-division-partnership",
-          "fonte": "OpenAI (blog oficial)",
+          "titulo": "Nova IA da Samsung vai contar calorias de refeições a partir de foto na One UI 9.5",
+          "resumo": "A Samsung est&aacute; testando um novo recurso de intelig&ecirc;ncia artificial para o Samsung Health que vai estimar a quantidade de calorias de uma refei&ccedil;&atilde;o a partir de uma foto, de acordo com o site SamMobile. Chamado Meal Scan , a ferramenta tamb&eacute;m deve identificar os alimentos, sugerir…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-samsung-vai-contar-calorias-de-refeicoes-a-partir-de-foto-na-one-ui-95/",
+          "fonte": "Canaltech",
           "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-16T09:00:00.000Z",
+          "categoria": "imprensa",
+          "data": "2026-11-16T15:08:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F34LfcwNBjpeCtav2XM8FhI%2F462f77d234875c50af8cc3368e9c529c%2Flvmh-media-division-partnership-seo-v2.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F34LfcwNBjpeCtav2XM8FhI%2F462f77d234875c50af8cc3368e9c529c%2Flvmh-media-division-partnership-seo-v2.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FZvZuO-995uX_AWj-b_0ad5PAq4I%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F3ac57874-7906-416b-a920-1038849934fe.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FZvZuO-995uX_AWj-b_0ad5PAq4I%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F3ac57874-7906-416b-a920-1038849934fe.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         }
       ]
     }
@@ -411,7 +446,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 10,
+      "itens": 8,
       "erro": null
     },
     {
@@ -495,7 +530,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1391,
+      "itens": 1393,
       "erro": null
     },
     {
@@ -523,7 +558,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 29,
+      "itens": 30,
       "erro": null
     }
   ]
