@@ -1001,6 +1001,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Log in | Verification Portal",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hdVl0bEhfUzE5ZTdOR3Q0dXdsQ2c2bDZUWll4cF9FS2NrZWpUbUg3bVZBalg4eHpBLXp6YzlOMml2T1ZFQzNPSExjV0Z0Vnps?oc=5",
+    "resumo": "",
+    "data": "2026-11-14T22:11:50.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
+    "categoria": "empresa"
+  },
+  {
     "titulo": "Farol embaçado por dentro: quando é normal e quando preocupa?",
     "link": "https://canaltech.com.br/carros/farol-embacado-por-dentro-quando-e-normal-e-quando-preocupa/",
     "resumo": "Encontrar os far&oacute;is do carro emba&ccedil;ados por dentro depois de uma chuva ou lavagem pode assustar e at&eacute; dar um certo desespero moment&acirc;neo, mas nem sempre isso significa que existe algum defeito. A condensa&ccedil;&atilde;o na parte interna da lente &eacute; um fen&ocirc;meno relativamente comum…",
@@ -6737,78 +6748,6 @@
     "link": "https://exame.com/invest/mercados/maior-alta-do-ibovespa-em-2025-cogna-cai-52-em-2026-ceo-explica-o-que-mudou/",
     "resumo": "Roberto Valério atribui pressão aos juros elevados e à maior liquidez da ação, enquanto descarta mudanças nos investimentos e grandes aquisições",
     "data": "2026-11-12T08:00:08.000Z",
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Agência - Detalhe de Mídia",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN0hBS2xYNDNVUFlzZS1xay1PQ2p4V0l0TEttN0dmZlNfal9yY3FETlE3eEZtRWVjcm1IZFJIQnlFUFJrWUFxYm5IblhQVkRKZkUzUzFGSXQ3NDFJT1hNZEU3bkRUdTNZNlBYSHExWmFnSm5hLWZpZVJFMTNwYzkyYVBsZ1VqdDlBdWZXOEdFOVR6OVBKX05wNzdoTHNxRzZSb0gw?oc=5",
-    "resumo": "",
-    "data": "2026-11-12T03:00:50.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Agência - Detalhe de Mídia",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzNlSExjMC13NVMtWFhnUHFFbUFHT1paR2N2T1VJR19Yd0w4RUtNRi1jMmdqZ1dqWE9xOFp0UTM5Wm1LT19LR3d4WkZSZElRT0JQbUJodXZkeTIyYzlqMjJoZGxGQVRwaU9ZSUE1cGl0WVBRTC1NcXE1dGM3WDRHeTFmYWFvbkd5Tnc2QnJ6WjlsVzloMkVPTzl0U3pkNF9JZWNv?oc=5",
-    "resumo": "",
-    "data": "2026-11-12T03:00:49.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Tormenta nas ações de tecnologia reduz ambições bilionárias de Anthropic e OpenAI e aumenta cautela de investidores",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQN1JPVnpra0V5YTJ6Y3pPTy1pZFA3ZWRYODNyN2NnU3NqV213UzRRNDVDSHFfdlNMbnRzWVdxN2tjLWlPNFhXOGgxVlBZTGVQT1g1OVgtaWdKY3lFZ1JaMDRaZVBWUDgzUlJqR2hCOGoyXzYzc1JZU1JwYXZpVHlHRjZSMVY1bkx5eHR6NWJUbThMWkJGWnlLOFBna1A3R3N2MzJKYjJlY2ZkZUhfdmFvRnpQaGxTTk9OelJLSXM3Q1Y4VTF3N0owYWVtdTVHa05jeHBrRVhBaW94WHBLV2NLbTczZUZEY2g5RmZnWDRmQ09MdGlFYkhtQ1BRak9yY3pkcTVtbWlsdHhnRi15Ty1OTNIBnwJBVV95cUxNOHdPdHdUSk9ELXM0MnJSVmsyV3pMMnN3V2hpdjByVURBY29GYXFKa0dJcXotX0lXQUVLX1IwN05fRjdCTHBEekd3dUh2UnFoMC1rcGF4N1pwUVZzdzU2dnVsZDNIeUdGV24wWFpyOFVRWXUwajlxWmpYUFFBVzEta3BwakFvWjA3TXhUNkV4UExSRkVpR3hkeUdGdGcyVklheGg3Ri1KdzJKM3JGak1QcnBDam5hT2lXUHZnZXZtcFlUYmFvQ2Rid2RJWHJoNmJtSTZJWjE1WUlNODNRbWliT0F2N2NqT3FrRzNnMy1nWTRTSExYMVFuZTdQNHh4Yzh6RWxjNllfZ1QtY2VXdm1aeml2cUFjaTRyajhYOW5uOA?oc=5",
-    "resumo": "",
-    "data": "2026-11-12T03:00:00.000Z",
-    "origem": "O GLOBO",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "O GLOBO",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Gemini chega ao Apple CarPlay e permite conversar com IA enquanto dirige",
-    "link": "https://olhardigital.com.br/2026/11/11/reviews/gemini-chega-ao-apple-carplay-e-permite-conversar-com-ia-enquanto-dirige/",
-    "resumo": "Recurso utiliza Gemini Live, modalidade que permite manter conversas mais naturais com chatbot O post Gemini chega ao Apple CarPlay e permite conversar com IA enquanto dirige apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-12T01:55:15.000Z",
-    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/apple_carplay-1024x682.jpg",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lucro-do-bb-cai-665-no-3o-trimestre-com-inadimplencia-do-agro",
-    "resumo": "Pressionado pelo aumento da inadimplência, principalmente do agronegócio, o Banco do Brasil (BB) registrou lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre de 2026, queda de 66,5% em relação ao mesmo período do ano passado. Com esse cenário, a instituição reduziu pela metade a projeção de lucro para o…",
-    "data": "2026-11-12T01:20:00.000Z",
-    "fonteId": "agencia-brasil-economia",
-    "fonte": "Agência Brasil",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Investidor inicial da Anthropic pode ganhar dezenas de bilhões com IPO",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdlRNaEpGR1lsWmxSZVd5RktxajZOX2s2dXplN0UwRXMyczRZMWRYZDhhVXNFQi1nVUJHSlAzcUZnS1VfeHF6UWRhQlJTNFRlSDhfaW9QNjlJV0s1c3VJMVREUTRDTlNLM3ljblFJdF9iWlduZ3JJanVMZEVaelZ3cnVBVlRpR3gteFpTWXVMRzRGMEViZGtobHJZQ2xDdGNtSGp4RWV0cmUxM0lfX0xLWndHa3RSbl9pc3ZGbUtaaXkxTjExUThsVE0wUQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-12T01:11:35.000Z",
-    "origem": "UOL Economia",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Alta nas vendas não salva balanço e Americanas tem prejuízo de R$ 352 milhões no 3º tri",
-    "link": "https://exame.com/invest/mercados/alta-nas-vendas-nao-salva-balanco-e-americanas-tem-prejuizo-de-r-352-mi-no-3o-tri/",
-    "resumo": "Ebitda ajustado despenca 90,7% em meio à pressão dos custos, enquanto varejista encerra recuperação judicial e tenta recuperar a rentabilidade",
-    "data": "2026-11-12T00:32:34.000Z",
     "fonteId": "exame-invest",
     "fonte": "Exame Invest",
     "categoria": "imprensa"

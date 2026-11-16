@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T00:17:24.324Z",
+  "geradoEm": "2026-11-16T03:17:27.435Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -39,7 +39,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "ef5d3e5ba324",
@@ -79,7 +79,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         },
         {
           "id": "95b40db48f2b",
@@ -136,7 +136,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "58287f804fd5",
@@ -194,23 +194,19 @@
           "pontos": 17
         },
         {
-          "id": "2ca0fa6f6c55",
-          "outrosIds": [
-            "fcb99858f2cc"
-          ],
-          "titulo": "Fusão entre SpaceX e Tesla pode obrigar fundos a comprar US$ 100 bilhões em ações",
-          "resumo": "A eventual entrada da companhia combinada no S&P 500 levaria fundos passivos a ampliar suas posições e poderia alterar o peso de outras empresas no principal índice acionário dos EUA",
-          "link": "https://exame.com/invest/mercados/fusao-entre-spacex-e-tesla-pode-obrigar-fundos-a-comprar-us-100-bilhoes-em-acoes/",
+          "id": "398c6e2a0f7b",
+          "outrosIds": [],
+          "titulo": "Atração turística da Islândia, Blue Lagoon vai ter ação na bolsa: você compraria?",
+          "resumo": "Famosa por suas águas termais, Blue Lagoon prepara IPO, mas enfrenta riscos vulcânicos",
+          "link": "https://exame.com/invest/mercados/atracao-turistica-da-islandia-blue-lagoon-vai-ter-acao-na-bolsa-voce-compraria/",
           "fonte": "Exame Invest",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-15T14:34:02.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
+          "data": "2026-11-15T10:03:22.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fspacex_tesla.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F06%2Fspacex_tesla.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FBlue-Lagoon-Spa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
         }
@@ -280,7 +276,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fb52ky3lmRb2CEoLHyMzYP4OOgYM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fea70901b-a164-4c87-b2c0-6afa7c8ba91d.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fb52ky3lmRb2CEoLHyMzYP4OOgYM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fea70901b-a164-4c87-b2c0-6afa7c8ba91d.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 15
         },
         {
           "id": "2bf2e8fbdb53",
@@ -297,7 +293,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 15
         }
       ]
     }
@@ -503,7 +499,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 28,
+      "itens": 27,
       "erro": null
     }
   ]
