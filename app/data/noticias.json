@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T06:17:32.904Z",
+  "geradoEm": "2026-11-16T09:17:26.209Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -65,21 +65,42 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "f53004f96290",
+          "id": "96ad11f3a7ca",
           "outrosIds": [],
-          "titulo": "Prévia do PIB e ata do Fed são destaques da semana; veja o calendário de indicadores",
-          "resumo": "A agenda econômica da semana de 15 a 20 de novembro será marcada pela divulgação do IBC-Br, considerado uma prévia do Produto Interno Bruto (PIB) brasileiro, e da ata da última reunião do Federal Reserve (Fed), banco central dos Estados Unidos. No Brasil, o principal destaque será o IBC-Br de setembro, divulgado na…",
-          "link": "https://www.moneytimes.com.br/previa-do-pib-e-ata-do-fed-sao-destaques-da-semana-veja-o-calendario-de-indicadores-jcav/",
+          "titulo": "Após ter votado contra, presidente do PL diz que ajuste fiscal do Lula gera calote, aumento de impostos e pedalada fiscal",
+          "resumo": "O líder da Oposição no Senado, Rogério Marinho (PL-RN), criticou a proposta de ajuste fiscal defendida pelo governo Lula (PT) e afirmou que as medidas promoverão um calote nos entes federativos, aumento de impostos e uma pedalada fiscal. “O que é que nós vimos quando nos debruçamos sobre o tema? Calote, ou seja,…",
+          "link": "https://www.moneytimes.com.br/apos-ter-votado-contra-presidente-do-pl-diz-que-ajuste-fiscal-do-lula-gera-calote-aumento-de-impostos-e-pedalada-fiscal-fets/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-15T14:50:00.000Z",
+          "data": "2026-11-16T08:49:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F10%2Fbrasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2F55284808111-fdcbbc0b08-o-scaled-e1786454518917.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2F55284808111-fdcbbc0b08-o-scaled-e1786454518917.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 24
+        },
+        {
+          "id": "2934b5df79ae",
+          "outrosIds": [
+            "823cd8e6271c"
+          ],
+          "titulo": "Fed “tem trabalho a fazer sobre inflação”, diz presidente do Fed de Kansas City",
+          "resumo": "O Federal Reserve possui as ferramentas e a responsabilidade para lidar com as pressões sobre os preços que estão “ficando muito altas”, e o banco central dos Estados Unidos “tem trabalho a fazer sobre a inflação”, afirmou neste domingo (15) o presidente do Federal Reserve de Kansas City, Jeff Schmid. Schmid, em…",
+          "link": "https://www.moneytimes.com.br/fed-tem-trabalho-a-fazer-sobre-inflacao-diz-presidente-do-fed-de-kansas-city-fets/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T07:14:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F08%2Ffederal-reserve-fed-juros-estados-unidos-eua.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F08%2Ffederal-reserve-fed-juros-estados-unidos-eua.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 19
         },
         {
           "id": "95b40db48f2b",
@@ -95,23 +116,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmontagem-infomoney-moretti-ministro-ajuste-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
-        },
-        {
-          "id": "ceba6f333cfd",
-          "outrosIds": [],
-          "titulo": "Das Filipinas, Janones critica ação da esquerda contra ajuste fiscal",
-          "resumo": "O deputado federal André Janones (Rede-MG) reagiu neste sábado, 14, a críticas feitas por segmentos esquerda nesta semana ao ajuste fiscal em tramitação no Congresso. Proposto pela equipe econômica do presidente Luiz Inácio Lula da Silva (PT), o texto principal do projeto foi aprovado na quinta-feira, 12, pelo Senado…",
-          "link": "https://www.moneytimes.com.br/das-filipinas-janones-critica-acao-da-esquerda-contra-ajuste-fiscal/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-14T15:00:32.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F05%2Fjanones.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
         }
@@ -136,7 +140,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Fcorreios.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "58287f804fd5",
@@ -217,6 +221,23 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "052236129a46",
+          "outrosIds": [],
+          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
+          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T08:45:30.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "ffbba8875e69",
           "outrosIds": [],
           "titulo": "Investidores asiáticos pagam ágio para acessar ações de Anthropic e OpenAI",
@@ -229,20 +250,6 @@
           "tambemEm": [],
           "foto": null,
           "pontos": 24
-        },
-        {
-          "id": "fd67b33d486f",
-          "outrosIds": [],
-          "titulo": "IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir",
-          "resumo": "Dona do Claude fixou faixa entre US$ 70 e US$ 78 por ação; especialistas avaliam riscos, momento do setor de IA e caminhos para o investidor brasileiro The post IPO da Anthropic vem aí: preço “exigente” divide especialistas; veja como investir appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/ipo-da-anthropic-vem-ai-preco-exigente-divide-especialistas-veja-como-investir/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-14T08:00:00.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 20
         },
         {
           "id": "4b0fc5b701ff",
@@ -260,40 +267,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2FZyKta7ePADbiaWqX3EARs%2F81a2a593e66096fb001987910330e24e%2Four-new-blog-for-science-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
-        },
-        {
-          "id": "41cd4b66eb6b",
-          "outrosIds": [],
-          "titulo": "China quer ampliar IA aberta no BRICS; o que o Brasil pode ganhar com isso?",
-          "resumo": "O Brasil pode aproveitar a proposta chinesa de criar uma comunidade de intelig&ecirc;ncia artificial (IA) aberta no BRICS para desenvolver suas pr&oacute;prias tecnologias e formar profissionais. Mas, segundo Luca Belli, diretor do Centro de Tecnologia e Sociedade da FGV Direito Rio , os benef&iacute;cios…",
-          "link": "https://canaltech.com.br/mercado/china-quer-ampliar-ia-aberta-no-brics-o-que-o-brasil-pode-ganhar-com-isso/",
-          "fonte": "Canaltech",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T21:00:02.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fb52ky3lmRb2CEoLHyMzYP4OOgYM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fea70901b-a164-4c87-b2c0-6afa7c8ba91d.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fb52ky3lmRb2CEoLHyMzYP4OOgYM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fea70901b-a164-4c87-b2c0-6afa7c8ba91d.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
-        },
-        {
-          "id": "2bf2e8fbdb53",
-          "outrosIds": [],
-          "titulo": "Coreia do Sul investiga 1º colocado em prova após fraude com IA",
-          "resumo": "Após suspeita inicial de uso de óculos inteligentes, candidato admitiu fraude; governo pretende suspender seu certificado O post Coreia do Sul investiga 1º colocado em prova após fraude com IA apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/15/inteligencia-artificial/coreia-do-sul-investiga-1o-colocado-em-prova-apos-fraude-com-ia/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-15T19:09:09.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fprova-ia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
         }
       ]
     }
@@ -387,7 +360,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 15,
+      "itens": 16,
       "erro": null
     },
     {
