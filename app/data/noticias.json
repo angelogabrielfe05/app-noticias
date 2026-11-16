@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T18:17:52.464Z",
+  "geradoEm": "2026-11-16T21:17:25.799Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -40,6 +40,23 @@
           "pontos": 20
         },
         {
+          "id": "848c9b8aaab0",
+          "outrosIds": [],
+          "titulo": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
+          "resumo": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.756/2026, da senadora Professora Dorinha Seabra (União-TO),…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T18:56:14.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
+        },
+        {
           "id": "ef5d3e5ba324",
           "outrosIds": [],
           "titulo": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
@@ -55,23 +72,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
-        },
-        {
-          "id": "b0344f472589",
-          "outrosIds": [],
-          "titulo": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
-          "resumo": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei, de autoria do Executivo, que abre crédito suplementar de R$ 34,9 milhões para o Serviço Federal de Processamento de Dados (Serpro). A verba, proveniente de recursos próprios do Serpro, deve ser destinada ao Datacenter Modular de São Paulo — centro…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-12T21:44:50.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -80,8 +80,27 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "b77bafd17ce5",
+          "id": "56b780cc9d16",
           "outrosIds": [],
+          "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
+          "resumo": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
+          "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T21:15:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
+        },
+        {
+          "id": "b77bafd17ce5",
+          "outrosIds": [
+            "a0b5987dd066"
+          ],
           "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
           "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
@@ -94,7 +113,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "0d9064c7a597",
@@ -135,38 +154,23 @@
           "pontos": 25
         },
         {
-          "id": "37efbd5fb298",
-          "outrosIds": [],
-          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
-          "resumo": "Caio Megale vê menos espaço para sustentar o arcabouço fiscal com aumento de receita e alerta para o risco de inflação sem ajuste das contas The post Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/",
+          "id": "b8ddf38564b3",
+          "outrosIds": [
+            "28aa1faba407"
+          ],
+          "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
+          "resumo": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T14:31:40.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "f4731e121a40",
-          "outrosIds": [
-            "7c6c52151ff9"
+          "data": "2026-11-16T20:21:29.000Z",
+          "tambemEm": [
+            "Money Times"
           ],
-          "titulo": "Tesouro Direto hoje: Juros dos papéis prefixados e atrelados à inflação saltam",
-          "resumo": "Os juros dos papéis prefixados e dos títulos que acompanham a inflação à venda no Tesouro Direto disparam nesta segunda-feira (16), acompanhando o aumento da percepção de risco dos investidores. O mercado segue preocupado com a política fiscal do governo do presidente Luiz Inácio Lula da Silva. Tesouro Prefixado 2029:…",
-          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/16/tesouro-direto-hoje-juros-dos-papeis-prefixados-e-atrelados-a-inflacao-saltam.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T14:44:17.000Z",
-          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTul48vXy-n-yCJ3MPyzMlX9tIIs%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F5%2Fl%2Flu4M1uQJazkTmPNgwVdw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTul48vXy-n-yCJ3MPyzMlX9tIIs%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F5%2Fl%2Flu4M1uQJazkTmPNgwVdw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F03%2Fblogging-guide-K5DY18hy5JQ-unsplash_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F03%2Fblogging-guide-K5DY18hy5JQ-unsplash_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -218,7 +222,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 31
         },
         {
           "id": "170124449626",
@@ -242,40 +246,38 @@
           "pontos": 25
         },
         {
-          "id": "26647c660dec",
+          "id": "d228c46dbd53",
           "outrosIds": [],
-          "titulo": "Finfluencers ainda falam de ações, cripto e dólar, mas também de FIIs e commodities",
-          "resumo": "Segundo a 11ª edição do relatório Finfluence, da Anbima, citações de commodities, Fundos Imobiliários (FIIs) e renda fixa começam a aparecer mais nas publicações no 1º semestre de 2026; menção a fundos e ouro recuou The post Finfluencers ainda falam de ações, cripto e dólar, mas também de FIIs e commodities appeared…",
-          "link": "https://www.infomoney.com.br/onde-investir/finfluencers-ainda-falam-de-acoes-cripto-e-dolar-mas-tambem-de-fiis-e-commodities/",
+          "titulo": "XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações",
+          "resumo": "Companhia pagará US$ 0,46 por ação em dividendos, cancelará 11,7 milhões de ações em tesouraria e poderá recomprar até R$ 1,5 bilhão em papéis The post XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T15:16:45.000Z",
+          "data": "2026-11-16T21:11:11.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela_16-11-2026_1276_.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela_16-11-2026_1276_.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "632c36ce4dc2",
-          "outrosIds": [
-            "7fca8d56e785"
-          ],
-          "titulo": "Nasdaq cai 1% com cautela antes de balanço da Nvidia",
-          "resumo": "O Índice Dow ‌Jones ​Industrial Average caía 0,15% na ⁠abertura, ​para ​52.267,06 pontos The post Nasdaq cai 1% com cautela antes de balanço da Nvidia appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/nasdaq-cai-1-com-cautela-antes-de-balanco-da-nvidia/",
-          "fonte": "InfoMoney",
+          "id": "b67bcf7220fc",
+          "outrosIds": [],
+          "titulo": "Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3): o que está por trás das quedas nesta segunda (16)?",
+          "resumo": "As ações de três gigantes da Bolsa operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta segunda-feira (16). Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3) registravam quedas de mais de 2% por volta de 14h40 (horário de Brasília). No pano de fundo, resultados do terceiro trimestre e…",
+          "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-petrobras-petr4-e-vale-vale3-o-que-esta-por-tras-das-quedas-nesta-segunda-16-lmrs/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T15:00:48.000Z",
+          "data": "2026-11-16T17:56:52.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F06%2FCaptura-de-tela-2026-06-24-111053.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F06%2FCaptura-de-tela-2026-06-24-111053.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F02%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F02%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -284,43 +286,33 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "847ca80a3bc6",
-          "outrosIds": [
-            "5a22c3d1774c"
-          ],
-          "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
-          "resumo": "A turnê de apresentação da Anthropic está programada para durar até a ‌próxima quarta-feira, quando a empresa de IA deve definir o preço do IPO de US$64 bilhões The post Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia/",
-          "fonte": "InfoMoney",
+          "id": "0285364856cb",
+          "outrosIds": [],
+          "titulo": "OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT",
+          "resumo": "Violações repetidas poderão resultar no encerramento permanente da conta e até em denúncias às autoridades O post OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/16/inteligencia-artificial/openai-anuncia-punicao-para-quem-tentar-sexualizar-criancas-no-chatgpt/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T14:23:35.000Z",
+          "data": "2026-11-16T19:47:40.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "91fdf88a5f9b",
-          "outrosIds": [
-            "66de4252fb94",
-            "14e48e349cc1",
-            "ed751fdb1b3c"
-          ],
-          "titulo": "Futuros do TSX caem com resultados da Nvidia e IPO da Anthropic no radar",
+          "id": "05f6f895675a",
+          "outrosIds": [],
+          "titulo": "IPO da Anthropic testa o preço da IA",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzVsMjhsQjF3a2FGTDBVVUl3WXBrUTJhalNlOGlxR0tDUEt1MEg1ZWVxRjJOOTVtSkZtOXFTN3p5b3pWbEgzcGR1TkZnaGwtZzRScHVDTzZxclk2SjlHbTB6c2Q3bEg2dDVoNVBpRHBkeEJVRVlKNXVBVnk2MDFNWVJTQ2RWbFZVX0VlNE8wVTA1WVlIdkhDRjA3MDlSYU9NNjFSR215cklaT0lIQ2tIVXdWNE9kaGJOUmdiUTJVWWRvWDJVS0Zn?oc=5",
-          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcWtmS1YyOThpWXBBNm1KM2VwWjlnUDlOYmYzYW1rQmwyMkp2bmRVT0tPNXVFOWVFWDlyeWg1elp1aVJMZHJUMloyT0Njd1ZvN3c1aU1HYkMyQmtzM2d2dGs1MDJfNzg5bjRDd0dqQm1yRnI4OFBHMEVjUQ?oc=5",
+          "fonte": "StartSe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T12:26:00.000Z",
-          "tambemEm": [
-            "Folha de S.Paulo",
-            "Bloomberg Línea Brasil",
-            "CNN Brasil"
-          ],
+          "data": "2026-11-16T19:34:15.000Z",
+          "tambemEm": [],
           "foto": null,
           "pontos": 24
         },
@@ -342,36 +334,39 @@
           "pontos": 24
         },
         {
-          "id": "0859bc469bc3",
-          "outrosIds": [],
-          "titulo": "Curso gratuito de IA ajuda a aumentar a produtividade",
-          "resumo": "Formação da XP Educação mostra como usar inteligência artificial no trabalho e nas tarefas do dia a dia, mesmo para quem está começando The post Curso gratuito de IA ajuda a aumentar a produtividade appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/carreira/curso-gratuito-de-ia-ajuda-a-aumentar-a-produtividade/",
+          "id": "847ca80a3bc6",
+          "outrosIds": [
+            "5a22c3d1774c",
+            "5457037b0e5b"
+          ],
+          "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
+          "resumo": "A turnê de apresentação da Anthropic está programada para durar até a ‌próxima quarta-feira, quando a empresa de IA deve definir o preço do IPO de US$64 bilhões The post Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T18:16:35.000Z",
+          "data": "2026-11-16T14:23:35.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FChatGPT-Image-12-de-ago.-de-2026-14_18_26.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FChatGPT-Image-12-de-ago.-de-2026-14_18_26.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 23
         },
         {
-          "id": "f26f2a4dfd6b",
+          "id": "6511dfe3da04",
           "outrosIds": [],
-          "titulo": "Broadening access to AI for scientists",
-          "resumo": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "fonte": "OpenAI (blog oficial)",
+          "titulo": "Fed vê oportunidades e riscos na IA, enquanto dirigentes defendem juros mais altos",
+          "resumo": "Declarações de dirigentes do Federal Reserve (Fed, o banco central dos Estados Unidos) nesta segunda-feira (16) colocaram os efeitos da inteligência artificial (IA) sobre a economia americana no centro das discussões de política monetária. Enquanto o presidente da instituição, Kevin Warsh, destacou o potencial da…",
+          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/16/fed-ve-oportunidades-e-riscos-na-ia-enquanto-dirigentes-defendem-juros-mais-altos.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-16T17:00:00.000Z",
+          "categoria": "imprensa",
+          "data": "2026-11-16T19:46:33.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F793p1h1iUmksoWkDep5NRR%2F580e87d687cea7ef8e8288bef51c7bd4%2Facademic-researchers-seo-card.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F793p1h1iUmksoWkDep5NRR%2F580e87d687cea7ef8e8288bef51c7bd4%2Facademic-researchers-seo-card.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F9vBm4PZYzmsS14izMIUcDlWhjUQ%3D%2F3500x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2F8%2FF%2FBD3BKJRWGxbUAoldGlxQ%2F2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F9vBm4PZYzmsS14izMIUcDlWhjUQ%3D%2F3500x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2F8%2FF%2FBD3BKJRWGxbUAoldGlxQ%2F2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -467,7 +462,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 7,
+      "itens": 5,
       "erro": null
     },
     {
@@ -551,7 +546,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1397,
+      "itens": 1398,
       "erro": null
     },
     {
