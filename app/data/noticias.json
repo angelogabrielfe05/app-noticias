@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T15:17:29.645Z",
+  "geradoEm": "2026-11-16T18:17:52.464Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -23,25 +23,21 @@
           "pontos": 22
         },
         {
-          "id": "4dfffd6fb36b",
-          "outrosIds": [
-            "b0344f472589"
-          ],
-          "titulo": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS",
-          "resumo": "O Congresso Nacional aprovou, nesta quinta-feira (12), projeto de lei (PL) que reestrutura as carreiras, com previsão de reajustes, de servidores da Receita Federal, do Instituto Nacional do Seguro Social (INSS), Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), Instituto Chico Mendes…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-aprova-reestruturacao-de-carreiras-na-receita-ibama-e-inss",
+          "id": "2115df6f7c5f",
+          "outrosIds": [],
+          "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
+          "resumo": "O Supremo Tribunal Federal (STF) terá em seu Salão Nobre, a partir da próxima terça-feira (17), um símbolo da justiça na tradição yorubá, o Oxê de Xangô. Trata-se de um machado com lâminas nas duas pontas, simbolizando a igualdade no julgamento, sem favorecer um lado em detrimento de outro. O Oxê é envergado por…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-12T16:18:00.000Z",
-          "tambemEm": [
-            "Agência Senado"
-          ],
+          "data": "2026-11-15T13:24:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWpHQLHg4TI5bUUW34lMi1HTUKbQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-3.jpg%3Fitok%3DNm4TId_D&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWpHQLHg4TI5bUUW34lMi1HTUKbQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F12%2Fsessao_do_congresso_12-11-26-3.jpg%3Fitok%3DNm4TId_D&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         },
         {
           "id": "ef5d3e5ba324",
@@ -57,6 +53,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
+        },
+        {
+          "id": "b0344f472589",
+          "outrosIds": [],
+          "titulo": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
+          "resumo": "O Congresso Nacional aprovou nesta quinta-feira (12) um projeto de lei, de autoria do Executivo, que abre crédito suplementar de R$ 34,9 milhões para o Serviço Federal de Processamento de Dados (Serpro). A verba, proveniente de recursos próprios do Serpro, deve ser destinada ao Datacenter Modular de São Paulo — centro…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-12T21:44:50.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F12%2Fcongresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro%2F20261112_00644cc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
         }
@@ -98,7 +111,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "326682687fe4",
@@ -119,7 +132,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "37efbd5fb298",
@@ -139,21 +152,23 @@
           "pontos": 24
         },
         {
-          "id": "795c49512026",
-          "outrosIds": [],
-          "titulo": "Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026",
-          "resumo": "Para 2027, a estimativa da Selic subiu de 12,50% para 12,75% The post Focus eleva projeção de inflação e Selic para 2027, mas corta IPCA em 2026 appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/boletim-focus-projecoes-16112026/",
-          "fonte": "InfoMoney",
+          "id": "f4731e121a40",
+          "outrosIds": [
+            "7c6c52151ff9"
+          ],
+          "titulo": "Tesouro Direto hoje: Juros dos papéis prefixados e atrelados à inflação saltam",
+          "resumo": "Os juros dos papéis prefixados e dos títulos que acompanham a inflação à venda no Tesouro Direto disparam nesta segunda-feira (16), acompanhando o aumento da percepção de risco dos investidores. O mercado segue preocupado com a política fiscal do governo do presidente Luiz Inácio Lula da Silva. Tesouro Prefixado 2029:…",
+          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/16/tesouro-direto-hoje-juros-dos-papeis-prefixados-e-atrelados-a-inflacao-saltam.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T11:36:43.000Z",
+          "data": "2026-11-16T14:44:17.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F20231025_150126-3-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F20231025_150126-3-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTul48vXy-n-yCJ3MPyzMlX9tIIs%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F5%2Fl%2Flu4M1uQJazkTmPNgwVdw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTul48vXy-n-yCJ3MPyzMlX9tIIs%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F5%2Fl%2Flu4M1uQJazkTmPNgwVdw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -162,25 +177,27 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "9914bb083ae4",
+          "id": "ffc8ad481fe3",
           "outrosIds": [
+            "9914bb083ae4",
             "93178eadf7c1"
           ],
           "titulo": "Atividade econômica tem queda de 0,9% no terceiro trimestre",
-          "resumo": "A atividade econômica no Brasil registrou queda no terceiro trimestre, de acordo com informações divulgadas nesta segunda-feira (16) pelo Banco Central (BC). O Índice de Atividade Econômica do BC (IBC-Br) teve redução de 0,9% de julho a setembro em relação ao trimestre anterior (abril a junho), de acordo com dados…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/atividade-economica-tem-queda-de-09-no-terceiro-trimestre",
-          "fonte": "Agência Brasil",
+          "resumo": "Em setembro, o indicador ficou negativo em 0,2%, aponta BC",
+          "link": "https://borainvestir.b3.com.br/noticias/atividade-economica-tem-queda-de-09-no-terceiro-trimestre/",
+          "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T15:02:00.000Z",
+          "data": "2026-11-16T17:36:56.000Z",
           "tambemEm": [
+            "Agência Brasil",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FBvL6tQQdt_Ew12RtZEA43y_8L8A%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Feconomia_1609210423_0.jpg%3Fitok%3DIAozND8N&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FBvL6tQQdt_Ew12RtZEA43y_8L8A%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Feconomia_1609210423_0.jpg%3Fitok%3DIAozND8N&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F16103418%2Fibc-br-atividade-economica-cresceu-01-em-novembro-de-2024-diz-bc.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F16103418%2Fibc-br-atividade-economica-cresceu-01-em-novembro-de-2024-diz-bc.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 34
         },
         {
           "id": "2ddb6232a3db",
@@ -204,23 +221,6 @@
           "pontos": 32
         },
         {
-          "id": "efb525954f21",
-          "outrosIds": [],
-          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na terceira semana de novembro",
-          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-terceira-semana-de-novembro/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T13:00:40.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F05%2F21121126%2Ffiis-de-papel-confianca-investidor.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F05%2F21121126%2Ffiis-de-papel-confianca-investidor.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 30
-        },
-        {
           "id": "170124449626",
           "outrosIds": [
             "71d5c6b690e6"
@@ -239,7 +239,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "26647c660dec",
@@ -257,6 +257,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela_16-11-2026_1276_.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
+        },
+        {
+          "id": "632c36ce4dc2",
+          "outrosIds": [
+            "7fca8d56e785"
+          ],
+          "titulo": "Nasdaq cai 1% com cautela antes de balanço da Nvidia",
+          "resumo": "O Índice Dow ‌Jones ​Industrial Average caía 0,15% na ⁠abertura, ​para ​52.267,06 pontos The post Nasdaq cai 1% com cautela antes de balanço da Nvidia appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/nasdaq-cai-1-com-cautela-antes-de-balanco-da-nvidia/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T15:00:48.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F06%2FCaptura-de-tela-2026-06-24-111053.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F06%2FCaptura-de-tela-2026-06-24-111053.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         }
       ]
     },
@@ -266,7 +285,9 @@
       "itens": [
         {
           "id": "847ca80a3bc6",
-          "outrosIds": [],
+          "outrosIds": [
+            "5a22c3d1774c"
+          ],
           "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
           "resumo": "A turnê de apresentação da Anthropic está programada para durar até a ‌próxima quarta-feira, quando a empresa de IA deve definir o preço do IPO de US$64 bilhões The post Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/mercados/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia/",
@@ -321,38 +342,38 @@
           "pontos": 24
         },
         {
-          "id": "052236129a46",
+          "id": "0859bc469bc3",
           "outrosIds": [],
-          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
-          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
+          "titulo": "Curso gratuito de IA ajuda a aumentar a produtividade",
+          "resumo": "Formação da XP Educação mostra como usar inteligência artificial no trabalho e nas tarefas do dia a dia, mesmo para quem está começando The post Curso gratuito de IA ajuda a aumentar a produtividade appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/carreira/curso-gratuito-de-ia-ajuda-a-aumentar-a-produtividade/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T08:45:30.000Z",
+          "data": "2026-11-16T18:16:35.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FChatGPT-Image-12-de-ago.-de-2026-14_18_26.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F08%2FChatGPT-Image-12-de-ago.-de-2026-14_18_26.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
-          "id": "b6a40a41eed0",
+          "id": "f26f2a4dfd6b",
           "outrosIds": [],
-          "titulo": "Nova IA da Samsung vai contar calorias de refeições a partir de foto na One UI 9.5",
-          "resumo": "A Samsung est&aacute; testando um novo recurso de intelig&ecirc;ncia artificial para o Samsung Health que vai estimar a quantidade de calorias de uma refei&ccedil;&atilde;o a partir de uma foto, de acordo com o site SamMobile. Chamado Meal Scan , a ferramenta tamb&eacute;m deve identificar os alimentos, sugerir…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/nova-ia-da-samsung-vai-contar-calorias-de-refeicoes-a-partir-de-foto-na-one-ui-95/",
-          "fonte": "Canaltech",
+          "titulo": "Broadening access to AI for scientists",
+          "resumo": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+          "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "fonte": "OpenAI (blog oficial)",
           "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T15:08:00.000Z",
+          "categoria": "empresa",
+          "data": "2026-11-16T17:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FZvZuO-995uX_AWj-b_0ad5PAq4I%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F3ac57874-7906-416b-a920-1038849934fe.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FZvZuO-995uX_AWj-b_0ad5PAq4I%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F3ac57874-7906-416b-a920-1038849934fe.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F793p1h1iUmksoWkDep5NRR%2F580e87d687cea7ef8e8288bef51c7bd4%2Facademic-researchers-seo-card.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F793p1h1iUmksoWkDep5NRR%2F580e87d687cea7ef8e8288bef51c7bd4%2Facademic-researchers-seo-card.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 22
         }
       ]
     }
@@ -438,15 +459,15 @@
     {
       "id": "ibge",
       "nome": "IBGE",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+      "ok": true,
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 8,
+      "itens": 7,
       "erro": null
     },
     {
@@ -530,7 +551,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1393,
+      "itens": 1397,
       "erro": null
     },
     {
@@ -558,7 +579,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 30,
+      "itens": 27,
       "erro": null
     }
   ]
