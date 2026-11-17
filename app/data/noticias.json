@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T12:17:34.934Z",
+  "geradoEm": "2026-11-17T15:17:25.814Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -40,6 +40,23 @@
           "pontos": 20
         },
         {
+          "id": "64fa6e687a23",
+          "outrosIds": [],
+          "titulo": "CDR aprova apoio da União a municípios para elaboração de planos diretores",
+          "resumo": "Municípios que comprovarem não ter meios para elaborar ou manter atualizados seus planos diretores poderão receber assistência técnica e financeira da União. A medida está prevista em projeto aprovado nesta terça-feira (17) pela Comissão de Desenvolvimento Regional (CDR). O PL 3.020/2024 altera o Estatuto da Cidade…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T14:54:23.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fcdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores%2Fdsc_6314.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fcdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores%2Fdsc_6314.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
+        },
+        {
           "id": "848c9b8aaab0",
           "outrosIds": [],
           "titulo": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
@@ -55,23 +72,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
-        },
-        {
-          "id": "ef5d3e5ba324",
-          "outrosIds": [],
-          "titulo": "Senado aprova fim da 6x1 e garante dois dias de descanso semanal",
-          "resumo": "Trabalhar cinco dias por semana e ter direito a dois dias de descanso passará a ser a realidade dos trabalhadores abrangidos pela regra constitucional que estabeleceu o fim da escala 6x1 no Brasil. A Emenda Constitucional 141 reduz, de forma gradual, a jornada máxima de trabalho para 40 horas semanais, e garante dois…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T14:47:36.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F13%2Fsenado-aprova-fim-da-6x1-e-garante-dois-dias-de-descanso-semanal%2Fsau_9268.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -79,38 +79,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "b77bafd17ce5",
-          "outrosIds": [
-            "180d43033080",
-            "b45be1eef9b2",
-            "e70d372760ea",
-            "64817fe81adc",
-            "56b780cc9d16",
-            "a0b5987dd066",
-            "ac685030fca9",
-            "b1e41dd6bc4a",
-            "96ad11f3a7ca"
-          ],
-          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
-          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T14:36:40.000Z",
-          "tambemEm": [
-            "Agência Câmara",
-            "Valor Investe",
-            "InfoMoney",
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 34
-        },
         {
           "id": "9b34d8e8d83c",
           "outrosIds": [
@@ -129,6 +97,38 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
+          "id": "b77bafd17ce5",
+          "outrosIds": [
+            "ddb115cd908a",
+            "b45be1eef9b2",
+            "e70d372760ea",
+            "64817fe81adc",
+            "56b780cc9d16",
+            "a0b5987dd066",
+            "ac685030fca9",
+            "b1e41dd6bc4a",
+            "96ad11f3a7ca"
+          ],
+          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
+          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T14:36:40.000Z",
+          "tambemEm": [
+            "Agência Câmara",
+            "InfoMoney",
+            "Money Times",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 32
         },
@@ -195,7 +195,6 @@
             "50e2addfb428",
             "5507c3d3f3a4",
             "7c6c52151ff9",
-            "44fe227a1bd3",
             "99cd9d567d9f"
           ],
           "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
@@ -234,7 +233,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "f50b00482333",
@@ -261,6 +260,30 @@
           "pontos": 26
         },
         {
+          "id": "284696a31125",
+          "outrosIds": [
+            "3a0ac9c8fd01",
+            "4b2a5571cc9a",
+            "15cbcae5f11b"
+          ],
+          "titulo": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
+          "resumo": "Enquanto os investidores digeriam os problemas domésticos, a bolsa brasileira também foi fustigada pela tempestade lá fora The post Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/tempestade-perfeita-na-bolsa-ibovespa-perde-os-170-mil-pontos-e-dolar-sobe-para-r-577-davs/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T23:13:19.000Z",
+          "tambemEm": [
+            "Exame Invest",
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
           "id": "d2df79cc4c0e",
           "outrosIds": [],
           "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
@@ -275,24 +298,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "fbdf07e21faa",
-          "outrosIds": [],
-          "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-          "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de […]",
-          "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T21:29:26.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
+          "pontos": 23
         }
       ]
     },
@@ -301,8 +307,9 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "2f5a33782efe",
+          "id": "f77f215d5136",
           "outrosIds": [
+            "2f5a33782efe",
             "11959d59f2b6",
             "8348ee41de90",
             "8dba329698c0",
@@ -311,27 +318,47 @@
             "91fdf88a5f9b",
             "71e2956611f7",
             "66de4252fb94",
-            "14e48e349cc1"
+            "14e48e349cc1",
+            "a625a917e1f6",
+            "178e46f51a18"
           ],
-          "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
+          "titulo": "IPO da Anthropic pressiona OpenAI e coloca a IA à prova em Wall Street",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd09kQmh6ckZDbEFfZDRzY2JFaXRYRGEydkR0SmpjVjNjY2tSakNzM3A3X204a2UzM2dpRk05R1gzVEdOMTB5eWVzMTdCNXFoZU9jMTJZLXZVal9TS1VQV05IcUV6ZEZ1NkxuU1hoM2N5eXR6d1dsTFZHLXRZbmZFTS1NT0RadmpRd0tzbGYtbDI4YVZjN1pXRlFZOEFrbzlPX0Q3dThablZPRjR4b21PQ2lHYUZQc3dJbTR4bk55VjlPMzNUUmxGeG5oRWQwcHRXVW5rbk9MbUtmSHFY?oc=5",
-          "fonte": "Money Times",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzd1Mi12YmpEbk52VFVzdUgyU0FsM0REcXRUTTBCZUd1MjlOQTl3T2N4ZElRUnp4NEVhYjh5RzF6Q242T09UQ2VLT215alk4V205aFRvd0pEVWwyczVZVjRiMlQzcUN6V1UwWW52WmtMeHJISGplaGxPQW8xSXVqaDhqU3RXN3A4SDNGVk56amEtMldBT3lWTFR4dFo5MmhVOTQ5LU1qNHZqT19OYmdrLWxVbmM?oc=5",
+          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T22:35:00.000Z",
+          "data": "2026-11-17T12:30:00.000Z",
           "tambemEm": [
+            "Money Times",
             "InfoMoney",
             "UOL Economia",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Terra",
+            "Exame",
             "CNN Brasil",
             "Forbes Brasil",
             "Folha de S.Paulo",
             "Bloomberg Línea Brasil"
           ],
           "foto": null,
-          "pontos": 28
+          "pontos": 30
+        },
+        {
+          "id": "58da9c66b145",
+          "outrosIds": [],
+          "titulo": "Introducing OpenAI for Chile",
+          "resumo": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+          "link": "https://openai.com/index/introducing-openai-for-chile",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-17T00:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         },
         {
           "id": "39954a50b5c8",
@@ -364,26 +391,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "847ca80a3bc6",
-          "outrosIds": [
-            "5a22c3d1774c",
-            "5457037b0e5b"
-          ],
-          "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
-          "resumo": "A turnê de apresentação da Anthropic está programada para durar até a ‌próxima quarta-feira, quando a empresa de IA deve definir o preço do IPO de US$64 bilhões The post Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/investidores-fazem-fila-por-ipo-da-anthropic-mas-tem-duvidas-sobre-lideranca-em-ia/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T14:23:35.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -580,7 +587,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1400,
+      "itens": 1401,
       "erro": null
     },
     {
@@ -608,7 +615,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 27,
+      "itens": 30,
       "erro": null
     }
   ]
