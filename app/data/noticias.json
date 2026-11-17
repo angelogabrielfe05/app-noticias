@@ -1,10 +1,48 @@
 {
-  "geradoEm": "2026-11-17T18:17:26.286Z",
+  "geradoEm": "2026-11-17T21:17:24.558Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "87d34754f6c7",
+          "outrosIds": [
+            "db6b4335aa0e"
+          ],
+          "titulo": "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1",
+          "resumo": "Os presidentes da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), se reuniram nesta terça-feira (17) com o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), para tratar do julgamento do projeto de lei (PL) que reduz as penas para os condenados por tentativa…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-pede-que-stf-julgue-lei-que-beneficia-condenados-pelo-81",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T19:26:00.000Z",
+          "tambemEm": [
+            "Agência Senado"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCXR88LI6nP1gOHjbgOilDIrCMao%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F17%2Fpec_da_blindagem03.jpg%3Fitok%3DNkVE_Ut2&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCXR88LI6nP1gOHjbgOilDIrCMao%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F17%2Fpec_da_blindagem03.jpg%3Fitok%3DNkVE_Ut2&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
+          "id": "72046567b92e",
+          "outrosIds": [],
+          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T20:58:14.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
         {
           "id": "bbfd5a2ae4f8",
           "outrosIds": [],
@@ -40,55 +78,21 @@
           "pontos": 30
         },
         {
-          "id": "2b384a15115e",
+          "id": "8eaef90e1b7e",
           "outrosIds": [],
-          "titulo": "Projeto busca ampliar acesso a serviços públicos em locais isolados",
-          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-          "link": "https://www.camara.leg.br/noticias/1320074-projeto-busca-ampliar-acesso-a-servicos-publicos-em-locais-isolados",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T16:29:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
-          "id": "64fa6e687a23",
-          "outrosIds": [],
-          "titulo": "CDR aprova apoio da União a municípios para elaboração de planos diretores",
-          "resumo": "Municípios que comprovarem não ter meios para elaborar ou manter atualizados seus planos diretores poderão receber assistência técnica e financeira da União. A medida está prevista em projeto aprovado nesta terça-feira (17) pela Comissão de Desenvolvimento Regional (CDR). O PL 3.020/2024 altera o Estatuto da Cidade…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores",
+          "titulo": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
+          "resumo": "A produção nacional de próteses, pinos, parafusos, placas ósseas, marcapassos e outros tipos de implantes cirúrgicos terá que seguir regras para diminuir casos de defeitos de fabricação, uso de materiais inadequados ou problemas de desempenho. É o que determina um projeto de lei aprovado nesta quinta-feira (12) pelo…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T14:54:23.000Z",
+          "data": "2026-11-17T20:31:22.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fcdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores%2Fdsc_6314.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fcdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores%2Fdsc_6314.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fsenado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos%2F20261117_02331cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fsenado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos%2F20261117_02331cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
-        },
-        {
-          "id": "848c9b8aaab0",
-          "outrosIds": [],
-          "titulo": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
-          "resumo": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.756/2026, da senadora Professora Dorinha Seabra (União-TO),…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T18:56:14.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
+          "pontos": 27
         }
       ]
     },
@@ -99,13 +103,24 @@
         {
           "id": "b77bafd17ce5",
           "outrosIds": [
-            "7ff6c0a9fee5",
+            "1a4f695bec80",
+            "a8810e74a5e7",
+            "1008ab67fab9",
+            "78fb70dd4f64",
+            "c755fbc986b7",
+            "e95e1c2fa944",
             "ddb115cd908a",
+            "494befa40ca9",
+            "180d43033080",
+            "9b34d8e8d83c",
             "b45be1eef9b2",
             "e70d372760ea",
             "64817fe81adc",
             "56b780cc9d16",
+            "b8ddf38564b3",
+            "28aa1faba407",
             "a0b5987dd066",
+            "21b2ce08803e",
             "ac685030fca9",
             "b1e41dd6bc4a",
             "96ad11f3a7ca"
@@ -119,9 +134,10 @@
           "data": "2026-11-16T14:36:40.000Z",
           "tambemEm": [
             "Agência Câmara",
+            "Agência Brasil",
             "InfoMoney",
-            "Money Times",
-            "Valor Investe"
+            "Valor Investe",
+            "Money Times"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -130,25 +146,21 @@
           "pontos": 32
         },
         {
-          "id": "9b34d8e8d83c",
-          "outrosIds": [
-            "494befa40ca9"
-          ],
-          "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
-          "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da Contribuição sobre Bens e Serviços (CBS). Criado pela reforma, o…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+          "id": "935f0cffb876",
+          "outrosIds": [],
+          "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do índice. Segundo o ministro, esse efeito tende a diminuir…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T10:15:00.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
+          "data": "2026-11-17T18:56:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 31
+          "pontos": 30
         },
         {
           "id": "7642158e536c",
@@ -208,71 +220,63 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "0794f0d870d2",
+          "id": "dfb39aa97b65",
           "outrosIds": [
-            "2977e5570ca3",
-            "a81fd6854ca0"
+            "0794f0d870d2"
           ],
-          "titulo": "Menos de R$ 100: B3 terá BDR da Anthropic (ANTH34) já nesta semana; veja como comprar",
-          "resumo": "O tão aguardado IPO (oferta pública inicial de ações) da Anthropic está previsto para acontecer nesta quinta-feira (19) na Nasdaq. Nesta terça-feira (17), a B3 anunciou que lançará BDRs da companhia simultaneamente à estreia da empresa na bolsa norte-americana. Pelo código ANTH34, a aplicação mínima será de menos de…",
-          "link": "https://www.moneytimes.com.br/menos-de-r-100-b3-vai-lancar-bdr-da-anthropic-anth34-na-estreia-da-companhia-na-nasdaq-veja-como-comprar-mlem/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T15:41:41.000Z",
-          "tambemEm": [
-            "Exame Invest",
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fmt-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fmt-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
-          "id": "77da1031570b",
-          "outrosIds": [
-            "639db11ed2ac",
-            "5507c3d3f3a4",
-            "7c6c52151ff9"
-          ],
-          "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
-          "resumo": "Índice recua aos 169 mil pontos em dia de aversão ao risco, enquanto dólar alcança o maior valor desde abril de 2025",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/",
+          "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
+          "resumo": "Produto permitirá que investidores brasileiros acessem a companhia de inteligência artificial pelo código ANTH34, em reais, por meio das corretoras locais",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/ipo-da-anthropic-e-esperado-para-esta-semana-b3-preve-lancamento-de-bdr-com-aplicacao-minima-abaixo-de-r-100/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T21:46:43.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
-          "id": "2ddb6232a3db",
-          "outrosIds": [
-            "69dcc7669da4"
-          ],
-          "titulo": "Agenda de Dividendos: Caixa Seguridade (CXSE3), Irani (RANI3) e BrasilAgro (AGRO3) remuneram o investidor nesta semana",
-          "resumo": "Proventos chegam a R$ 0,80 por ação; veja a lista completa de pagamentos",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-caixa-seguridade-cxse3-irani-rani3-e-brasilagro-agro3-remuneram-o-investidor-nesta-semana/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T12:39:13.000Z",
+          "data": "2026-11-17T19:34:07.000Z",
           "tambemEm": [
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
+          "id": "a8e0cd322d14",
+          "outrosIds": [],
+          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
+          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
+          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T20:28:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
+        },
+        {
+          "id": "ee2498844c78",
+          "outrosIds": [
+            "ef693df569c2"
+          ],
+          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
+          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T20:08:44.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "0f82044a3001",
@@ -302,19 +306,22 @@
           "pontos": 26
         },
         {
-          "id": "fbdf07e21faa",
-          "outrosIds": [],
-          "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-          "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de […]",
-          "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
+          "id": "08c179a6f73c",
+          "outrosIds": [
+            "fd4b56800d2b",
+            "1fcbf8745477"
+          ],
+          "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
+          "resumo": "Uma onda generalizada de vendas levou as ações nos EUA para baixo nesta segunda-feira (16). Wall Street foi tomado pela cautela devido às repercussões da renúncia de Jensen Huang ao cargo de presidente-executivo da Nvidia, que esfriaram o entusiasmo em relação às ações do setor de inteligência artificial (IA). A crise…",
+          "link": "https://www.moneytimes.com.br/wall-st-fecha-com-forte-queda-devido-a-preocupacoes-sobre-ia-antes-do-resultado-da-nvidia-e-ipo-da-anthropic-davs/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T21:29:26.000Z",
+          "data": "2026-11-16T22:35:36.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fwall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fwall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -325,40 +332,50 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "f77f215d5136",
+          "id": "53392f64738f",
           "outrosIds": [
-            "56557c112af1",
-            "f4b6258d021c",
-            "2f5a33782efe",
-            "11959d59f2b6",
-            "8348ee41de90",
-            "8dba329698c0",
-            "b0a9bd6324c4",
-            "f866e5367090",
-            "91fdf88a5f9b",
-            "71e2956611f7",
-            "66de4252fb94",
-            "14e48e349cc1"
+            "4e0253e68b9a",
+            "d0c48efe4e57",
+            "39243d9dc381",
+            "0a77f904e9b6"
           ],
-          "titulo": "IPO da Anthropic pressiona OpenAI e coloca a IA à prova em Wall Street",
+          "titulo": "Amazon e Google terão quase 29% das ações da Anthropic, dona do Claude, após IPO; entenda",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzd1Mi12YmpEbk52VFVzdUgyU0FsM0REcXRUTTBCZUd1MjlOQTl3T2N4ZElRUnp4NEVhYjh5RzF6Q242T09UQ2VLT215alk4V205aFRvd0pEVWwyczVZVjRiMlQzcUN6V1UwWW52WmtMeHJISGplaGxPQW8xSXVqaDhqU3RXN3A4SDNGVk56amEtMldBT3lWTFR4dFo5MmhVOTQ5LU1qNHZqT19OYmdrLWxVbmM?oc=5",
-          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWVtOTRVaU8wTVdCbDEycHZ3bWFKUmR2OU5FVXFPLUdKdkpTLUhaVXB3ckM4d1l2YzV1b3FoTDNYeXdzVHhLd2M2bzJDa2VjeDhrZ1QtdV9fdVRpTnBqaEdsMm9remZkd01wRER1bGFPRGpjYlZKU0FMLUI2YnV5MTg2R3lJbEZsXzk5WEpnVGF1SzFoWl8xaVdtN3JWQ0c5V2R6UHlISl9LS29nYlJ1UjdLdjdQZDhiNW9nSDVVMmFrUktaRTdtdzlXRlNLZE9LMW82Mk1SNTlETE5nbW1GanFmTmE2aW1WNjhvRjV4UGJVTUdS0gGDAkFVX3lxTE1BWXFRd1RjM3BnWkJzNjk2aEFNLVRuaWVxMm1lUGlJWE5pVDBwOU5fd0RyZWZiaTF3WjBlaXpBUW9fdk9NOWszV1dlcEw1M25tUDM2TmRFN0NvMjhwNlhQNzB2VDgzd3c0Z0hpaFpVUGxjYVlZSi10UzZRei1FcFRLaGFocG1OUEg1SWNKRW1feGNqZnUxRkJlMFFNeDNDZHZyOXo0YVFiMEpwak5RQnprNmY4dGRzcXByLUh4aE5wQTRMNVlwTnlJZ3VSS29hbnRaQ2UzNnRxLV9RMTZ3MTBpU0VFMWxRd1VPOFlsWDlwcjlrQVlLOHYtLWNvWHUxUTQ0bUE?oc=5",
+          "fonte": "O GLOBO",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T12:30:00.000Z",
+          "data": "2026-11-17T15:56:53.000Z",
           "tambemEm": [
-            "Money Times",
-            "InfoMoney",
-            "UOL Economia",
-            "Terra",
-            "CNN Brasil",
-            "Forbes Brasil",
-            "Folha de S.Paulo",
-            "Bloomberg Línea Brasil"
+            "Estadão",
+            "Valor Econômico",
+            "UOL Economia"
           ],
           "foto": null,
           "pontos": 30
+        },
+        {
+          "id": "fa3d54fd64f5",
+          "outrosIds": [
+            "5931abb3758a",
+            "9b8a7a75e602"
+          ],
+          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
+          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T20:07:03.000Z",
+          "tambemEm": [
+            "Estadão",
+            "Exame"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
         },
         {
           "id": "549a77347d5e",
@@ -395,36 +412,27 @@
           "pontos": 25
         },
         {
-          "id": "39954a50b5c8",
-          "outrosIds": [],
-          "titulo": "OpenAI é processada após agentes de IA invadirem sistemas de terceiros",
-          "resumo": "Investigação envolve episódio ocorrido em julho, quando dois modelos conseguiram escapar de ambiente de testes, acessar internet sem autorização e invadir sistemas da Hugging Face O post OpenAI é processada após agentes de IA invadirem sistemas de terceiros apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/16/pro/openai-e-processada-apos-agentes-de-ia-invadirem-sistemas-de-terceiros/",
-          "fonte": "Olhar Digital",
+          "id": "74facd57f58b",
+          "outrosIds": [
+            "e06ff1fe84f5",
+            "48a009f05ec1",
+            "9d26b020a920",
+            "0e462bd99023",
+            "37353a72b65b"
+          ],
+          "titulo": "Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna",
+          "resumo": "Aposta feita pela Sound Ventures em 2023 pode multiplicar por 16 o capital investido na gigante da IA The post Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T22:40:22.000Z",
-          "tambemEm": [],
+          "data": "2026-11-17T19:45:00.000Z",
+          "tambemEm": [
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "0285364856cb",
-          "outrosIds": [],
-          "titulo": "OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT",
-          "resumo": "Violações repetidas poderão resultar no encerramento permanente da conta e até em denúncias às autoridades O post OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/16/inteligencia-artificial/openai-anuncia-punicao-para-quem-tentar-sexualizar-criancas-no-chatgpt/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T19:47:40.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2FAshton-Kutcher.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2FAshton-Kutcher.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -632,7 +640,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 44,
+      "itens": 45,
       "erro": null
     }
   ]
