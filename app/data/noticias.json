@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T03:17:23.134Z",
+  "geradoEm": "2026-11-17T06:17:25.500Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -198,7 +198,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 31
         },
         {
           "id": "2ddb6232a3db",
@@ -246,7 +246,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 27
         },
         {
           "id": "fbdf07e21faa",
@@ -263,22 +263,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "284696a31125",
+          "id": "d228c46dbd53",
           "outrosIds": [],
-          "titulo": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
-          "resumo": "Enquanto os investidores digeriam os problemas domésticos, a bolsa brasileira também foi fustigada pela tempestade lá fora The post Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/tempestade-perfeita-na-bolsa-ibovespa-perde-os-170-mil-pontos-e-dolar-sobe-para-r-577-davs/",
-          "fonte": "Seu Dinheiro",
+          "titulo": "XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações",
+          "resumo": "Companhia pagará US$ 0,46 por ação em dividendos, cancelará 11,7 milhões de ações em tesouraria e poderá recomprar até R$ 1,5 bilhão em papéis The post XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T23:13:19.000Z",
+          "data": "2026-11-16T21:11:11.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -292,6 +292,7 @@
           "id": "2f5a33782efe",
           "outrosIds": [
             "11959d59f2b6",
+            "8348ee41de90",
             "8dba329698c0",
             "b0a9bd6324c4",
             "f866e5367090",
@@ -310,6 +311,7 @@
           "data": "2026-11-16T22:35:00.000Z",
           "tambemEm": [
             "InfoMoney",
+            "UOL Economia",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Terra",
             "CNN Brasil",
@@ -318,7 +320,7 @@
             "Bloomberg Línea Brasil"
           ],
           "foto": null,
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "39954a50b5c8",
@@ -335,7 +337,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "0285364856cb",
