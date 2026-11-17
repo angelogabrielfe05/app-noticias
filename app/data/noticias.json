@@ -1,43 +1,60 @@
 {
-  "geradoEm": "2026-11-17T15:17:25.814Z",
+  "geradoEm": "2026-11-17T18:17:26.286Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
-      "janelaHoras": 96,
+      "janelaHoras": 48,
       "itens": [
         {
-          "id": "2115df6f7c5f",
+          "id": "bbfd5a2ae4f8",
           "outrosIds": [],
-          "titulo": "Oxê de Xangô, símbolo da justiça, será inaugurado no STF",
-          "resumo": "O Supremo Tribunal Federal (STF) terá em seu Salão Nobre, a partir da próxima terça-feira (17), um símbolo da justiça na tradição yorubá, o Oxê de Xangô. Trata-se de um machado com lâminas nas duas pontas, simbolizando a igualdade no julgamento, sem favorecer um lado em detrimento de outro. O Oxê é envergado por…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/oxe-de-xango-simbolo-da-justica-sera-inaugurado-no-stf",
+          "titulo": "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF",
+          "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu nesta terça-feira (17) que as ações que tratam das regras de transição para o início da escala de trabalho 5x2 serão julgadas de forma definitiva, ou seja, diretamente no mérito. Na semana passada, o plenário virtual da Corte iniciou o julgamento para…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-decide-que-escala-5x2-sera-julgada-de-forma-definitiva-pelo-stf",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-15T13:24:00.000Z",
+          "data": "2026-11-17T18:10:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FE5zMcavqYJ7uDImf5k6hriFwhDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F13%2Fesculturaoxe.jpg%3Fitok%3DYNVk5PUt&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 30
         },
         {
-          "id": "706659a6fe37",
+          "id": "60230de7da9e",
           "outrosIds": [],
-          "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
-          "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
-          "fonte": "Agência Brasil",
+          "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
+          "resumo": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
+          "link": "https://www.camara.leg.br/noticias/1320142-presidentes-da-camara-e-do-senado-pedem-que-stf-julgue-validade-da-lei-da-dosimetria-neste-ano",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-14T00:23:00.000Z",
+          "data": "2026-11-17T17:58:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 30
+        },
+        {
+          "id": "2b384a15115e",
+          "outrosIds": [],
+          "titulo": "Projeto busca ampliar acesso a serviços públicos em locais isolados",
+          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+          "link": "https://www.camara.leg.br/noticias/1320074-projeto-busca-ampliar-acesso-a-servicos-publicos-em-locais-isolados",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T16:29:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
         },
         {
           "id": "64fa6e687a23",
@@ -80,29 +97,9 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "9b34d8e8d83c",
-          "outrosIds": [
-            "494befa40ca9"
-          ],
-          "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
-          "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da Contribuição sobre Bens e Serviços (CBS). Criado pela reforma, o…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T10:15:00.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 32
-        },
-        {
           "id": "b77bafd17ce5",
           "outrosIds": [
+            "7ff6c0a9fee5",
             "ddb115cd908a",
             "b45be1eef9b2",
             "e70d372760ea",
@@ -133,21 +130,59 @@
           "pontos": 32
         },
         {
-          "id": "0d9064c7a597",
-          "outrosIds": [],
-          "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
-          "resumo": "O mercado financeiro reduziu as projeções para a inflação e o crescimento da economia brasileira em 2026. Ao mesmo tempo, elevou a estimativa para a cotação do dólar no fim do próximo ano. A previsão para a taxa básica de juros (Selic) permaneceu estável. As estimativas das instituições financeiras constam do Boletim…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+          "id": "9b34d8e8d83c",
+          "outrosIds": [
+            "494befa40ca9"
+          ],
+          "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+          "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da Contribuição sobre Bens e Serviços (CBS). Criado pela reforma, o…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T12:12:00.000Z",
+          "data": "2026-11-17T10:15:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 31
+        },
+        {
+          "id": "7642158e536c",
+          "outrosIds": [],
+          "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+          "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo sistema. Em audiência pública na Comissão de Assuntos…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T15:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 27
+        },
+        {
+          "id": "a9f70fe6de35",
+          "outrosIds": [],
+          "titulo": "Reforma tributária fica para 2028? Durigan rejeita adiamento e rebate críticas: ‘Saímos do pior sistema do mundo’",
+          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que a equipe econômica é contrária ao adiamento da reforma tributária para 2028, apesar da pressão de setores empresariais. Segundo ele, o governo trabalha para garantir que a transição para o novo sistema de impostos, prevista para começar em 2027,…",
+          "link": "https://www.moneytimes.com.br/reforma-tributaria-fica-para-2028-durigan-rejeita-adiamento-e-rebate-criticas-saimos-do-pior-sistema-do-mundo/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T17:40:12.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "1e18cbd40f63",
@@ -164,24 +199,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "df464da23f1a",
-          "outrosIds": [],
-          "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
-          "resumo": "Economista rebate críticas à proposta de redução dos juros e afirma que política do Banco Central agrava endividamento de empresas, famílias e governo The post Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T11:56:06.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2022%2F11%2Fandre-lara-resende.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2022%2F11%2Fandre-lara-resende.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -190,12 +208,34 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "0794f0d870d2",
+          "outrosIds": [
+            "2977e5570ca3",
+            "a81fd6854ca0"
+          ],
+          "titulo": "Menos de R$ 100: B3 terá BDR da Anthropic (ANTH34) já nesta semana; veja como comprar",
+          "resumo": "O tão aguardado IPO (oferta pública inicial de ações) da Anthropic está previsto para acontecer nesta quinta-feira (19) na Nasdaq. Nesta terça-feira (17), a B3 anunciou que lançará BDRs da companhia simultaneamente à estreia da empresa na bolsa norte-americana. Pelo código ANTH34, a aplicação mínima será de menos de…",
+          "link": "https://www.moneytimes.com.br/menos-de-r-100-b3-vai-lancar-bdr-da-anthropic-anth34-na-estreia-da-companhia-na-nasdaq-veja-como-comprar-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T15:41:41.000Z",
+          "tambemEm": [
+            "Exame Invest",
+            "Seu Dinheiro"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fmt-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fmt-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
+        },
+        {
           "id": "77da1031570b",
           "outrosIds": [
-            "50e2addfb428",
+            "639db11ed2ac",
             "5507c3d3f3a4",
-            "7c6c52151ff9",
-            "99cd9d567d9f"
+            "7c6c52151ff9"
           ],
           "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
           "resumo": "Índice recua aos 169 mil pontos em dia de aversão ao risco, enquanto dólar alcança o maior valor desde abril de 2025",
@@ -205,14 +245,13 @@
           "categoria": "oficial",
           "data": "2026-11-16T21:46:43.000Z",
           "tambemEm": [
-            "Valor Investe",
-            "Money Times"
+            "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "2ddb6232a3db",
@@ -236,69 +275,48 @@
           "pontos": 28
         },
         {
-          "id": "f50b00482333",
+          "id": "0f82044a3001",
           "outrosIds": [
-            "9fb16137a76c",
+            "ddaa9663ff31",
+            "d6955a10139e",
             "33b2d606d862",
-            "93178eadf7c1"
+            "8daa200eb413",
+            "170124449626",
+            "71d5c6b690e6"
           ],
-          "titulo": "XP tem lucro de R$ 1,4 bi, alta de 4% no 3º trimestre e anuncia proventos recordes para o ano",
-          "resumo": "A XP Inc. encerrou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,4 bilhão, praticamente estável em relação ao período de abril a junho (-0,14%), com alta de 4% na comparação com o mesmo intervalo de 2025. O desempenho, segundo a administração, foi apoiado pela evolução dos ativos de clientes,…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/16/xp-tem-lucro-de-r-14-bi-alta-de-4percent-no-3o-trimestre-e-anuncia-proventos-recordes-para-o-ano.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões",
+          "resumo": "A receita líquida do banco digital alcançou R$ 4,73 bilhões, crescimento de 73% na comparação anual The post PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/picpay-fechou-o-terceiro-trimestre-com-lucro-liquido-ajustado-de-r-271-milhoes/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T22:22:30.000Z",
+          "data": "2026-11-16T22:06:05.000Z",
           "tambemEm": [
             "Money Times",
-            "InfoMoney"
+            "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2021%2F07%2F1_ztZr-2Scyx02WRKHB8ubPw.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2021%2F07%2F1_ztZr-2Scyx02WRKHB8ubPw.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
         },
         {
-          "id": "284696a31125",
-          "outrosIds": [
-            "3a0ac9c8fd01",
-            "4b2a5571cc9a",
-            "15cbcae5f11b"
-          ],
-          "titulo": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
-          "resumo": "Enquanto os investidores digeriam os problemas domésticos, a bolsa brasileira também foi fustigada pela tempestade lá fora The post Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/tempestade-perfeita-na-bolsa-ibovespa-perde-os-170-mil-pontos-e-dolar-sobe-para-r-577-davs/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T23:13:19.000Z",
-          "tambemEm": [
-            "Exame Invest",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
-          "id": "d2df79cc4c0e",
+          "id": "fbdf07e21faa",
           "outrosIds": [],
-          "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
-          "resumo": "O Goldman Sachs espera receita de US$ 110,1 bilhões no terceiro trimestre fiscal, ligeiramente acima do consenso de mercado, e lucro por ação de US$ 2,57 The post Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/nvidia-divulga-balanco-cercada-por-duvidas-sobre-expansao-da-ia-e-sucessao-de-ceo/",
-          "fonte": "InfoMoney",
+          "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
+          "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de […]",
+          "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T09:00:00.000Z",
+          "data": "2026-11-16T21:29:26.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -309,6 +327,8 @@
         {
           "id": "f77f215d5136",
           "outrosIds": [
+            "56557c112af1",
+            "f4b6258d021c",
             "2f5a33782efe",
             "11959d59f2b6",
             "8348ee41de90",
@@ -318,9 +338,7 @@
             "91fdf88a5f9b",
             "71e2956611f7",
             "66de4252fb94",
-            "14e48e349cc1",
-            "a625a917e1f6",
-            "178e46f51a18"
+            "14e48e349cc1"
           ],
           "titulo": "IPO da Anthropic pressiona OpenAI e coloca a IA à prova em Wall Street",
           "resumo": "",
@@ -334,7 +352,6 @@
             "InfoMoney",
             "UOL Economia",
             "Terra",
-            "Exame",
             "CNN Brasil",
             "Forbes Brasil",
             "Folha de S.Paulo",
@@ -342,6 +359,23 @@
           ],
           "foto": null,
           "pontos": 30
+        },
+        {
+          "id": "549a77347d5e",
+          "outrosIds": [],
+          "titulo": "Introducing GPT-6.2 Astra and Sol",
+          "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-17T17:45:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
         },
         {
           "id": "58da9c66b145",
@@ -391,23 +425,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "e3915f7e4cf0",
-          "outrosIds": [],
-          "titulo": "The King’s Trust and OpenAI launch £1m partnership",
-          "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-          "link": "https://openai.com/index/the-kings-trust-and-openai",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-16T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -587,7 +604,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1401,
+      "itens": 1405,
       "erro": null
     },
     {
@@ -615,7 +632,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 30,
+      "itens": 44,
       "erro": null
     }
   ]
