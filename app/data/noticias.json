@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T09:17:31.432Z",
+  "geradoEm": "2026-11-17T12:17:34.934Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -82,7 +82,15 @@
         {
           "id": "b77bafd17ce5",
           "outrosIds": [
-            "a0b5987dd066"
+            "180d43033080",
+            "b45be1eef9b2",
+            "e70d372760ea",
+            "64817fe81adc",
+            "56b780cc9d16",
+            "a0b5987dd066",
+            "ac685030fca9",
+            "b1e41dd6bc4a",
+            "96ad11f3a7ca"
           ],
           "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
           "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
@@ -91,12 +99,38 @@
           "oficial": true,
           "categoria": "oficial",
           "data": "2026-11-16T14:36:40.000Z",
-          "tambemEm": [],
+          "tambemEm": [
+            "Agência Câmara",
+            "Valor Investe",
+            "InfoMoney",
+            "Money Times"
+          ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 34
+        },
+        {
+          "id": "9b34d8e8d83c",
+          "outrosIds": [
+            "494befa40ca9"
+          ],
+          "titulo": "Durigan explica no Senado alíquota de 11,3% da CBS",
+          "resumo": "Em meio a questionamentos sobre a reforma tributária, o ministro da Fazenda, Dario Durigan, participa nesta terça-feira (17), às 10h, de audiência pública na Comissão de Assuntos Econômicos (CAE) do Senado para discutir a alíquota de referência da Contribuição sobre Bens e Serviços (CBS). Criado pela reforma, o…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-explica-no-senado-aliquota-de-113-da-cbs",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T10:15:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F5URJCKWHwpMld8W09ucQsgZKSv8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F16%2Fpzzb0645.jpg%3Fitok%3DeT88qKmn&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
         },
         {
           "id": "0d9064c7a597",
@@ -113,60 +147,39 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
         },
         {
-          "id": "56b780cc9d16",
+          "id": "1e18cbd40f63",
           "outrosIds": [],
-          "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
-          "resumo": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
-          "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T21:15:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
-        },
-        {
-          "id": "e70d372760ea",
-          "outrosIds": [],
-          "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
-          "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (17) The post Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/varejo-industria-eua-nvidia-ajuste-fiscal-agenda-17112026/",
+          "titulo": "Reino Unido: taxa de desemprego cai em setembro e reforça preocupações com a inflação",
+          "resumo": "Taxa de desocupação ficou em 4,6% em setembro, ante 4,7% no trimestre encerrado em agosto, segundo dados divulgados nesta terça-feira; temor é por conta de pressões salariais elevadas The post Reino Unido: taxa de desemprego cai em setembro e reforça preocupações com a inflação appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/economia/reino-unido-taxa-de-desemprego-cai-em-setembro-e-reforca-preocupacoes-com-a-inflacao/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T09:05:03.000Z",
+          "data": "2026-11-17T12:09:41.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F05%2Fstock-trading-6525081_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F05%2Fstock-trading-6525081_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "326682687fe4",
-          "outrosIds": [
-            "be65df0b197c"
-          ],
-          "titulo": "Boletim Focus: Sobe expectativa para dólar, inflação e juros em 2027",
-          "resumo": "A expectativa dos economistas para o dólar, a inflação e os juros em 2027 subiu, apontou o Boletim Focus divulgado pelo Banco Central nesta segunda-feira (16). Na contramão, a perspectiva para o Produto Interno Bruto (PIB) no próximo ano desabou. Este é o terceiro boletim após a eleição do presidente Luiz Inácio Lula…",
-          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/16/boletim-focus-sobe-expectativa-para-dolar-inflacao-e-juros-em-2027.ghtml",
-          "fonte": "Valor Investe",
+          "id": "df464da23f1a",
+          "outrosIds": [],
+          "titulo": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
+          "resumo": "Economista rebate críticas à proposta de redução dos juros e afirma que política do Banco Central agrava endividamento de empresas, famílias e governo The post Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T11:45:28.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "data": "2026-11-17T11:56:06.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2022%2F11%2Fandre-lara-resende.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2022%2F11%2Fandre-lara-resende.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -179,9 +192,11 @@
         {
           "id": "77da1031570b",
           "outrosIds": [
-            "21a076e92cc0",
+            "50e2addfb428",
             "5507c3d3f3a4",
-            "7c6c52151ff9"
+            "7c6c52151ff9",
+            "44fe227a1bd3",
+            "99cd9d567d9f"
           ],
           "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
           "resumo": "Índice recua aos 169 mil pontos em dia de aversão ao risco, enquanto dólar alcança o maior valor desde abril de 2025",
@@ -191,14 +206,14 @@
           "categoria": "oficial",
           "data": "2026-11-16T21:46:43.000Z",
           "tambemEm": [
-            "Agência Brasil",
-            "Valor Investe"
+            "Valor Investe",
+            "Money Times"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 31
+          "pontos": 30
         },
         {
           "id": "2ddb6232a3db",
@@ -222,33 +237,10 @@
           "pontos": 30
         },
         {
-          "id": "d2df79cc4c0e",
-          "outrosIds": [
-            "0f82044a3001",
-            "8daa200eb413",
-            "170124449626",
-            "71d5c6b690e6"
-          ],
-          "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
-          "resumo": "O Goldman Sachs espera receita de US$ 110,1 bilhões no terceiro trimestre fiscal, ligeiramente acima do consenso de mercado, e lucro por ação de US$ 2,57 The post Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/nvidia-divulga-balanco-cercada-por-duvidas-sobre-expansao-da-ia-e-sucessao-de-ceo/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T09:00:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
           "id": "f50b00482333",
           "outrosIds": [
+            "9fb16137a76c",
+            "33b2d606d862",
             "93178eadf7c1"
           ],
           "titulo": "XP tem lucro de R$ 1,4 bi, alta de 4% no 3º trimestre e anuncia proventos recordes para o ano",
@@ -259,13 +251,31 @@
           "categoria": "imprensa",
           "data": "2026-11-16T22:22:30.000Z",
           "tambemEm": [
+            "Money Times",
             "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 26
+        },
+        {
+          "id": "d2df79cc4c0e",
+          "outrosIds": [],
+          "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
+          "resumo": "O Goldman Sachs espera receita de US$ 110,1 bilhões no terceiro trimestre fiscal, ligeiramente acima do consenso de mercado, e lucro por ação de US$ 2,57 The post Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/nvidia-divulga-balanco-cercada-por-duvidas-sobre-expansao-da-ia-e-sucessao-de-ceo/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T09:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "fbdf07e21faa",
@@ -282,7 +292,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -321,7 +331,7 @@
             "Bloomberg Línea Brasil"
           ],
           "foto": null,
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "39954a50b5c8",
@@ -338,7 +348,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "0285364856cb",
@@ -486,7 +496,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 3,
+      "itens": 4,
       "erro": null
     },
     {
@@ -598,7 +608,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 28,
+      "itens": 27,
       "erro": null
     }
   ]
