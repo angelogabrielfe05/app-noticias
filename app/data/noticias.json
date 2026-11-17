@@ -1,27 +1,10 @@
 {
-  "geradoEm": "2026-11-17T00:17:22.628Z",
+  "geradoEm": "2026-11-17T03:17:23.134Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 96,
       "itens": [
-        {
-          "id": "55ea0272c1a5",
-          "outrosIds": [],
-          "titulo": "STF encerra processo sobre perdas inflacionárias em planos econômicos",
-          "resumo": "O Supremo Tribunal Federal (STF) confirmou, nesta quinta-feira (12), a validade da decisão que homologou um acordo para encerrar os processos judiciais sobre perdas financeiras de poupadores provocadas por planos econômicos das décadas de 1980 e 1990. O plenário rejeitou três recursos apresentados por entidades sem…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-encerra-processo-sobre-perdas-inflacionarias-em-planos-economicos",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-13T00:35:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FUODNgEoJ_nLKWMSu3-tGv6TB4KM%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F16%2F55531387967_46e7ac1426_o.jpg%3Fitok%3D7Zp_TQkU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
         {
           "id": "2115df6f7c5f",
           "outrosIds": [],
@@ -40,6 +23,23 @@
           "pontos": 20
         },
         {
+          "id": "706659a6fe37",
+          "outrosIds": [],
+          "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
+          "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-14T00:23:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ySG1aHdaiHYYOOqRdSCtKACC3Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9223.jpg%3Fitok%3DWHuCJnUV&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
+        },
+        {
           "id": "848c9b8aaab0",
           "outrosIds": [],
           "titulo": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
@@ -54,7 +54,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         },
         {
           "id": "ef5d3e5ba324",
@@ -94,7 +94,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "b77bafd17ce5",
@@ -113,7 +113,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "0d9064c7a597",
@@ -168,7 +168,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -219,7 +219,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 31
+          "pontos": 30
         },
         {
           "id": "3d00def90b26",
@@ -266,21 +266,21 @@
           "pontos": 24
         },
         {
-          "id": "d228c46dbd53",
+          "id": "284696a31125",
           "outrosIds": [],
-          "titulo": "XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações",
-          "resumo": "Companhia pagará US$ 0,46 por ação em dividendos, cancelará 11,7 milhões de ações em tesouraria e poderá recomprar até R$ 1,5 bilhão em papéis The post XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/",
-          "fonte": "InfoMoney",
+          "titulo": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
+          "resumo": "Enquanto os investidores digeriam os problemas domésticos, a bolsa brasileira também foi fustigada pela tempestade lá fora The post Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/tempestade-perfeita-na-bolsa-ibovespa-perde-os-170-mil-pontos-e-dolar-sobe-para-r-577-davs/",
+          "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T21:11:11.000Z",
+          "data": "2026-11-16T23:13:19.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F03%2Ftempestade.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -291,9 +291,14 @@
         {
           "id": "2f5a33782efe",
           "outrosIds": [
+            "11959d59f2b6",
             "8dba329698c0",
             "b0a9bd6324c4",
+            "f866e5367090",
+            "91fdf88a5f9b",
             "71e2956611f7",
+            "66de4252fb94",
+            "14e48e349cc1",
             "ed751fdb1b3c"
           ],
           "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
@@ -304,10 +309,13 @@
           "categoria": "imprensa",
           "data": "2026-11-16T22:35:00.000Z",
           "tambemEm": [
+            "InfoMoney",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Terra",
+            "CNN Brasil",
             "Forbes Brasil",
-            "CNN Brasil"
+            "Folha de S.Paulo",
+            "Bloomberg Línea Brasil"
           ],
           "foto": null,
           "pontos": 30
@@ -344,7 +352,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "847ca80a3bc6",
@@ -364,22 +372,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F470542489_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
-          "id": "6511dfe3da04",
+          "id": "052236129a46",
           "outrosIds": [],
-          "titulo": "Fed vê oportunidades e riscos na IA, enquanto dirigentes defendem juros mais altos",
-          "resumo": "Declarações de dirigentes do Federal Reserve (Fed, o banco central dos Estados Unidos) nesta segunda-feira (16) colocaram os efeitos da inteligência artificial (IA) sobre a economia americana no centro das discussões de política monetária. Enquanto o presidente da instituição, Kevin Warsh, destacou o potencial da…",
-          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/16/fed-ve-oportunidades-e-riscos-na-ia-enquanto-dirigentes-defendem-juros-mais-altos.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
+          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T19:46:33.000Z",
+          "data": "2026-11-16T08:45:30.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F9vBm4PZYzmsS14izMIUcDlWhjUQ%3D%2F3500x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2F8%2FF%2FBD3BKJRWGxbUAoldGlxQ%2F2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F9vBm4PZYzmsS14izMIUcDlWhjUQ%3D%2F3500x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2F8%2FF%2FBD3BKJRWGxbUAoldGlxQ%2F2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -475,7 +483,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 5,
+      "itens": 3,
       "erro": null
     },
     {
@@ -587,7 +595,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 30,
+      "itens": 29,
       "erro": null
     }
   ]
