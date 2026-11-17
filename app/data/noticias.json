@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-17T06:17:25.500Z",
+  "geradoEm": "2026-11-17T09:17:31.432Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -54,7 +54,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fsenado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet%2Fwide_tmazs_edit-07-08-2018_01-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         },
         {
           "id": "ef5d3e5ba324",
@@ -79,23 +79,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "56b780cc9d16",
-          "outrosIds": [],
-          "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
-          "resumo": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
-          "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T21:15:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
         {
           "id": "b77bafd17ce5",
           "outrosIds": [
@@ -133,6 +116,40 @@
           "pontos": 28
         },
         {
+          "id": "56b780cc9d16",
+          "outrosIds": [],
+          "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
+          "resumo": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
+          "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-16T21:15:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
+          "id": "e70d372760ea",
+          "outrosIds": [],
+          "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
+          "resumo": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (17) The post Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/varejo-industria-eua-nvidia-ajuste-fiscal-agenda-17112026/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T09:05:03.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F05%2Fstock-trading-6525081_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F05%2Fstock-trading-6525081_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "326682687fe4",
           "outrosIds": [
             "be65df0b197c"
@@ -152,23 +169,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "37efbd5fb298",
-          "outrosIds": [],
-          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
-          "resumo": "Caio Megale vê menos espaço para sustentar o arcabouço fiscal com aumento de receita e alerta para o risco de inflação sem ajuste das contas The post Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T14:31:40.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -222,31 +222,50 @@
           "pontos": 30
         },
         {
-          "id": "3d00def90b26",
+          "id": "d2df79cc4c0e",
           "outrosIds": [
-            "d6955a10139e",
             "0f82044a3001",
-            "33b2d606d862",
             "8daa200eb413",
             "170124449626",
             "71d5c6b690e6"
           ],
-          "titulo": "PagBank (PAGS34) tem lucro dentro do esperado e prevê pagar pelo menos R$ 2 bi até 2028 a acionistas",
-          "resumo": "O banco digital PagBank (PAGS34) teve alta de 5,3% no lucro líquido do terceiro trimestre sobre um ano antes, para R$ 584 milhões, em um resultado em linha com expectativas do mercado, segundo balanço divulgado nesta segunda-feira. A companhia também anunciou distribuição adicional de R$ 400 milhões em retornos aos…",
-          "link": "https://www.moneytimes.com.br/pagbank-pags34-tem-lucro-dentro-do-esperado-e-preve-pagar-pelo-menos-r-2-bi-ate-2028-a-acionistas/",
-          "fonte": "Money Times",
+          "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
+          "resumo": "O Goldman Sachs espera receita de US$ 110,1 bilhões no terceiro trimestre fiscal, ligeiramente acima do consenso de mercado, e lucro por ação de US$ 2,57 The post Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/nvidia-divulga-balanco-cercada-por-duvidas-sobre-expansao-da-ia-e-sucessao-de-ceo/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T22:50:41.000Z",
+          "data": "2026-11-17T09:00:00.000Z",
           "tambemEm": [
-            "InfoMoney",
+            "Money Times",
             "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-27T134722Z_1_LYNXMPEM6Q12L_RTROPTP_4_NVIDIA-ASIA-CHIPS.jpg%3Ffit%3D3000%252C2001%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 28
+        },
+        {
+          "id": "f50b00482333",
+          "outrosIds": [
+            "93178eadf7c1"
+          ],
+          "titulo": "XP tem lucro de R$ 1,4 bi, alta de 4% no 3º trimestre e anuncia proventos recordes para o ano",
+          "resumo": "A XP Inc. encerrou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,4 bilhão, praticamente estável em relação ao período de abril a junho (-0,14%), com alta de 4% na comparação com o mesmo intervalo de 2025. O desempenho, segundo a administração, foi apoiado pela evolução dos ativos de clientes,…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/16/xp-tem-lucro-de-r-14-bi-alta-de-4percent-no-3o-trimestre-e-anuncia-proventos-recordes-para-o-ano.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T22:22:30.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F4p8C83guAlSquKF4S3vOvc6kV-4%3D%2F1920x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FC%2F7%2FO1TCebT5mqtUeaWGMbEQ%2Fxp-reproducao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         },
         {
           "id": "fbdf07e21faa",
@@ -262,23 +281,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "d228c46dbd53",
-          "outrosIds": [],
-          "titulo": "XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações",
-          "resumo": "Companhia pagará US$ 0,46 por ação em dividendos, cancelará 11,7 milhões de ações em tesouraria e poderá recomprar até R$ 1,5 bilhão em papéis The post XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T21:11:11.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -299,8 +301,7 @@
             "91fdf88a5f9b",
             "71e2956611f7",
             "66de4252fb94",
-            "14e48e349cc1",
-            "ed751fdb1b3c"
+            "14e48e349cc1"
           ],
           "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
           "resumo": "",
@@ -354,7 +355,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "847ca80a3bc6",
@@ -377,19 +378,19 @@
           "pontos": 22
         },
         {
-          "id": "052236129a46",
+          "id": "e3915f7e4cf0",
           "outrosIds": [],
-          "titulo": "Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA",
-          "resumo": "Investidores acompanham os resultados da Nvidia e a possível abertura de capital da Anthropic em meio à crescente fragilidade do mercado de inteligência artificial The post Dow Jones Futuro cai em semana decisiva para Nvidia e mercado de IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-em-semana-decisiva-para-nvidia-e-mercado-de-ia/",
-          "fonte": "InfoMoney",
+          "titulo": "The King’s Trust and OpenAI launch £1m partnership",
+          "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "link": "https://openai.com/index/the-kings-trust-and-openai",
+          "fonte": "OpenAI (blog oficial)",
           "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T08:45:30.000Z",
+          "categoria": "empresa",
+          "data": "2026-11-16T00:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F06%2Fchart-1905224_1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -569,7 +570,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1398,
+      "itens": 1400,
       "erro": null
     },
     {
@@ -597,7 +598,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 29,
+      "itens": 28,
       "erro": null
     }
   ]
