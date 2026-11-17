@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-16T21:17:25.799Z",
+  "geradoEm": "2026-11-17T00:17:22.628Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -130,7 +130,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "326682687fe4",
@@ -151,26 +151,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FiwkftqKnZ6aU1f0LZjQtvcadKrA%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2F1%2Ft%2FpyAjFLQEi6FZYE0OnMrw%2Fjuros.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
-          "id": "b8ddf38564b3",
-          "outrosIds": [
-            "28aa1faba407"
-          ],
-          "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
-          "resumo": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/",
+          "id": "37efbd5fb298",
+          "outrosIds": [],
+          "titulo": "Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP",
+          "resumo": "Caio Megale vê menos espaço para sustentar o arcabouço fiscal com aumento de receita e alerta para o risco de inflação sem ajuste das contas The post Economia terá menos espaço para crescer sem pressionar inflação, alerta Megale, da XP appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/onde-investir/arcabouco-fiscal-caio-megale-divida-crescimento/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T20:21:29.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "data": "2026-11-16T14:31:40.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F03%2Fblogging-guide-K5DY18hy5JQ-unsplash_red.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F03%2Fblogging-guide-K5DY18hy5JQ-unsplash_red.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Fexpert-xp-caio-megale-03.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -181,27 +177,28 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "ffc8ad481fe3",
+          "id": "77da1031570b",
           "outrosIds": [
-            "9914bb083ae4",
-            "93178eadf7c1"
+            "21a076e92cc0",
+            "5507c3d3f3a4",
+            "7c6c52151ff9"
           ],
-          "titulo": "Atividade econômica tem queda de 0,9% no terceiro trimestre",
-          "resumo": "Em setembro, o indicador ficou negativo em 0,2%, aponta BC",
-          "link": "https://borainvestir.b3.com.br/noticias/atividade-economica-tem-queda-de-09-no-terceiro-trimestre/",
+          "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
+          "resumo": "Índice recua aos 169 mil pontos em dia de aversão ao risco, enquanto dólar alcança o maior valor desde abril de 2025",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T17:36:56.000Z",
+          "data": "2026-11-16T21:46:43.000Z",
           "tambemEm": [
             "Agência Brasil",
-            "InfoMoney"
+            "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F16103418%2Fibc-br-atividade-economica-cresceu-01-em-novembro-de-2024-diz-bc.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F16103418%2Fibc-br-atividade-economica-cresceu-01-em-novembro-de-2024-diz-bc.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F30180647%2Fibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 32
         },
         {
           "id": "2ddb6232a3db",
@@ -225,25 +222,48 @@
           "pontos": 31
         },
         {
-          "id": "170124449626",
+          "id": "3d00def90b26",
           "outrosIds": [
+            "d6955a10139e",
+            "0f82044a3001",
+            "33b2d606d862",
+            "8daa200eb413",
+            "170124449626",
             "71d5c6b690e6"
           ],
-          "titulo": "Lucro líquido da Mitre Realty (MTRE3) sobe para R$ 15,7 milhões no 3º trimestre",
-          "resumo": "A construtora e incorporadora Mitre (MTRE3) teve lucro líquido de R$ 15,7 milhões no terceiro trimestre de 2026, 81,6% acima do resultado obtido um ano antes, segundo balanço divulgado nesta segunda-feira (16). A margem bruta no período foi de 28,8%, ante os 25,7% do terceiro trimestre de 2025. A companhia teve…",
-          "link": "https://www.moneytimes.com.br/lucro-liquido-da-mitre-realty-mtre3-sobe-para-r-157-milhoes-no-3o-trimestre-lmrs/",
+          "titulo": "PagBank (PAGS34) tem lucro dentro do esperado e prevê pagar pelo menos R$ 2 bi até 2028 a acionistas",
+          "resumo": "O banco digital PagBank (PAGS34) teve alta de 5,3% no lucro líquido do terceiro trimestre sobre um ano antes, para R$ 584 milhões, em um resultado em linha com expectativas do mercado, segundo balanço divulgado nesta segunda-feira. A companhia também anunciou distribuição adicional de R$ 400 milhões em retornos aos…",
+          "link": "https://www.moneytimes.com.br/pagbank-pags34-tem-lucro-dentro-do-esperado-e-preve-pagar-pelo-menos-r-2-bi-ate-2028-a-acionistas/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T11:58:22.000Z",
+          "data": "2026-11-16T22:50:41.000Z",
           "tambemEm": [
+            "InfoMoney",
             "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2021%2F06%2Fmitre.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F03%2Festacao-faria-lima-metro-pagbank.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 28
+        },
+        {
+          "id": "fbdf07e21faa",
+          "outrosIds": [],
+          "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
+          "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de […]",
+          "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T21:29:26.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Fmercado-queda.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "d228c46dbd53",
@@ -261,23 +281,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2149540081.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "b67bcf7220fc",
-          "outrosIds": [],
-          "titulo": "Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3): o que está por trás das quedas nesta segunda (16)?",
-          "resumo": "As ações de três gigantes da Bolsa operam entre os destaques negativos do Ibovespa (IBOV) no pregão desta segunda-feira (16). Banco do Brasil (BBAS3), Petrobras (PETR4) e Vale (VALE3) registravam quedas de mais de 2% por volta de 14h40 (horário de Brasília). No pano de fundo, resultados do terceiro trimestre e…",
-          "link": "https://www.moneytimes.com.br/banco-do-brasil-bbas3-petrobras-petr4-e-vale-vale3-o-que-esta-por-tras-das-quedas-nesta-segunda-16-lmrs/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T17:56:52.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F02%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F02%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
         }
       ]
     },
@@ -285,6 +288,47 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "2f5a33782efe",
+          "outrosIds": [
+            "8dba329698c0",
+            "b0a9bd6324c4",
+            "71e2956611f7",
+            "ed751fdb1b3c"
+          ],
+          "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd09kQmh6ckZDbEFfZDRzY2JFaXRYRGEydkR0SmpjVjNjY2tSakNzM3A3X204a2UzM2dpRk05R1gzVEdOMTB5eWVzMTdCNXFoZU9jMTJZLXZVal9TS1VQV05IcUV6ZEZ1NkxuU1hoM2N5eXR6d1dsTFZHLXRZbmZFTS1NT0RadmpRd0tzbGYtbDI4YVZjN1pXRlFZOEFrbzlPX0Q3dThablZPRjR4b21PQ2lHYUZQc3dJbTR4bk55VjlPMzNUUmxGeG5oRWQwcHRXVW5rbk9MbUtmSHFY?oc=5",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T22:35:00.000Z",
+          "tambemEm": [
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "Terra",
+            "Forbes Brasil",
+            "CNN Brasil"
+          ],
+          "foto": null,
+          "pontos": 30
+        },
+        {
+          "id": "39954a50b5c8",
+          "outrosIds": [],
+          "titulo": "OpenAI é processada após agentes de IA invadirem sistemas de terceiros",
+          "resumo": "Investigação envolve episódio ocorrido em julho, quando dois modelos conseguiram escapar de ambiente de testes, acessar internet sem autorização e invadir sistemas da Hugging Face O post OpenAI é processada após agentes de IA invadirem sistemas de terceiros apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/16/pro/openai-e-processada-apos-agentes-de-ia-invadirem-sistemas-de-terceiros/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-16T22:40:22.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "0285364856cb",
           "outrosIds": [],
@@ -299,37 +343,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fchatgpt-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "05f6f895675a",
-          "outrosIds": [],
-          "titulo": "IPO da Anthropic testa o preço da IA",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcWtmS1YyOThpWXBBNm1KM2VwWjlnUDlOYmYzYW1rQmwyMkp2bmRVT0tPNXVFOWVFWDlyeWg1elp1aVJMZHJUMloyT0Njd1ZvN3c1aU1HYkMyQmtzM2d2dGs1MDJfNzg5bjRDd0dqQm1yRnI4OFBHMEVjUQ?oc=5",
-          "fonte": "StartSe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T19:34:15.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 24
-        },
-        {
-          "id": "e3915f7e4cf0",
-          "outrosIds": [],
-          "titulo": "The King’s Trust and OpenAI launch £1m partnership",
-          "resumo": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-          "link": "https://openai.com/index/the-kings-trust-and-openai",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-16T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F56F7tT9829W28yYUsIwxk0%2Ffa52b7a1f91fc5b65a70ac92be2150c9%2Fthe-king-s-trust-and-openai-launch-1m-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -574,7 +587,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 27,
+      "itens": 30,
       "erro": null
     }
   ]
