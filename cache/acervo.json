@@ -1,5 +1,610 @@
 [
   {
+    "titulo": "Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta",
+    "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/",
+    "resumo": "O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativas de juros elevados…",
+    "data": "2026-11-18T20:27:30.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
+    "resumo": "Até que ponto a reforma tributária sobre o consumo diminuirá a sonegação, melhorando a arrecadação? A Comissão de Assuntos Econômicos (CAE) debateu nesta quarta-feira (18) essa possibilidade, apontada como caminho para reduzir a alíquota de 11,3% proposta pelo Tribunal de Contas da União (TCU) para a nova Contribuição…",
+    "data": "2026-11-18T20:20:25.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Câmara aprova criação de selo de respeito à voz do cidadão",
+    "link": "https://www.camara.leg.br/noticias/1320807-camara-aprova-criacao-de-selo-de-respeito-a-voz-do-cidadao",
+    "resumo": "Resolução reconhece iniciativas de inovação em ouvidorias, transparência e participação cidadã",
+    "data": "2026-11-18T20:15:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118170311838-768x474.jpg",
+    "fonteId": "camara-politica",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "'A Anthropic não é uma empresa de IA segura': a carta contra a dona do Claude na véspera do IPO",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcS1yU1Vjc1FFSDFicjF2MG1VOUFaOGxmcUNoeU0zdHhDUkd0MnA3Mm50NTV2SVI1dVVlVXJ3d04xUkhxd2J2TmgzQlRUV0RnbG1EU3RxdlZYdEZhdlNBaktUTDdvcTRSRXpCU2JXdXZvZmlqTndLOFBsUC1RNTQ1SlNWYmpsSTVDT1hxM3VNVDFyN2tGOXhB?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T20:13:42.000Z",
+    "origem": "Exame",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Exame",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bug em driver da NVIDIA grava até 30 GB por hora no SSD mesmo com PC parado",
+    "link": "https://canaltech.com.br/hardware/bug-em-driver-da-nvidia-grava-ate-30-gb-por-hora-no-ssd-mesmo-com-pc-parado/",
+    "resumo": "Drivers recentes da NVIDIA podem estar desgastando os SSDs dos usu&aacute;rios sem que eles percebam. Ironicamente, a situa&ccedil;&atilde;o acontece logo depois que drivers de v&iacute;deo da AMD tamb&eacute;m causaram a mesma coisa. No caso do Time Vermelho, j&aacute; existe uma corre&ccedil;&atilde;o, mas o mesmo…",
+    "data": "2026-11-18T20:12:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Estar longe de data centers piora a IA que você usa – e projeto brasileiro quer resolver isso",
+    "link": "https://olhardigital.com.br/2026/11/18/pro/estar-longe-de-data-centers-piora-a-ia-que-voce-usa-e-projeto-brasileiro-quer-resolver-isso/",
+    "resumo": "Diretor do CPQD explicou ao Olhar Digital como o projeto Prisma propõe orquestrar data centers para melhorar a latência da IA no Brasil O post Estar longe de data centers piora a IA que você usa – e projeto brasileiro quer resolver isso apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T20:11:40.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/Destaque-Projeto-Prisma-Data-centers-no-Brasil-1024x576.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Senado pede explicações a TCU sobre alíquota de 11,3% da CBS",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/senado-pede-explicacoes-tcu-sobre-aliquota-de-113-da-cbs",
+    "resumo": "Após dois dias de audiência pública, a Comissão de Assuntos Econômicos (CAE) do Senado aprovou nesta quarta-feira (18) um requerimento para pedir explicações ao Tribunal de Contas da União (TCU) sobre a alíquota de referência de 11,3% da Contribuição sobre Bens e Serviços (CBS) . Os parlamentares querem acesso a…",
+    "data": "2026-11-18T20:07:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-economia",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Toyota joga preços no chão e vende Hilux mais barato que Compass",
+    "link": "https://canaltech.com.br/carros/toyota-joga-precos-no-chao-e-vende-hilux-mais-barato-que-compass/",
+    "resumo": "A Toyota resolveu mexer de forma significativa nos pre&ccedil;os da Hilux 2026 . A vers&atilde;o Cabine Dupla SRV AT , uma das configura&ccedil;&otilde;es intermedi&aacute;rias da picape, est&aacute; com os pre&ccedil;os no ch&atilde;o . Os descontos em novembro chegam a R$ 44.700 e, assim, deixam a caminhonete, que…",
+    "data": "2026-11-18T20:05:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/rDSODPZLZ9bi1vbywcz8gP8KsL0=/0x0/filters:format(webp):quality(85)/0786c4bc-ae5e-4b5d-a143-50e67a010559.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Humberto cobra decisão sobre trecho da Transnordestina em Pernambuco",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/humberto-cobra-decisao-sobre-trecho-da-transnordestina-em-pernambuco",
+    "resumo": "Em pronunciamento no Plenário nesta quarta-feira (18), o senador Humberto Costa (PT-PE) cobrou do Tribunal de Contas da União (TCU) uma decisão sobre a retomada das obras da Ferrovia Transnordestina no trecho entre Salgueiro, no Sertão pernambucano, e o Porto de Suape, no litoral sul da Região Metropolitana do Recife.…",
+    "data": "2026-11-18T20:03:37.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Câmara aprova tratado de assistência penal entre Brasil e Japão",
+    "link": "https://www.camara.leg.br/noticias/1320788-camara-aprova-tratado-de-assistencia-penal-entre-brasil-e-japao",
+    "resumo": "Relator afirma que tratado fortalece combate à criminalidade transnacional",
+    "data": "2026-11-18T20:03:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118160407234-768x474.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Caso Master: PF entregará ao STF relatórios sobre citações a ministros",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-pf-entregara-ao-stf-relatorios-sobre-citacoes-a-ministros",
+    "resumo": "O diretor-geral da Polícia Federal (PF), Andrei Rodrigues, informou que vai entregar nesta quarta-feira (18) ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, os relatórios que tratam de menções a ministros da Corte encontradas nas investigações relativas ao Banco Master. Rodrigues disse que vai entregar…",
+    "data": "2026-11-18T20:02:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Fiagros captam R$ 12,2 bi em outubro e têm melhor mês em cinco anos; mercado de capitais movimenta R$ 71,4 bi",
+    "link": "https://www.moneytimes.com.br/fiagros-captam-r-122-bi-em-outubro-e-tem-melhor-mes-em-cinco-anos-mercado-de-capitais-movimenta-r-714-bi/",
+    "resumo": "Os Fiagros (Fundos de Investimento nas Cadeias Agroindustriais) registraram em outubro o maior volume mensal de emissões desde o início da série histórica da Anbima, em setembro de 2021. As ofertas somaram R$ 12,2 bilhões no mês, um salto em relação aos R$ 212,5 milhões captados em setembro. O volume também superou…",
+    "data": "2026-11-18T19:47:03.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Moro critica projeto de ajuste fiscal e aponta perdas para os estados",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/moro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados",
+    "resumo": "O senador Sergio Moro (PL-PR), em pronunciamento no Plenário nesta quarta-feira (18), criticou o projeto de lei complementar que estabelece medidas para o ajuste das contas públicas. O parlamentar se posicionou contra a redução de repasses relacionados à Lei Kandir e afirmou que a proposta (PLP 299/2026) provocará…",
+    "data": "2026-11-18T19:43:38.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Por que o real caiu mais que outras moedas? Commodities explicam só parte",
+    "link": "https://www.infomoney.com.br/mercados/real-cai-mais-outras-moedas-commodities-dolar/",
+    "resumo": "Dólar forte e matérias-primas mais baratas pressionam moedas de países exportadores, mas riscos domésticos ajudam a explicar por que o Brasil sofreu mais que vários pares na comparação recente The post Por que o real caiu mais que outras moedas? Commodities explicam só parte appeared first on InfoMoney .",
+    "data": "2026-11-18T19:43:08.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Dolar-Forte-Pressiona-o-Real.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Instagram vai combater vídeos copiados até quando IA mudar imagens",
+    "link": "https://olhardigital.com.br/2026/11/18/internet-e-redes-sociais/instagram-vai-combater-videos-copiados-ate-quando-ia-mudar-imagens/",
+    "resumo": "Plataforma também trabalha em mecanismos para detectar casos mais difíceis de identificar, como piadas e roteiros copiados com imagens recriadas por O post Instagram vai combater vídeos copiados até quando IA mudar imagens apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T19:43:01.000Z",
+    "imagemFeed": null,
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
+    "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
+    "resumo": "Kayo Magalhães / Câmara dos Deputados Sessão deliberativa do Plenário da Câmara A Câmara dos Deputados iniciou a Ordem do Dia e analisa o Projeto de Decreto Legislativo (PDL) 756/25, que contém o Tratado de Assistência Jurídica Mútua em Matéria Penal entre o Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de…",
+    "data": "2026-11-18T19:41:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118144505521-768x473.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Chefe da PF vai entregar a Fachin relatórios produzidos por delegados afastados",
+    "link": "https://www.infomoney.com.br/politica/chefe-da-pf-vai-entregar-a-fachin-relatorios-produzidos-por-delegados-afastados/",
+    "resumo": "Andrei Rodrigues tem reunião com o presidente do STF às 19h30 desta quarta-feira The post Chefe da PF vai entregar a Fachin relatórios produzidos por delegados afastados appeared first on InfoMoney .",
+    "data": "2026-11-18T19:38:28.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/55660863878_63a6204ea4_z.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed",
+    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
+    "resumo": "BC realizou dois leilões de linha (venda de dólares com compromisso de recompra) no valor total de US$1 bilhão The post Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed appeared first on InfoMoney .",
+    "data": "2026-11-18T19:37:52.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "App do Gemini agora funciona até em celulares Android com pouca RAM",
+    "link": "https://tecnoblog.net/noticias/app-do-gemini-agora-funciona-ate-em-celulares-android-com-pouca-ram/",
+    "resumo": "Google otimizou aplicativo do Gemini para funcionar em celulares Android básicos com pelo menos 2 GB de RAM. App do Gemini agora funciona até em celulares Android com pouca RAM",
+    "data": "2026-11-18T19:37:50.000Z",
+    "imagemFeed": "https://files.tecnoblog.net/wp-content/uploads/2026/11/android-app-gemini.jpg",
+    "fonteId": "tecnoblog-ia",
+    "fonte": "Tecnoblog",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão",
+    "link": "https://www.moneytimes.com.br/anthropic-define-preco-do-ipo-nesta-quarta-estreia-pode-avaliar-empresa-em-ate-us-14-trilhao/",
+    "resumo": "A Anthropic define nesta quarta-feira (18) o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês), em uma estreia que deve testar o apetite de Wall Street por empresas ligadas à inteligência artificial. A companhia, criadora do chatbot Claude, pode alcançar uma avaliação de até US$ 1,4 trilhão,…",
+    "data": "2026-11-18T19:37:04.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Projeto aumenta penas para crimes ligados ao não pagamento de dívidas e comissões",
+    "link": "https://www.camara.leg.br/noticias/1310607-projeto-aumenta-penas-para-crimes-ligados-ao-nao-pagamento-de-dividas-e-comissoes",
+    "resumo": "Texto também estabelece regras de segurança para contratos de intermediação de negócios de alto valor",
+    "data": "2026-11-18T19:37:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20230810121126626-768x513.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNyUVBwU09NNWlJbGJsREtLeW8zV3lha0pwWWdxYTJkbkh6OV9wd1kzSThfRGZnRVh3Rzl5OWN5dVF2dC1QZERXa3dLeGRZU2k1dG5SVWNzRU5xMDVIZERXVU1uU0VuZVItZ3A2WTJ3NVh3RmxvNVdOLXR1clh3Z08yYjlrbXJmaTN4VEpHRGlVMllSODhQYTl1NXI2cmlRQU0yRDZmeFk2VjZhRzNvbkhPaHpJdzcwZlpDZGt4ODM?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T19:37:00.000Z",
+    "origem": "Money Times",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Comissão do Senado vai fiscalizar atuação de órgãos reguladores no caso Master",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-do-senado-vai-fiscalizar-atuacao-de-orgaos-reguladores-no-caso-master",
+    "resumo": "A Comissão de Fiscalização e Controle (CTFC) aprovou, nesta quarta-feira (18), proposta para investigar possíveis irregularidades relacionadas à liquidação extrajudicial do Banco Master, decretada pelo Banco Central em novembro de 2025. De iniciativa do senador Marcio Bittar (PL-AC), a fiscalização deverá contar com o…",
+    "data": "2026-11-18T19:34:00.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Após tombo da Bolsa: 3 ações para ficar de olho e 2 setores para evitar",
+    "link": "https://www.infomoney.com.br/mercados/apos-tombo-da-bolsa-3-acoes-para-ficar-de-olho-2-setores-para-evitar/",
+    "resumo": "Com ações que chegaram a perder mais de 50% após as eleições, analistas avaliam onde estão as oportunidades e quais setores exigem cautela The post Após tombo da Bolsa: 3 ações para ficar de olho e 2 setores para evitar appeared first on InfoMoney .",
+    "data": "2026-11-18T19:32:04.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Urso-e-Touro-Imagem-gerada-com-uso-de-Inteligencia-Artificial-Bruno-Nadai.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Chico Rodrigues defende aprovação de projeto do ajuste fiscal",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/chico-rodrigues-defende-aprovacao-de-projeto-do-ajuste-fiscal",
+    "resumo": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta quarta-feira (18), defendeu a conclusão da votação do projeto de lei complementar que institui medidas para o equilíbrio das contas públicas. Segundo o parlamentar, a proposta (PLP 299/2026) reforça os mecanismos de controle das despesas, promove…",
+    "data": "2026-11-18T19:28:36.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Dirigentes do Fed projetam altas de juros e tem cautela com IA na inflação, diz ata",
+    "link": "https://www.infomoney.com.br/mercados/dirigentes-do-fed-projetam-altas-de-juros-e-tem-cautela-com-ia-na-inflacao-diz-ata/",
+    "resumo": "Debate destacou uma percepção crescente no Fed de que a inflação não diminuirá o suficiente por conta própria para que a meta seja alcançada com rapidez suficiente The post Dirigentes do Fed projetam altas de juros e tem cautela com IA na inflação, diz ata appeared first on InfoMoney .",
+    "data": "2026-11-18T19:28:07.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Federal-Reserve.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
+    "link": "https://www.moneytimes.com.br/ata-do-fed-comite-considera-alta-de-juros-superior-a-025-ponto-em-dezembro-veja-detalhes/",
+    "resumo": "O Federal Reserve (Fed), banco central dos Estados Unidos, poderá considerar uma alta de juros superior ao que o mercado projeta na reunião de dezembro, segundo a ata da reunião de outubro do Comitê Federal de Mercado Aberto (Fomc), divulgada nesta quarta-feira (18). “Alguns participantes observaram que um aumento…",
+    "data": "2026-11-18T19:27:54.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Paim celebra trajetória do Programa Jovem Senador",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/paim-celebra-trajetoria-do-programa-jovem-senador",
+    "resumo": "O senador Paulo Paim (PT-RS) destacou, em pronunciamento no Plenário nesta quarta-feira (18), a trajetória do Programa Jovem Senador e Jovem Senadora, iniciativa do Senado voltada à aproximação de estudantes do ensino médio da rede pública com o Poder Legislativo. O parlamentar lembrou que apresentou, em 25 de…",
+    "data": "2026-11-18T19:26:37.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027",
+    "link": "https://www.infomoney.com.br/economia/pib-de-05-inflacao-de-55-e-juros-altos-os-desafios-do-brasil-em-2027/",
+    "resumo": "Economistas apontam risco de estagnação, pressão sobre preços e crédito mais restrito, enquanto a confiança ainda estiver abalada; recuperação dependerá do ajuste fiscal e das escolhas do novo governo The post PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027 appeared first on InfoMoney .",
+    "data": "2026-11-18T19:26:03.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Dolar-e-real-sob-pressao-do-mercado.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ouro fecha em forte queda com alta do dólar e expectativas para a ata do Fed",
+    "link": "https://www.moneytimes.com.br/ouro-fecha-em-forte-queda-com-alta-do-dolar-e-expectativas-para-a-ata-do-fed-davs/",
+    "resumo": "O ouro encerrou a sessão desta quarta-feira (17) em forte queda, atingindo o menor nível em mais de um ano. A desvalorização do metal foi impulsionada pela valorização do dólar norte-americano. O índice DXY chegou a operar no maior valor em 18 meses na máxima da sessão, tornando o ouro, cotado na moeda dos EUA, […]",
+    "data": "2026-11-18T19:25:05.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Não é só o Banco do Brasil (BBSA3): veja os outros bancos na lista de credores do Grupo Fazendão; dívida ultrapassa R$ 2 bilhões",
+    "link": "https://www.seudinheiro.com/2026/empresas/nao-e-so-o-banco-do-brasil-bbsa3-veja-os-outros-bancos-na-lista-de-credores-do-grupo-fazendao-divida-ultrapassa-r-2-bilhoes/",
+    "resumo": "Empresa, um dos principais grupos do agronegócio no Tocantins, tenta suspender pagamentos por 30 dias enquanto negocia dívida bilionária; Banco do Brasil é o maior credor The post Não é só o Banco do Brasil (BBSA3): veja os outros bancos na lista de credores do Grupo Fazendão; dívida ultrapassa R$ 2 bilhões appeared…",
+    "data": "2026-11-18T19:24:41.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Vai jogar GTA 6? Veja 5 TVs para aproveitar cada detalhe do jogo",
+    "link": "https://canaltech.com.br/tv/vai-jogar-gta-6-veja-5-tvs-para-aproveitar-cada-detalhe-do-jogo/",
+    "resumo": "A espera por GTA VI est&aacute; chegando ao fim. Com lan&ccedil;amento marcado para amanh&atilde;, 19 de novembro, no PlayStation 5 e Xbox Series, o novo jogo da Rockstar chama aten&ccedil;&atilde;o pela ambienta&ccedil;&atilde;o, cen&aacute;rios detalhados e apresenta&ccedil;&atilde;o visual de Leonida, estado…",
+    "data": "2026-11-18T19:24:35.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/WUnT1R_U0XqAaZRDEsBl48iwQF0=/0x0/filters:format(webp):quality(85)/4866180e-b188-4bba-b335-62f32bb2af40.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic vale mais? Casas internacionais veem ação até 42% acima do preço do IPO",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUnJQN3lQMmxTc2xPNExmcVlrWDA2Mk9DR1BKN2VTYVBRUXkzR3RtbDhqMUpEVWZ4OXB4YVpQYzkzZ2xLSWZJNGgxWHJHRmY5OERmZUVzbnBKaF9zZ25pQUlTTEJ6Rldlel8yVEdCWFo5Y0tDaUZBSWJPYWZGbENIZnYxR3JiU3ZNNTc4ajN2TDdpdHBaTnNzOURMQnBJQUtsZkxYOXhMOTlyRDY2d09fQldTTzRUMWRENi1vcmJJXzV5SFR5M3BzU1F2bUl6ZXNTMXYzRFpzc0JkSk9mREZz?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T19:19:26.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic vale mais? Casas internacionais veem ação até 42% acima do preço do IPO",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeVFRQXRiNXhjb2sxVXVUSHZ6Z3lSM0xjeUh0R1lELXZwdWpWYkVWai14WFQ5aktzRks2RUM0WWNsdzdCNUFLTVM3OEtTNXVmdUVNeDFab3BubFpmSTJ0ZXdZUXJxRkU0NVZ6QzhpZGNubXluVWlhT1loZFFydkVkZXB6dTByUGloR01aY2NLLWlzdHh5LXMxdzVoVXFVUXpaWVFnN3ZFMDJ0ZHF6TUxXUV8yVllVMk5fLURmOFpxZngwdUxlMmZtNVctWFMzVHZxZ3FSc9IB2gFBVV95cUxQUmZnay1hVjB1ZGJXV01NUWhVaFNPdkxnSnZIYzNSNG04enNNeEtYczBCckJwQmRrZXI1VllXTmQxeC02VWdvanUzZzFLSVpaenFUby16WnA1TjY4cWRKTFpHRlZXTnBGa3ExVlNaTjYtcXprcWtMdWRoOHc1MXZaNWViQ01WQU9Nejl1SmJRZk1VbjlzbDkxOHZMTUc2S2RZQWpMZWh1LUdyRGtNRU1Xa2thOFloSHZUN2FKaDlIQ1ZqQXNPX3ZTdzhqbk5sZkhQUDc4V0tMT1dKUQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T19:18:16.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Google testa recurso no Android para usar o mesmo número em dois celulares",
+    "link": "https://canaltech.com.br/software/google-testa-recurso-no-android-para-usar-o-mesmo-numero-em-dois-celulares/",
+    "resumo": "O Google est&aacute; desenvolvendo um novo recurso para o Android que permitir&aacute; utilizar o mesmo n&uacute;mero de telefone em dois celulares diferentes . A ferramenta \"Android Fast Switch\" poder&aacute; alternar automaticamente a conex&atilde;o com a rede m&oacute;vel entre os aparelhos, dispensando a…",
+    "data": "2026-11-18T19:16:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/T05dArVP0qTg9WEr0xNiDPcWNVE=/0x0/filters:format(webp):quality(85)/5c3eceba-9666-4569-bd78-ee99c3329396.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic desafia a turbulência do mercado e se aproxima do maior IPO da história",
+    "link": "https://www.infomoney.com.br/mercados/anthropic-desafia-a-turbulencia-do-mercado-e-se-aproxima-do-maior-ipo-da-historia/",
+    "resumo": "Mesmo com a queda das ações de tecnologia, dona do Claude vê demanda sete vezes superior à oferta, pode captar mais de US$ 90 bilhões e estrear avaliada em cerca de US$ 1,4 trilhão The post Anthropic desafia a turbulência do mercado e se aproxima do maior IPO da história appeared first on InfoMoney .",
+    "data": "2026-11-18T19:07:13.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T203638Z_1620375017_RC28BOAPMU7K_RTRMADP_3_ANTHROPIC-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic desafia a turbulência do mercado e se aproxima do maior IPO da história",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWhtRWVXNldqeGQ1a3YwdmZQR3d4Ri1XV0R5UGxmQnh6cjNkZTZHTVkyTHJwdExDX3BNQnk2QmZzU1o5QkhfTThQd0VWdVltd3p3TGdaQlgycDlHX2ZrUFBKSUhHVF9xOVVIMmJkbWZISE8zMlRZVV9qc2w3OF9WUEJnZmJYaThqblVFVnRTdGJGaHNjSXhjMDlhUmNEakRSSTNIRGk0VHlwSlh6M3JwOE16cTB0LXBhWGNlStIBwgFBVV95cUxNeHU5cGV0YWtoeExFTGszTExFNUg5dC1pVUdLZm4yd09qbWdXNmlaS3hSUG9UNUhTQUJvcEZKR3U0cV9EMS12NV9KeHlVdWE3OFBnMC1sdEk5TkxxRzcxdjZ2ZG90VUVJT2t1UW9iY1pvSS1RYXU5S010WlFCangyU3FaTUlESFF4LXZhbWtmclBzVVhFRlNjOUdCSnhHN3NtWTUzR2lKVldoa1ZmbnozNGxuVUpzcHJ1ZjJCV2VzZWRzUQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T19:07:13.000Z",
+    "origem": "InfoMoney",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nova classificação de FIDCs trará mais clareza dos ativos de cada fundo, diz Anbima",
+    "link": "https://www.infomoney.com.br/onde-investir/nova-classificacao-de-fidcs-trara-mais-clareza-dos-ativos-de-cada-fundo-diz-anbima/",
+    "resumo": "Fundos terão de dar mais detalhes sobre os ativos que compram e sobre sua estrutura, como nível de subordinação, acompanhando o aumento de procura pelo pequeno investidor The post Nova classificação de FIDCs trará mais clareza dos ativos de cada fundo, diz Anbima appeared first on InfoMoney .",
+    "data": "2026-11-18T19:05:26.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Antecipacao-de-recebiveis.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Fachin se reúne com Moraes e Gonet para tratar caso Master",
+    "link": "https://www.infomoney.com.br/politica/fachin-se-reune-com-moraes-e-gonet-para-tratar-caso-master/",
+    "resumo": "Encontro ocorreu nesta quarta-feira, em meio à expectativa de entrega de documentos sobre integrantes do Supremo citados nas investigações do banco de Vorcaro The post Fachin se reúne com Moraes e Gonet para tratar caso Master appeared first on InfoMoney .",
+    "data": "2026-11-18T19:00:51.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55505357682_7d18154f02_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Mário Gomes é condenado a pagar 13 anos de aluguel por ocupação irregular de mansão",
+    "link": "https://www.infomoney.com.br/brasil/mario-gomes-condenado-a-pagar-13-anos-de-aluguel/",
+    "resumo": "Justiça do Rio determinou que ator e esposa também arquem com débitos de IPTU e condomínio do imóvel leiloado em 2011 The post Mário Gomes é condenado a pagar 13 anos de aluguel por ocupação irregular de mansão appeared first on InfoMoney .",
+    "data": "2026-11-18T19:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Mario-Gomes.png?fit=300%2C246&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic desafia recorde da SpaceX: os números do possível maior IPO da história",
+    "link": "https://www.infomoney.com.br/mercados/anthropic-desafia-recorde-da-spacex-os-numeros-do-possivel-maior-ipo-da-historia/",
+    "resumo": "Oferta de ações da desenvolvedora do Claude pode movimentar mais de US$ 100 bilhões e desafiar recorde estabelecido pela SpaceX neste ano The post Anthropic desafia recorde da SpaceX: os números do possível maior IPO da história appeared first on InfoMoney .",
+    "data": "2026-11-18T18:58:01.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/475608974.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic desafia recorde da SpaceX: os números do possível maior IPO da história",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGpjYnlXZTkxRjR6M1pSNDlnWXJCRHdlajdtR19hV3o2b09ZdnBmd3VHaV9Kd2ZJZ0FxSG44RXNoMGx2UHFqMjhIQ1Foc3FuSkxiZjViXzZmS0huZEpBa3pSRkF5N2hWZFlNbHRaOW91dG85MlU0cElmZjdvUzhxRmRnNEl0ejV4dm9wRi1CbG1zaEt2VE9hOGljZ2JtUGYxSWdZTGQ1WmluQ1hSdDFFNFltVzR1ek1rYk130gHAAUFVX3lxTE5mX2tMa0Q5VjFwMm9ubm1CNHdyUVd6Y2czZFRPRE5HVjZfT2tuUmJTYlplc0wyOG1kRkd2Ui15aDBqRDRpVXNvYlRrcDhFajJPMmNzaFZMd0ZaOUl0TEktazFkQzJHLW5CREN4ZHFPbndFc1VVbEF4TkVORUJLZGtYeml1UXhtTEZzZUJTOWJ6d3lGVHEyd3dDQXB6TG00WDlnT19Zak1GVmxSV0hYVDc2aFBIa2Y0dFNjTm13VVJNdQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T18:58:01.000Z",
+    "origem": "InfoMoney",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Instagram agora permite editar Stories depois de publicar; veja como",
+    "link": "https://canaltech.com.br/apps/instagram-agora-permite-editar-stories-depois-de-publicar-veja-como/",
+    "resumo": "O Instagram come&ccedil;ou a liberar nesta quarta-feira (18) um recurso que permite editar Stories ap&oacute;s a publica&ccedil;&atilde;o. A novidade foi anunciada pelo chefe da rede social, Adam Mosseri, em seu perfil oficial. O Canaltech testou a ferramenta e confirmou que ela j&aacute; est&aacute; dispon&iacute;vel…",
+    "data": "2026-11-18T18:57:22.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/my5JUY-Q9F3TusfC6aTl8_bDZaE=/0x0/filters:format(webp):quality(85)/b297ca7c-c946-4f20-843b-205f1344b6e5.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Para vencer a corrida pelo IPO, Anthropic conquistou primeiro os gastos das empresas",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT0lKaUlWRVRsc1NtbkliNUV0Q0I4UmROdXVvOVY4X2JWN2xKYkUyajJJTzctNHZDS3BjQmJrdHkzUzJkN195OWU2YjNOdVpub256ZGZxc2g1QWRSZEF3NVA5eGQ1T0hmSHlQaEEtMG0tU0NWS1g3R1FtN2pPb29Wb1pnX2VKSmsxY1NnQm5wc1B5SHdKTFlqNGZOSy1vYlItcXBOMkxPaURadVZURG82Z3NiSFBmalBjemFqM3JuY1BMb3FSYVVVcnk4LU5qcU5ZVV93VktpMi1aVTZDZWw0bGYxd2dXeUXSAecBQVVfeXFMUE9JSmlJVkVUbHNTbW5JYjVFdENCOFJkTnV1bzlWOF9iVjdsSmJFMmoySU83LTR2Q0twY0Jia3R5M1MyZDdfeTllNmIzTnVabm9uemRmcXNoNUFkUmRBdzVQOXhkNU9IZkh5UGhBLTBtLVNDVktYN0dRbTdqT29vVm9aZ19lSkprMWNTZ0JucHNQeUh3SkxZajRmTkstb2JSLXFwTjJMT2lEWnVWVERvNmdzYkhQZmpQY3phajNybmNQTG9xUmFVVXJ5OC1OanFOWVVfd1ZLaTItWlU2Q2VsNGxmMXdnV3lF?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T18:54:22.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Sam Altman alerta contra futuro em que a IA controle decisões",
+    "link": "https://olhardigital.com.br/2026/11/18/inteligencia-artificial/sam-altman-alerta-contra-futuro-em-que-a-ia-controle-decisoes/",
+    "resumo": "Sam Altman critica ideia de transferir poder à IA após agentes da OpenAI invadirem sistemas e empresa deslocar 25% dos engenheiros para segurança O post Sam Altman alerta contra futuro em que a IA controle decisões apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T18:52:20.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1024x512.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Mercado exige o maior prêmio contra inflação desde Dilma e cobra mais para financiar o Brasil",
+    "link": "https://www.moneytimes.com.br/mercado-exige-o-maior-premio-contra-inflacao-desde-dilma-e-cobra-mais-para-financiar-o-brasil/",
+    "resumo": "A inflação implícita de um ano voltou ao maior patamar desde o governo Dilma Rousseff, em mais um sinal de deterioração das expectativas para os preços na economia brasileira. Em relatório divulgado nesta terça-feira (17), Lais Costa, analista de renda fixa da Empiricus Research, destaca que o indicador atingiu um…",
+    "data": "2026-11-18T18:48:56.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Grupo do Tocantins do agro entra com pedido de proteção bilionário contra credores e atinge BB (BBAS3) e mais bancos; veja lista",
+    "link": "https://www.moneytimes.com.br/grupo-do-tocantins-entra-com-pedido-de-protecao-bilionario-contra-credores-e-atinge-bb-bbas3-e-mais-bancos-veja-lista/",
+    "resumo": "O agro não vive seus melhores dias. E isso vale dos pequenos produtores aos maiores. É o caso do Fazendão, grupo fundado em 2004 e que atua no Tocantins. A empresa entrou na Justiça com um pedido para suspender o pagamento a credores por 30 dias. Ao todo, declara uma dívida de R$ 2,19 bilhões. […]",
+    "data": "2026-11-18T18:48:48.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Setor agropecuário defende aumento de recursos no Orçamento de 2027",
+    "link": "https://www.camara.leg.br/noticias/1320734-setor-agropecuario-defende-aumento-de-recursos-no-orcamento-de-2027",
+    "resumo": "Deputados criticam fala da presidente do Banco do Brasil sobre a inadimplência no meio rural",
+    "data": "2026-11-18T18:41:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118114727841-768x473.jpeg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "IPO da Anthropic: o que a estreia da dona do Claude na bolsa pode mudar na sua vida",
+    "link": "https://olhardigital.com.br/2026/11/18/pro/ipo-da-anthropic-o-que-a-estreia-da-dona-do-claude-na-bolsa-pode-mudar-na-sua-vida/",
+    "resumo": "Especialistas explicam ao Olhar Digital como a venda de ações da Anthropic na bolsa de valores afeta quem usa IA O post IPO da Anthropic: o que a estreia da dona do Claude na bolsa pode mudar na sua vida apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T18:40:22.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/ipo-anthropic-1024x562.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Na FAO, Wellington Dias celebra avanços no combate à fome",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/na-fao-wellington-dias-celebra-avancos-no-combate-fome",
+    "resumo": "O governo do Brasil participou, nesta quarta-feira (18) de um encontro na sede da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), em Roma, na Itália. No encontro, o ministro do Desenvolvimento e Assistência Social, Família e Combate à Fome, Wellington Dias, destacou os avanços do mundo no…",
+    "data": "2026-11-18T18:40:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-politica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Agência Senado leva menção honrosa no Prêmio Direitos Humanos de Jornalismo",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/agencia-senado-leva-mencao-honrosa-no-premio-direitos-humanos-de-jornalismo",
+    "resumo": "A Agência Senado recebeu menção honrosa na categoria on-line do 43º Prêmio Direitos Humanos de Jornalismo, com a reportagem Saneamento básico: a pauta bilionária fora do debate eleitoral. A premiação oficial acontecerá no dia 10 de dezembro, em Porto Alegre (RS). A matéria especial, publicada em abril, explora um dos…",
+    "data": "2026-11-18T18:38:42.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "GTA 5 x GTA 6: veja quais celulares foram novidade em cada época",
+    "link": "https://canaltech.com.br/smartphone/gta-v-x-gta-vi-veja-quais-celulares-foram-novidade-em-cada-epoca/",
+    "resumo": "Treze anos separam os lan&ccedil;amentos de GTA V e GTA VI , mas essa diferen&ccedil;a entre a chegada dos jogos tamb&eacute;m pode servir para analisarmos o mundo dos smartphones. Se em 2013 Michael, Franklin e Trevor eram os destaques junto ao iPhone 5s , em 2026 &eacute; a vez de Jason e Lucia se unirem ao iPhone…",
+    "data": "2026-11-18T18:37:56.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/dcjiue3D60grulGHcavporCU_6s=/0x0/filters:format(webp):quality(85)/4a530886-7d34-454b-9459-5eaa9ac7c153.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dólar rompe os R$ 5,84 hoje: até onde a moeda ainda pode subir?",
+    "link": "https://www.moneytimes.com.br/dolar-rompe-os-r-584-hoje-ate-onde-a-moeda-ainda-pode-subir-davs/",
+    "resumo": "Não é apenas o cenário doméstico que impulsiona o dólar, mas sim uma combinação de fatores internos e externos.",
+    "data": "2026-11-18T18:33:14.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "iPhone 17 aparece com parcelas de R$ 139 na Black Friday da Claro",
+    "link": "https://canaltech.com.br/smartphone/iphone-17-aparece-com-parcelas-de-r-139-na-black-friday-da-claro/",
+    "resumo": "A Claro antecipou algumas promo&ccedil;&otilde;es visando o per&iacute;odo da Black Friday, e as ofertas chegaram at&eacute; mesmo a alguns modelos de smartphones. Um dos destaques &eacute; o iPhone 17 , que aparece com parcelas mensais de R$ 139 caso o consumidor siga algumas condi&ccedil;&otilde;es de compra. A…",
+    "data": "2026-11-18T18:32:44.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/KB368kk2LQZBqUZBj-WfMVi-RrY=/0x0/filters:format(webp):quality(85)/41c8d240-aaf6-4465-a91c-381a3cc35e33.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Miami investe US$ 3,9 milhões para surfar no sucesso de GTA 6, mas violência do jogo divide autoridades",
+    "link": "https://www.moneytimes.com.br/miami-investe-us-39-milhoes-para-surfar-no-sucesso-de-gta-6-mas-violencia-do-jogo-divide-autoridades-sama/",
+    "resumo": "Valor inclui acordos comerciais e publicidade em equipamentos públicos; iniciativa divide autoridades sobre os possíveis benefícios econômicos e os riscos para a imagem de Miami",
+    "data": "2026-11-18T18:32:20.000Z",
+    "imagemFeed": "https://www.moneytimes.com.br/uploads/2026/11/960x640-2026-11-10t234509.843.webp",
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nvidia interrompe envio de chips de IA Hopper para a China",
+    "link": "https://olhardigital.com.br/2026/11/18/pro/nvidia-interrompe-envio-de-chips-de-ia-hopper-para-a-china/",
+    "resumo": "Decisão da Nvidia ocorre após novas restrições dos EUA para limitar o acesso chinês a chips de inteligência artificial em centros de dados externos O post Nvidia interrompe envio de chips de IA Hopper para a China apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T18:27:42.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-1-1024x576.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Klabin (KLBN11) suspende operações em unidade de SC após incidente; 10 funcionários são hospitalizados",
+    "link": "https://www.moneytimes.com.br/klabin-klbn11-suspende-operacoes-em-unidade-de-sc-apos-incidente-10-funcionarios-sao-hospitalizados-pads/",
+    "resumo": "A Klabin (KLBN11) informou nesta quarta-feira (18) que registrou uma ocorrência envolvendo a caldeira de recuperação da unidade de Otacílio Costa (SC), levando à suspensão imediata das operações no local. Em fato relevante enviado ao mercado, a companhia afirmou que a área foi isolada logo após o incidente e que os…",
+    "data": "2026-11-18T18:27:05.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic se aproxima da etapa final do que deve ser o maior IPO de todos os tempos",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUpsT2xhOURlMV8xVkVwcGJTRTMxdjFQWWJYODloWUlWUnF2SENNcjJnWUt0aGFCTnRXbV92TXFZVWQzWURFdTlZM1Jvb1JNZnA1R3d2R0ctbngwb09UTUR5WXZuX3hlVnh6bGt2dWFEM2Y5ZlNaOXdUS2IyLVFMQXZ5ck9JM3BER0N1UDE0SGFGYWZQSkRkVWoycGI3OEh2STA1Si0yTmNyYzI2cFZYT1ktdlk2RU5xQUlwZGd2cjFTalV2WWg0SFNvc2Vmbkpjcjc4OVFLQTI2VW5DN0HSAewBQVVfeXFMT2UxTHRwcU1ma3JkYnZXUWJYLVNzc1o3QkNIeGlEM3hGMmxGeEZJT2swaG0wMnRhXzVNN0lkSG43aWRTcXozLVg1X1VVcUpRZHNPTmtTU081eVR5OFM4eW9EdUZ3TDBVSzVxbUwzZUNpTVlYM0VnNkowMmxnNnFNZjFuQW9IeGRKOExMSUpwaTJDMzBYZFpzMl90TjdaMEZneXFKZDdrNUlGazZSUXVXOWF6T0pUTlA5NlhScWQzcGFfSU5KMm13YlhIVW9iV0dKZHlzU3NwanJUVl9laTE5Mk1QZk9FSUVTM2VDbkY?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T18:24:41.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Toyota Corolla Deck é apresentada; conheça a nova rival da Toro",
+    "link": "https://canaltech.com.br/carros/toyota-corolla-deck-e-apresentada-conheca-a-nova-rival-da-toro/",
+    "resumo": "Depois de meses de flagras e especula&ccedil;&otilde;es , a Toyota finalmente apresentou a Corolla Deck , sua primeira picape intermedi&aacute;ria desenvolvida para o mercado brasileiro. O modelo amplia a fam&iacute;lia Corolla e coloca a fabricante japonesa em uma categoria que tem a Fiat Toro como principal…",
+    "data": "2026-11-18T18:19:56.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/CqUucw1kBVuQ2haMeL8ZJEQhpaw=/0x0/filters:format(webp):quality(85)/3c11a280-79e0-4d69-9154-83a07a42cb6e.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "One UI 9.5 renova app de Câmera da Samsung com botões maiores e presets nativos",
     "link": "https://canaltech.com.br/apps/one-ui-95-renova-app-de-camera-da-samsung-com-botoes-maiores-e-presets-nativos/",
     "resumo": "A Samsung lan&ccedil;ou o primeiro Beta p&uacute;blico da One UI 9.5 nesta quarta-feira (18) para a linha Galaxy S26. Uma das novidades &eacute; a reformula&ccedil;&atilde;o do aplicativo de c&acirc;mera com novo visual e &iacute;cones organizados no mesmo menu. A fabricante sul-coreana destaca a capacidade de ter…",
@@ -7,16 +612,6 @@
     "imagemFeed": "https://tl.ctcdn.com.br/B9HpJ336s6ZuEyD_FcT2gpB1zNs=/0x0/filters:format(webp):quality(85)/71f01d49-053d-4b40-90ae-47f1bdb020b5.webp",
     "fonteId": "canaltech",
     "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dólar hoje sobe a R$ 5,83, com pacote fiscal no radar e expectativa pela ata do Fed",
-    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
-    "resumo": "BC realizou dois leilões de linha (venda de dólares com compromisso de recompra) no valor total de US$1 bilhão The post Dólar hoje sobe a R$ 5,83, com pacote fiscal no radar e expectativa pela ata do Fed appeared first on InfoMoney .",
-    "data": "2026-11-18T18:15:36.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
   {
@@ -80,7 +675,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Vídeo: Acompanhe ao vivo o lançamento do Arquivo S volume 11 - 18/11/26",
+    "titulo": "Vídeo: Lançamento do Arquivo S volume 11 - 18/11/26",
     "link": "https://www12.senado.leg.br/noticias/videos/2026/11/acompanhe-ao-vivo-o-lancamento-do-arquivo-s-volume-11-18-11-26",
     "resumo": "",
     "data": "2026-11-18T18:05:49.000Z",
@@ -194,7 +789,7 @@
   {
     "titulo": "Número de pessoas que contribuem para a Previdência pública é o maior desde 2012",
     "link": "https://agenciagov.ebc.com.br/noticias/202611/numero-de-pessoas-que-contribuem-para-a-previdencia-publica-e-o-maior-desde-2012",
-    "resumo": "Segundo a Pesquisa Nacional por Amostra de Domicílios Contínua, do IBGE, total de contribuintes chegou a 68,7 milhões, entre trabalhadores por conta própria e celetistas",
+    "resumo": "Segundo a Pesquisa Nacional por Amostra de Domicílios Contínua, do IBGE, total de contribuintes chegou a 68,7 milhões em setembro, entre trabalhadores por conta própria e celetistas",
     "data": "2026-11-18T17:51:00.000Z",
     "imagemFeed": null,
     "fonteId": "agencia-gov",
@@ -305,6 +900,17 @@
     "categoria": "oficial"
   },
   {
+    "titulo": "Quem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdVhGOVpsaHVGb1B5VVhZY3RMN2tLclhQUkxGU09mLXRoYmRiVF9fLU1Nc3pZbEgxdTdWZ0ZwWVduRThGRERrcTc4b3Q4eVdsUWV1ZGhhRUtzbUxNdnFsN2lQUU11QlJ2UE55bUVuVktJVFlUUUtldXh2ZVkxcThaSXBPRGYwOUJWdWRKRmh1Sk1IX0VMSE9MY1l6a1g2YzhmUXFZOVdfUHdmWGlKUFFXUk9qR25JWktBMUx2TUFwdnloZUhWeUY1RTRqVk9aOTdfbmlPM1RnMEd3djBvcmtXV3k3bUJEd9IB9AFBVV95cUxQY2JBNTFxLUJZSXRXZW5JdlZ5aVV1YW50Q1l2OFFad0ZRSXJEX2hTMllfN3Nza3BKQ01QQzhHTU82blRzTDY2WmZyS093YmI0QkRCSzlnSjQxa1RrNnc5ZDZnU3BqZE5ZOHlDOEdkeFN2WmNTOUVDeFpGaHk0Z1lOdDhaVjhDZjNOaU1LZmtyYlNLX1FxTXhIWUdKcGZBX21TRU9MNzVtRHNxTWw1anJEMUhSbFZNWWxJUmowNUpWTkRSYllyWHJSSjhQMHU3eXZCS3hsel9zcXI4ZGNJb0p3M3U5akM3QWppRTRDVDdtZE12dE9i?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T17:24:59.000Z",
+    "origem": "G1",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "G1",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "CCT adia votação de projeto que proíbe uso de plástico para embalar jornais",
     "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cct-adia-votacao-de-projeto-que-proibe-uso-de-plastico-para-embalar-jornais",
     "resumo": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) adiou a votação do projeto que proíbe o uso de plástico para embalar jornais, revistas e outras publicações impressas. A análise, prevista para quarta-feira (18), foi suspensa após pedido de vista do senador Esperidião Amin (PP-SC). O texto deve voltar à…",
@@ -323,6 +929,16 @@
     "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261117165654543-768x474.jpg",
     "fonteId": "camara",
     "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Bom Dia, Ministra: Rachel Barros fala sobre titulação de territórios quilombolas e ações afirmativas",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/rachel-barros-fala-sobre-avanco-na-titulacao-de-territorios-quilombolas-e-destaca-acoes-afirmativas-para-a-populacao-negra-nesta-quinta-feira-19",
+    "resumo": "Titular da Igualdade Racial será a entrevistada do “Bom Dia, Ministra” e comentará sobre os mais de 93 mil hectares de território quilombola regularizados, além de ressaltar a importância das Casas da Igualdade Racial",
+    "data": "2026-11-18T17:18:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
     "categoria": "oficial"
   },
   {
@@ -367,7 +983,7 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Vídeo: Ao vivo: CCJ ouve o ministro da Justiça e o diretor-geral da PF – 18/11/26",
+    "titulo": "Vídeo: CCJ ouve o ministro da Justiça e o diretor-geral da PF – 18/11/26",
     "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-ccj-ouve-o-ministro-da-justica-e-o-diretor-geral-da-pf-2013-18-11-26",
     "resumo": "",
     "data": "2026-11-18T17:11:21.000Z",
@@ -480,6 +1096,16 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Sinal de alerta para a renda fixa: mercado teme inflação como na época de Dilma",
+    "link": "https://www.seudinheiro.com/2026/renda-fixa/sinal-de-alerta-para-a-renda-fixa-mercado-teme-inflacao-como-na-epoca-de-dilma-mlim/",
+    "resumo": "Indicador do mercado atingiu o maior patamar em dez anos e reforça as apostas em títulos protegidos contra a alta dos preços The post Sinal de alerta para a renda fixa: mercado teme inflação como na época de Dilma appeared first on Seu Dinheiro .",
+    "data": "2026-11-18T16:57:38.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Anthropic: quem são seus sete jovens fundadores prestes a se tornarem multibilionários",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCc1VFX0l5Zmd5RDdpTFNyMkNqU3RsTWtjMXRmamsxb1FFV3lGQ3NyZ0FXU1RyNWcybG5uLWlucFB2NmVWYURYblNqZl9GQ3diT2Z0NF9MdWI1TjdhS0ZYbWdXTTNNbkE50gFoQVVfeXFMUEJzVUVfSXlmZ3lEN2lMU3IyQ2pTdGxNa2MxdGZqazFvUUVXeUZDc3JnQVdTVHI1ZzJsbm4taW5wUHY2ZVZhRFhuU2pmX0ZDd2JPZnQ0X0x1YjVON2FLRlhtZ1dNM01uQTk?oc=5",
     "resumo": "",
@@ -505,7 +1131,7 @@
     "link": "https://canaltech.com.br/smartphone/celular-quebrado-claro-recebe-aparelhos-ate-de-quem-nao-e-cliente/",
     "resumo": "Quem tem um celular antigo, quebrado ou sem uso em casa pode descart&aacute;-lo em uma loja da Claro, mesmo sem ser cliente da operadora. A empresa mant&eacute;m o Claro Recicla , programa que recebe res&iacute;duos eletr&ocirc;nicos em mais de 2 mil lojas pr&oacute;prias e agentes autorizados espalhados pelo…",
     "data": "2026-11-18T16:49:20.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/3TQffKLPguuu1up4OZytxLauqM0=/0x0/filters:format(webp):quality(85)/9ef6938f-d9d3-4248-a2cb-04ba6552e2e4.jpg",
+    "imagemFeed": "https://tl.ctcdn.com.br/Fp45WTaB88rs1p_8j2u3vGyz6Ns=/0x0/filters:format(webp):quality(85)/122d745a-3c3b-4aba-b02e-5c7e48605b85.jpg",
     "fonteId": "canaltech",
     "fonte": "Canaltech",
     "categoria": "imprensa"
@@ -519,6 +1145,17 @@
     "imagemFeed": null,
     "fonteId": "senado",
     "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Agência - Detalhe de Mídia",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEY5ZDJRcC1tcXRQWXpWc2pBSFp3ckhHUFJqVkl6YkI5dHJ0bHVJbGdKRUhvYWhtOG9PRGowOENad3N2Q3B4UEp0aExHYU9TLXFkQXJ4akhnYXJkT0R6T0xIbjNqMmx1VDc0Z0dHQndTajRPdUQtbGtlMk5IWUtOcjBtNTBlVTdURTdEREZYeUdQN3BIZW91ZVJrQ2sySXlEdmFR?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T16:46:50.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
     "categoria": "oficial"
   },
   {
@@ -638,6 +1275,16 @@
     "categoria": "oficial"
   },
   {
+    "titulo": "Ata do Fed abre porta para alta acima de 0,25 ponto em dezembro se a inflação piorar",
+    "link": "https://exame.com/invest/mercados/ata-do-fed-abre-porta-para-alta-acima-de-025-ponto-em-dezembro-se-a-inflacao-piorar/",
+    "resumo": "Fed teme retorno fraco da IA e vê inflação alta demais para parar de subir juros",
+    "data": "2026-11-18T16:14:01.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Jensen Huang teria lutado por RTX 5080 de 24 GB como \"consolo\" para jogadores",
     "link": "https://canaltech.com.br/hardware/jensen-huang-teria-lutado-por-rtx-5080-de-24-gb-como-consolo-para-jogadores/",
     "resumo": "A situa&ccedil;&atilde;o atual da NVIDIA &eacute; bastante delicada com a sa&iacute;da de Jensen Huang da lideran&ccedil;a que mantinha h&aacute; mais de tr&ecirc;s d&eacute;cadas. Antes de tudo isso vir &agrave; tona, uma suposta GeForce RTX 5080 de 24 GB surgiu em rumores. Agora, segundo fontes do Moore's Law is…",
@@ -699,7 +1346,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Quem são os 7 fundadores da Anthropic que vão ficar com US$ 18 bilhões cada na estreia da bolsa",
+    "titulo": "IPO da Anthropic: quem são os 7 fundadores que vão ficar com US$ 18 bilhões cada",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUgzaXBvM2J3OUx0ekxQdUVmUmk4LWxyVURYblV4UnlORFR2TlRLbEVzbllUVUJmdGxDZzZNV01kUjFyRzN5UjlSaVVfZGlrS0tVYktMWDJNQ3RWc29xZXpKS2VadlUzaXJmUm9oQ3prazRyRnh3UEpnVnN0RC02S1VndUFwSHVldWJkVklrbTMtM1dZdlRmVm54NlpEclNFOUdEY0FLOHRuRnBBRzBaendRVDc5a3J6TUxfeG9GZy11WHpYU294Y09JZjQ5QlJhYXpJ?oc=5",
     "resumo": "",
     "data": "2026-11-18T16:03:03.000Z",
@@ -730,9 +1377,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Goldman Sachs rebaixa o Brasil diante de um cenário de recuperação lenta da bolsa após as eleições",
+    "titulo": "Goldman Sachs rebaixa ações brasileiras diante de um cenário de recuperação lenta da bolsa após as eleições",
     "link": "https://www.seudinheiro.com/2026/bolsa-dolar/brasil-fica-para-tras-goldman-sachs-reduz-aposta-e-ve-oportunidades-em-outros-emergentes-lmrs/",
-    "resumo": "Banco prefere México, Índia e China a Brasil, citando crescimento fraco, juros altos e risco de cortes nos lucros The post Goldman Sachs rebaixa o Brasil diante de um cenário de recuperação lenta da bolsa após as eleições appeared first on Seu Dinheiro .",
+    "resumo": "Banco prefere México, Índia e China a Brasil, citando crescimento fraco, juros altos e risco de cortes nos lucros The post Goldman Sachs rebaixa ações brasileiras diante de um cenário de recuperação lenta da bolsa após as eleições appeared first on Seu Dinheiro .",
     "data": "2026-11-18T16:00:05.000Z",
     "imagemFeed": null,
     "fonteId": "seudinheiro",
@@ -1952,9 +2599,9 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Ibovespa e dólar hoje: bolsa cai mais de 1% e moeda encosta em R$ 5,84, de olho em ajuste fiscal",
+    "titulo": "Dólar fecha a R$ 5,87, maior valor em 20 meses, e Ibovespa cai mais de 1%, com ajuste fiscal no radar",
     "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/18/ibovespa-e-dolar-hoje-18-11-2026-nvidia-pacote-fiscal-senado.ghtml",
-    "resumo": "O bom humor de Wall Street com o balanço da Nvidia, divulgado ontem à noite, promete trazer alívio aos mercados de Nova York nesta quarta-feira (18), movimento que pode respingar positivamente no Ibovespa ao longo do pregão. No cenário doméstico, porém, a cautela com a pauta fiscal tende a limitar o apetite por risco,…",
+    "resumo": "Diante das incertezas em torno da votação do ajuste fiscal proposto pelo governo federal, o Ibovespa, principal índice acionário brasileiro, registra mais um pregão de forte queda, pressionado pela expectativa em torno da votação do ajuste fiscal no Congresso, prometida para esta quarta-feira (18). No sentido oposto,…",
     "data": "2026-11-18T12:00:50.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/lnnSTFYg44cif0oGJ6Nj5_5AdiA=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/g/g/CsiJFdTWi7jz1Og0uvlQ/55589991111-21cae37adc-k.jpg",
     "fonteId": "valor-investe",
@@ -2867,7 +3514,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Ações europeias recuam com inflação persistente e IPO da Anthropic",
+    "titulo": "Ações europeias caem com inflação persistente e IPO da Anthropic",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFZoY3E3Q2JJU2dqa1BLMGlLM2dqem9qT2RVN280RXQxTzRsVUY4OU1EcXdWM0FFLVdDM2h3enMtMGIzNEZzYjYzaUctSTBxaXJkTHBaRHpSUnV0MTRVTVVKdGxpakNtQ0RYeFdLTWdNTGZGS3RYcnRjX01VZFMxeTVvakdXemhQVFBWbmRZTU9jMXN4Y0owRURtd0hZbXhoOGVNVXNRNUtDeDVLcjBuYTZUbHNNazhIMEdGRWJyWnNoVkpHanU1aVJ2N3JxMm50SUp0b0JGajcwdzdZTGVlYTBncHNCZXc?oc=5",
     "resumo": "",
     "data": "2026-11-18T08:07:00.000Z",
@@ -3018,6 +3665,16 @@
     "fonteId": "google-news-claude",
     "fonte": "Folha de S.Paulo",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "Managing frontier AI risk: From training to deployment",
+    "link": "https://openai.com/index/managing-frontier-ai-risk",
+    "resumo": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "data": "2026-11-18T06:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "openai",
+    "fonte": "OpenAI (blog oficial)",
+    "categoria": "empresa"
   },
   {
     "titulo": "Votação do ajuste fiscal, Pnad, ata do Fed e reação ao balanço da Nvidia: o que move os mercados",
@@ -6032,6 +6689,17 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic expõe os “riscos catastróficos” da IA em registro para lançamento trilionário de ações nos EUA",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcTZCdko2ODFaUGh3WFRMTHowVzVVOXA3aFI3dEpBcC1nU1FyQjR1SkM0a2FsM3E0R2VCZnJKNUIzU24ybVhkR3BPYkpiZ1NsN1NsZHA5bjdDLWhiVE1HbkF4ZW9xNTZQTlJmX05tQ3p1UG5sajJpWVhnRDZRWHdSYnJkSWxDU2Ribmh1WXRrU2tkREsyQ1h5eTFVdzFZazFOU1JHZjFLQU5PWjhxOFlmUkEtU3dxa09PNWJRS1FxLVhBYTJrcGtZ0gHMAUFVX3lxTFBzMnFLbnUxVlV3RWVkVGg1U2h1dlM5RUtSQ2tfdV9Udy1XMWhhU0R6ZnNYLUNiYTF3RWdMOEVDeGVVb3BqMDFwd3hWQU1ic0JCbU9pYU9Kb1RiQjRiOVhRNDBlRmFNcWF4VURlaXE2WHVGb0p3bTZIQ1Z1Zl9yWHZ6dVN6MlhLUjhYN1c2SlA0aTltdUR6UzhEajh4RzFFZXIxLVF1S25sLXZkbEVlVENLcDNMUlZwRnExVlhQYkFLSUNMNlQzQlBwdUZ6OA?oc=5",
+    "resumo": "",
+    "data": "2026-11-17T12:41:00.000Z",
+    "origem": "UOL",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL",
     "categoria": "imprensa"
   },
   {
@@ -11673,126 +12341,6 @@
     "resumo": "Em uma manifestação contundente pelas redes sociais, o ex-atleta criticou o trabalho do treinador italiano e cobrou uma atitude do presidente da CBF, Samir Xaud The post Romário pede saída de Ancelotti da seleção: ‘Pega tuas coisas e mete o pé! appeared first on InfoMoney .",
     "data": "2026-11-14T20:30:00.000Z",
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2019/06/romario-1.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Fortes chuvas atingem São Paulo nos próximos dias; veja quando",
-    "link": "https://www.infomoney.com.br/brasil/fortes-chuvas-atingem-sao-paulo-nos-proximos-dias-veja-quando/",
-    "resumo": "A expectativa é de que a condição climática ganhe força entre a tarde e o início da noite. Para este sábado, 14, não há expectativa de intensas precipitações The post Fortes chuvas atingem São Paulo nos próximos dias; veja quando appeared first on InfoMoney .",
-    "data": "2026-11-14T20:00:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/alex-dukhanov-ZxZQk7777R4-unsplash-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "10 jogos do PlayStation 1 que são jogáveis nos consoles da atual geração",
-    "link": "https://canaltech.com.br/games/jogos-playstation-1-jogaveis-consoles-atuais/",
-    "resumo": "Parece que o primeiro PlayStation chegou &agrave;s prateleiras de todo o mundo ontem, mas na verdade j&aacute; faz mais de 30 anos que o console de estreia da Sony nos videogames est&aacute; entre n&oacute;s . Nesse meio tempo, o PS1 virou est&eacute;tica, muitos jogos lan&ccedil;ados para o sistema receberam um novo…",
-    "data": "2026-11-14T20:00:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/kEasgoE1jM8Dh89aJ_tgAnHDRVM=/0x0/filters:format(webp):quality(85)/6c6a88aa-984a-47c5-9ad6-00ac28caca55.jpeg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Federação Portuguesa de Futebol muda grafia de número 7 e ‘eterniza Cristiano Ronaldo",
-    "link": "https://www.infomoney.com.br/mercados/federacao-portuguesa-de-futebol-muda-grafia-de-numero-7-e-eterniza-cristiano-ronaldo/",
-    "resumo": "O novo uniforme será utilizado a partir deste sábado (14), no jogo diante da Dinamarca, às 16h45 pela Nations League The post Federação Portuguesa de Futebol muda grafia de número 7 e ‘eterniza Cristiano Ronaldo appeared first on InfoMoney .",
-    "data": "2026-11-14T19:50:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T201441Z_1684057156_UP1EM6N1HFQHY_RTRMADP_3_SOCCER-WORLDCUP-POR-UZB.jpg?fit=300%2C207&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Lula cita herói anticolonial das Filipinas ao comentar sua reeleição",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/lula-cita-heroi-anticolonial-das-filipinas-ao-comentar-sua-reeleicao",
-    "resumo": "Em visita oficial às Filipinas, o presidente Luiz Inácio Lula da Silva citou o herói da independência do país, José Rizal, um símbolo da luta contra o colonialismo, ao se referir a sua reeleição, em outubro. “No último dia 25, diante do extremismo e de tentativas de ingerência externa, o povo brasileiro escolheu a…",
-    "data": "2026-11-14T19:48:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-brasil-economia",
-    "fonte": "Agência Brasil",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "EUA: chefe da FAA prevê entre 4 mil e 5 mil dos voos cancelados neste sábado",
-    "link": "https://www.infomoney.com.br/mundo/eua-chefe-da-faa-preve-entre-4-mil-e-5-mil-dos-voos-cancelados-neste-sabado/",
-    "resumo": "Segundo ele, os atrasos e cancelamentos de hoje permitirão recuperação total no domingo (15) The post EUA: chefe da FAA prevê entre 4 mil e 5 mil dos voos cancelados neste sábado appeared first on InfoMoney .",
-    "data": "2026-11-14T19:45:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/mark-olsen-K5j1KgecVC8-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Mpox: Rio retoma vacinação contra a doença; veja quem tem direito e onde se imunizar",
-    "link": "https://www.infomoney.com.br/brasil/mpox-rio-retoma-vacinacao-contra-a-doenca-veja-quem-tem-direito-e-onde-se-imunizar/",
-    "resumo": "Imunizante está disponível em cinco unidades para pessoas com HIV/Aids e CD4 abaixo de 200; cidade soma 287 casos em 2026 The post Mpox: Rio retoma vacinação contra a doença; veja quem tem direito e onde se imunizar appeared first on InfoMoney .",
-    "data": "2026-11-14T19:30:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2020-09-27t000000z_1590795794_mt1imgost000of8jy0_rtrmadp_3_imago-images_0.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Como saída de James Gunn e Peter Safran vai impactar o futuro do DC Studios",
-    "link": "https://canaltech.com.br/entretenimento/como-saida-de-james-gunn-e-peter-safran-vai-impactar-o-futuro-do-dc-studios/",
-    "resumo": "Quem acompanha as novidades da ind&uacute;stria do entretenimento de pertinho j&aacute; deve saber que o DC Studios sofreu uma nova reviravolta em sua trajet&oacute;ria por causa da sa&iacute;da repentina de James Gunn e Peter Safran do comando. A not&iacute;cia abalou os f&atilde;s da franquia nos &uacute;ltimos…",
-    "data": "2026-11-14T19:30:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/HxgJn0f3NkP5CkaNg1ME-o71-Yk=/0x0/filters:format(webp):quality(85)/2d978210-ee7c-4d9c-b588-a7c66197b130.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "SUV japonês com um ano de uso fica \"no precinho\" e sai mais barato que VW Tera",
-    "link": "https://canaltech.com.br/carros/suv-japones-com-um-ano-de-uso-fica-no-precinho-e-sai-mais-barato-que-vw-tera/",
-    "resumo": "Quem procura um SUV bonito, que anda muito e &eacute; bem equipado , mas sem pagar pre&ccedil;o de carro zero-quil&ocirc;metro, pode encontrar uma oportunidade interessante no mercado de seminovos. O Nissan Kicks Exclusive 2026 , vers&atilde;o mais completa da linha, j&aacute; aparece na Tabela Fipe por R$ 150.568,…",
-    "data": "2026-11-14T19:03:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/fAEflmkhuvSvAf7fCfPLtJERUQI=/0x0/filters:format(webp):quality(85)/b62f7839-45e1-45fa-9f99-4a30c3092ae7.JPG",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "CEO da Delta: sistema aéreo dos EUA é tão defasado que voar em 1950 era mais rápido",
-    "link": "https://www.infomoney.com.br/business/global/ceo-da-delta-sistema-aereo-dos-eua-e-tao-defasado-que-voar-em-1950-era-mais-rapido/",
-    "resumo": "Ao falar em modernização, o executivo se refere à adoção de tecnologias de satélite, equipamentos de última geração e sistemas de posicionamento global, como o GPS The post CEO da Delta: sistema aéreo dos EUA é tão defasado que voar em 1950 era mais rápido appeared first on InfoMoney .",
-    "data": "2026-11-14T19:00:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Ed-Bastian-chief-executive-officer-of-Delta-Air-Lines-Inc.-Michael-Nagle-Bloomberg-via-Getty-Images.jpg?fit=300%2C201&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ciclone afetará o Brasil? Cemaden emite alertas; veja como fica previsão do tempo",
-    "link": "https://www.infomoney.com.br/brasil/ciclone-afetara-o-brasil-cemaden-emite-alertas-veja-como-fica-previsao-do-tempo/",
-    "resumo": "Estados do Sul, Sudentes e Centro-Oeste têm risco de temporais The post Ciclone afetará o Brasil? Cemaden emite alertas; veja como fica previsão do tempo appeared first on InfoMoney .",
-    "data": "2026-11-14T18:42:17.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/12/chuva_sp_tarde_05.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "ROG XBOX Ally ou XBOX Series S: qual vale mais a pena comprar?",
-    "link": "https://canaltech.com.br/games/rog-xbox-ally-ou-xbox-series-s-qual-vale-mais-a-pena-comprar/",
-    "resumo": "Se voc&ecirc; deseja jogar algo no fim de ano e quer pagar pouco, possivelmente pensou no que mais vale a pena: comprar um ROG XBOX Ally ou um XBOX Series S para aproveitar o Game Pass e t&iacute;tulos exclusivos da Microsoft. Afinal de contas, &eacute; onde pode jogar Gears of War: E-Day e Forza Horizon 6 hoje.…",
-    "data": "2026-11-14T18:30:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/3LzinxfmzUF2xH1dAaSdM8aoH9A=/0x0/filters:format(webp):quality(85)/3dd87542-04ba-4e7a-8e07-1737c4aae5ee.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Claro vence pregão do Senado para fornecer iPhones e celulares por R$ 4,96 milhões",
-    "link": "https://www.infomoney.com.br/politica/claro-vence-pregao-do-senado-para-fornecer-iphones-e-celulares-por-r-496-milhoes/",
-    "resumo": "Proposta da operadora ficou 18% abaixo do orçamento estimado; contrato de 48 meses prevê 95 aparelhos da linha Pro e outros 330 smartphones intermediários The post Claro vence pregão do Senado para fornecer iPhones e celulares por R$ 4,96 milhões appeared first on InfoMoney .",
-    "data": "2026-11-14T18:24:19.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/08/463571665.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
