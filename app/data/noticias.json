@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T12:17:23.996Z",
+  "geradoEm": "2026-11-18T15:17:23.705Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -63,6 +63,23 @@
           "pontos": 28
         },
         {
+          "id": "5f299364a72b",
+          "outrosIds": [],
+          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
+          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T13:04:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
           "id": "5fef1ae43bfe",
           "outrosIds": [
             "78a9452d1fc5"
@@ -80,25 +97,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 27
-        },
-        {
-          "id": "7c7876cac97d",
-          "outrosIds": [
-            "e3b2c41d0e31"
-          ],
-          "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
-          "resumo": "A defesa do ex-banqueiro Daniel Vorcaro protocolou nesta terça-feira (17) uma petição para solicitar que o Supremo Tribunal Federal (STF) julgue o pedido de soltura feito na semana passada. Em uma manifestação encaminhada ao presidente do STF, Edson Fachin, os advogados informaram que, de acordo com as regras…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T23:41:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         }
       ]
     },
@@ -106,6 +104,23 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "bf82619c38a8",
+          "outrosIds": [],
+          "titulo": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
+          "resumo": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi aprovado pelos senadores, e destaques seriam votados nesta…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T22:40:32.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
+        },
         {
           "id": "2366871e29ec",
           "outrosIds": [],
@@ -173,23 +188,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FopoedPXy82hKnjtApPv_St8QgLQ%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FJ%2FZ%2F0wJR6XTfGYwFBSEXBtnw%2Fgettyimages-1339056712.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "a9f70fe6de35",
-          "outrosIds": [],
-          "titulo": "Reforma tributária fica para 2028? Durigan rejeita adiamento e rebate críticas: ‘Saímos do pior sistema do mundo’",
-          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (17) que a equipe econômica é contrária ao adiamento da reforma tributária para 2028, apesar da pressão de setores empresariais. Segundo ele, o governo trabalha para garantir que a transição para o novo sistema de impostos, prevista para começar em 2027,…",
-          "link": "https://www.moneytimes.com.br/reforma-tributaria-fica-para-2028-durigan-rejeita-adiamento-e-rebate-criticas-saimos-do-pior-sistema-do-mundo/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T17:40:12.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -200,9 +198,14 @@
         {
           "id": "829c24155e16",
           "outrosIds": [
+            "5ef45beed47e",
             "edaee698e034",
+            "09752a04406e",
+            "822a02cd4cb3",
+            "14689cb332c7",
             "100fd8f1de6b",
             "f07b9f6a04bd",
+            "53db765348b4",
             "3af4650850ff",
             "6a6451417ce7",
             "639db11ed2ac",
@@ -210,6 +213,7 @@
             "4b2a5571cc9a",
             "22f920133904",
             "284696a31125",
+            "08c179a6f73c",
             "77da1031570b",
             "5507c3d3f3a4",
             "61b51a54b968"
@@ -223,9 +227,9 @@
           "data": "2026-11-17T21:48:37.000Z",
           "tambemEm": [
             "Money Times",
+            "Valor Investe",
             "Seu Dinheiro",
-            "Exame Invest",
-            "Valor Investe"
+            "Exame Invest"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -279,35 +283,10 @@
           "pontos": 26
         },
         {
-          "id": "14689cb332c7",
-          "outrosIds": [
-            "08c179a6f73c"
-          ],
-          "titulo": "Nvidia dá alívio a Wall Street e ações sobem após balanço forte",
-          "resumo": "As ações da Nvidia (NVDA) disparavam mais de 3% no pré-mercado de Nova York na manhã desta quarta-feira (18), após o primeiro balanço da companhia desde a saída do fundador Jensen Huang entregar resultados acima das estimativas tanto na receita quanto nas projeções para o próximo trimestre. Por volta das 7h35 (horário…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/18/nvidia-da-alivio-a-wall-street-e-acoes-sobem-apos-balanco-forte.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T10:45:57.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "f25b72fe2e5c",
           "outrosIds": [
             "ada18e5cedc9",
-            "d2df79cc4c0e",
-            "5102081b2504",
-            "0f82044a3001",
-            "8daa200eb413",
-            "632c36ce4dc2"
+            "5102081b2504"
           ],
           "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
           "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
@@ -323,7 +302,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
+        },
+        {
+          "id": "c1fb5cd15f27",
+          "outrosIds": [],
+          "titulo": "Piora do crédito separa os bancões no 3T26: quem tem mais fôlego para proteger lucros e dividendos em 2027",
+          "resumo": "A deterioração do crédito começa a cobrar preços diferentes dos bancos brasileiros — e a distância entre eles pode fazer diferença para quem investe nas ações do setor. No terceiro trimestre, o Banco do Brasil (BBAS3) viu o lucro desabar 66,5%, a rentabilidade recuar para 2,8% e precisou restringir a distribuição de…",
+          "link": "https://www.moneytimes.com.br/piora-do-credito-separa-os-bancoes-no-3t26-quem-tem-mais-folego-para-proteger-lucros-e-dividendos-em-2027-miql/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T13:09:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F11%2Fbancos-feriado-servicos.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F11%2Fbancos-feriado-servicos.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         }
       ]
     },
@@ -332,35 +328,37 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "8f966ed272ae",
+          "id": "7adbf533eec7",
           "outrosIds": [
-            "e6ff99054b30",
+            "8eb9816580fc",
+            "bf9a820a736d",
+            "97333054470d",
+            "218b3a62539d",
+            "7fe8c8b178be",
             "033fa8f33187",
             "62a8d18ff4ce",
-            "bf9a820a736d",
-            "515723470e66",
-            "53392f64738f",
+            "5a08df464c1f",
+            "a1eff053c66a",
+            "e38669bef66e",
+            "c7393583e5c5",
             "39243d9dc381",
             "0a77f904e9b6",
             "05f6f895675a"
           ],
-          "titulo": "Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta",
-          "resumo": "Por aqui, a B3 vai disponibilizar um BDR (Brazilian Depositary Receipt) assim que o capital for aberto nos Estados Unidos. O preço será inferior a R$ 100 reais O post Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/18/pro/voce-pode-investir-no-claude-por-menos-de-r-100-ipo-da-anthropic-e-nesta-quinta/",
-          "fonte": "Olhar Digital",
+          "titulo": "IPO da Anthropic com avaliação de US$ 1,4 tri: veja o que a IA diz",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0Utd3BJUG5QdUxWYy1kT2FlNzBDVUVKOFJycE9rUFBzckhYa3JmaWJFalZXTkdiWDZIR2xYazNZZzVNSUFvRXlKWjg0V0QwXzhlelA3cXNkbnUxS08ybGVDTXJLbG41MUtOQmVmdDRFRzY5VnZaLVhRLUc4WG1qM0l1eHppVGE4bEhxRXNpTGhfRGZvbjJ2eFI3RUc2RGE4Z2Q3aEEzOXFHNVR1RVBIRmE5ckdsbjhXSGwxeEcxV0Q?oc=5",
+          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T09:02:00.000Z",
+          "data": "2026-11-18T09:54:00.000Z",
           "tambemEm": [
+            "Valor Investe",
             "O GLOBO",
             "Estadão",
-            "Seu Dinheiro",
             "StartSe"
           ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
+          "foto": null,
           "pontos": 30
         },
         {
@@ -425,19 +423,19 @@
           "pontos": 25
         },
         {
-          "id": "48a8ebb4d862",
+          "id": "bff0d93ba0d2",
           "outrosIds": [],
-          "titulo": "Na era da IA, audiência do Reddit despenca 13%",
-          "resumo": "Fórum é uma das principais fontes de consulta dos modelos de inteligência artificial atuais, inclusive o Gemini, que entrega os resumos na página de busca. Na era da IA, audiência do Reddit despenca 13%",
-          "link": "https://tecnoblog.net/noticias/na-era-da-ia-audiencia-do-reddit-despenca-13/",
-          "fonte": "Tecnoblog",
+          "titulo": "Google libera agente de IA gratuito que faz ligações e compras por você",
+          "resumo": "O Google anunciou nesta ter&ccedil;a-feira (17) que est&aacute; liberando gratuitamente o Tasks , um agente de intelig&ecirc;ncia artificial (IA) do Gemini capaz de realizar tarefas como organizar compromissos, pesquisar produtos, fazer compras e ligar para estabelecimentos comerciais. A novidade chega inicialmente a…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/google-libera-agente-de-ia-gratuito-que-faz-ligacoes-e-compras-por-voce/",
+          "fonte": "Canaltech",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T07:47:46.000Z",
+          "data": "2026-11-18T15:00:05.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2025%2F12%2Ftbr-reddit.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2025%2F12%2Ftbr-reddit.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FK7MGesuTuho3vxUmAk3Q31s9fsM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FK7MGesuTuho3vxUmAk3Q31s9fsM%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -645,7 +643,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 45,
+      "itens": 47,
       "erro": null
     }
   ]
