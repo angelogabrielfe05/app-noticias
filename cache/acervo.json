@@ -1,5 +1,36 @@
 [
   {
+    "titulo": "Anthropic define hoje preço de oferta histórica de ações: veja 5 pontos a observar no IPO da empresa de IA",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZm5aVWhmZmVVTlNxYmx1czFwc1hZZmVZckpOMFlwNnZWU3VMQnUwblhTNWV4RnJ5OUZXMHFaNTNUUDcyLVlOYVhNcHc2dktxVllhV0V6Y0xmLU9zRVVHTzhHbVVvcEhsUTBBd2V2WVJmUnFBSlBMRFNSWFRGQmhWcmdLR0dTOHVKZlhIU29qR09BdTFPaHZiUHl2MDJpWDVvVXJLSTc0WEVBbkk5aDJyeXpxR09ibG5zRHNQc3JkUTFINFBoeTNTR1lDa2hOTXVEaXU5c1oxa3NFTDRCUUtzYmZxMjdtdHlVRnlrUHdya29scHk2emlFN056U1kyUncyT2dGMkxB0gGUAkFVX3lxTE5LT3JiVUs3WWVxWTZFR0V5cGtSeG1WSHVNRVBhWmk0R3V4ZnB3RV9xakdab2I0NXA1VlF3OG91T0FoRVpEbjR1alF4OXBGanlZQmpmd2dqVHgxZlZfZTBkOHBZdlAxaTl0UVVwTVdmZW1PbzRfNENPdnAwYWlNdjY4c2RCSG1TeG5pc3hob2dRNFhOTndCVGI1OENZcUhrSkNwU0hEYnRHX2NYdXZTb29YZ1p5b25lSllXbC1UTF9CLVJVWDJ2RDR3SUFSNk9RZ1VVRWVfS28zUDZNc0l5ZV9NbWpxZnllb3hjZlBKYU1rLV9GdDY4a2YyU1hwSW1IUjdvNkh4d2lLZnpRbDlidC04Tk9JZw?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T03:01:00.000Z",
+    "origem": "O GLOBO",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "O GLOBO",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Descoberta grande falha no Java: software é essencial para a internet",
+    "link": "https://olhardigital.com.br/2026/11/17/seguranca/ia-da-openai-encontra-falha-no-java-que-pode-abrir-portas-para-hackers/",
+    "resumo": "IA da OpenAI descobriu bug, batizado de Java4Shell. A falha pode permitir que invasores obtenham acesso remoto não autorizado a sistemas internos O post Descoberta grande falha no Java: software é essencial para a internet apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-18T01:56:05.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/gpt-6-cyber-social-1024x576.png",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dia de Sorte: confira o resultado do concurso 1350 sorteado nesta terça (17)",
+    "link": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1350-sorteado-nesta-terca-17/",
+    "resumo": "O prêmio estimado para este concurso era de R$ 1,2 milhão The post Dia de Sorte: confira o resultado do concurso 1350 sorteado nesta terça (17) appeared first on InfoMoney .",
+    "data": "2026-11-18T00:20:08.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Quina hoje, concurso 7170: confira o resultado sorteado nesta terça (17)",
     "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7170-confira-o-resultado-sorteado-nesta-terca-17/",
     "resumo": "O prêmio deste concurso era estimado em mais de R$ 14 mil The post Quina hoje, concurso 7170: confira o resultado sorteado nesta terça (17) appeared first on InfoMoney .",
@@ -9254,90 +9285,6 @@
     "imagemFeed": null,
     "fonteId": "agencia-gov",
     "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Trump descarta ataque hacker e IA em apagão que parou voos nos EUA",
-    "link": "https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/",
-    "resumo": "Em entrevista à Fox News, presidente comentou a pane de comunicação que levou à suspensão de todas as decolagens no país The post Trump descarta ataque hacker e IA em apagão que parou voos nos EUA appeared first on InfoMoney .",
-    "data": "2026-11-14T03:00:06.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-02T070659Z_640190852_RC2IFOAJYMNL_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney-ia",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Criadora do Claude prepara estreia na Bolsa e pode passar a valer até US$ 1,4 trilhão",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR044NEpFcDl2RGE1UHliSmJ4ZDVoclpYbkhObmhMR3d2Zms0bnJPelpXd1JGUzhYQUkwcjlLV3F4U2tNU1RTQldfU2ZCN25ST1h1a1MzYmlnU1VNbmFWREgxekpHclNqLXRUMVhBUXBIWjNLT0RUTUR0eXd1dGJTWlNMTnUyZl9TejFKaTRRel9rWkRPSUQ5Nlowcnd4QndsUm1JRWhib252Q0ZxcG94TU1abDFHQjVrNmZtTGREUms5WVVNRVhIb0NB?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T02:58:00.000Z",
-    "origem": "Correio Braziliense",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Correio Braziliense",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA",
-    "link": "https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/",
-    "resumo": "Suspensão durou cerca de quatro horas e atrasou mais de 10 mil voos; governo aponta rede antiga, mas ainda investiga a causa The post Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA appeared first on InfoMoney .",
-    "data": "2026-11-14T02:52:38.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-14T014226Z_686230702_RC2DNOAMDP4N_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C202&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney-ia",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Agência - Detalhe de Mídia",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFB4WDE0MHduVDhucHVjSGVibTRIWnpZM0Vmc3p1cE9sZmtoSjZjaDhKeTFBSVJ0X0ZhTkdLcWM4S0JSeUVja05PZmJnLUpDMFFPTWJZWnM5Z0hQc1A1TEdOUTM2VldfenFYY0dNYk5JSkliU01IcG1uNXBtQUpYeGNRckNMZnE5R2hGV0dHN2h2R0VMNGZyazNWU3FTVG4xWDl3?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T02:12:35.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Agência - Detalhe de Mídia",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2ViTmFXU2JDazd2R0dld21QSzdPMjRLU2JqdC13RzVhaEpMUVlpcFROek9qWEZlaHFibnhfeDVCTVByc0JHTHQtMFZ6eXN2MEIxSHJjV3J3NTNWeWtraXc5Z2h4LVdDOTV0SlktVlNEWXlfUDI1VTBPYnZnUXhNRGpIQ1hlVWE3bmg3aE1kcS1qWWxranNzeWx2MEpBNW9xcDlj?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T02:12:34.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Agência - Detalhe de Mídia",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjJlWFZVLWJSdVpjMTVlcFVrc2szM2dOaVVFcGhJbDdQNHpGTkhfeGJua1Y4YzlnRGJDTXlKeG81WU5hZzRQQS1jWnpXSVYzNmhjTU9PdXhqQ09MaFptaVQzbXlPbGdyNElIMEwxWU1sVEU0ODEwZVhIYlJjU1d3dVc0Nk1FWHB2b2t4bktGVU1pcFZrY2pPTzE3OVJXQ2xaSll3?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T02:12:32.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Building strong safety evaluations",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WQ1RoMWFsN1VyVjdlam5YZkZ4M1I1SUNjeWExWm1OcHR5MlRpRmtwU2NIT0dSQUhXSjlfb2hrZGhHYlVRUjUtUzBtRzRZUUZhcE9PNERJekdzNW1PUWhOd0s5MjBRXzVFdnFWZlJ5c0VSak5RZ3lUaA?oc=5",
-    "resumo": "",
-    "data": "2026-11-14T01:40:13.000Z",
-    "origem": "Anthropic",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "STF tem 4 votos para manter início da escala 5x2 em dezembro",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro",
-    "resumo": "O Supremo Tribunal Federal (STF) registrou nesta sexta-feira (13) quatro votos para referendar a liminar que estabeleceu regras de transição para o início da escala de trabalho 5x2. Ontem, o ministro Flávio Dino, que é relator do caso, permitiu que a nova carga horária de 42 horas semanais seja distribuída em cinco…",
-    "data": "2026-11-14T00:23:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-brasil-justica",
-    "fonte": "Agência Brasil",
     "categoria": "oficial"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T00:17:33.636Z",
+  "geradoEm": "2026-11-18T03:17:23.467Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -29,23 +29,6 @@
           "pontos": 33
         },
         {
-          "id": "72046567b92e",
-          "outrosIds": [],
-          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
-          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T20:58:14.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 30
-        },
-        {
           "id": "5fef1ae43bfe",
           "outrosIds": [],
           "titulo": "Medida que amplia crédito a exportações segue para sanção",
@@ -59,6 +42,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
+        },
+        {
+          "id": "72046567b92e",
+          "outrosIds": [],
+          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T20:58:14.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 29
         },
@@ -166,7 +166,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "7642158e536c",
@@ -244,7 +244,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 31
         },
         {
           "id": "19b3cc91d8e1",
@@ -276,21 +276,23 @@
           "pontos": 28
         },
         {
-          "id": "a8e0cd322d14",
+          "id": "2ddb6232a3db",
           "outrosIds": [
-            "91d9ccc97fb1"
+            "69dcc7669da4"
           ],
-          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
-          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
-          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
+          "titulo": "Agenda de Dividendos: Caixa Seguridade (CXSE3), Irani (RANI3) e BrasilAgro (AGRO3) remuneram o investidor nesta semana",
+          "resumo": "Proventos chegam a R$ 0,80 por ação; veja a lista completa de pagamentos",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-caixa-seguridade-cxse3-irani-rani3-e-brasilagro-agro3-remuneram-o-investidor-nesta-semana/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T20:28:01.000Z",
-          "tambemEm": [],
+          "data": "2026-11-16T12:39:13.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
@@ -313,7 +315,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "f528b9a874d4",
@@ -364,29 +366,6 @@
           "pontos": 29
         },
         {
-          "id": "fa3d54fd64f5",
-          "outrosIds": [
-            "5931abb3758a",
-            "9b8a7a75e602"
-          ],
-          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
-          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:07:03.000Z",
-          "tambemEm": [
-            "Estadão",
-            "Exame"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
           "id": "549a77347d5e",
           "outrosIds": [
             "4c7481457616"
@@ -408,6 +387,55 @@
           "pontos": 28
         },
         {
+          "id": "fa3d54fd64f5",
+          "outrosIds": [
+            "5931abb3758a",
+            "9b8a7a75e602"
+          ],
+          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
+          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T20:07:03.000Z",
+          "tambemEm": [
+            "Estadão",
+            "Exame"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
+          "id": "e6c1cf3be7cc",
+          "outrosIds": [
+            "88715777ac11",
+            "d349f987d3b4",
+            "dffc49feafc4",
+            "621c8b8f48c6"
+          ],
+          "titulo": "Anthropic mira IPO no topo ou acima da faixa indicativa, diz agência",
+          "resumo": "A Anthropic indicou a potenciais investidores na oferta pública inicial de ações (IPO, na sigla em inglês) que espera precificar os papéis no limite superior da faixa ou acima dele, informou a agência de notícias Bloomberg, citando pessoas a par do assunto. Conforme a agência, a fabricante do chatbot Claude e os sete…",
+          "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/anthropic-mira-ipo-no-topo-ou-acima-da-faixa-indicativa-diz-agncia.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T16:39:32.000Z",
+          "tambemEm": [
+            "UOL Economia",
+            "Bloomberg Línea Brasil",
+            "Valor Econômico"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhWo9kScF7FHOgnPW0wlweEj10as%3D%2F1200x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FM%2F7%2FTxb1CGSSOmh0vcHiwAqQ%2Foficial-dimensao-wordpress-2.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhWo9kScF7FHOgnPW0wlweEj10as%3D%2F1200x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FM%2F7%2FTxb1CGSSOmh0vcHiwAqQ%2Foficial-dimensao-wordpress-2.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "58da9c66b145",
           "outrosIds": [],
           "titulo": "Introducing OpenAI for Chile",
@@ -423,31 +451,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "74facd57f58b",
-          "outrosIds": [
-            "e06ff1fe84f5",
-            "48a009f05ec1",
-            "9d26b020a920",
-            "0e462bd99023",
-            "37353a72b65b"
-          ],
-          "titulo": "Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna",
-          "resumo": "Aposta feita pela Sound Ventures em 2023 pode multiplicar por 16 o capital investido na gigante da IA The post Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/empresario-de-madonna-ashton-kutcher-ipo-anthropic/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T19:45:00.000Z",
-          "tambemEm": [
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2FAshton-Kutcher.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2FAshton-Kutcher.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     }
@@ -527,7 +530,7 @@
       "id": "bcb-copom",
       "nome": "Banco Central",
       "ok": true,
-      "itens": 10,
+      "itens": 0,
       "erro": null
     },
     {
@@ -541,7 +544,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 4,
+      "itens": 5,
       "erro": null
     },
     {
@@ -653,7 +656,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 43,
+      "itens": 42,
       "erro": null
     }
   ]

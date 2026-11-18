@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T00:17:33.636Z",
+  "geradoEm": "2026-11-18T03:17:23.467Z",
   "paineis": {
     "economia": [
       {
@@ -17,7 +17,7 @@
         },
         "fonte": "Banco Central",
         "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": false
+        "desatualizado": true
       },
       {
         "id": "ipca12m",
@@ -34,7 +34,7 @@
         },
         "fonte": "Banco Central",
         "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": false
+        "desatualizado": true
       },
       {
         "id": "dolar",
@@ -51,7 +51,7 @@
         },
         "fonte": "Banco Central",
         "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": false
+        "desatualizado": true
       },
       {
         "id": "pib",
@@ -67,7 +67,7 @@
           "referencia": "1º tri 2026"
         },
         "fonte": "IBGE",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
+        "atualizadoEm": "2026-11-18T03:17:23.467Z",
         "desatualizado": false
       }
     ],
@@ -86,7 +86,7 @@
           "valor": 169295.41
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
+        "atualizadoEm": "2026-11-18T03:17:23.467Z",
         "desatualizado": false
       },
       {
@@ -104,7 +104,7 @@
         },
         "fonte": "Banco Central",
         "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": false
+        "desatualizado": true
       },
       {
         "id": "ifix",
@@ -120,7 +120,7 @@
           "valor": 3542.78
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
+        "atualizadoEm": "2026-11-18T03:17:23.467Z",
         "desatualizado": false
       },
       {
@@ -137,7 +137,7 @@
           "valor": 7416.59
         },
         "fonte": "Yahoo Finance",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
+        "atualizadoEm": "2026-11-18T03:17:23.467Z",
         "desatualizado": false
       }
     ]
