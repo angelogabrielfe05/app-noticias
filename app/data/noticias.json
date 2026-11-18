@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T11:40:03.232Z",
+  "geradoEm": "2026-11-18T12:17:23.996Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -64,7 +64,9 @@
         },
         {
           "id": "5fef1ae43bfe",
-          "outrosIds": [],
+          "outrosIds": [
+            "78a9452d1fc5"
+          ],
           "titulo": "Medida que amplia crédito a exportações segue para sanção",
           "resumo": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
@@ -96,7 +98,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -139,21 +141,21 @@
           "pontos": 28
         },
         {
-          "id": "0d9064c7a597",
+          "id": "7642158e536c",
           "outrosIds": [],
-          "titulo": "Mercado reduz projeções para inflação e crescimento econômico em 2026",
-          "resumo": "O mercado financeiro reduziu as projeções para a inflação e o crescimento da economia brasileira em 2026. Ao mesmo tempo, elevou a estimativa para a cotação do dólar no fim do próximo ano. A previsão para a taxa básica de juros (Selic) permaneceu estável. As estimativas das instituições financeiras constam do Boletim…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202",
+          "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+          "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo sistema. Em audiência pública na Comissão de Assuntos…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T12:12:00.000Z",
+          "data": "2026-11-17T15:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FSgnUFMdRtJPNTHPG5q90__2MSS4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F07%2F11%2F0d4a1789.jpg%3Fitok%3D9dpF2vXe&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "f387b29cfdc0",
@@ -198,12 +200,19 @@
         {
           "id": "829c24155e16",
           "outrosIds": [
+            "edaee698e034",
             "100fd8f1de6b",
+            "f07b9f6a04bd",
+            "3af4650850ff",
+            "6a6451417ce7",
             "639db11ed2ac",
+            "382d92055efb",
+            "4b2a5571cc9a",
+            "22f920133904",
+            "284696a31125",
             "77da1031570b",
             "5507c3d3f3a4",
-            "61b51a54b968",
-            "7c6c52151ff9"
+            "61b51a54b968"
           ],
           "titulo": "Ibovespa B3 sobe 0,31% com ajuste fiscal no radar; dólar fica em R$ 5,78",
           "resumo": "Índice reduz ganhos ao longo da tarde em dia de cautela em Nova York, enquanto investidores acompanham tramitação do pacote fiscal",
@@ -214,8 +223,9 @@
           "data": "2026-11-17T21:48:37.000Z",
           "tambemEm": [
             "Money Times",
-            "Valor Investe",
-            "Exame Invest"
+            "Seu Dinheiro",
+            "Exame Invest",
+            "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -248,6 +258,27 @@
           "pontos": 30
         },
         {
+          "id": "98172bb6c138",
+          "outrosIds": [
+            "58f37fff096e"
+          ],
+          "titulo": "Fundo imobiliário renova contratos com Banco do Brasil (BBAS3), mas prevê queda na receita; IFIX recua",
+          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) antecipou a renovação de 23 contratos de locação com o Banco do Brasil (BBAS3), estendendo a permanência do banco nos imóveis até outubro de 2036, mostra fato relevante divulgado ao mercado. Os acordos, que venceriam originalmente em novembro de 2027, representam…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-renova-contratos-com-banco-do-brasil-bbas3-mas-preve-queda-na-receita-ifix-recua-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T10:55:45.000Z",
+          "tambemEm": [
+            "Seu Dinheiro"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
           "id": "14689cb332c7",
           "outrosIds": [
             "08c179a6f73c"
@@ -276,8 +307,7 @@
             "5102081b2504",
             "0f82044a3001",
             "8daa200eb413",
-            "632c36ce4dc2",
-            "170124449626"
+            "632c36ce4dc2"
           ],
           "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
           "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
@@ -294,23 +324,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
-        },
-        {
-          "id": "98172bb6c138",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário renova contratos com Banco do Brasil (BBAS3), mas prevê queda na receita; IFIX recua",
-          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) antecipou a renovação de 23 contratos de locação com o Banco do Brasil (BBAS3), estendendo a permanência do banco nos imóveis até outubro de 2036, mostra fato relevante divulgado ao mercado. Os acordos, que venceriam originalmente em novembro de 2027, representam…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-renova-contratos-com-banco-do-brasil-bbas3-mas-preve-queda-na-receita-ifix-recua-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T10:55:45.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
         }
       ]
     },
@@ -372,23 +385,6 @@
           "pontos": 27
         },
         {
-          "id": "6cab9c8cd383",
-          "outrosIds": [],
-          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-18T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "fa3d54fd64f5",
           "outrosIds": [
             "5931abb3758a",
@@ -410,6 +406,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
+        },
+        {
+          "id": "6cab9c8cd383",
+          "outrosIds": [],
+          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-18T00:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         },
         {
           "id": "48a8ebb4d862",
@@ -520,7 +533,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 4,
+      "itens": 7,
       "erro": null
     },
     {
