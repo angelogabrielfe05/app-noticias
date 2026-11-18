@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T03:17:23.467Z",
+  "geradoEm": "2026-11-18T06:17:35.580Z",
   "paineis": {
     "economia": [
       {
@@ -16,8 +16,8 @@
           "data": "2026-09-16"
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": true
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
+        "desatualizado": false
       },
       {
         "id": "ipca12m",
@@ -33,8 +33,8 @@
           "valor": 4.58
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": true
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
+        "desatualizado": false
       },
       {
         "id": "dolar",
@@ -50,8 +50,8 @@
           "valor": 5.7324
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": true
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
+        "desatualizado": false
       },
       {
         "id": "pib",
@@ -67,7 +67,7 @@
           "referencia": "1º tri 2026"
         },
         "fonte": "IBGE",
-        "atualizadoEm": "2026-11-18T03:17:23.467Z",
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
         "desatualizado": false
       }
     ],
@@ -86,7 +86,7 @@
           "valor": 169295.41
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-18T03:17:23.467Z",
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
         "desatualizado": false
       },
       {
@@ -103,8 +103,8 @@
           "valor": 13.65
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-18T00:17:33.636Z",
-        "desatualizado": true
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
+        "desatualizado": false
       },
       {
         "id": "ifix",
@@ -120,7 +120,7 @@
           "valor": 3542.78
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-18T03:17:23.467Z",
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
         "desatualizado": false
       },
       {
@@ -137,7 +137,7 @@
           "valor": 7416.59
         },
         "fonte": "Yahoo Finance",
-        "atualizadoEm": "2026-11-18T03:17:23.467Z",
+        "atualizadoEm": "2026-11-18T06:17:35.580Z",
         "desatualizado": false
       }
     ]
