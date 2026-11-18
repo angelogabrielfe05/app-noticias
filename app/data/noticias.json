@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T09:17:25.793Z",
+  "geradoEm": "2026-11-18T11:40:03.232Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -27,23 +27,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 32
-        },
-        {
-          "id": "5fef1ae43bfe",
-          "outrosIds": [],
-          "titulo": "Medida que amplia crédito a exportações segue para sanção",
-          "resumo": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T21:43:20.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
         },
         {
           "id": "72046567b92e",
@@ -80,6 +63,23 @@
           "pontos": 28
         },
         {
+          "id": "5fef1ae43bfe",
+          "outrosIds": [],
+          "titulo": "Medida que amplia crédito a exportações segue para sanção",
+          "resumo": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T21:43:20.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
           "id": "7c7876cac97d",
           "outrosIds": [
             "e3b2c41d0e31"
@@ -105,52 +105,21 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "b77bafd17ce5",
-          "outrosIds": [
-            "1db430c0c7be",
-            "1a4f695bec80",
-            "a8810e74a5e7",
-            "916238920227",
-            "1008ab67fab9",
-            "78fb70dd4f64",
-            "c755fbc986b7",
-            "e95e1c2fa944",
-            "7ff6c0a9fee5",
-            "28ad0a990a58",
-            "ddb115cd908a",
-            "494befa40ca9",
-            "180d43033080",
-            "9b34d8e8d83c",
-            "b45be1eef9b2",
-            "e70d372760ea",
-            "64817fe81adc",
-            "56b780cc9d16",
-            "b8ddf38564b3",
-            "28aa1faba407",
-            "a0b5987dd066",
-            "21b2ce08803e",
-            "ac685030fca9",
-            "b1e41dd6bc4a"
-          ],
-          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
-          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
-          "fonte": "Agência Senado",
+          "id": "2366871e29ec",
+          "outrosIds": [],
+          "titulo": "Relator defende aprovação do ajuste fiscal sem mudanças para evitar retorno ao Senado",
+          "resumo": "Mauro Benevides Filho afirma que a proposta preserva benefícios sociais como Bolsa Família, BPC e seguro-desemprego",
+          "link": "https://www.camara.leg.br/noticias/1320366-relator-defende-aprovacao-do-ajuste-fiscal-sem-mudancas-para-evitar-retorno-ao-senado",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T14:36:40.000Z",
-          "tambemEm": [
-            "Agência Câmara",
-            "Agência Brasil",
-            "InfoMoney",
-            "Valor Investe",
-            "Money Times"
-          ],
+          "data": "2026-11-17T20:43:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 28
         },
         {
           "id": "935f0cffb876",
@@ -187,6 +156,23 @@
           "pontos": 26
         },
         {
+          "id": "f387b29cfdc0",
+          "outrosIds": [],
+          "titulo": "Entre acenos e incertezas, mercado espera respostas sobre o pacote de ajuste fiscal",
+          "resumo": "O mercado bem que tentou engolir a promessa de responsabilidade fiscal nesta terça-feira (17), mas o gosto amargo da arrecadação voltou rápido. Mesmo com os acenos políticos em Brasília, o dia terminou com as mesmas dúvidas sobre o rumo das contas públicas. O balde de água fria veio no fim da tarde, quando o Senado…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/entre-acenos-e-incertezas-mercado-espera-respostas-sobre-o-ajuste-fiscal.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T21:47:54.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FopoedPXy82hKnjtApPv_St8QgLQ%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FJ%2FZ%2F0wJR6XTfGYwFBSEXBtnw%2Fgettyimages-1339056712.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FopoedPXy82hKnjtApPv_St8QgLQ%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FJ%2FZ%2F0wJR6XTfGYwFBSEXBtnw%2Fgettyimages-1339056712.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
           "id": "a9f70fe6de35",
           "outrosIds": [],
           "titulo": "Reforma tributária fica para 2028? Durigan rejeita adiamento e rebate críticas: ‘Saímos do pior sistema do mundo’",
@@ -202,23 +188,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "1e18cbd40f63",
-          "outrosIds": [],
-          "titulo": "Reino Unido: taxa de desemprego cai em setembro e reforça preocupações com a inflação",
-          "resumo": "Taxa de desocupação ficou em 4,6% em setembro, ante 4,7% no trimestre encerrado em agosto, segundo dados divulgados nesta terça-feira; temor é por conta de pressões salariais elevadas The post Reino Unido: taxa de desemprego cai em setembro e reforça preocupações com a inflação appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/economia/reino-unido-taxa-de-desemprego-cai-em-setembro-e-reforca-preocupacoes-com-a-inflacao/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T12:09:41.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -226,6 +195,34 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "829c24155e16",
+          "outrosIds": [
+            "100fd8f1de6b",
+            "639db11ed2ac",
+            "77da1031570b",
+            "5507c3d3f3a4",
+            "61b51a54b968",
+            "7c6c52151ff9"
+          ],
+          "titulo": "Ibovespa B3 sobe 0,31% com ajuste fiscal no radar; dólar fica em R$ 5,78",
+          "resumo": "Índice reduz ganhos ao longo da tarde em dia de cautela em Nova York, enquanto investidores acompanham tramitação do pacote fiscal",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-031-com-ajuste-fiscal-no-radar-dolar-fica-em-r-578/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T21:48:37.000Z",
+          "tambemEm": [
+            "Money Times",
+            "Valor Investe",
+            "Exame Invest"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 34
+        },
         {
           "id": "a8e0cd322d14",
           "outrosIds": [
@@ -251,25 +248,25 @@
           "pontos": 30
         },
         {
-          "id": "dfb39aa97b65",
+          "id": "14689cb332c7",
           "outrosIds": [
-            "0794f0d870d2"
+            "08c179a6f73c"
           ],
-          "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
-          "resumo": "Produto permitirá que investidores brasileiros acessem a companhia de inteligência artificial pelo código ANTH34, em reais, por meio das corretoras locais",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/ipo-da-anthropic-e-esperado-para-esta-semana-b3-preve-lancamento-de-bdr-com-aplicacao-minima-abaixo-de-r-100/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T19:34:07.000Z",
+          "titulo": "Nvidia dá alívio a Wall Street e ações sobem após balanço forte",
+          "resumo": "As ações da Nvidia (NVDA) disparavam mais de 3% no pré-mercado de Nova York na manhã desta quarta-feira (18), após o primeiro balanço da companhia desde a saída do fundador Jensen Huang entregar resultados acima das estimativas tanto na receita quanto nas projeções para o próximo trimestre. Por volta das 7h35 (horário…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/18/nvidia-da-alivio-a-wall-street-e-acoes-sobem-apos-balanco-forte.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T10:45:57.000Z",
           "tambemEm": [
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 26
         },
         {
           "id": "f25b72fe2e5c",
@@ -280,9 +277,7 @@
             "0f82044a3001",
             "8daa200eb413",
             "632c36ce4dc2",
-            "7fca8d56e785",
-            "170124449626",
-            "71d5c6b690e6"
+            "170124449626"
           ],
           "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
           "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
@@ -292,54 +287,30 @@
           "categoria": "imprensa",
           "data": "2026-11-18T08:34:40.000Z",
           "tambemEm": [
-            "Money Times",
-            "Valor Investe"
+            "Money Times"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
         },
         {
-          "id": "ee2498844c78",
-          "outrosIds": [
-            "ef693df569c2"
-          ],
-          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
-          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:08:44.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "f528b9a874d4",
-          "outrosIds": [
-            "08c179a6f73c"
-          ],
-          "titulo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech",
-          "resumo": "As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investidores reagiram às…",
-          "link": "https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/",
+          "id": "98172bb6c138",
+          "outrosIds": [],
+          "titulo": "Fundo imobiliário renova contratos com Banco do Brasil (BBAS3), mas prevê queda na receita; IFIX recua",
+          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) antecipou a renovação de 23 contratos de locação com o Banco do Brasil (BBAS3), estendendo a permanência do banco nos imóveis até outubro de 2036, mostra fato relevante divulgado ao mercado. Os acordos, que venceriam originalmente em novembro de 2027, representam…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-renova-contratos-com-banco-do-brasil-bbas3-mas-preve-queda-na-receita-ifix-recua-igdl/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T22:16:59.000Z",
+          "data": "2026-11-18T10:55:45.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2023%2F12%2Fmercados-wall-street-morning-rali-natal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2023%2F12%2Fmercados-wall-street-morning-rali-natal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 24
         }
       ]
     },
@@ -348,28 +319,36 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "53392f64738f",
+          "id": "8f966ed272ae",
           "outrosIds": [
-            "d883672252ea",
-            "4e0253e68b9a",
-            "d0c48efe4e57",
+            "e6ff99054b30",
+            "033fa8f33187",
+            "62a8d18ff4ce",
+            "bf9a820a736d",
+            "515723470e66",
+            "53392f64738f",
             "39243d9dc381",
-            "0a77f904e9b6"
+            "0a77f904e9b6",
+            "05f6f895675a"
           ],
-          "titulo": "Amazon e Google terão quase 29% das ações da Anthropic, dona do Claude, após IPO; entenda",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWVtOTRVaU8wTVdCbDEycHZ3bWFKUmR2OU5FVXFPLUdKdkpTLUhaVXB3ckM4d1l2YzV1b3FoTDNYeXdzVHhLd2M2bzJDa2VjeDhrZ1QtdV9fdVRpTnBqaEdsMm9remZkd01wRER1bGFPRGpjYlZKU0FMLUI2YnV5MTg2R3lJbEZsXzk5WEpnVGF1SzFoWl8xaVdtN3JWQ0c5V2R6UHlISl9LS29nYlJ1UjdLdjdQZDhiNW9nSDVVMmFrUktaRTdtdzlXRlNLZE9LMW82Mk1SNTlETE5nbW1GanFmTmE2aW1WNjhvRjV4UGJVTUdS0gGDAkFVX3lxTE1BWXFRd1RjM3BnWkJzNjk2aEFNLVRuaWVxMm1lUGlJWE5pVDBwOU5fd0RyZWZiaTF3WjBlaXpBUW9fdk9NOWszV1dlcEw1M25tUDM2TmRFN0NvMjhwNlhQNzB2VDgzd3c0Z0hpaFpVUGxjYVlZSi10UzZRei1FcFRLaGFocG1OUEg1SWNKRW1feGNqZnUxRkJlMFFNeDNDZHZyOXo0YVFiMEpwak5RQnprNmY4dGRzcXByLUh4aE5wQTRMNVlwTnlJZ3VSS29hbnRaQ2UzNnRxLV9RMTZ3MTBpU0VFMWxRd1VPOFlsWDlwcjlrQVlLOHYtLWNvWHUxUTQ0bUE?oc=5",
-          "fonte": "O GLOBO",
+          "titulo": "Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta",
+          "resumo": "Por aqui, a B3 vai disponibilizar um BDR (Brazilian Depositary Receipt) assim que o capital for aberto nos Estados Unidos. O preço será inferior a R$ 100 reais O post Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/18/pro/voce-pode-investir-no-claude-por-menos-de-r-100-ipo-da-anthropic-e-nesta-quinta/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T15:56:53.000Z",
+          "data": "2026-11-18T09:02:00.000Z",
           "tambemEm": [
+            "O GLOBO",
             "Estadão",
-            "Valor Econômico",
-            "UOL Economia"
+            "Seu Dinheiro",
+            "StartSe"
           ],
-          "foto": null,
-          "pontos": 28
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
         },
         {
           "id": "549a77347d5e",
@@ -541,7 +520,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 5,
+      "itens": 4,
       "erro": null
     },
     {
@@ -653,7 +632,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 44,
+      "itens": 45,
       "erro": null
     }
   ]
