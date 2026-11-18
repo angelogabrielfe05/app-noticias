@@ -1,5 +1,237 @@
 [
   {
+    "titulo": "Atenção, clientes do Banco do Brasil: BB identifica vazamento de dados e alerta para risco de novos golpes",
+    "link": "https://www.moneytimes.com.br/atencao-clientes-do-banco-do-brasil-bb-identifica-acesso-indevido-a-dados-e-alerta-para-risco-de-novos-golpes-miql/",
+    "resumo": "O Banco do Brasil (BBAS3) comunicou a clientes que identificou um acesso não autorizado a dados pessoais em 12 de novembro de 2026. As informações expostas podem incluir nome, CPF, e-mail, agência e, em alguns casos, número da conta. Segundo o banco, o incidente não envolveu invasão aos sistemas da instituição,…",
+    "data": "2026-11-18T21:13:41.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal",
+    "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-sobem-em-meio-a-preocupacoes-com-o-ajuste-fiscal/",
+    "resumo": "Presidente do Senado, Davi ⁠Alcolumbre (União-AP), adiou para esta quarta-feira a votação do projeto fiscal The post Taxas dos DIs sobem em meio a preocupações com o ajuste fiscal appeared first on InfoMoney .",
+    "data": "2026-11-18T21:10:36.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/04/juros.png?fit=300%2C180&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Trump vai baixar a guarda? Derrota eleitoral pode mudar relação com Lula, China e Rússia, avalia professor da FGV",
+    "link": "https://www.moneytimes.com.br/trump-vai-baixar-a-guarda-derrota-eleitoral-pode-mudar-relacao-com-lula-china-e-russia-avalia-professor-jcav/",
+    "resumo": "O presidente dos Estados Unidos, Donald Trump, pode estar prestes a mudar o tom de sua política externa. Após o revés dos republicanos nas eleições de meio de mandato, o enfraquecimento político do norte-americano pode abrir caminho para uma reaproximação com o Brasil, a China e a Rússia, segundo Gustavo Pessoa,…",
+    "data": "2026-11-18T21:10:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Petróleo fecha em queda com perspectiva de excesso de oferta",
+    "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-com-perspectiva-de-excesso-de-oferta/",
+    "resumo": "Brent caiu mais de US$ 2 por barril durante o pregão, enquanto o WTI perdeu mais de US$ 4 The post Petróleo fecha em queda com perspectiva de excesso de oferta appeared first on InfoMoney .",
+    "data": "2026-11-18T21:07:41.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T145228Z_1941725695_RC217KA1781F_RTRMADP_3_USA-OIL-EIA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Rockstar confirma que PS5 Pro 'não é potente o suficiente' para rodar GTA 6 a 60 FPS",
+    "link": "https://canaltech.com.br/games/rockstar-confirma-que-ps5-pro-nao-e-potente-o-suficiente-para-rodar-gta-6-a-60-fps/",
+    "resumo": "A atual gera&ccedil;&atilde;o de consoles trouxe os 60 FPS ao segmento com maior const&acirc;ncia. Muitos jogos pesados rodam nessa taxa de quadros no PlayStation 5 e Xbox Series, mas n&atilde;o o GTA 6, algo que irritou uma parcela de jogadores . Por&eacute;m nem o PS5 Pro, atual console mais poderoso, consegue…",
+    "data": "2026-11-18T21:06:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "CEO interina da Nvidia busca tranquilizar funcionários após crise: “Vamos conseguir”",
+    "link": "https://www.infomoney.com.br/business/global/ceo-interina-da-nvidia-busca-tranquilizar-funcionarios-apos-crise-vamos-conseguir/",
+    "resumo": "Em uma reunião geral com os funcionários, Colette Kress buscou deixar para trás os escândalos envolvendo Jensen Huang, cofundador da Nvidia The post CEO interina da Nvidia busca tranquilizar funcionários após crise: “Vamos conseguir” appeared first on InfoMoney .",
+    "data": "2026-11-18T21:04:14.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/NVIDIA-MEETING-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dólar à vista supera os R$ 5,85 e fecha na maior cotação em 19 meses",
+    "link": "https://www.moneytimes.com.br/dolar-a-vista-supera-os-r-585-e-fecha-na-maior-cotacao-em-19-meses-davs/",
+    "resumo": "Em meio à aversão global ao risco, o dólar à vista subiu forte na sessão desta quarta-feira (18) e fechou no maior patamar em 19 meses. A moeda encerrou o dia em alta de 1,45%, a R$ 5,8667. A valorização ocorre em meio às preocupações com o cenário fiscal doméstico, enquanto o Plenário do Senado […]",
+    "data": "2026-11-18T21:03:17.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Gemini Notebook cria sites interativos de estudo a partir das suas anotações e livros",
+    "link": "https://canaltech.com.br/apps/gemini-notebook-cria-sites-interativos-de-estudo-a-partir-das-suas-anotacoes-e-livros/",
+    "resumo": "O Google anunciou uma nova fun&ccedil;&atilde;o do Gemini Notebook que permite transformar anota&ccedil;&otilde;es, documentos e materiais de estudo em sites interativos com intelig&ecirc;ncia artificial (IA). A ferramenta pode criar p&aacute;ginas com gr&aacute;ficos, linhas do tempo, tabelas e outros elementos que…",
+    "data": "2026-11-18T21:02:01.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/xvW2YLzmtmoFQJZMv-D7JV0S-Q0=/0x0/filters:format(webp):quality(85)/09dd1772-fc5b-44d8-abf6-7e1da1b90914.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "IPO da Anthropic deve criar milhares de milionários",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkhRWG1OamdXMldiWlY0eWs4NU9wa2RNLUtyQ3FSNzY0dFR6NjFIa2FuUGtxaFhGalNMTUFpZVk0WVBqbzAwdDRyclI4dkRjUHVGc1pXa1FpY1dKZ0NUSzV6bmo3NUJMc0RrV0M2ZVc0am92UUh5SlRmVWNYZ0VIZEJMd3huQmJEd09OMWNyU1IyY2FwMFlxanRJMFFTckZ6bERXbExTZzZoX19I0gG7AUFVX3lxTFAzMGs3a1kxZVZGclVXWHNQV0w5Z2E1X2xmVC1JNlRlN25BQnFRYkdYT1JHbVNMZkg2VW43NXFpQ2pxYWZKT2VVLVB6TzZ0MXVTX2dNdU1HajFUSjRyWnlFUHl0Rzkzb0ZXZktuXzNCckVxVVI5N2dFblk3MmVEWi1rVmJSMEc5NnFkazU3ZDFCbTlhcEQzYXhFdkx2UTJLNlIwanROZnFiTGo0bTBtUFY5OFV2Y2ZaOC04VWs?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T21:01:47.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Brasileirão 2026: Onde assistir à Cruzeiro x Palmeiras?",
+    "link": "https://www.infomoney.com.br/esportes/cruzeiro-palmeiras-brasileirao-onde-assistir/",
+    "resumo": "O 3º colocado do Campeonato Brasileiro recebe o atual vice-líder na reta final da competição nacional The post Brasileirão 2026: Onde assistir à Cruzeiro x Palmeiras? appeared first on InfoMoney .",
+    "data": "2026-11-18T21:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-cruzeiro-x-palmeiras.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
+    "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
+    "resumo": "Relatório também aponta desigualdade entre estados e regiões na implementação de programas",
+    "data": "2026-11-18T20:55:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118155253773-768x473.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Anthropic considera precificar IPO entre US$ 80 e US$ 85 por ação",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTFLQlFFUF9YNk1yWTVFYm5ldXBGb21FTDBhRnQ1NHNublFJSlBQbzg1V2ptTWk0SmRXMEhpQnBra3g4bHd5d2lpN3liTFZjY1A0VUd5OEhWZ1BuQnJMYjNSbmV1c0ZQWmo4c0Z0VHQtRy1xWUg2cXZ4bXJIdjYzNFFxNGQyTHI1ZDB3YzVKN09MTjhLYVRaR0w5YUxwQ3YtT2hQcXBEU2d2UUxqNzMyMzRVeE9WZTVYZDFZ?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T20:55:00.000Z",
+    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Projeto prevê parcelamento de dívidas e perdão de débitos para entidades sem fins lucrativos",
+    "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
+    "resumo": "Proposta prevê descontos de até 100% em juros e multas e parcelamento em até 240 meses",
+    "data": "2026-11-18T20:54:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261013170200916-768x473.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "TIM terá live de GTA 6 à meia-noite e encontro com Gaules; veja horários",
+    "link": "https://canaltech.com.br/telecom/tim-tera-live-de-gta-6-a-meia-noite-e-encontro-com-gaules-veja-horarios/",
+    "resumo": "A TIM vai aproveitar a estreia de GTA 6 para promover uma programa&ccedil;&atilde;o especial em S&atilde;o Paulo, com uma live prevista para a virada desta quinta-feira (19) e um encontro com Gaules ao longo do dia . A iniciativa ser&aacute; realizada na loja conceito da operadora e tamb&eacute;m contar&aacute; com…",
+    "data": "2026-11-18T20:48:28.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/n3aQO3qHHeJMXKjQy0C6jR4ecOU=/0x0/filters:format(webp):quality(85)/fd5c5d8a-02df-42c4-9040-3ed488593fb9.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Klabin evacua fábrica após explosão de caldeira que deixa feridos em SC",
+    "link": "https://www.infomoney.com.br/brasil/klabin-evacua-fabrica-apos-explosao-de-caldeira-que-deixa-feridos-em-sc/",
+    "resumo": "Ao menos 10 trabalhadores foram hospitalizados após acidente na unidade de Otacílio Costa; empresa isolou a área e apura as causas da ocorrência The post Klabin evacua fábrica após explosão de caldeira que deixa feridos em SC appeared first on InfoMoney .",
+    "data": "2026-11-18T20:48:10.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-18-174623.png?fit=300%2C198&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Comissão aprova projeto que proíbe homenagens a condenados por violência contra mulheres",
+    "link": "https://www.camara.leg.br/noticias/1320630-comissao-aprova-projeto-que-proibe-homenagens-a-condenados-por-violencia-contra-mulheres",
+    "resumo": "Proibição também abrange crimes contra instituições ou bens públicos, programas, prêmios e medalhas; proposta segue em análise na Câmara dos Deputados",
+    "data": "2026-11-18T20:48:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261110174722748-1-768x473.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Banco do Brasil (BBAS3) informa vazamentos de dados de clientes, mas nega invasão a seus sistemas",
+    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/18/banco-do-brasil-bbas3-informa-vazamentos-de-dados-de-clientes-mas-nega-invasao-a-seus-sistemas.ghtml",
+    "resumo": "O Banco do Brasil (BBAS3) enviou comunicado a uma parte da sua base de clientes informando que identificou na semana passada um vazamento de dados. O banco não revela o número de usuários afetados, mas nega qualquer tipo de invasão aos seus sistemas. Segundo o comunicado, houve acesso não autorizado a alguns dados…",
+    "data": "2026-11-18T20:46:54.000Z",
+    "imagemFeed": "https://s2-valorinveste.glbimg.com/6sZ1BHUGYxtw2hxVf-ah6CWo2Jc=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2021/0/4/mV13AcSC6NNIkHkrrBYw/hacker.jpg",
+    "fonteId": "valor-investe",
+    "fonte": "Valor Investe",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Toyota inaugura fábrica no Brasil e lança Corolla Deck, sua picape híbrida",
+    "link": "https://www.infomoney.com.br/business/toyota-inaugura-fabrica-no-brasil-e-lanca-corolla-deck-sua-picape-hibrida/",
+    "resumo": "Modelo tem previsão para chegar ao mercado em meados do ano que vem; produção local também vai abastecer América Latina e Caribe The post Toyota inaugura fábrica no Brasil e lança Corolla Deck, sua picape híbrida appeared first on InfoMoney .",
+    "data": "2026-11-18T20:41:41.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/17950181856afdcdc96825e_1795018185_3x2_md.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Klabin (KLBN11): impacto de acidente pode afetar até 7% do Ebitda, mas é administrável, diz Safra",
+    "link": "https://www.moneytimes.com.br/klabin-klbn11-impacto-de-acidente-pode-variar-entre-4-e-7-do-ebitda-mas-e-administravel-diz-safra-pads/",
+    "resumo": "O incidente envolvendo a caldeira de recuperação da unidade de Otacílio Costa (SC), da Klabin (KLBN11), é negativo, mas pode ter efeitos administráveis sobre os resultados da companhia, na avaliação do Safra. A empresa informou ao mercado nesta quarta-feira (18) que suspendeu as operações da unidade após a ocorrência…",
+    "data": "2026-11-18T20:38:22.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
+    "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
+    "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
+    "data": "2026-11-18T20:35:54.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "GTA 6: quantas horas de trabalho são necessárias para comprar o jogo? Veja por país",
+    "link": "https://www.infomoney.com.br/consumo/quantas-horas-trabalho-pagam-gta-6/",
+    "resumo": "Trabalhadores de países europeus conseguem bancar um novo jogo com menos de um dia de jornada, já brasileiros precisam de mais tempo The post GTA 6: quantas horas de trabalho são necessárias para comprar o jogo? Veja por país appeared first on InfoMoney .",
+    "data": "2026-11-18T20:30:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/05/Destaque-GTA-6-1920x1080-1.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Coritiba x Santos: Onde assistir?",
+    "link": "https://www.infomoney.com.br/esportes/coritiba-santos-onde-assistir/",
+    "resumo": "Os times se enfrentam após derrotas na rodada passada The post Coritiba x Santos: Onde assistir? appeared first on InfoMoney .",
+    "data": "2026-11-18T20:30:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-coritiba-x-santos.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Com ajuda de parcerias, conta GOV.BR chega a 405 pontos de atendimento presencial",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/gov-br-chega-a-405-pontos-de-atendimento-presencial-no-pais",
+    "resumo": "Unidades ofertam orientação presencial sobre o acesso e o uso da conta GOV.BR para pessoas com dificuldades em utilizar serviços públicos digitais",
+    "data": "2026-11-18T20:28:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "Petróleo fecha em queda em meio à alta do dólar e recuperação da oferta",
     "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-em-meio-a-alta-do-dolar-e-recuperacao-da-oferta-davs/",
     "resumo": "O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje em meio a expectativas de juros elevados…",
@@ -19,6 +251,16 @@
     "fonteId": "senado",
     "fonte": "Agência Senado",
     "categoria": "oficial"
+  },
+  {
+    "titulo": "Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula",
+    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
+    "resumo": "BC realizou dois leilões de linha (venda de dólares com compromisso de recompra) no valor total de US$1 bilhão The post Dólar sobe a R$ 5,87 com fiscal e acumula alta de 17,6% desde reeleição de Lula appeared first on InfoMoney .",
+    "data": "2026-11-18T20:17:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
   },
   {
     "titulo": "Câmara aprova criação de selo de respeito à voz do cidadão",
@@ -70,6 +312,17 @@
     "fonteId": "agencia-brasil-economia",
     "fonte": "Agência Brasil",
     "categoria": "oficial"
+  },
+  {
+    "titulo": "Estreia da Anthropic em Wall Street abre novo capítulo para a IA",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXJSS191cnBrTVVpR1BWUDR4b19IUHN1QjBoZW1id2xickdFbzhYYUkwRGxTeHotNGxoakNfUFVUXzlESVRNLUtUM19lbnRLaTRpY0JVVEE1cDQ5ZmZpUXRUQ0hnVklfQ0Q2Vm9UV0wwUExqeEJCNHFJMWxwWDA1U0h4dWQ1ekRRbGx6R1FXWVR2TlI3Q0d0WHEwLUN1c2ZOQ1dJUklxUzRJYm56V3h6d0hKMFRDS2ZD?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T20:06:01.000Z",
+    "origem": "CNN Brasil",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "CNN Brasil",
+    "categoria": "imprensa"
   },
   {
     "titulo": "Toyota joga preços no chão e vende Hilux mais barato que Compass",
@@ -169,16 +422,6 @@
     "resumo": "Andrei Rodrigues tem reunião com o presidente do STF às 19h30 desta quarta-feira The post Chefe da PF vai entregar a Fachin relatórios produzidos por delegados afastados appeared first on InfoMoney .",
     "data": "2026-11-18T19:38:28.000Z",
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/55660863878_63a6204ea4_z.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed",
-    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-18112026/",
-    "resumo": "BC realizou dois leilões de linha (venda de dólares com compromisso de recompra) no valor total de US$1 bilhão The post Dólar hoje sobe mais de 1%, a R$ 5,87, com foco em pacote fiscal e ata do Fed appeared first on InfoMoney .",
-    "data": "2026-11-18T19:37:52.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Cedulas-de-dolares-norte-americanos.jpg?fit=300%2C206&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
@@ -858,6 +1101,16 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Fed endurece tom sobre impacto da IA na estabilidade financeira dos EUA",
+    "link": "https://exame.com/invest/mercados/fed-endurece-tom-sobre-impacto-da-ia-na-estabilidade-financeira-dos-eua/",
+    "resumo": "Em dez meses, o tema saiu de uma nota de rodapé da discussão sobre estabilidade para o centro dela",
+    "data": "2026-11-18T17:35:46.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Áudio: Aplicativo 'Senado Notícias' ganha mais conteúdo e navegação simples",
     "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aplicativo-senado-noticias-ganha-mais-conteudo-e-navegacao-simples",
     "resumo": "O aplicativo Senado Notícias foi atualizado e já está disponível nas lojas de softwares. A nova versão oferece mais conteúdo, funcionalidades e uma navegação simples para quem deseja acompanhar as notícias do Senado Federal. Agora, é possível acessar os conteúdos da Agência Senado, da Rádio e da TV Senado em um só…",
@@ -878,6 +1131,16 @@
     "fonteId": "senado",
     "fonte": "Agência Senado",
     "categoria": "oficial"
+  },
+  {
+    "titulo": "Dólar dispara 1,46%, a R$ 5,86, e renova máxima em 19 meses",
+    "link": "https://exame.com/invest/mercados/dolar-dispara-146-a-r-586-e-renova-maxima-em-19-meses/",
+    "resumo": "Juros mais altos nos EUA sustentam o dólar e reduzem o apetite por risco em mercados emergentes",
+    "data": "2026-11-18T17:31:52.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
+    "categoria": "imprensa"
   },
   {
     "titulo": "Anthropic: confira o que se sabe até agora sobre o IPO da dona do Claude",
@@ -1115,6 +1378,16 @@
     "fonteId": "google-news-claude",
     "fonte": "BBC",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "Queda média de 5,9% em feminicídios e de 19,5% onde têm operação Mulher Segura",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/feminicidios-reduzem-5-9-no-brasil-e-queda-e-quase-seis-vezes-maior-em-municipios-com-acoes-da-operacao-mulher-segura",
+    "resumo": "Levantamento do Ministério da Justiça e Segurança Pública aponta redução mais acentuada nos municípios participantes da operação. Somente em outubro, os feminicídios recuaram 16,3% no país",
+    "data": "2026-11-18T16:56:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
   },
   {
     "titulo": "Durigan diz que Reforma Tributária não deve gerar arrecadação extra para o governo",
@@ -1493,17 +1766,6 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-18T15:20:03.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "Investigados na Cash Out moveram R$ 11 bilhões, diz MPF",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/investigados-na-cash-out-moveram-r-11-bilhoes-diz-mpf",
     "resumo": "O grupo investigado na Operação Cash Out movimentou cerca de R$ 11 bilhões em 2025, mas declarou apenas R$ 2 bilhões às autoridades, segundo o Ministério Público Federal (MPF). De acordo com os investigadores, recursos de origem ilícita foram usados para pagar a outorga de funcionamento de bets . As atualizações sobre…",
@@ -1603,6 +1865,17 @@
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/07/davi-alcolumbre-ccj.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T15:08:43.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
     "categoria": "imprensa"
   },
   {
@@ -2128,6 +2401,17 @@
     "categoria": "oficial"
   },
   {
+    "titulo": "Rival do ChatGPT define preço de ações e mira estreia histórica na Bolsa",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2VUUEVxMm5va2NaRkFjQWRxT1JzWUlKX0x3dXVpS2xteGVybzd2VEYyQUJ3Q0gyQWVINGZhMTVaczFYQkdRMlJoLU1VN1JIRU96MDE0UWFjZlQ3Q1o1bUxnOGtsa1lJcGNoRnZRRlkwRVZBOENFOEt1QW1ZOVF0aTd3d05EMmJXTURUVGl6b3pYZ05WVUpTeUZMQmxjeGlteFdmQ0JfQmkzZXVNbDc4R25tMGhMQTh0blMtMHNBa2ppSk90RmRpeA?oc=5",
+    "resumo": "",
+    "data": "2026-11-18T13:30:00.000Z",
+    "origem": "UOL Economia",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL Economia",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Vídeo: CCT analisa uso de plástico em embalagem de livros – 18/11/26",
     "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-cct-analisa-uso-de-plastico-em-embalagem-de-livros-2013-18-11-26",
     "resumo": "",
@@ -2599,9 +2883,9 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Dólar fecha a R$ 5,87, maior valor em 20 meses, e Ibovespa cai mais de 1%, com ajuste fiscal no radar",
+    "titulo": "Dólar vai a R$ 5,87, maior valor em 20 meses, e Ibovespa fecha em forte queda, com ajuste fiscal no radar",
     "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/18/ibovespa-e-dolar-hoje-18-11-2026-nvidia-pacote-fiscal-senado.ghtml",
-    "resumo": "Diante das incertezas em torno da votação do ajuste fiscal proposto pelo governo federal, o Ibovespa, principal índice acionário brasileiro, registra mais um pregão de forte queda, pressionado pela expectativa em torno da votação do ajuste fiscal no Congresso, prometida para esta quarta-feira (18). No sentido oposto,…",
+    "resumo": "Diante das incertezas em torno da votação do ajuste fiscal proposto pelo governo federal, o Ibovespa, principal índice acionário brasileiro, registrou mais um pregão de forte queda, pressionado pela expectativa em torno da votação do ajuste fiscal no Congresso, prometida para esta quarta-feira (18). No sentido oposto,…",
     "data": "2026-11-18T12:00:50.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/lnnSTFYg44cif0oGJ6Nj5_5AdiA=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/g/g/CsiJFdTWi7jz1Og0uvlQ/55589991111-21cae37adc-k.jpg",
     "fonteId": "valor-investe",
@@ -3045,7 +3329,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Ibovespa aprofunda perdas e dólar chega a R$ 5,82: veja o que abala o mercado",
+    "titulo": "Ibovespa aprofunda perdas e dólar vai a R$ 5,86: veja o que abala o mercado",
     "link": "https://exame.com/invest/mercados/ibovespa-perde-forca-e-dolar-avanca-para-r-580-com-ajuste-fiscal-no-radar/",
     "resumo": "Petróleo cai, enquanto investidores acompanham votação no Senado, leilões do BC e ata do Fed; bolsas de Nova York também recuam",
     "data": "2026-11-18T10:53:57.000Z",
@@ -3469,17 +3753,6 @@
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Rival do ChatGPT define preço de ações e mira estreia histórica na Bolsa",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2VUUEVxMm5va2NaRkFjQWRxT1JzWUlKX0x3dXVpS2xteGVybzd2VEYyQUJ3Q0gyQWVINGZhMTVaczFYQkdRMlJoLU1VN1JIRU96MDE0UWFjZlQ3Q1o1bUxnOGtsa1lJcGNoRnZRRlkwRVZBOENFOEt1QW1ZOVF0aTd3d05EMmJXTURUVGl6b3pYZ05WVUpTeUZMQmxjeGlteFdmQ0JfQmkzZXVNbDc4R25tMGhMQTh0blMtMHNBa2ppSk90RmRpeA?oc=5",
-    "resumo": "",
-    "data": "2026-11-18T08:30:00.000Z",
-    "origem": "UOL Economia",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
     "categoria": "imprensa"
   },
   {
@@ -7579,6 +7852,17 @@
     "imagemFeed": null,
     "fonteId": "openai",
     "fonte": "OpenAI (blog oficial)",
+    "categoria": "empresa"
+  },
+  {
+    "titulo": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZUGhIZlEzczZ3OTFxcjBiRFJLUDhrZjhGM1hKRHdQWnYzV05NQUh0Y19Nb2d6WHlQNWR6UkZmWEp0YlE4endwZXJTdVNwUmN3LXQxUU5MaTFaQldqZkZNZjFHZWNiZFN6LV9UdQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-17T08:00:00.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
     "categoria": "empresa"
   },
   {
@@ -12291,56 +12575,6 @@
     "resumo": "Esse é o primeiro jogo da Argentina sem Messi na seleção The post Veja onde assistir à Argentina x Uruguai appeared first on InfoMoney .",
     "data": "2026-11-14T21:30:00.000Z",
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/argentina-onde-assistir-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "EUA sondam Ucrânia sobre saída de Donbass em troca de adesão à Otan, diz Zelenski",
-    "link": "https://www.infomoney.com.br/mundo/eua-sondam-ucrania-sobre-saida-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski/",
-    "resumo": "O líder ucraniano reiterou que não abrirá mão de seu território The post EUA sondam Ucrânia sobre saída de Donbass em troca de adesão à Otan, diz Zelenski appeared first on InfoMoney .",
-    "data": "2026-11-14T21:00:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Zelensky-e1783798896628.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "O que é e como funciona o Teste de Turing?",
-    "link": "https://canaltech.com.br/ciencia-e-espaco/o-que-e-e-como-funciona-o-teste-de-turing/",
-    "resumo": "O Teste de Turing avalia se uma m&aacute;quina consegue imitar a comunica&ccedil;&atilde;o humana a ponto de ser confundida com uma pessoa em uma conversa por texto. Proposto pelo matem&aacute;tico brit&acirc;nico Alan Turing em 1950, o experimento continua sendo discutido diante do avan&ccedil;o dos chatbots de…",
-    "data": "2026-11-14T21:00:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/UynNqAKZzL9CEaq6w3BDI28thSI=/0x0/filters:format(webp):quality(85)/aac6ff02-fe77-4414-8dc8-1c4a167b4a3e.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Passageiros têm ‘show particular’ de Simple Plan e Hoobastank com caos aéreo nos EUA",
-    "link": "https://www.infomoney.com.br/mercados/passageiros-tem-show-particular-de-simple-plan-e-hoobastank-com-caos-aereo-nos-eua/",
-    "resumo": "Boa parte dos músicos rumavam para a cidade de Orlando, na Flórida, onde o festival Vans Warped Tour ocorre neste fim de semana, entre 14 e 15 de novembro The post Passageiros têm ‘show particular’ de Simple Plan e Hoobastank com caos aéreo nos EUA appeared first on InfoMoney .",
-    "data": "2026-11-14T20:50:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Simple-Plan-Reproducao-Site-Oficial.jpg?fit=300%2C231&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Fim da 6×1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário físico",
-    "link": "https://www.infomoney.com.br/mercados/fim-da-6x1-fux-interrompe-julgamento-e-analise-de-dino-vai-para-o-plenario-fisico/",
-    "resumo": "Nova data será definida pelo presidente do STF, ministro Edson Fachin The post Fim da 6×1: Fux interrompe julgamento e análise de decisão de Dino vai para o plenário físico appeared first on InfoMoney .",
-    "data": "2026-11-14T20:45:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/09/fux-home.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Romário pede saída de Ancelotti da seleção: ‘Pega tuas coisas e mete o pé!",
-    "link": "https://www.infomoney.com.br/esportes/romario-pede-saida-de-ancelotti-da-selecao-apos-brasil-japao/",
-    "resumo": "Em uma manifestação contundente pelas redes sociais, o ex-atleta criticou o trabalho do treinador italiano e cobrou uma atitude do presidente da CBF, Samir Xaud The post Romário pede saída de Ancelotti da seleção: ‘Pega tuas coisas e mete o pé! appeared first on InfoMoney .",
-    "data": "2026-11-14T20:30:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2019/06/romario-1.jpg?fit=300%2C205&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
