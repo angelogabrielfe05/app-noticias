@@ -1,30 +1,32 @@
 {
-  "geradoEm": "2026-11-17T21:17:24.558Z",
+  "geradoEm": "2026-11-18T00:17:33.636Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "87d34754f6c7",
+          "id": "60230de7da9e",
           "outrosIds": [
+            "7872b070ab57",
             "db6b4335aa0e"
           ],
-          "titulo": "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1",
-          "resumo": "Os presidentes da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), se reuniram nesta terça-feira (17) com o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), para tratar do julgamento do projeto de lei (PL) que reduz as penas para os condenados por tentativa…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/congresso-pede-que-stf-julgue-lei-que-beneficia-condenados-pelo-81",
-          "fonte": "Agência Brasil",
+          "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
+          "resumo": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
+          "link": "https://www.camara.leg.br/noticias/1320142-presidentes-da-camara-e-do-senado-pedem-que-stf-julgue-validade-da-lei-da-dosimetria-neste-ano",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T19:26:00.000Z",
+          "data": "2026-11-17T17:58:00.000Z",
           "tambemEm": [
+            "Agência Brasil",
             "Agência Senado"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCXR88LI6nP1gOHjbgOilDIrCMao%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F17%2Fpec_da_blindagem03.jpg%3Fitok%3DNkVE_Ut2&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCXR88LI6nP1gOHjbgOilDIrCMao%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F17%2Fpec_da_blindagem03.jpg%3Fitok%3DNkVE_Ut2&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 33
         },
         {
           "id": "72046567b92e",
@@ -44,6 +46,23 @@
           "pontos": 30
         },
         {
+          "id": "5fef1ae43bfe",
+          "outrosIds": [],
+          "titulo": "Medida que amplia crédito a exportações segue para sanção",
+          "resumo": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T21:43:20.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
+        },
+        {
           "id": "bbfd5a2ae4f8",
           "outrosIds": [],
           "titulo": "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF",
@@ -58,41 +77,26 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
-          "id": "60230de7da9e",
-          "outrosIds": [],
-          "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
-          "resumo": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
-          "link": "https://www.camara.leg.br/noticias/1320142-presidentes-da-camara-e-do-senado-pedem-que-stf-julgue-validade-da-lei-da-dosimetria-neste-ano",
-          "fonte": "Agência Câmara",
+          "id": "7c7876cac97d",
+          "outrosIds": [
+            "e3b2c41d0e31"
+          ],
+          "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
+          "resumo": "A defesa do ex-banqueiro Daniel Vorcaro protocolou nesta terça-feira (17) uma petição para solicitar que o Supremo Tribunal Federal (STF) julgue o pedido de soltura feito na semana passada. Em uma manifestação encaminhada ao presidente do STF, Edson Fachin, os advogados informaram que, de acordo com as regras…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T17:58:00.000Z",
+          "data": "2026-11-17T23:41:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
-        },
-        {
-          "id": "8eaef90e1b7e",
-          "outrosIds": [],
-          "titulo": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
-          "resumo": "A produção nacional de próteses, pinos, parafusos, placas ósseas, marcapassos e outros tipos de implantes cirúrgicos terá que seguir regras para diminuir casos de defeitos de fabricação, uso de materiais inadequados ou problemas de desempenho. É o que determina um projeto de lei aprovado nesta quinta-feira (12) pelo…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T20:31:22.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fsenado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos%2F20261117_02331cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fsenado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos%2F20261117_02331cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
+          "pontos": 23
         }
       ]
     },
@@ -101,8 +105,9 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "b77bafd17ce5",
+          "id": "bf82619c38a8",
           "outrosIds": [
+            "880bf04a47dc",
             "1a4f695bec80",
             "a8810e74a5e7",
             "1008ab67fab9",
@@ -121,17 +126,18 @@
             "28aa1faba407",
             "a0b5987dd066",
             "21b2ce08803e",
+            "b77bafd17ce5",
             "ac685030fca9",
             "b1e41dd6bc4a",
             "96ad11f3a7ca"
           ],
-          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
-          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
+          "titulo": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
+          "resumo": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi aprovado pelos senadores, e destaques seriam votados nesta…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-16T14:36:40.000Z",
+          "data": "2026-11-17T22:40:32.000Z",
           "tambemEm": [
             "Agência Câmara",
             "Agência Brasil",
@@ -140,10 +146,10 @@
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 36
         },
         {
           "id": "935f0cffb876",
@@ -177,7 +183,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "a9f70fe6de35",
@@ -194,7 +200,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "1e18cbd40f63",
@@ -211,7 +217,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2024%2F12%2F2024-11-26T121933Z_1250927044_RC2OB0AQQ9IW_RTRMADP_3_BRITAIN-ECONOMY-RETAIL.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -241,8 +247,39 @@
           "pontos": 32
         },
         {
+          "id": "19b3cc91d8e1",
+          "outrosIds": [
+            "ada18e5cedc9",
+            "e272d5f331bf",
+            "e96cb5af9733",
+            "d2df79cc4c0e",
+            "0f82044a3001",
+            "8daa200eb413",
+            "170124449626",
+            "71d5c6b690e6"
+          ],
+          "titulo": "Nvidia dobra lucro e receita, supera expectativas, mas saída de CEO preocupa investidores",
+          "resumo": "A Nvidia divulgou nesta terça-feira (17) resultados acima das expectativas de Wall Street para o terceiro trimestre fiscal, com lucro e receita mais que dobrando em relação ao mesmo período do ano passado. Os números reforçam a força da demanda por chips de inteligência artificial, mas não afastam as preocupações dos…",
+          "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/nvidia-dobra-lucro-e-receita-supera-expectativas-mas-saida-de-ceo-preocupa-investidores.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T22:03:58.000Z",
+          "tambemEm": [
+            "InfoMoney",
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
+        },
+        {
           "id": "a8e0cd322d14",
-          "outrosIds": [],
+          "outrosIds": [
+            "91d9ccc97fb1"
+          ],
           "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
           "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
           "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
@@ -279,51 +316,23 @@
           "pontos": 26
         },
         {
-          "id": "0f82044a3001",
+          "id": "f528b9a874d4",
           "outrosIds": [
-            "ddaa9663ff31",
-            "d6955a10139e",
-            "33b2d606d862",
-            "8daa200eb413",
-            "170124449626",
-            "71d5c6b690e6"
+            "08c179a6f73c"
           ],
-          "titulo": "PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões",
-          "resumo": "A receita líquida do banco digital alcançou R$ 4,73 bilhões, crescimento de 73% na comparação anual The post PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/picpay-fechou-o-terceiro-trimestre-com-lucro-liquido-ajustado-de-r-271-milhoes/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-16T22:06:05.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2021%2F07%2F1_ztZr-2Scyx02WRKHB8ubPw.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2021%2F07%2F1_ztZr-2Scyx02WRKHB8ubPw.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
-          "id": "08c179a6f73c",
-          "outrosIds": [
-            "fd4b56800d2b",
-            "1fcbf8745477"
-          ],
-          "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
-          "resumo": "Uma onda generalizada de vendas levou as ações nos EUA para baixo nesta segunda-feira (16). Wall Street foi tomado pela cautela devido às repercussões da renúncia de Jensen Huang ao cargo de presidente-executivo da Nvidia, que esfriaram o entusiasmo em relação às ações do setor de inteligência artificial (IA). A crise…",
-          "link": "https://www.moneytimes.com.br/wall-st-fecha-com-forte-queda-devido-a-preocupacoes-sobre-ia-antes-do-resultado-da-nvidia-e-ipo-da-anthropic-davs/",
+          "titulo": "Wall Street fecha em queda com expectativa de alta dos juros nos EUA e pressão tech",
+          "resumo": "As ações nos EUA estenderam as perdas da véspera em meio às pressões do setor de tecnologia. Os principais índices de Wall Street encerraram esta terça-feira (17) em forte queda, com o S&P 500 e o Nasdaq registrando a primeira sequência de quatro dias de quedas desde setembro. Além disso, os investidores reagiram às…",
+          "link": "https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-16T22:35:36.000Z",
+          "data": "2026-11-17T22:16:59.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fwall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fwall-street-nasdaq-sp-500-dow-jones-eua-estados-unidos.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2023%2F12%2Fmercados-wall-street-morning-rali-natal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2023%2F12%2Fmercados-wall-street-morning-rali-natal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 24
         }
       ]
     },
@@ -352,7 +361,7 @@
             "UOL Economia"
           ],
           "foto": null,
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "fa3d54fd64f5",
@@ -379,7 +388,9 @@
         },
         {
           "id": "549a77347d5e",
-          "outrosIds": [],
+          "outrosIds": [
+            "4c7481457616"
+          ],
           "titulo": "Introducing GPT-6.2 Astra and Sol",
           "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
           "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -387,12 +398,14 @@
           "oficial": false,
           "categoria": "empresa",
           "data": "2026-11-17T17:45:00.000Z",
-          "tambemEm": [],
+          "tambemEm": [
+            "Olhar Digital"
+          ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 28
         },
         {
           "id": "58da9c66b145",
@@ -409,7 +422,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 23
         },
         {
           "id": "74facd57f58b",
@@ -612,7 +625,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1405,
+      "itens": 1406,
       "erro": null
     },
     {
@@ -640,7 +653,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 45,
+      "itens": 43,
       "erro": null
     }
   ]
