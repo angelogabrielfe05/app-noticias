@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-18T06:17:35.580Z",
+  "geradoEm": "2026-11-18T09:17:25.793Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -29,23 +29,6 @@
           "pontos": 32
         },
         {
-          "id": "72046567b92e",
-          "outrosIds": [],
-          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
-          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T20:58:14.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 29
-        },
-        {
           "id": "5fef1ae43bfe",
           "outrosIds": [],
           "titulo": "Medida que amplia crédito a exportações segue para sanção",
@@ -59,6 +42,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
+        },
+        {
+          "id": "72046567b92e",
+          "outrosIds": [],
+          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T20:58:14.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
@@ -105,15 +105,18 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "bf82619c38a8",
+          "id": "b77bafd17ce5",
           "outrosIds": [
-            "880bf04a47dc",
+            "1db430c0c7be",
             "1a4f695bec80",
             "a8810e74a5e7",
+            "916238920227",
             "1008ab67fab9",
             "78fb70dd4f64",
             "c755fbc986b7",
             "e95e1c2fa944",
+            "7ff6c0a9fee5",
+            "28ad0a990a58",
             "ddb115cd908a",
             "494befa40ca9",
             "180d43033080",
@@ -126,18 +129,16 @@
             "28aa1faba407",
             "a0b5987dd066",
             "21b2ce08803e",
-            "b77bafd17ce5",
             "ac685030fca9",
-            "b1e41dd6bc4a",
-            "96ad11f3a7ca"
+            "b1e41dd6bc4a"
           ],
-          "titulo": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
-          "resumo": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi aprovado pelos senadores, e destaques seriam votados nesta…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
+          "titulo": "Plenário retoma votação de medidas de ajuste fiscal nesta terça",
+          "resumo": "O Plenário do Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo (PLP 299/2026). A proposta permite ampliar o bloqueio de despesas e limitar, em determinadas condições, o crescimento dos gastos públicos acima da inflação. O texto principal foi aprovado na quinta-feira (12),…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/plenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T22:40:32.000Z",
+          "data": "2026-11-16T14:36:40.000Z",
           "tambemEm": [
             "Agência Câmara",
             "Agência Brasil",
@@ -146,10 +147,10 @@
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fteresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal%2F20261117_03199cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F16%2Fplenario-retoma-votacao-de-medidas-de-ajuste-fiscal-nesta-terca%2F20261112_02404cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 35
+          "pontos": 32
         },
         {
           "id": "935f0cffb876",
@@ -166,7 +167,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "0d9064c7a597",
@@ -226,6 +227,30 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "a8e0cd322d14",
+          "outrosIds": [
+            "f57b85175cf7",
+            "91d9ccc97fb1",
+            "e7abbc9563e4"
+          ],
+          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
+          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
+          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T20:28:01.000Z",
+          "tambemEm": [
+            "Money Times",
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "dfb39aa97b65",
           "outrosIds": [
             "0794f0d870d2"
@@ -244,57 +269,37 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 31
+          "pontos": 30
         },
         {
-          "id": "2ddb6232a3db",
-          "outrosIds": [
-            "69dcc7669da4"
-          ],
-          "titulo": "Agenda de Dividendos: Caixa Seguridade (CXSE3), Irani (RANI3) e BrasilAgro (AGRO3) remuneram o investidor nesta semana",
-          "resumo": "Proventos chegam a R$ 0,80 por ação; veja a lista completa de pagamentos",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-caixa-seguridade-cxse3-irani-rani3-e-brasilagro-agro3-remuneram-o-investidor-nesta-semana/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-16T12:39:13.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F01%2F10151758%2Franking-de-dividendos-as-acoes-com-maiores-dividend-yield-em-2024-.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
-          "id": "19b3cc91d8e1",
+          "id": "f25b72fe2e5c",
           "outrosIds": [
             "ada18e5cedc9",
-            "e272d5f331bf",
-            "e96cb5af9733",
             "d2df79cc4c0e",
+            "5102081b2504",
             "0f82044a3001",
             "8daa200eb413",
+            "632c36ce4dc2",
+            "7fca8d56e785",
             "170124449626",
             "71d5c6b690e6"
           ],
-          "titulo": "Nvidia dobra lucro e receita, supera expectativas, mas saída de CEO preocupa investidores",
-          "resumo": "A Nvidia divulgou nesta terça-feira (17) resultados acima das expectativas de Wall Street para o terceiro trimestre fiscal, com lucro e receita mais que dobrando em relação ao mesmo período do ano passado. Os números reforçam a força da demanda por chips de inteligência artificial, mas não afastam as preocupações dos…",
-          "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/nvidia-dobra-lucro-e-receita-supera-expectativas-mas-saida-de-ceo-preocupa-investidores.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
+          "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T22:03:58.000Z",
+          "data": "2026-11-18T08:34:40.000Z",
           "tambemEm": [
-            "InfoMoney",
-            "Money Times"
+            "Money Times",
+            "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhkGLiB6y39YEA7hIKbRp74CCcb4%3D%2F3240x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fw%2FA%2FbZ1fEkTYyg0ViX6ZcnVg%2Fnvidia.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 28
         },
         {
           "id": "ee2498844c78",
@@ -315,7 +320,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "f528b9a874d4",
@@ -345,6 +350,7 @@
         {
           "id": "53392f64738f",
           "outrosIds": [
+            "d883672252ea",
             "4e0253e68b9a",
             "d0c48efe4e57",
             "39243d9dc381",
@@ -364,29 +370,6 @@
           ],
           "foto": null,
           "pontos": 28
-        },
-        {
-          "id": "fa3d54fd64f5",
-          "outrosIds": [
-            "5931abb3758a",
-            "9b8a7a75e602"
-          ],
-          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
-          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:07:03.000Z",
-          "tambemEm": [
-            "Estadão",
-            "Exame"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
         },
         {
           "id": "549a77347d5e",
@@ -410,47 +393,61 @@
           "pontos": 27
         },
         {
-          "id": "e6c1cf3be7cc",
-          "outrosIds": [
-            "88715777ac11",
-            "d349f987d3b4",
-            "dffc49feafc4",
-            "621c8b8f48c6"
-          ],
-          "titulo": "Anthropic mira IPO no topo ou acima da faixa indicativa, diz agência",
-          "resumo": "A Anthropic indicou a potenciais investidores na oferta pública inicial de ações (IPO, na sigla em inglês) que espera precificar os papéis no limite superior da faixa ou acima dele, informou a agência de notícias Bloomberg, citando pessoas a par do assunto. Conforme a agência, a fabricante do chatbot Claude e os sete…",
-          "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/anthropic-mira-ipo-no-topo-ou-acima-da-faixa-indicativa-diz-agncia.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T16:39:32.000Z",
-          "tambemEm": [
-            "UOL Economia",
-            "Bloomberg Línea Brasil",
-            "Valor Econômico"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhWo9kScF7FHOgnPW0wlweEj10as%3D%2F1200x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FM%2F7%2FTxb1CGSSOmh0vcHiwAqQ%2Foficial-dimensao-wordpress-2.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhWo9kScF7FHOgnPW0wlweEj10as%3D%2F1200x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FM%2F7%2FTxb1CGSSOmh0vcHiwAqQ%2Foficial-dimensao-wordpress-2.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "58da9c66b145",
+          "id": "6cab9c8cd383",
           "outrosIds": [],
-          "titulo": "Introducing OpenAI for Chile",
-          "resumo": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-          "link": "https://openai.com/index/introducing-openai-for-chile",
+          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "fonte": "OpenAI (blog oficial)",
           "oficial": false,
           "categoria": "empresa",
-          "data": "2026-11-17T00:00:00.000Z",
+          "data": "2026-11-18T00:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1rTLbF8FhSFEoyiGB0lTYU%2F418dfbea2c146e27e301a9f85869eb12%2Fintroducing-openai-for-chile-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 26
+        },
+        {
+          "id": "fa3d54fd64f5",
+          "outrosIds": [
+            "5931abb3758a",
+            "9b8a7a75e602"
+          ],
+          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
+          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T20:07:03.000Z",
+          "tambemEm": [
+            "Estadão",
+            "Exame"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "48a8ebb4d862",
+          "outrosIds": [],
+          "titulo": "Na era da IA, audiência do Reddit despenca 13%",
+          "resumo": "Fórum é uma das principais fontes de consulta dos modelos de inteligência artificial atuais, inclusive o Gemini, que entrega os resumos na página de busca. Na era da IA, audiência do Reddit despenca 13%",
+          "link": "https://tecnoblog.net/noticias/na-era-da-ia-audiencia-do-reddit-despenca-13/",
+          "fonte": "Tecnoblog",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T07:47:46.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2025%2F12%2Ftbr-reddit.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2025%2F12%2Ftbr-reddit.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         }
       ]
     }
@@ -544,7 +541,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 4,
+      "itens": 5,
       "erro": null
     },
     {
@@ -628,7 +625,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1406,
+      "itens": 1407,
       "erro": null
     },
     {
