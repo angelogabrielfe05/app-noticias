@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T12:17:26.724Z",
+  "geradoEm": "2026-11-19T15:17:26.443Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -78,19 +78,26 @@
           "pontos": 26
         },
         {
-          "id": "5f299364a72b",
-          "outrosIds": [],
-          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
-          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
-          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
-          "fonte": "Agência Câmara",
+          "id": "64e3e0eddf01",
+          "outrosIds": [
+            "b5e5b71343a7",
+            "f49a1ce09dcc",
+            "d4f7b3b2bffa",
+            "b97ef51e345b"
+          ],
+          "titulo": "▶️ Lula assina o decreto que regulamenta a escala de trabalho 5x2",
+          "resumo": "Regras regulamentam a Emenda Constitucional nº 141/2026, asseguram a adequação das jornadas sem redução salarial e atribuem ao MTE competência para editar normas complementares",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe",
+          "fonte": "Agência Gov",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-18T13:04:00.000Z",
-          "tambemEm": [],
+          "data": "2026-11-19T14:10:00.000Z",
+          "tambemEm": [
+            "Agência Brasil"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Flula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe%2F%40%40download%2Fimage%2FLula%2520escala%25205x2.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Flula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe%2F%40%40download%2Fimage%2FLula%2520escala%25205x2.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 25
         }
@@ -103,17 +110,11 @@
         {
           "id": "98c44e833730",
           "outrosIds": [
-            "b0451eed399b",
-            "752bf6377bb4",
-            "bf90d16fdd07",
+            "09906a26a884",
             "1a720c333473",
             "dedbc3a2eb65",
             "07d8792ea494",
-            "dc8e5bc03ade",
-            "a0314ca7a880",
             "88a5f3fbd08e",
-            "1272150b4bd8",
-            "ffac00bcd255",
             "0c582cf6630d",
             "8b61f9e9e3d6",
             "e07f5708995c",
@@ -121,24 +122,12 @@
             "545704e8a688",
             "c34f47803a4c",
             "09752a04406e",
-            "1b0cc3ec5313",
             "1db430c0c7be",
             "e51c33924532",
             "bf82619c38a8",
             "f387b29cfdc0",
             "880bf04a47dc",
-            "1a4f695bec80",
-            "a8810e74a5e7",
-            "916238920227",
-            "1008ab67fab9",
-            "2366871e29ec",
-            "78fb70dd4f64",
-            "c755fbc986b7",
-            "e95e1c2fa944",
-            "7ff6c0a9fee5",
-            "28ad0a990a58",
-            "57b9ebb469b7",
-            "ddb115cd908a"
+            "2366871e29ec"
           ],
           "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
           "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
@@ -150,9 +139,9 @@
           "tambemEm": [
             "Agência Senado",
             "Agência Câmara",
+            "Money Times",
             "Valor Investe",
-            "InfoMoney",
-            "Money Times"
+            "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -217,27 +206,21 @@
           "pontos": 22
         },
         {
-          "id": "cf499ced612c",
-          "outrosIds": [
-            "ad6b1b1547a8",
-            "f0edeec72c59",
-            "9fef575f8bbb"
-          ],
-          "titulo": "PNAD: desocupação cai em oito estados e fica estável em 18 no terceiro trimestre",
-          "resumo": "Taxa nacional recuou para 5,2%, enquanto a ocupação avançou, influenciada pelo crescimento do setor da construção",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/pnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T14:29:00.000Z",
-          "tambemEm": [
-            "IBGE"
-          ],
+          "id": "a3dfa6b61ffe",
+          "outrosIds": [],
+          "titulo": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
+          "resumo": "No Brasil, o governo conseguiu preservar o núcleo do seu primeiro pacote fiscal depois de uma votação bastante disputada no Senado. A versão final do PLP 299/2026 foi aprovada e agora segue para a Câmara dos Deputados. As concessões feitas durante a negociação reduziram de aproximadamente R$ 56 bilhões para R$ 50…",
+          "link": "https://www.moneytimes.com.br/pacote-fiscal-e-inflacao-elevada-cenario-continua-favorecendo-pacc11-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T13:21:41.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fpnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre%2F%40%40download%2Fimage%2Fdesocupacao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fpnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre%2F%40%40download%2Fimage%2Fdesocupacao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fipca-ipca-15-inflacao-custo-de-vida.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fipca-ipca-15-inflacao-custo-de-vida.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 20
         }
       ]
     },
@@ -246,53 +229,55 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "dfb39aa97b65",
+          "id": "a8e0cd322d14",
           "outrosIds": [
-            "e6089ed0eb66",
-            "3ac1ae6f7672",
-            "0e72c553caca",
-            "6a98c073b8bb",
-            "0794f0d870d2",
-            "a81fd6854ca0"
+            "f57b85175cf7",
+            "91d9ccc97fb1",
+            "e7abbc9563e4"
           ],
-          "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
-          "resumo": "Produto permitirá que investidores brasileiros acessem a companhia de inteligência artificial pelo código ANTH34, em reais, por meio das corretoras locais",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/ipo-da-anthropic-e-esperado-para-esta-semana-b3-preve-lancamento-de-bdr-com-aplicacao-minima-abaixo-de-r-100/",
+          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
+          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
+          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T19:34:07.000Z",
+          "data": "2026-11-17T20:28:01.000Z",
           "tambemEm": [
-            "Seu Dinheiro",
             "Money Times",
-            "Exame Invest"
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 32
-        },
-        {
-          "id": "c7499eceb368",
-          "outrosIds": [],
-          "titulo": "Ibovespa B3 cai 1,34% com pacote fiscal no foco; dólar avança a R$ 5,86",
-          "resumo": "Mercado brasileiro é pressionado por cautela com as contas públicas, enquanto exterior repercute balanço da Nvidia e sinais sobre os juros nos Estados Unidos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-134-com-pacote-fiscal-no-foco-dolar-avanca-a-r-586/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T21:49:27.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F05183623%2Fibovespa-b3-cede-082-com-pressao-de-queda-em-wall-street-dolar-vai-a-r-548.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F05183623%2Fibovespa-b3-cede-082-com-pressao-de-queda-em-wall-street-dolar-vai-a-r-548.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
         {
+          "id": "3c57bd81da74",
+          "outrosIds": [
+            "ee42a830fd06"
+          ],
+          "titulo": "Ibovespa pode subir 20%, mas Itaú BBA não vê motivos para comprar; banco rebaixa bolsa para neutra",
+          "resumo": "A bolsa brasileira está barata em relação à sua média histórica, mas isso não foi suficiente para manter o país entre as principais apostas do Itaú BBA na América Latina. O banco rebaixou a recomendação para as ações brasileiras de overweight (equivalente à compra) para neutra, diante da piora das perspectivas para a…",
+          "link": "https://www.moneytimes.com.br/ibovespa-pode-subir-20-mas-itau-bba-nao-ve-motivos-para-comprar-banco-rebaixa-bolsa-para-neutra-miql/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T13:48:02.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
           "id": "a09d685f212a",
-          "outrosIds": [],
+          "outrosIds": [
+            "60f0699fb0c8"
+          ],
           "titulo": "Maior FII de energia renovável da bolsa vai recomprar até 10% das próprias cotas; veja o porquê",
           "resumo": "O fundo imobiliário Suno Energias Limpas (SNEL11), focado em geração de energia renovável, anunciou a aprovação de um programa de recompra de cotas, com início previsto para o próximo dia 30 de novembro. Em fato relevante divulgado ao mercado, o veículo afirmou que a iniciativa permitirá a aquisição de até 10% dos…",
           "link": "https://www.moneytimes.com.br/maior-fii-de-energia-renovavel-vai-recomprar-ate-10-das-proprias-cotas-veja-o-porque-igdl/",
@@ -300,46 +285,57 @@
           "oficial": false,
           "categoria": "imprensa",
           "data": "2026-11-19T12:09:59.000Z",
-          "tambemEm": [],
+          "tambemEm": [
+            "Seu Dinheiro"
+          ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 26
         },
         {
-          "id": "2cb38152b8f1",
-          "outrosIds": [],
-          "titulo": "Dividendo à vista? Fundo imobiliário reduz vacância do portfólio e prevê impacto por cota; IFIX recua",
-          "resumo": "O fundo imobiliário Rio Negro (RNGO11) anunciou, por meio de fato relevante, que alugou o terceiro andar da Torre Padauiri para a CSI Latina Arrendamento Mercantil S.A. O espaço possui 1,35 mil metros quadrados (m²). Segundo o comunicado divulgado ao mercado, o contrato tem prazo de cinco anos, com vigência até 31 de…",
-          "link": "https://www.moneytimes.com.br/dividendo-a-vista-fundo-imobiliario-reduz-vacancia-do-portfolio-e-preve-impacto-por-cota-ifix-recua-igdl/",
-          "fonte": "Money Times",
+          "id": "f25b72fe2e5c",
+          "outrosIds": [
+            "ada18e5cedc9"
+          ],
+          "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
+          "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T10:48:10.000Z",
-          "tambemEm": [],
+          "data": "2026-11-18T08:34:40.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 22
         },
         {
-          "id": "73c36b6a3976",
-          "outrosIds": [],
-          "titulo": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi",
-          "resumo": "Pedidos de auxílio-desemprego nos EUA, falas de dirigentes do Fed e leilões de títulos também estão no radar desta quinta-feira, 19",
-          "link": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/",
-          "fonte": "Exame Invest",
+          "id": "ee2498844c78",
+          "outrosIds": [
+            "5bb8831c80dd",
+            "ef693df569c2"
+          ],
+          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
+          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T05:30:04.000Z",
-          "tambemEm": [],
+          "data": "2026-11-17T20:08:44.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -347,6 +343,81 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "18da336d0d07",
+          "outrosIds": [
+            "dec8f97fdf34",
+            "042f12b02c9b",
+            "5a7fa90efdb9",
+            "bd9a44da9670",
+            "378e7b622271",
+            "88a279d6c88d"
+          ],
+          "titulo": "IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street",
+          "resumo": "Como a primeira empresa pioneira em IA a abrir o capital, a Anthropic está prestes a se tornar a referência do setor The post IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/ipo-historico-da-anthropic-colocara-a-prova-promessas-e-riscos-da-ia-em-wall-street/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T12:15:50.000Z",
+          "tambemEm": [
+            "CNN Brasil",
+            "Money Times",
+            "G1",
+            "Forbes Brasil",
+            "UOL Economia"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "fef9c708b4bb",
+          "outrosIds": [
+            "b5ef037b7f18",
+            "3e3127444388",
+            "c126e783c129"
+          ],
+          "titulo": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+          "resumo": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
+          "link": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
+          "fonte": "Tecnoblog",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T13:35:06.000Z",
+          "tambemEm": [
+            "G1",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F07%2Fcapas_anthropic-claude-3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F07%2Fcapas_anthropic-claude-3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
+        },
+        {
+          "id": "0c3c8b23c6ca",
+          "outrosIds": [
+            "cf653894bd27"
+          ],
+          "titulo": "Introducing Gemini 4 Neon",
+          "resumo": "",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "fonte": "Google DeepMind",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-18T21:35:43.000Z",
+          "tambemEm": [
+            "Canaltech"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
         {
           "id": "549a77347d5e",
           "outrosIds": [
@@ -392,63 +463,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
-        },
-        {
-          "id": "0c3c8b23c6ca",
-          "outrosIds": [
-            "519ed4975182"
-          ],
-          "titulo": "Introducing Gemini 4 Neon",
-          "resumo": "",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-          "fonte": "Google DeepMind",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-18T21:35:43.000Z",
-          "tambemEm": [
-            "Olhar Digital"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "6cab9c8cd383",
-          "outrosIds": [],
-          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-18T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "28081035b10d",
-          "outrosIds": [
-            "fed49ab71972"
-          ],
-          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
-          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T20:35:54.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     }
@@ -654,7 +668,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 63,
+      "itens": 60,
       "erro": null
     }
   ]
