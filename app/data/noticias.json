@@ -1,15 +1,31 @@
 {
-  "geradoEm": "2026-11-18T21:17:26.944Z",
+  "geradoEm": "2026-11-19T00:17:26.125Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "2a4adcc12a11",
+          "outrosIds": [],
+          "titulo": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
+          "resumo": "O Plenário do Senado aprovou nesta quarta-feira (18), em regime de urgência, projeto de lei da Câmara dos Deputados que fixa em 20 anos o prazo para recorrer à Justiça para pedir reparação civil por crimes sexuais sofridos na infância ou adolescência. Aprovado em votação simbólica, o PL 4.186/2021 recebeu parecer…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/prazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T23:59:50.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "60230de7da9e",
           "outrosIds": [
-            "7872b070ab57",
-            "db6b4335aa0e"
+            "7872b070ab57"
           ],
           "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
           "resumo": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
@@ -19,33 +35,13 @@
           "categoria": "oficial",
           "data": "2026-11-17T17:58:00.000Z",
           "tambemEm": [
-            "Agência Brasil",
-            "Agência Senado"
+            "Agência Brasil"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
-        },
-        {
-          "id": "5fef1ae43bfe",
-          "outrosIds": [
-            "78a9452d1fc5"
-          ],
-          "titulo": "Medida que amplia crédito a exportações segue para sanção",
-          "resumo": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T21:43:20.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fmedida-que-amplia-credito-a-exportacoes-segue-para-sancao%2F20261117_02241cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
+          "pontos": 28
         },
         {
           "id": "5f299364a72b",
@@ -105,28 +101,78 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "e07f5708995c",
+          "id": "98c44e833730",
           "outrosIds": [
-            "05cce13ef54a",
+            "07d8792ea494",
+            "a0314ca7a880",
+            "88a5f3fbd08e",
+            "1272150b4bd8",
+            "ffac00bcd255",
+            "0c582cf6630d",
+            "8b61f9e9e3d6",
             "545704e8a688",
+            "c34f47803a4c",
+            "09752a04406e",
+            "1b0cc3ec5313",
+            "1db430c0c7be",
+            "e51c33924532",
             "bf82619c38a8",
-            "2366871e29ec"
+            "880bf04a47dc",
+            "1a4f695bec80",
+            "a8810e74a5e7",
+            "916238920227",
+            "1008ab67fab9",
+            "2366871e29ec",
+            "78fb70dd4f64",
+            "c755fbc986b7",
+            "e95e1c2fa944",
+            "7ff6c0a9fee5",
+            "28ad0a990a58",
+            "57b9ebb469b7",
+            "ddb115cd908a",
+            "494befa40ca9",
+            "180d43033080",
+            "9b34d8e8d83c",
+            "b45be1eef9b2",
+            "e70d372760ea",
+            "64817fe81adc"
           ],
-          "titulo": "Moro critica projeto de ajuste fiscal e aponta perdas para os estados",
-          "resumo": "O senador Sergio Moro (PL-PR), em pronunciamento no Plenário nesta quarta-feira (18), criticou o projeto de lei complementar que estabelece medidas para o ajuste das contas públicas. O parlamentar se posicionou contra a redução de repasses relacionados à Lei Kandir e afirmou que a proposta (PLP 299/2026) provocará…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/moro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados",
-          "fonte": "Agência Senado",
+          "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+          "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-18T19:43:38.000Z",
+          "data": "2026-11-18T22:26:00.000Z",
           "tambemEm": [
-            "Agência Câmara"
+            "Agência Senado",
+            "Agência Câmara",
+            "Valor Investe",
+            "InfoMoney",
+            "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fmoro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados%2F20261118_02410w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fmoro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados%2F20261118_02410w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 36
+        },
+        {
+          "id": "935f0cffb876",
+          "outrosIds": [],
+          "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
+          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do índice. Segundo o ministro, esse efeito tende a diminuir…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T18:56:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "c717f98acecb",
@@ -148,24 +194,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
-        },
-        {
-          "id": "935f0cffb876",
-          "outrosIds": [],
-          "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do índice. Segundo o ministro, esse efeito tende a diminuir…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T18:56:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "ee52fb0e563c",
@@ -185,19 +214,19 @@
           "pontos": 24
         },
         {
-          "id": "7642158e536c",
+          "id": "8fbead7b210d",
           "outrosIds": [],
-          "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
-          "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo sistema. Em audiência pública na Comissão de Assuntos…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T15:30:00.000Z",
+          "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
+          "resumo": "O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,74%, a R$ 5,8247 […]",
+          "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T13:01:20.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -208,61 +237,28 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "829c24155e16",
+          "id": "a8e0cd322d14",
           "outrosIds": [
-            "5ef45beed47e",
-            "edaee698e034",
-            "100fd8f1de6b",
-            "f07b9f6a04bd",
-            "53db765348b4",
-            "3af4650850ff",
-            "6a6451417ce7",
-            "639db11ed2ac",
-            "22f920133904",
-            "77da1031570b",
-            "5507c3d3f3a4"
+            "f57b85175cf7",
+            "91d9ccc97fb1",
+            "e7abbc9563e4"
           ],
-          "titulo": "Ibovespa B3 sobe 0,31% com ajuste fiscal no radar; dólar fica em R$ 5,78",
-          "resumo": "Índice reduz ganhos ao longo da tarde em dia de cautela em Nova York, enquanto investidores acompanham tramitação do pacote fiscal",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-031-com-ajuste-fiscal-no-radar-dolar-fica-em-r-578/",
+          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
+          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
+          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T21:48:37.000Z",
+          "data": "2026-11-17T20:28:01.000Z",
           "tambemEm": [
             "Money Times",
-            "Exame Invest",
-            "Valor Investe"
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F20175222%2Fibovespa-b3-sobe158-com-exterior-favoravel-e-eleicoes-no-radar-dolar-cai-a-r-504.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
-        },
-        {
-          "id": "dfb39aa97b65",
-          "outrosIds": [
-            "6a98c073b8bb",
-            "0794f0d870d2",
-            "a81fd6854ca0"
-          ],
-          "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
-          "resumo": "Produto permitirá que investidores brasileiros acessem a companhia de inteligência artificial pelo código ANTH34, em reais, por meio das corretoras locais",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/ipo-da-anthropic-e-esperado-para-esta-semana-b3-preve-lancamento-de-bdr-com-aplicacao-minima-abaixo-de-r-100/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T19:34:07.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Exame Invest"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "98172bb6c138",
@@ -283,7 +279,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "b0873b2a532d",
@@ -305,21 +301,47 @@
           "pontos": 23
         },
         {
-          "id": "822a02cd4cb3",
-          "outrosIds": [],
-          "titulo": "Ibovespa aprofunda perdas e dólar vai a R$ 5,86: veja o que abala o mercado",
-          "resumo": "Petróleo cai, enquanto investidores acompanham votação no Senado, leilões do BC e ata do Fed; bolsas de Nova York também recuam",
-          "link": "https://exame.com/invest/mercados/ibovespa-perde-forca-e-dolar-avanca-para-r-580-com-ajuste-fiscal-no-radar/",
-          "fonte": "Exame Invest",
+          "id": "ee2498844c78",
+          "outrosIds": [
+            "5bb8831c80dd",
+            "ef693df569c2"
+          ],
+          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
+          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T10:53:57.000Z",
-          "tambemEm": [],
+          "data": "2026-11-17T20:08:44.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
+        },
+        {
+          "id": "bff5bedcb0a6",
+          "outrosIds": [
+            "21e67b4cb417"
+          ],
+          "titulo": "Número de desempregados há dois anos ou mais é o menor já registrado",
+          "resumo": "O número de trabalhadores que procuram emprego há pelo menos dois anos foi o menor em 14 anos no terceiro trimestre de 2026. O dado foi divulgado nesta quarta-feira (18) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua. Chamada de desemprego…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T15:36:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fza_Jb2cGMUue4iPl9AlTZfSPpyc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fcarteira-de-trabalho-digital_mcamgo_abr_240620211818-6.jpg%3Fitok%3DEWG1Ra5a&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fza_Jb2cGMUue4iPl9AlTZfSPpyc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fcarteira-de-trabalho-digital_mcamgo_abr_240620211818-6.jpg%3Fitok%3DEWG1Ra5a&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
         }
       ]
     },
@@ -327,6 +349,83 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "aae7402dc092",
+          "outrosIds": [
+            "56fde682fa60",
+            "470ec9015504",
+            "5d0fef54b48a",
+            "442f1626a464",
+            "d79379f293f4",
+            "b273aaa6ab04",
+            "9f86cead7b62",
+            "53d9fef41d66",
+            "becb6a7f54d1",
+            "487e0b90675c",
+            "1d407ea3963b",
+            "8f0675deee98",
+            "8f7abbc054e0",
+            "9bfad76e8b95",
+            "9822ef2dcd5d",
+            "77b1afafcb14",
+            "3f72da748a19",
+            "bb8b2d9a3bb1",
+            "720127fecb40",
+            "be2ccd49de75",
+            "3579e47c170e",
+            "e6ff99054b30",
+            "8f966ed272ae",
+            "033fa8f33187",
+            "62a8d18ff4ce",
+            "74facd57f58b",
+            "e06ff1fe84f5",
+            "a13d544f7928",
+            "de4f45938c0b",
+            "7f8461b1590e",
+            "5a08df464c1f",
+            "a183f4f50c53",
+            "88715777ac11",
+            "e6c1cf3be7cc",
+            "d349f987d3b4",
+            "dffc49feafc4",
+            "621c8b8f48c6",
+            "48a009f05ec1",
+            "9d26b020a920",
+            "c276a9ab5704",
+            "354cefbeb9ce",
+            "0e462bd99023",
+            "39243d9dc381",
+            "bf9a820a736d",
+            "0a77f904e9b6"
+          ],
+          "titulo": "Anthropic, dona do Claude, é avaliada em quase US$ 1,5 trilhão em estreia na bolsa americana",
+          "resumo": "A Anthropic, empresa de inteligência artificial (IA) responsável pelo chatbot Claude, fixou o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês) em US$ 83 por papel, acima da faixa inicialmente prevista, de US$ 70 a US$ 78, segundo fonte ouvida pela agência Reuters. Com isso, a companhia chega à…",
+          "link": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/18/anthropic-dona-do-claude-e-avaliada-em-quase-us-15-trilhao-em-estreia-na-bolsa-americana.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T22:49:30.000Z",
+          "tambemEm": [
+            "Olhar Digital",
+            "O GLOBO",
+            "Estadão",
+            "InfoMoney",
+            "Seu Dinheiro",
+            "Mobile Time",
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "Money Times",
+            "Valor Econômico",
+            "IT Forum",
+            "CNN Brasil",
+            "UOL Economia",
+            "Bloomberg Línea Brasil"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhxoDa8D8Spl80X2dGzSHSV3VrFA%3D%2F4000x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fz%2Fi%2FVdA17KTze6Lz1XuzlBFw%2F2026-11-10t214521z-833977414-rc29loavp8lc-rtrmadp-3-anthropic-ipo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhxoDa8D8Spl80X2dGzSHSV3VrFA%3D%2F4000x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fz%2Fi%2FVdA17KTze6Lz1XuzlBFw%2F2026-11-10t214521z-833977414-rc29loavp8lc-rtrmadp-3-anthropic-ipo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
         {
           "id": "79d673bba3f7",
           "outrosIds": [
@@ -349,35 +448,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
-          "id": "8f966ed272ae",
-          "outrosIds": [
-            "53d9fef41d66",
-            "3f72da748a19",
-            "e6ff99054b30",
-            "033fa8f33187",
-            "62a8d18ff4ce",
-            "5a08df464c1f"
-          ],
-          "titulo": "Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta",
-          "resumo": "Por aqui, a B3 vai disponibilizar um BDR (Brazilian Depositary Receipt) assim que o capital for aberto nos Estados Unidos. O preço será inferior a R$ 100 reais O post Você pode investir no Claude por menos de R$ 100; IPO da Anthropic é nesta quinta apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/18/pro/voce-pode-investir-no-claude-por-menos-de-r-100-ipo-da-anthropic-e-nesta-quinta/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T09:02:00.000Z",
-          "tambemEm": [
-            "O GLOBO",
-            "Money Times",
-            "IT Forum",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic_ipo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
@@ -405,25 +475,10 @@
           "pontos": 27
         },
         {
-          "id": "6cab9c8cd383",
-          "outrosIds": [],
-          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-18T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
           "id": "28081035b10d",
-          "outrosIds": [],
+          "outrosIds": [
+            "fed49ab71972"
+          ],
           "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
           "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
           "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
@@ -435,6 +490,29 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "fa3d54fd64f5",
+          "outrosIds": [
+            "5931abb3758a",
+            "9b8a7a75e602"
+          ],
+          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
+          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-17T20:07:03.000Z",
+          "tambemEm": [
+            "Estadão",
+            "Exame"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -530,7 +608,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 11,
+      "itens": 12,
       "erro": null
     },
     {
@@ -614,7 +692,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1411,
+      "itens": 1413,
       "erro": null
     },
     {
@@ -642,7 +720,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 51,
+      "itens": 44,
       "erro": null
     }
   ]
