@@ -1,10 +1,39 @@
 {
-  "geradoEm": "2026-11-19T18:17:29.498Z",
+  "geradoEm": "2026-11-19T20:34:21.993Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "52b1705314be",
+          "outrosIds": [
+            "8fe9e46b9c22",
+            "2a216ee7f8db",
+            "b5e5b71343a7",
+            "497d9602c804",
+            "f49a1ce09dcc",
+            "d4f7b3b2bffa",
+            "64e3e0eddf01",
+            "b97ef51e345b"
+          ],
+          "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
+          "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T19:26:43.000Z",
+          "tambemEm": [
+            "Agência Gov",
+            "Agência Brasil"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 34
+        },
         {
           "id": "2a4adcc12a11",
           "outrosIds": [],
@@ -21,48 +50,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
-        },
-        {
-          "id": "72046567b92e",
-          "outrosIds": [],
-          "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
-          "resumo": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T20:58:14.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F17%2Fagosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario%2F20261117_02608cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
-          "id": "64e3e0eddf01",
-          "outrosIds": [
-            "b5e5b71343a7",
-            "497d9602c804",
-            "f49a1ce09dcc",
-            "d4f7b3b2bffa",
-            "b97ef51e345b"
-          ],
-          "titulo": "▶️ Lula assina o decreto que regulamenta a escala de trabalho 5x2",
-          "resumo": "Regras regulamentam a Emenda Constitucional nº 141/2026, asseguram a adequação das jornadas sem redução salarial e atribuem ao MTE competência para editar normas complementares",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T14:10:00.000Z",
-          "tambemEm": [
-            "Agência Brasil"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Flula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe%2F%40%40download%2Fimage%2FLula%2520escala%25205x2.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Flula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe%2F%40%40download%2Fimage%2FLula%2520escala%25205x2.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
         },
         {
           "id": "5f299364a72b",
@@ -97,6 +84,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "a3e797122ef5",
+          "outrosIds": [
+            "83b0160e7749"
+          ],
+          "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
+          "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), adiou para quarta-feira (18) a votação dos destaques ao texto-base do projeto de lei de ajuste fiscal do governo. Para que a proposta pudesse ter votação concluída no Senado e ser enviada ainda nesta terça-feira (17) à Câmara dos Deputados, os destaques…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T22:23:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F92SOTb7KB2yZ5fwAsK9SXWXuvJo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fmaioridade_12-11-26_0.jpg%3Fitok%3DC7rNMz4F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F92SOTb7KB2yZ5fwAsK9SXWXuvJo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fmaioridade_12-11-26_0.jpg%3Fitok%3DC7rNMz4F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -105,130 +111,89 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "98c44e833730",
-          "outrosIds": [
-            "841030c03edc",
-            "1a720c333473",
-            "dedbc3a2eb65",
-            "07d8792ea494",
-            "dc8e5bc03ade",
-            "a0314ca7a880",
-            "88a5f3fbd08e",
-            "1272150b4bd8",
-            "ffac00bcd255",
-            "0c582cf6630d",
-            "8b61f9e9e3d6",
-            "e07f5708995c",
-            "05cce13ef54a",
-            "545704e8a688",
-            "c34f47803a4c",
-            "09752a04406e",
-            "1b0cc3ec5313",
-            "1db430c0c7be",
-            "e51c33924532",
-            "bf82619c38a8",
-            "f387b29cfdc0",
-            "880bf04a47dc",
-            "1a4f695bec80",
-            "a8810e74a5e7",
-            "916238920227",
-            "1008ab67fab9",
-            "2366871e29ec",
-            "78fb70dd4f64",
-            "c755fbc986b7",
-            "e95e1c2fa944"
-          ],
-          "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
-          "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T22:26:00.000Z",
-          "tambemEm": [
-            "Agência Senado",
-            "Agência Câmara",
-            "Valor Investe",
-            "InfoMoney",
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 34
-        },
-        {
-          "id": "935f0cffb876",
+          "id": "841030c03edc",
           "outrosIds": [],
-          "titulo": "Durigan prevê impacto inicial da reforma tributária sobre inflação",
-          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou, nesta terça-feira (17), que a implementação da reforma tributária pode gerar pequeno impacto inicial sobre a inflação. A observação foi em resposta à preocupação manifestada por senadores com uma eventual alta do índice. Segundo o ministro, esse efeito tende a diminuir…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/durigan-preve-impacto-inicial-da-reforma-tributaria-sobre-inflacao",
-          "fonte": "Agência Brasil",
+          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T18:56:00.000Z",
+          "data": "2026-11-19T17:57:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_ekxbEBuPEJWngnKc5aLepEFQUk%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fsessao_do_congresso_12-11-26-16.jpg%3Fitok%3DHgBUQ-i_&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
         },
         {
-          "id": "ee52fb0e563c",
+          "id": "328fef868b55",
           "outrosIds": [],
-          "titulo": "PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027",
-          "resumo": "Economistas apontam risco de estagnação, pressão sobre preços e crédito mais restrito, enquanto a confiança ainda estiver abalada; recuperação dependerá do ajuste fiscal e das escolhas do novo governo The post PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027 appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/economia/pib-de-05-inflacao-de-55-e-juros-altos-os-desafios-do-brasil-em-2027/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T19:26:03.000Z",
+          "titulo": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
+          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previstas nas Leis 15.532 e 15.538, publicadas nesta quinta-feira…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T18:59:36.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 25
         },
         {
-          "id": "c717f98acecb",
-          "outrosIds": [
-            "9d422c756551"
-          ],
-          "titulo": "Durigan diz que Reforma Tributária não deve gerar arrecadação extra para o governo",
-          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que o governo não espera arrecadação adicional com a Reforma Tributária e reforçou o compromisso do governo com a neutralidade tributária prevista na legislação aprovada pelo Congresso. Além disso, ele defendeu que não pretende adiar a implementação…",
-          "link": "https://www.moneytimes.com.br/durigan-diz-que-reforma-tributaria-nao-deve-gerar-arrecadacao-extra-para-o-governo-mlem/",
+          "id": "09906a26a884",
+          "outrosIds": [],
+          "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
+          "resumo": "A Instituição Fiscal Independente (IFI) alertou que o governo do presidente Luiz Inácio Lula da Silva (PT) precisará apresentar um plano de ajuste fiscal estrutural e profundo para enfrentar os desafios das contas públicas em 2027. Segundo a instituição, o pacote fiscal atualmente em discussão no Congresso Nacional…",
+          "link": "https://www.moneytimes.com.br/ifi-cobra-novo-ajuste-fiscal-de-lula-e-diz-que-pacote-atual-nao-basta-para-2027-jcav/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T16:50:19.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
+          "data": "2026-11-19T14:30:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 23
         },
         {
-          "id": "4d89ed077699",
+          "id": "752bf6377bb4",
           "outrosIds": [],
-          "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-          "resumo": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pressão no mercado de câmbio, foram…",
-          "link": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
+          "titulo": "Dólar salta a R$ 5,93 e Ibovespa cai com ajuste fiscal e falas de Lula no foco dos investidores",
+          "resumo": "O Ibovespa, principal índice acionário brasileira, opera em queda, após abrir em alta, enquanto o dólar teve mais um dia de forte alta, renovando a máxima em 20 meses, cotado a R$ 5,93. Declarações do presidente Luiz Inácio Lula da Silva reforçarem a aversão a risco com o cenário doméstico. O presidente afirmou que…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/19/ibovespa-e-dolar-hoje-19-de-novembro-de-2026.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T12:07:43.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPKbatmwQGAe1KDqQqoWTzeiEQug%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FB%2Fl%2FMJdx0IRVqcUfPPqDDOoA%2Fmoney-2619993-1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPKbatmwQGAe1KDqQqoWTzeiEQug%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FB%2Fl%2FMJdx0IRVqcUfPPqDDOoA%2Fmoney-2619993-1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
+          "id": "59427c2ad979",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
+          "resumo": "Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T16:04:46.000Z",
+          "data": "2026-11-19T11:49:11.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 23
         }
       ]
     },
@@ -237,28 +202,54 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "a8e0cd322d14",
+          "id": "1f7539632ba8",
           "outrosIds": [
-            "f57b85175cf7",
-            "91d9ccc97fb1",
-            "e7abbc9563e4"
+            "e1ec3a85c910",
+            "79903e5a4ae3",
+            "59dc97db5dcc",
+            "b163be0a08ed",
+            "ebfa6ce1c746",
+            "47e9709839a6",
+            "6643126b7c8a",
+            "9df7c947762b",
+            "b683c33d61b4",
+            "be25edbc1540",
+            "e6089ed0eb66",
+            "3ac1ae6f7672",
+            "2aabb9616461",
+            "0e72c553caca",
+            "7380ae4e035c",
+            "105164017537",
+            "de9c1a328c86",
+            "a9463818f426",
+            "6a98c073b8bb",
+            "5ef45beed47e",
+            "3750a57f6e1c",
+            "edaee698e034",
+            "d5fd3bfaff68",
+            "f07b9f6a04bd",
+            "53db765348b4",
+            "3af4650850ff",
+            "3a0ac9c8fd01"
           ],
-          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
-          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
-          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
+          "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
+          "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/anthropic-estreia-na-bolsa-com-alta-de-34-bdr-avanca-na-b3/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T20:28:01.000Z",
+          "data": "2026-11-19T19:00:44.000Z",
           "tambemEm": [
             "Money Times",
+            "Seu Dinheiro",
+            "Exame Invest",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 36
         },
         {
           "id": "3c57bd81da74",
@@ -279,7 +270,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "a09d685f212a",
@@ -320,19 +311,23 @@
           "pontos": 24
         },
         {
-          "id": "674c1da7b947",
-          "outrosIds": [],
-          "titulo": "Tesouro Direto trava negociações após disparada nas taxas com fala de Lula",
-          "resumo": "As taxas dos títulos do Tesouro Direto abriram o dia com forte alta, em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). Mais cedo, na abertura dos negócios, o Tesouro Prefixado 2029 voltou a superar…",
-          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/19/tesouro-direto-hoje-taxas-prefixado-ipca-pacote-fiscal.ghtml",
-          "fonte": "Valor Investe",
+          "id": "f25b72fe2e5c",
+          "outrosIds": [
+            "ada18e5cedc9"
+          ],
+          "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
+          "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T12:42:14.000Z",
-          "tambemEm": [],
+          "data": "2026-11-18T08:34:40.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -343,39 +338,11 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "18da336d0d07",
-          "outrosIds": [
-            "6195f0285ca6",
-            "b5460eb0b213",
-            "dec8f97fdf34",
-            "042f12b02c9b",
-            "5a7fa90efdb9",
-            "5db3470cff9c"
-          ],
-          "titulo": "IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street",
-          "resumo": "Como a primeira empresa pioneira em IA a abrir o capital, a Anthropic está prestes a se tornar a referência do setor The post IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/ipo-historico-da-anthropic-colocara-a-prova-promessas-e-riscos-da-ia-em-wall-street/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T12:15:50.000Z",
-          "tambemEm": [
-            "Bloomberg Línea Brasil",
-            "UOL Economia",
-            "VEJA",
-            "Money Times",
-            "G1"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 29
-        },
-        {
           "id": "0c3c8b23c6ca",
           "outrosIds": [
-            "cf653894bd27"
+            "882aa41de97d",
+            "cf653894bd27",
+            "519ed4975182"
           ],
           "titulo": "Introducing Gemini 4 Neon",
           "resumo": "",
@@ -385,13 +352,32 @@
           "categoria": "empresa",
           "data": "2026-11-18T21:35:43.000Z",
           "tambemEm": [
-            "Canaltech"
+            "Tecnoblog",
+            "Canaltech",
+            "Olhar Digital"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 31
+        },
+        {
+          "id": "73873142d98b",
+          "outrosIds": [],
+          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
+          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T17:13:39.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "79d673bba3f7",
@@ -414,23 +400,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
-        },
-        {
-          "id": "73873142d98b",
-          "outrosIds": [],
-          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
-          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T17:13:39.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 24
         },
         {
@@ -449,6 +418,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "28081035b10d",
+          "outrosIds": [
+            "fed49ab71972"
+          ],
+          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
+          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T20:35:54.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     }
@@ -499,23 +487,23 @@
     {
       "id": "agencia-brasil-politica",
       "nome": "Agência Brasil",
-      "ok": true,
-      "itens": 10,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
     },
     {
       "id": "agencia-brasil-justica",
       "nome": "Agência Brasil",
-      "ok": true,
-      "itens": 10,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
     },
     {
       "id": "agencia-brasil-economia",
       "nome": "Agência Brasil",
-      "ok": true,
-      "itens": 10,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
     },
     {
       "id": "bcb",
@@ -542,7 +530,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 18,
+      "itens": 22,
       "erro": null
     },
     {
@@ -654,7 +642,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 65,
+      "itens": 64,
       "erro": null
     }
   ]
