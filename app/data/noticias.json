@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T20:34:21.993Z",
+  "geradoEm": "2026-11-19T21:17:30.162Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -9,6 +9,7 @@
           "id": "52b1705314be",
           "outrosIds": [
             "8fe9e46b9c22",
+            "e534ac1e912e",
             "2a216ee7f8db",
             "b5e5b71343a7",
             "497d9602c804",
@@ -86,23 +87,23 @@
           "pontos": 23
         },
         {
-          "id": "a3e797122ef5",
+          "id": "7c7876cac97d",
           "outrosIds": [
-            "83b0160e7749"
+            "e3b2c41d0e31"
           ],
-          "titulo": "Senado adia votação de destaques do projeto de ajuste fiscal",
-          "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), adiou para quarta-feira (18) a votação dos destaques ao texto-base do projeto de lei de ajuste fiscal do governo. Para que a proposta pudesse ter votação concluída no Senado e ser enviada ainda nesta terça-feira (17) à Câmara dos Deputados, os destaques…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal",
+          "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
+          "resumo": "A defesa do ex-banqueiro Daniel Vorcaro protocolou nesta terça-feira (17) uma petição para solicitar que o Supremo Tribunal Federal (STF) julgue o pedido de soltura feito na semana passada. Em uma manifestação encaminhada ao presidente do STF, Edson Fachin, os advogados informaram que, de acordo com as regras…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T22:23:00.000Z",
+          "data": "2026-11-17T23:41:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F92SOTb7KB2yZ5fwAsK9SXWXuvJo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fmaioridade_12-11-26_0.jpg%3Fitok%3DC7rNMz4F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F92SOTb7KB2yZ5fwAsK9SXWXuvJo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F17%2Fmaioridade_12-11-26_0.jpg%3Fitok%3DC7rNMz4F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 19
         }
       ]
     },
@@ -145,6 +146,23 @@
           "pontos": 25
         },
         {
+          "id": "5f3942c82890",
+          "outrosIds": [],
+          "titulo": "Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo",
+          "resumo": "Movimento ocorreu apesar de o Senado ter aprovado projeto ​que busca garantir ao governo um superávit primário de 0,5% do PIB em 2027 The post Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-tem-altas-fortes-com-desconfianca-sobre-ajuste-fiscal-do-governo/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T20:08:57.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "09906a26a884",
           "outrosIds": [],
           "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
@@ -158,23 +176,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "752bf6377bb4",
-          "outrosIds": [],
-          "titulo": "Dólar salta a R$ 5,93 e Ibovespa cai com ajuste fiscal e falas de Lula no foco dos investidores",
-          "resumo": "O Ibovespa, principal índice acionário brasileira, opera em queda, após abrir em alta, enquanto o dólar teve mais um dia de forte alta, renovando a máxima em 20 meses, cotado a R$ 5,93. Declarações do presidente Luiz Inácio Lula da Silva reforçarem a aversão a risco com o cenário doméstico. O presidente afirmou que…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/19/ibovespa-e-dolar-hoje-19-de-novembro-de-2026.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T12:07:43.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPKbatmwQGAe1KDqQqoWTzeiEQug%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FB%2Fl%2FMJdx0IRVqcUfPPqDDOoA%2Fmoney-2619993-1280.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FPKbatmwQGAe1KDqQqoWTzeiEQug%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2FB%2Fl%2FMJdx0IRVqcUfPPqDDOoA%2Fmoney-2619993-1280.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         },
@@ -204,6 +205,8 @@
         {
           "id": "1f7539632ba8",
           "outrosIds": [
+            "32c95ee06e8c",
+            "1fa7ce600334",
             "e1ec3a85c910",
             "79903e5a4ae3",
             "59dc97db5dcc",
@@ -227,9 +230,12 @@
             "3750a57f6e1c",
             "edaee698e034",
             "d5fd3bfaff68",
+            "100fd8f1de6b",
             "f07b9f6a04bd",
             "53db765348b4",
             "3af4650850ff",
+            "90d485bdc4b6",
+            "829c24155e16",
             "3a0ac9c8fd01"
           ],
           "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
@@ -240,10 +246,10 @@
           "categoria": "oficial",
           "data": "2026-11-19T19:00:44.000Z",
           "tambemEm": [
+            "InfoMoney",
             "Money Times",
             "Seu Dinheiro",
-            "Exame Invest",
-            "InfoMoney"
+            "Exame Invest"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -420,21 +426,23 @@
           "pontos": 23
         },
         {
-          "id": "28081035b10d",
+          "id": "137ab435d2c4",
           "outrosIds": [
-            "fed49ab71972"
+            "4c7481457616"
           ],
-          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
-          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
-          "fonte": "InfoMoney",
+          "titulo": "OpenAI lança GPT-6.2 Astra e Sol mais baratos, mas estreia divide usuários",
+          "resumo": "A OpenAI anunciou nesta ter&ccedil;a-feira (17) o lan&ccedil;amento dos modelos de intelig&ecirc;ncia artificial (IA) GPT-6.2 Astra e GPT-6.2 Sol , que prometem melhorias em programa&ccedil;&atilde;o, cria&ccedil;&atilde;o de documentos e execu&ccedil;&atilde;o de tarefas complexas. As novidades tamb&eacute;m buscam…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-62-astra-e-sol-mais-baratos-mas-estreia-divide-usuarios/",
+          "fonte": "Canaltech",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T20:35:54.000Z",
-          "tambemEm": [],
+          "data": "2026-11-18T17:02:00.000Z",
+          "tambemEm": [
+            "Olhar Digital"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FjsY_z1RKgXTvVQF8aWez6_QhvDo%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbeeb3938-ba6e-4152-8104-6bef676faf2f.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FjsY_z1RKgXTvVQF8aWez6_QhvDo%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbeeb3938-ba6e-4152-8104-6bef676faf2f.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -487,23 +495,23 @@
     {
       "id": "agencia-brasil-politica",
       "nome": "Agência Brasil",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+      "ok": true,
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "agencia-brasil-justica",
       "nome": "Agência Brasil",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+      "ok": true,
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "agencia-brasil-economia",
       "nome": "Agência Brasil",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+      "ok": true,
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "bcb",
@@ -642,7 +650,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 64,
+      "itens": 67,
       "erro": null
     }
   ]
