@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T09:17:35.788Z",
+  "geradoEm": "2026-11-19T11:37:43.459Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -103,13 +103,19 @@
         {
           "id": "98c44e833730",
           "outrosIds": [
+            "bf90d16fdd07",
+            "1a720c333473",
+            "dedbc3a2eb65",
             "07d8792ea494",
+            "dc8e5bc03ade",
             "a0314ca7a880",
             "88a5f3fbd08e",
             "1272150b4bd8",
             "ffac00bcd255",
             "0c582cf6630d",
             "8b61f9e9e3d6",
+            "e07f5708995c",
+            "05cce13ef54a",
             "545704e8a688",
             "c34f47803a4c",
             "09752a04406e",
@@ -117,6 +123,7 @@
             "1db430c0c7be",
             "e51c33924532",
             "bf82619c38a8",
+            "f387b29cfdc0",
             "880bf04a47dc",
             "1a4f695bec80",
             "a8810e74a5e7",
@@ -130,9 +137,7 @@
             "28ad0a990a58",
             "57b9ebb469b7",
             "ddb115cd908a",
-            "494befa40ca9",
-            "180d43033080",
-            "9b34d8e8d83c"
+            "494befa40ca9"
           ],
           "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
           "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
@@ -152,7 +157,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 35
+          "pontos": 34
         },
         {
           "id": "935f0cffb876",
@@ -286,6 +291,23 @@
           "pontos": 28
         },
         {
+          "id": "2cb38152b8f1",
+          "outrosIds": [],
+          "titulo": "Dividendo à vista? Fundo imobiliário reduz vacância do portfólio e prevê impacto por cota; IFIX recua",
+          "resumo": "O fundo imobiliário Rio Negro (RNGO11) anunciou, por meio de fato relevante, que alugou o terceiro andar da Torre Padauiri para a CSI Latina Arrendamento Mercantil S.A. O espaço possui 1,35 mil metros quadrados (m²). Segundo o comunicado divulgado ao mercado, o contrato tem prazo de cinco anos, com vigência até 31 de…",
+          "link": "https://www.moneytimes.com.br/dividendo-a-vista-fundo-imobiliario-reduz-vacancia-do-portfolio-e-preve-impacto-por-cota-ifix-recua-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T10:48:10.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "73c36b6a3976",
           "outrosIds": [],
           "titulo": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi",
@@ -300,28 +322,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "98172bb6c138",
-          "outrosIds": [
-            "58f37fff096e"
-          ],
-          "titulo": "Fundo imobiliário renova contratos com Banco do Brasil (BBAS3), mas prevê queda na receita; IFIX recua",
-          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) antecipou a renovação de 23 contratos de locação com o Banco do Brasil (BBAS3), estendendo a permanência do banco nos imóveis até outubro de 2036, mostra fato relevante divulgado ao mercado. Os acordos, que venceriam originalmente em novembro de 2027, representam…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-renova-contratos-com-banco-do-brasil-bbas3-mas-preve-queda-na-receita-ifix-recua-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T10:55:45.000Z",
-          "tambemEm": [
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "d3040189c703",
@@ -373,9 +374,7 @@
           "id": "79d673bba3f7",
           "outrosIds": [
             "cc1e8a161d89",
-            "90598fa7ec31",
-            "67dad7be03c2",
-            "c756d22935d4"
+            "67dad7be03c2"
           ],
           "titulo": "Nvidia interrompe envio de chips de IA Hopper para a China",
           "resumo": "Decisão da Nvidia ocorre após novas restrições dos EUA para limitar o acesso chinês a chips de inteligência artificial em centros de dados externos O post Nvidia interrompe envio de chips de IA Hopper para a China apareceu primeiro em Olhar Digital .",
@@ -413,30 +412,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "fa3d54fd64f5",
-          "outrosIds": [
-            "5931abb3758a",
-            "9b8a7a75e602"
-          ],
-          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
-          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:07:03.000Z",
-          "tambemEm": [
-            "Estadão",
-            "Exame"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "6cab9c8cd383",
@@ -454,6 +430,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "28081035b10d",
+          "outrosIds": [
+            "fed49ab71972"
+          ],
+          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
+          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T20:35:54.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     }
@@ -547,7 +542,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 14,
+      "itens": 15,
       "erro": null
     },
     {
@@ -659,7 +654,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 53,
+      "itens": 60,
       "erro": null
     }
   ]
