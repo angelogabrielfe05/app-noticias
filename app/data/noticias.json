@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T11:37:43.459Z",
+  "geradoEm": "2026-11-19T12:17:26.724Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -20,7 +20,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "60230de7da9e",
@@ -103,6 +103,8 @@
         {
           "id": "98c44e833730",
           "outrosIds": [
+            "b0451eed399b",
+            "752bf6377bb4",
             "bf90d16fdd07",
             "1a720c333473",
             "dedbc3a2eb65",
@@ -136,8 +138,7 @@
             "7ff6c0a9fee5",
             "28ad0a990a58",
             "57b9ebb469b7",
-            "ddb115cd908a",
-            "494befa40ca9"
+            "ddb115cd908a"
           ],
           "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
           "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
@@ -216,21 +217,27 @@
           "pontos": 22
         },
         {
-          "id": "8fbead7b210d",
-          "outrosIds": [],
-          "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
-          "resumo": "O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,74%, a R$ 5,8247 […]",
-          "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T13:01:20.000Z",
-          "tambemEm": [],
+          "id": "cf499ced612c",
+          "outrosIds": [
+            "ad6b1b1547a8",
+            "f0edeec72c59",
+            "9fef575f8bbb"
+          ],
+          "titulo": "PNAD: desocupação cai em oito estados e fica estável em 18 no terceiro trimestre",
+          "resumo": "Taxa nacional recuou para 5,2%, enquanto a ocupação avançou, influenciada pelo crescimento do setor da construção",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/pnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T14:29:00.000Z",
+          "tambemEm": [
+            "IBGE"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fpnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre%2F%40%40download%2Fimage%2Fdesocupacao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fpnad-desocupacao-cai-em-oito-estados-e-fica-estavel-em-18-no-terceiro-trimestre%2F%40%40download%2Fimage%2Fdesocupacao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 18
         }
       ]
     },
@@ -267,28 +274,38 @@
           "pontos": 32
         },
         {
-          "id": "a8e0cd322d14",
-          "outrosIds": [
-            "f57b85175cf7",
-            "91d9ccc97fb1",
-            "e7abbc9563e4"
-          ],
-          "titulo": "Ibovespa B3 terá BDRs de empresas brasileiras a partir de maio de 2027; entenda as novas regras",
-          "resumo": "Ativos de JBS, Nu Holdings, XP Inc. e Inter & Co. podem ser incluídos no índice, mas composição efetiva só será divulgada no rebalanceamento da carteira",
-          "link": "https://borainvestir.b3.com.br/noticias/ibovespa-b3-tera-bdrs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras/",
+          "id": "c7499eceb368",
+          "outrosIds": [],
+          "titulo": "Ibovespa B3 cai 1,34% com pacote fiscal no foco; dólar avança a R$ 5,86",
+          "resumo": "Mercado brasileiro é pressionado por cautela com as contas públicas, enquanto exterior repercute balanço da Nvidia e sinais sobre os juros nos Estados Unidos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-134-com-pacote-fiscal-no-foco-dolar-avanca-a-r-586/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-17T20:28:01.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
+          "data": "2026-11-18T21:49:27.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17172630%2FIbovespa-B3-tera-BDRs-de-empresas-brasileiras-a-partir-de-maio-de-2027-entenda-as-novas-regras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F05183623%2Fibovespa-b3-cede-082-com-pressao-de-queda-em-wall-street-dolar-vai-a-r-548.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F05183623%2Fibovespa-b3-cede-082-com-pressao-de-queda-em-wall-street-dolar-vai-a-r-548.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
+        },
+        {
+          "id": "a09d685f212a",
+          "outrosIds": [],
+          "titulo": "Maior FII de energia renovável da bolsa vai recomprar até 10% das próprias cotas; veja o porquê",
+          "resumo": "O fundo imobiliário Suno Energias Limpas (SNEL11), focado em geração de energia renovável, anunciou a aprovação de um programa de recompra de cotas, com início previsto para o próximo dia 30 de novembro. Em fato relevante divulgado ao mercado, o veículo afirmou que a iniciativa permitirá a aquisição de até 10% dos…",
+          "link": "https://www.moneytimes.com.br/maior-fii-de-energia-renovavel-vai-recomprar-ate-10-das-proprias-cotas-veja-o-porque-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T12:09:59.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "2cb38152b8f1",
@@ -323,23 +340,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "d3040189c703",
-          "outrosIds": [],
-          "titulo": "Dividendos em 2027: quem está mais protegido após os cortes do 3º trimestre?",
-          "resumo": "Banco do Brasil cortou o payout ao mínimo, enquanto Vivo e Caixa Seguridade mantiveram distribuição alta; analistas mostram quanto risco assumir The post Dividendos em 2027: quem está mais protegido após os cortes do 3º trimestre? appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/dividendos-em-2027-quem-esta-mais-protegido-apos-os-cortes-do-3o-trimestre/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T08:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FEspacoB3_05.jpg%3Ffit%3D1200%252C800%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FEspacoB3_05.jpg%3Ffit%3D1200%252C800%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -542,7 +542,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 15,
+      "itens": 16,
       "erro": null
     },
     {
@@ -654,7 +654,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 60,
+      "itens": 63,
       "erro": null
     }
   ]
