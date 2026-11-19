@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T15:17:26.443Z",
+  "geradoEm": "2026-11-19T18:17:29.498Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -23,27 +23,6 @@
           "pontos": 28
         },
         {
-          "id": "60230de7da9e",
-          "outrosIds": [
-            "7872b070ab57"
-          ],
-          "titulo": "Presidentes da Câmara e do Senado pedem que STF julgue validade da Lei da Dosimetria neste ano",
-          "resumo": "A lei foi promulgada pelo Congresso Nacional em 8 de maio de 2026, após a derrubada de um veto integral do presidente Lula",
-          "link": "https://www.camara.leg.br/noticias/1320142-presidentes-da-camara-e-do-senado-pedem-que-stf-julgue-validade-da-lei-da-dosimetria-neste-ano",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T17:58:00.000Z",
-          "tambemEm": [
-            "Agência Brasil"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
           "id": "72046567b92e",
           "outrosIds": [],
           "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
@@ -61,26 +40,10 @@
           "pontos": 26
         },
         {
-          "id": "bbfd5a2ae4f8",
-          "outrosIds": [],
-          "titulo": "Dino decide que escala 5x2 será julgada de forma definitiva pelo STF",
-          "resumo": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), decidiu nesta terça-feira (17) que as ações que tratam das regras de transição para o início da escala de trabalho 5x2 serão julgadas de forma definitiva, ou seja, diretamente no mérito. Na semana passada, o plenário virtual da Corte iniciou o julgamento para…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/dino-decide-que-escala-5x2-sera-julgada-de-forma-definitiva-pelo-stf",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T18:10:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "64e3e0eddf01",
           "outrosIds": [
             "b5e5b71343a7",
+            "497d9602c804",
             "f49a1ce09dcc",
             "d4f7b3b2bffa",
             "b97ef51e345b"
@@ -100,6 +63,40 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Flula-assina-decreto-que-regulamenta-o-fim-da-escala-de-trabalho-6x1-acompanhe%2F%40%40download%2Fimage%2FLula%2520escala%25205x2.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 25
+        },
+        {
+          "id": "5f299364a72b",
+          "outrosIds": [],
+          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
+          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T13:04:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
+          "id": "7872b070ab57",
+          "outrosIds": [],
+          "titulo": "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta terça-feira (17) que a Corte pode julgar, ainda neste ano, a validade da lei que diminui as penas de condenados pelos atos golpistas de 8 de janeiro de 2023 (Lei da Dosimetria) e que também pode beneficiar o ex-presidente Jair…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-neste-ano",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T23:01:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         }
       ]
     },
@@ -110,11 +107,15 @@
         {
           "id": "98c44e833730",
           "outrosIds": [
-            "09906a26a884",
+            "841030c03edc",
             "1a720c333473",
             "dedbc3a2eb65",
             "07d8792ea494",
+            "dc8e5bc03ade",
+            "a0314ca7a880",
             "88a5f3fbd08e",
+            "1272150b4bd8",
+            "ffac00bcd255",
             "0c582cf6630d",
             "8b61f9e9e3d6",
             "e07f5708995c",
@@ -122,12 +123,20 @@
             "545704e8a688",
             "c34f47803a4c",
             "09752a04406e",
+            "1b0cc3ec5313",
             "1db430c0c7be",
             "e51c33924532",
             "bf82619c38a8",
             "f387b29cfdc0",
             "880bf04a47dc",
-            "2366871e29ec"
+            "1a4f695bec80",
+            "a8810e74a5e7",
+            "916238920227",
+            "1008ab67fab9",
+            "2366871e29ec",
+            "78fb70dd4f64",
+            "c755fbc986b7",
+            "e95e1c2fa944"
           ],
           "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
           "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
@@ -139,9 +148,9 @@
           "tambemEm": [
             "Agência Senado",
             "Agência Câmara",
-            "Money Times",
             "Valor Investe",
-            "InfoMoney"
+            "InfoMoney",
+            "Money Times"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -167,28 +176,6 @@
           "pontos": 26
         },
         {
-          "id": "c717f98acecb",
-          "outrosIds": [
-            "9d422c756551",
-            "a9f70fe6de35"
-          ],
-          "titulo": "Durigan diz que Reforma Tributária não deve gerar arrecadação extra para o governo",
-          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que o governo não espera arrecadação adicional com a Reforma Tributária e reforçou o compromisso do governo com a neutralidade tributária prevista na legislação aprovada pelo Congresso. Além disso, ele defendeu que não pretende adiar a implementação…",
-          "link": "https://www.moneytimes.com.br/durigan-diz-que-reforma-tributaria-nao-deve-gerar-arrecadacao-extra-para-o-governo-mlem/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T16:50:19.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
           "id": "ee52fb0e563c",
           "outrosIds": [],
           "titulo": "PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027",
@@ -206,19 +193,40 @@
           "pontos": 22
         },
         {
-          "id": "a3dfa6b61ffe",
-          "outrosIds": [],
-          "titulo": "Pacote fiscal e inflação elevada: cenário continua favorecendo PACC11",
-          "resumo": "No Brasil, o governo conseguiu preservar o núcleo do seu primeiro pacote fiscal depois de uma votação bastante disputada no Senado. A versão final do PLP 299/2026 foi aprovada e agora segue para a Câmara dos Deputados. As concessões feitas durante a negociação reduziram de aproximadamente R$ 56 bilhões para R$ 50…",
-          "link": "https://www.moneytimes.com.br/pacote-fiscal-e-inflacao-elevada-cenario-continua-favorecendo-pacc11-mlem/",
+          "id": "c717f98acecb",
+          "outrosIds": [
+            "9d422c756551"
+          ],
+          "titulo": "Durigan diz que Reforma Tributária não deve gerar arrecadação extra para o governo",
+          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que o governo não espera arrecadação adicional com a Reforma Tributária e reforçou o compromisso do governo com a neutralidade tributária prevista na legislação aprovada pelo Congresso. Além disso, ele defendeu que não pretende adiar a implementação…",
+          "link": "https://www.moneytimes.com.br/durigan-diz-que-reforma-tributaria-nao-deve-gerar-arrecadacao-extra-para-o-governo-mlem/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T13:21:41.000Z",
+          "data": "2026-11-18T16:50:19.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "4d89ed077699",
+          "outrosIds": [],
+          "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
+          "resumo": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pressão no mercado de câmbio, foram…",
+          "link": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T16:04:46.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fipca-ipca-15-inflacao-custo-de-vida.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fipca-ipca-15-inflacao-custo-de-vida.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -292,48 +300,39 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
-          "id": "f25b72fe2e5c",
-          "outrosIds": [
-            "ada18e5cedc9"
-          ],
-          "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
-          "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T08:34:40.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "id": "7f2c635edb21",
+          "outrosIds": [],
+          "titulo": "Índices ESG da B3: como os indicadores da bolsa ajudam investidores a avaliarem riscos e oportunidades",
+          "resumo": "Índices analisam práticas ambientais, sociais e de governança e apoiam investidores a identificar riscos e oportunidades de investimentos",
+          "link": "https://borainvestir.b3.com.br/noticias/esg/indices-esg-da-b3-como-os-indicadores-da-bolsa-ajudam-investidores-a-avaliarem-riscos-e-oportunidades/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T17:30:02.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 24
         },
         {
-          "id": "ee2498844c78",
-          "outrosIds": [
-            "5bb8831c80dd",
-            "ef693df569c2"
-          ],
-          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
-          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
+          "id": "674c1da7b947",
+          "outrosIds": [],
+          "titulo": "Tesouro Direto trava negociações após disparada nas taxas com fala de Lula",
+          "resumo": "As taxas dos títulos do Tesouro Direto abriram o dia com forte alta, em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). Mais cedo, na abertura dos negócios, o Tesouro Prefixado 2029 voltou a superar…",
+          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/19/tesouro-direto-hoje-taxas-prefixado-ipca-pacote-fiscal.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-17T20:08:44.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "data": "2026-11-19T12:42:14.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -346,12 +345,12 @@
         {
           "id": "18da336d0d07",
           "outrosIds": [
+            "6195f0285ca6",
+            "b5460eb0b213",
             "dec8f97fdf34",
             "042f12b02c9b",
             "5a7fa90efdb9",
-            "bd9a44da9670",
-            "378e7b622271",
-            "88a279d6c88d"
+            "5db3470cff9c"
           ],
           "titulo": "IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street",
           "resumo": "Como a primeira empresa pioneira em IA a abrir o capital, a Anthropic está prestes a se tornar a referência do setor The post IPO histórico da Anthropic colocará à prova promessas e riscos da IA em Wall Street appeared first on InfoMoney .",
@@ -361,41 +360,17 @@
           "categoria": "imprensa",
           "data": "2026-11-19T12:15:50.000Z",
           "tambemEm": [
-            "CNN Brasil",
+            "Bloomberg Línea Brasil",
+            "UOL Economia",
+            "VEJA",
             "Money Times",
-            "G1",
-            "Forbes Brasil",
-            "UOL Economia"
+            "G1"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
-        },
-        {
-          "id": "fef9c708b4bb",
-          "outrosIds": [
-            "b5ef037b7f18",
-            "3e3127444388",
-            "c126e783c129"
-          ],
-          "titulo": "Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
-          "resumo": "Famosa pelo Claude, empresa de inteligência artificial chega à bolsa dos EUA com ações cotadas a US$ 83, um valor notável. Anthropic: dona do Claude estreia na bolsa valendo US$ 1,5 trilhão",
-          "link": "https://tecnoblog.net/noticias/anthropic-dona-do-claude-estreia-na-bolsa-valendo-us-15-trilhao/",
-          "fonte": "Tecnoblog",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T13:35:06.000Z",
-          "tambemEm": [
-            "G1",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F07%2Fcapas_anthropic-claude-3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F07%2Fcapas_anthropic-claude-3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
+          "pontos": 29
         },
         {
           "id": "0c3c8b23c6ca",
@@ -415,29 +390,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
-        },
-        {
-          "id": "549a77347d5e",
-          "outrosIds": [
-            "137ab435d2c4",
-            "4c7481457616"
-          ],
-          "titulo": "Introducing GPT-6.2 Astra and Sol",
-          "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-17T17:45:00.000Z",
-          "tambemEm": [
-            "Canaltech",
-            "Olhar Digital"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 27
         },
@@ -463,6 +415,40 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
+        },
+        {
+          "id": "73873142d98b",
+          "outrosIds": [],
+          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
+          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T17:13:39.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "6cab9c8cd383",
+          "outrosIds": [],
+          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-18T00:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         }
       ]
     }
@@ -556,7 +542,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 16,
+      "itens": 18,
       "erro": null
     },
     {
@@ -640,7 +626,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1413,
+      "itens": 1414,
       "erro": null
     },
     {
@@ -668,7 +654,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 60,
+      "itens": 65,
       "erro": null
     }
   ]
