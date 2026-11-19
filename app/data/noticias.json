@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T06:17:24.823Z",
+  "geradoEm": "2026-11-19T09:17:35.788Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -101,29 +101,58 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "dedbc3a2eb65",
+          "id": "98c44e833730",
           "outrosIds": [
-            "b45be1eef9b2",
-            "e70d372760ea",
-            "64817fe81adc"
+            "07d8792ea494",
+            "a0314ca7a880",
+            "88a5f3fbd08e",
+            "1272150b4bd8",
+            "ffac00bcd255",
+            "0c582cf6630d",
+            "8b61f9e9e3d6",
+            "545704e8a688",
+            "c34f47803a4c",
+            "09752a04406e",
+            "1b0cc3ec5313",
+            "1db430c0c7be",
+            "e51c33924532",
+            "bf82619c38a8",
+            "880bf04a47dc",
+            "1a4f695bec80",
+            "a8810e74a5e7",
+            "916238920227",
+            "1008ab67fab9",
+            "2366871e29ec",
+            "78fb70dd4f64",
+            "c755fbc986b7",
+            "e95e1c2fa944",
+            "7ff6c0a9fee5",
+            "28ad0a990a58",
+            "57b9ebb469b7",
+            "ddb115cd908a",
+            "494befa40ca9",
+            "180d43033080",
+            "9b34d8e8d83c"
           ],
-          "titulo": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
-          "resumo": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
-          "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
-          "fonte": "Agência Câmara",
+          "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
+          "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T00:50:00.000Z",
+          "data": "2026-11-18T22:26:00.000Z",
           "tambemEm": [
-            "InfoMoney",
+            "Agência Senado",
+            "Agência Câmara",
             "Valor Investe",
+            "InfoMoney",
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 35
         },
         {
           "id": "935f0cffb876",
@@ -179,24 +208,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
-          "id": "7642158e536c",
+          "id": "8fbead7b210d",
           "outrosIds": [],
-          "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
-          "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo sistema. Em audiência pública na Comissão de Assuntos…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T15:30:00.000Z",
+          "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
+          "resumo": "O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,74%, a R$ 5,8247 […]",
+          "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T13:01:20.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -207,6 +236,9 @@
         {
           "id": "dfb39aa97b65",
           "outrosIds": [
+            "e6089ed0eb66",
+            "3ac1ae6f7672",
+            "0e72c553caca",
             "6a98c073b8bb",
             "0794f0d870d2",
             "a81fd6854ca0"
@@ -219,6 +251,7 @@
           "categoria": "oficial",
           "data": "2026-11-17T19:34:07.000Z",
           "tambemEm": [
+            "Seu Dinheiro",
             "Money Times",
             "Exame Invest"
           ],
@@ -226,7 +259,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 32
         },
         {
           "id": "a8e0cd322d14",
@@ -253,6 +286,23 @@
           "pontos": 28
         },
         {
+          "id": "73c36b6a3976",
+          "outrosIds": [],
+          "titulo": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi",
+          "resumo": "Pedidos de auxílio-desemprego nos EUA, falas de dirigentes do Fed e leilões de títulos também estão no radar desta quinta-feira, 19",
+          "link": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T05:30:04.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fibovespa-thumb.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "98172bb6c138",
           "outrosIds": [
             "58f37fff096e"
@@ -274,43 +324,19 @@
           "pontos": 24
         },
         {
-          "id": "b0873b2a532d",
-          "outrosIds": [
-            "d7259573b3b0"
-          ],
-          "titulo": "Ações da Nvidia (NVDA) em alta: balanço forte prepara empresa para disputa entre EUA e China; veja números",
-          "resumo": "A Nvidia (NVDA) afastou as preocupações recentes da saída abrupta do agora ex-CEO, Jensen Huang, após a publicação do balanço do terceiro trimestre deste ano (3T26). No entanto, apesar do balanço surpreendente, as preocupações envolvendo o futuro das relações entre China e Estados Unidos é um dos pontos de atenção…",
-          "link": "https://www.moneytimes.com.br/nvidia-nvda-trimestre-de-balanco-forte-prepara-empresa-para-disputa-entre-eua-e-china-veja-numeros-rens/",
-          "fonte": "Money Times",
+          "id": "d3040189c703",
+          "outrosIds": [],
+          "titulo": "Dividendos em 2027: quem está mais protegido após os cortes do 3º trimestre?",
+          "resumo": "Banco do Brasil cortou o payout ao mínimo, enquanto Vivo e Caixa Seguridade mantiveram distribuição alta; analistas mostram quanto risco assumir The post Dividendos em 2027: quem está mais protegido após os cortes do 3º trimestre? appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/onde-investir/dividendos-em-2027-quem-esta-mais-protegido-apos-os-cortes-do-3o-trimestre/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T13:44:35.000Z",
+          "data": "2026-11-19T08:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F06%2Fnvidia-1-1.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F06%2Fnvidia-1-1.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "ee2498844c78",
-          "outrosIds": [
-            "5bb8831c80dd",
-            "ef693df569c2"
-          ],
-          "titulo": "JBS, Nubank, XP e Inter no Ibovespa? Inclusão pode acontecer no próximo ano",
-          "resumo": "O Ibovespa, principal índice da bolsa brasileira, vai abrir espaço para empresas nacionais que têm ações negociadas no exterior. A B3 anunciou nesta terça-feira (17) uma mudança na metodologia do indicador para permitir a inclusão de BDRs (Brazilian Depositary Receipts) de companhias brasileiras listadas em bolsas…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/17/jbs-nubank-xp-e-inter-no-ibovespa-inclusao-pode-acontecer-no-proximo-ano.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:08:44.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FEspacoB3_05.jpg%3Ffit%3D1200%252C800%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FEspacoB3_05.jpg%3Ffit%3D1200%252C800%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -321,35 +347,27 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "5039baa82ade",
+          "id": "549a77347d5e",
           "outrosIds": [
-            "56fde682fa60",
-            "442f1626a464",
-            "d79379f293f4",
-            "311e51ce93b2",
-            "b273aaa6ab04",
-            "9f86cead7b62",
-            "becb6a7f54d1",
-            "487e0b90675c",
-            "3579e47c170e",
-            "88715777ac11"
+            "137ab435d2c4",
+            "4c7481457616"
           ],
-          "titulo": "Saiba quem é quem na Anthropic, gigante da IA que lança IPO nesta quinta",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEp0OFBfSXRQZmltbzNGWUx2Rm81RjAtcUltSlFzV1laUm5FUzhQR05jemtlMmVfWllpa1BYM1RLdHZUeENZZ09wR0NqMFhQQ19pSFhCemJqWnNqRWl6WldvZUxUR0JxT1psRjc2MzAtb0JySzRQN0RNSFh2SjBCck4yUUpzaC1HQ1puWlUzOG1HQ1lTVFU4M2lwSmZjTjRtek9tYWJGR1lpLURXVHl3aElLTDdEdFhoWFl3alpUQ3l0UVk?oc=5",
-          "fonte": "CNN Brasil",
+          "titulo": "Introducing GPT-6.2 Astra and Sol",
+          "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "fonte": "OpenAI (blog oficial)",
           "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T00:54:34.000Z",
+          "categoria": "empresa",
+          "data": "2026-11-17T17:45:00.000Z",
           "tambemEm": [
-            "InfoMoney",
-            "Seu Dinheiro",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-            "Estadão",
-            "UOL Economia"
+            "Canaltech",
+            "Olhar Digital"
           ],
-          "foto": null,
-          "pontos": 30
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
         },
         {
           "id": "79d673bba3f7",
@@ -374,30 +392,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
-        },
-        {
-          "id": "549a77347d5e",
-          "outrosIds": [
-            "137ab435d2c4",
-            "4c7481457616"
-          ],
-          "titulo": "Introducing GPT-6.2 Astra and Sol",
-          "resumo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-17T17:45:00.000Z",
-          "tambemEm": [
-            "Canaltech",
-            "Olhar Digital"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.openai.com%2Fmdx-assets%2Fe193aefe-5e58-431c-8cd2-adadac0c1496%2F44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "0c3c8b23c6ca",
@@ -442,6 +437,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
+        },
+        {
+          "id": "6cab9c8cd383",
+          "outrosIds": [],
+          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "fonte": "OpenAI (blog oficial)",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-18T00:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         }
       ]
     }
@@ -535,7 +547,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 15,
+      "itens": 14,
       "erro": null
     },
     {
@@ -647,7 +659,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 45,
+      "itens": 53,
       "erro": null
     }
   ]
