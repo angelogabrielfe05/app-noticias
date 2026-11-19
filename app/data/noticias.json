@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T00:17:26.125Z",
+  "geradoEm": "2026-11-19T02:33:18.675Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -44,23 +44,6 @@
           "pontos": 28
         },
         {
-          "id": "5f299364a72b",
-          "outrosIds": [],
-          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
-          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
-          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T13:04:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "72046567b92e",
           "outrosIds": [],
           "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
@@ -93,6 +76,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FVOSEhSLfC-GWm2_wtALi_V4WDuA%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F11042023-pzzb9267.jpg%3Fitok%3D1O4II4bb&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
+        },
+        {
+          "id": "5f299364a72b",
+          "outrosIds": [],
+          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
+          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T13:04:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         }
       ]
     },
@@ -101,59 +101,27 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "98c44e833730",
+          "id": "dedbc3a2eb65",
           "outrosIds": [
-            "07d8792ea494",
-            "a0314ca7a880",
-            "88a5f3fbd08e",
-            "1272150b4bd8",
-            "ffac00bcd255",
-            "0c582cf6630d",
-            "8b61f9e9e3d6",
-            "545704e8a688",
-            "c34f47803a4c",
-            "09752a04406e",
-            "1b0cc3ec5313",
-            "1db430c0c7be",
-            "e51c33924532",
-            "bf82619c38a8",
-            "880bf04a47dc",
-            "1a4f695bec80",
-            "a8810e74a5e7",
-            "916238920227",
-            "1008ab67fab9",
-            "2366871e29ec",
-            "78fb70dd4f64",
-            "c755fbc986b7",
-            "e95e1c2fa944",
-            "7ff6c0a9fee5",
-            "28ad0a990a58",
-            "57b9ebb469b7",
-            "ddb115cd908a",
-            "494befa40ca9",
-            "180d43033080",
-            "9b34d8e8d83c",
             "b45be1eef9b2",
             "e70d372760ea",
             "64817fe81adc"
           ],
-          "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
-          "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-587-com-expectativa-sobre-votacao-de-ajuste-fiscal",
-          "fonte": "Agência Brasil",
+          "titulo": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
+          "resumo": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
+          "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-18T22:26:00.000Z",
+          "data": "2026-11-19T00:50:00.000Z",
           "tambemEm": [
-            "Agência Senado",
-            "Agência Câmara",
-            "Valor Investe",
             "InfoMoney",
+            "Valor Investe",
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FABCzDV1BNGLK1WelR64FGvUJtDs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221211.jpg%3Fitok%3D9aRcSX3F&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 36
         },
@@ -211,22 +179,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDolar-e-real-sob-pressao-do-mercado.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "8fbead7b210d",
+          "id": "7642158e536c",
           "outrosIds": [],
-          "titulo": "Dólar supera R$ 5,80 antes de leilões do BC e com pacote fiscal no foco",
-          "resumo": "O dólar operava em alta ante o real nesta quarta-feira, em sintonia com o viés positivo da moeda norte-americana no exterior, com investidores no Brasil à espera de leilões programados pelo Banco Central e atentos à tramitação do pacote de ajuste fiscal no Congresso. Às 9h40 o dólar à vista subia 0,74%, a R$ 5,8247 […]",
-          "link": "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T13:01:20.000Z",
+          "titulo": "Reforma tributária: Receita descarta punição a erros de boa-fé",
+          "resumo": "O secretário da Receita Federal, Robinson Barreirinhas, afirmou nesta terça-feira (17) que os riscos e desafios da implementação da reforma tributária já foram identificados e que o governo pretende orientar os contribuintes durante a transição para o novo sistema. Em audiência pública na Comissão de Assuntos…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/reforma-tributaria-receita-descarta-punicao-erros-de-boa-fe",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T15:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-real-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJrrqzzVleljX5KVvzgalbbPYtmw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F03%2Flula3001.jpg%3Fitok%3DhDJFCk5P&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -298,7 +266,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F06%2Fnvidia-1-1.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F06%2Fnvidia-1-1.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "ee2498844c78",
@@ -350,80 +318,57 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "aae7402dc092",
+          "id": "5039baa82ade",
           "outrosIds": [
             "56fde682fa60",
             "470ec9015504",
+            "aae7402dc092",
             "5d0fef54b48a",
             "442f1626a464",
             "d79379f293f4",
+            "311e51ce93b2",
             "b273aaa6ab04",
             "9f86cead7b62",
-            "53d9fef41d66",
             "becb6a7f54d1",
+            "53d9fef41d66",
             "487e0b90675c",
-            "1d407ea3963b",
-            "8f0675deee98",
-            "8f7abbc054e0",
-            "9bfad76e8b95",
             "9822ef2dcd5d",
-            "77b1afafcb14",
             "3f72da748a19",
-            "bb8b2d9a3bb1",
             "720127fecb40",
             "be2ccd49de75",
             "3579e47c170e",
-            "e6ff99054b30",
-            "8f966ed272ae",
-            "033fa8f33187",
-            "62a8d18ff4ce",
-            "74facd57f58b",
-            "e06ff1fe84f5",
             "a13d544f7928",
             "de4f45938c0b",
             "7f8461b1590e",
             "5a08df464c1f",
-            "a183f4f50c53",
             "88715777ac11",
             "e6c1cf3be7cc",
             "d349f987d3b4",
             "dffc49feafc4",
-            "621c8b8f48c6",
-            "48a009f05ec1",
-            "9d26b020a920",
-            "c276a9ab5704",
-            "354cefbeb9ce",
-            "0e462bd99023",
-            "39243d9dc381",
-            "bf9a820a736d",
-            "0a77f904e9b6"
+            "621c8b8f48c6"
           ],
-          "titulo": "Anthropic, dona do Claude, é avaliada em quase US$ 1,5 trilhão em estreia na bolsa americana",
-          "resumo": "A Anthropic, empresa de inteligência artificial (IA) responsável pelo chatbot Claude, fixou o preço de sua oferta pública inicial de ações (IPO, na sigla em inglês) em US$ 83 por papel, acima da faixa inicialmente prevista, de US$ 70 a US$ 78, segundo fonte ouvida pela agência Reuters. Com isso, a companhia chega à…",
-          "link": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/18/anthropic-dona-do-claude-e-avaliada-em-quase-us-15-trilhao-em-estreia-na-bolsa-americana.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Saiba quem é quem na Anthropic, gigante da IA que lança IPO nesta quinta",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEp0OFBfSXRQZmltbzNGWUx2Rm81RjAtcUltSlFzV1laUm5FUzhQR05jemtlMmVfWllpa1BYM1RLdHZUeENZZ09wR0NqMFhQQ19pSFhCemJqWnNqRWl6WldvZUxUR0JxT1psRjc2MzAtb0JySzRQN0RNSFh2SjBCck4yUUpzaC1HQ1puWlUzOG1HQ1lTVFU4M2lwSmZjTjRtek9tYWJGR1lpLURXVHl3aElLTDdEdFhoWFl3alpUQ3l0UVk?oc=5",
+          "fonte": "CNN Brasil",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T22:49:30.000Z",
+          "data": "2026-11-19T00:54:34.000Z",
           "tambemEm": [
+            "Valor Investe",
             "Olhar Digital",
-            "O GLOBO",
-            "Estadão",
             "InfoMoney",
             "Seu Dinheiro",
             "Mobile Time",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "Estadão",
             "Money Times",
-            "Valor Econômico",
             "IT Forum",
-            "CNN Brasil",
             "UOL Economia",
-            "Bloomberg Línea Brasil"
+            "Bloomberg Línea Brasil",
+            "Valor Econômico"
           ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhxoDa8D8Spl80X2dGzSHSV3VrFA%3D%2F4000x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fz%2Fi%2FVdA17KTze6Lz1XuzlBFw%2F2026-11-10t214521z-833977414-rc29loavp8lc-rtrmadp-3-anthropic-ipo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FhxoDa8D8Spl80X2dGzSHSV3VrFA%3D%2F4000x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fz%2Fi%2FVdA17KTze6Lz1XuzlBFw%2F2026-11-10t214521z-833977414-rc29loavp8lc-rtrmadp-3-anthropic-ipo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
+          "foto": null,
           "pontos": 30
         },
         {
@@ -449,7 +394,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 27
         },
         {
           "id": "549a77347d5e",
@@ -475,6 +420,27 @@
           "pontos": 27
         },
         {
+          "id": "0c3c8b23c6ca",
+          "outrosIds": [
+            "519ed4975182"
+          ],
+          "titulo": "Introducing Gemini 4 Neon",
+          "resumo": "",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "fonte": "Google DeepMind",
+          "oficial": false,
+          "categoria": "empresa",
+          "data": "2026-11-18T21:35:43.000Z",
+          "tambemEm": [
+            "Olhar Digital"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
           "id": "28081035b10d",
           "outrosIds": [
             "fed49ab71972"
@@ -490,29 +456,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "fa3d54fd64f5",
-          "outrosIds": [
-            "5931abb3758a",
-            "9b8a7a75e602"
-          ],
-          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
-          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-17T20:07:03.000Z",
-          "tambemEm": [
-            "Estadão",
-            "Exame"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -608,7 +551,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 12,
+      "itens": 13,
       "erro": null
     },
     {
@@ -720,7 +663,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 44,
+      "itens": 43,
       "erro": null
     }
   ]
