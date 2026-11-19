@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T02:33:18.675Z",
+  "geradoEm": "2026-11-19T03:17:25.966Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -205,6 +205,30 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "dfb39aa97b65",
+          "outrosIds": [
+            "6a98c073b8bb",
+            "0794f0d870d2",
+            "a81fd6854ca0"
+          ],
+          "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
+          "resumo": "Produto permitirá que investidores brasileiros acessem a companhia de inteligência artificial pelo código ANTH34, em reais, por meio das corretoras locais",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/ipo-da-anthropic-e-esperado-para-esta-semana-b3-preve-lancamento-de-bdr-com-aplicacao-minima-abaixo-de-r-100/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-17T19:34:07.000Z",
+          "tambemEm": [
+            "Money Times",
+            "Exame Invest"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "a8e0cd322d14",
           "outrosIds": [
             "f57b85175cf7",
@@ -289,27 +313,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FfvNZycncdUCqOgzx_XrRaLlAWYg%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2024%2Fx%2Fh%2FUreOB7S7G13LuU9Z1obA%2Fgettyimages-93909524.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "bff5bedcb0a6",
-          "outrosIds": [
-            "21e67b4cb417"
-          ],
-          "titulo": "Número de desempregados há dois anos ou mais é o menor já registrado",
-          "resumo": "O número de trabalhadores que procuram emprego há pelo menos dois anos foi o menor em 14 anos no terceiro trimestre de 2026. O dado foi divulgado nesta quarta-feira (18) pelo Instituto Brasileiro de Geografia e Estatística (IBGE), na Pesquisa Nacional por Amostra de Domicílios (Pnad) Contínua. Chamada de desemprego…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/numero-de-desempregados-ha-dois-anos-ou-mais-e-o-menor-ja-registrado",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T15:36:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fza_Jb2cGMUue4iPl9AlTZfSPpyc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fcarteira-de-trabalho-digital_mcamgo_abr_240620211818-6.jpg%3Fitok%3DEWG1Ra5a&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fza_Jb2cGMUue4iPl9AlTZfSPpyc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fcarteira-de-trabalho-digital_mcamgo_abr_240620211818-6.jpg%3Fitok%3DEWG1Ra5a&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         }
       ]
     },
@@ -321,31 +324,15 @@
           "id": "5039baa82ade",
           "outrosIds": [
             "56fde682fa60",
-            "470ec9015504",
-            "aae7402dc092",
-            "5d0fef54b48a",
             "442f1626a464",
             "d79379f293f4",
             "311e51ce93b2",
             "b273aaa6ab04",
             "9f86cead7b62",
             "becb6a7f54d1",
-            "53d9fef41d66",
             "487e0b90675c",
-            "9822ef2dcd5d",
-            "3f72da748a19",
-            "720127fecb40",
-            "be2ccd49de75",
             "3579e47c170e",
-            "a13d544f7928",
-            "de4f45938c0b",
-            "7f8461b1590e",
-            "5a08df464c1f",
-            "88715777ac11",
-            "e6c1cf3be7cc",
-            "d349f987d3b4",
-            "dffc49feafc4",
-            "621c8b8f48c6"
+            "88715777ac11"
           ],
           "titulo": "Saiba quem é quem na Anthropic, gigante da IA que lança IPO nesta quinta",
           "resumo": "",
@@ -355,18 +342,11 @@
           "categoria": "imprensa",
           "data": "2026-11-19T00:54:34.000Z",
           "tambemEm": [
-            "Valor Investe",
-            "Olhar Digital",
             "InfoMoney",
             "Seu Dinheiro",
-            "Mobile Time",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Estadão",
-            "Money Times",
-            "IT Forum",
-            "UOL Economia",
-            "Bloomberg Línea Brasil",
-            "Valor Econômico"
+            "UOL Economia"
           ],
           "foto": null,
           "pontos": 30
@@ -441,21 +421,25 @@
           "pontos": 25
         },
         {
-          "id": "28081035b10d",
+          "id": "fa3d54fd64f5",
           "outrosIds": [
-            "fed49ab71972"
+            "5931abb3758a",
+            "9b8a7a75e602"
           ],
-          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
-          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
-          "fonte": "InfoMoney",
+          "titulo": "Microsoft lança IA própria para competir com OpenAI e Anthropic",
+          "resumo": "Novas ferramentas são voltadas para programação, cibersegurança, geração de imagens e transcrição; empresa aposta em modelos especializados para reduzir custos O post Microsoft lança IA própria para competir com OpenAI e Anthropic apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/17/inteligencia-artificial/microsoft-lanca-ia-propria-para-competir-com-openai-e-anthropic/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T20:35:54.000Z",
-          "tambemEm": [],
+          "data": "2026-11-17T20:07:03.000Z",
+          "tambemEm": [
+            "Estadão",
+            "Exame"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmicrosoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -551,7 +535,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 13,
+      "itens": 12,
       "erro": null
     },
     {
@@ -663,7 +647,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 43,
+      "itens": 45,
       "erro": null
     }
   ]
