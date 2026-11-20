@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T12:17:24.425Z",
+  "geradoEm": "2026-11-20T15:17:23.697Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -69,25 +69,9 @@
           "pontos": 25
         },
         {
-          "id": "5f299364a72b",
-          "outrosIds": [],
-          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
-          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
-          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T13:04:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
           "id": "8dd3dad0c634",
           "outrosIds": [
+            "8cd59a67b3f6",
             "655850993894",
             "45bd9cd2a1c7"
           ],
@@ -104,6 +88,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 21
+        },
+        {
+          "id": "48e6c56e58e6",
+          "outrosIds": [
+            "bc59e0ffb6be"
+          ],
+          "titulo": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
+          "resumo": "Kayo Magalhães / Câmara dos Deputados Sessão deliberativa do Plenário da Câmara A Câmara dos Deputados iniciou a Ordem do Dia e analisa o Projeto de Decreto Legislativo (PDL) 756/25, que contém o Tratado de Assistência Jurídica Mútua em Matéria Penal entre o Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de…",
+          "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T19:41:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
         }
       ]
     },
@@ -163,23 +166,6 @@
           "pontos": 22
         },
         {
-          "id": "09906a26a884",
-          "outrosIds": [],
-          "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
-          "resumo": "A Instituição Fiscal Independente (IFI) alertou que o governo do presidente Luiz Inácio Lula da Silva (PT) precisará apresentar um plano de ajuste fiscal estrutural e profundo para enfrentar os desafios das contas públicas em 2027. Segundo a instituição, o pacote fiscal atualmente em discussão no Congresso Nacional…",
-          "link": "https://www.moneytimes.com.br/ifi-cobra-novo-ajuste-fiscal-de-lula-e-diz-que-pacote-atual-nao-basta-para-2027-jcav/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T14:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
           "id": "c717f98acecb",
           "outrosIds": [
             "9d422c756551"
@@ -199,6 +185,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "09906a26a884",
+          "outrosIds": [],
+          "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
+          "resumo": "A Instituição Fiscal Independente (IFI) alertou que o governo do presidente Luiz Inácio Lula da Silva (PT) precisará apresentar um plano de ajuste fiscal estrutural e profundo para enfrentar os desafios das contas públicas em 2027. Segundo a instituição, o pacote fiscal atualmente em discussão no Congresso Nacional…",
+          "link": "https://www.moneytimes.com.br/ifi-cobra-novo-ajuste-fiscal-de-lula-e-diz-que-pacote-atual-nao-basta-para-2027-jcav/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T14:30:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         }
       ]
     },
@@ -209,7 +212,7 @@
         {
           "id": "59dc97db5dcc",
           "outrosIds": [
-            "25f7e3a56e36",
+            "bcd0177f984b",
             "79903e5a4ae3",
             "b163be0a08ed",
             "ebfa6ce1c746",
@@ -224,9 +227,7 @@
             "7380ae4e035c",
             "105164017537",
             "de9c1a328c86",
-            "a9463818f426",
-            "5ef45beed47e",
-            "3750a57f6e1c"
+            "a9463818f426"
           ],
           "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
           "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
@@ -238,14 +239,14 @@
           "tambemEm": [
             "Money Times",
             "Seu Dinheiro",
-            "Exame Invest",
-            "InfoMoney"
+            "InfoMoney",
+            "Exame Invest"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 32
         },
         {
           "id": "d1ea590d0009",
@@ -313,7 +314,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 18
         }
       ]
     },
@@ -366,6 +367,23 @@
           "pontos": 24
         },
         {
+          "id": "0b1c832cdf59",
+          "outrosIds": [],
+          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
+          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T14:53:08.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "73873142d98b",
           "outrosIds": [],
           "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
@@ -379,27 +397,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "79d673bba3f7",
-          "outrosIds": [
-            "cc1e8a161d89"
-          ],
-          "titulo": "Nvidia interrompe envio de chips de IA Hopper para a China",
-          "resumo": "Decisão da Nvidia ocorre após novas restrições dos EUA para limitar o acesso chinês a chips de inteligência artificial em centros de dados externos O post Nvidia interrompe envio de chips de IA Hopper para a China apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/18/pro/nvidia-interrompe-envio-de-chips-de-ia-hopper-para-a-china/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T18:27:42.000Z",
-          "tambemEm": [
-            "Canaltech"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -626,7 +623,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 64,
+      "itens": 60,
       "erro": null
     }
   ]
