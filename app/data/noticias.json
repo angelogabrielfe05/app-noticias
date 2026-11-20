@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-19T21:17:30.162Z",
+  "geradoEm": "2026-11-20T00:17:35.843Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -15,8 +15,7 @@
             "497d9602c804",
             "f49a1ce09dcc",
             "d4f7b3b2bffa",
-            "64e3e0eddf01",
-            "b97ef51e345b"
+            "64e3e0eddf01"
           ],
           "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
           "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
@@ -36,6 +35,23 @@
           "pontos": 34
         },
         {
+          "id": "c2601d2138bd",
+          "outrosIds": [],
+          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T21:34:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
           "id": "2a4adcc12a11",
           "outrosIds": [],
           "titulo": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
@@ -50,7 +66,27 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
+        },
+        {
+          "id": "8dd3dad0c634",
+          "outrosIds": [
+            "655850993894",
+            "45bd9cd2a1c7"
+          ],
+          "titulo": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta quinta-feira (19) enviar à Procuradoria-Geral da República (PGR) quatro relatórios produzidos pela Polícia Federal (PF) sobre menções a ministros da Corte em conversas encontradas no celular de Daniel Vorcaro. Os relatórios referem-se…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T23:56:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         },
         {
           "id": "5f299364a72b",
@@ -68,42 +104,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "7872b070ab57",
-          "outrosIds": [],
-          "titulo": "Fachin sinaliza que STF pode julgar Lei da Dosimetria neste ano",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, disse nesta terça-feira (17) que a Corte pode julgar, ainda neste ano, a validade da lei que diminui as penas de condenados pelos atos golpistas de 8 de janeiro de 2023 (Lei da Dosimetria) e que também pode beneficiar o ex-presidente Jair…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-sinaliza-que-stf-pode-julgar-lei-da-dosimetria-neste-ano",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T23:01:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "7c7876cac97d",
-          "outrosIds": [
-            "e3b2c41d0e31"
-          ],
-          "titulo": "Defesa pede que Supremo julgue pedido para soltar Vorcaro",
-          "resumo": "A defesa do ex-banqueiro Daniel Vorcaro protocolou nesta terça-feira (17) uma petição para solicitar que o Supremo Tribunal Federal (STF) julgue o pedido de soltura feito na semana passada. Em uma manifestação encaminhada ao presidente do STF, Edson Fachin, os advogados informaram que, de acordo com as regras…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-17T23:41:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FtNESgdSebkNjmPajI4bEmul1OCg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F03%2F13%2Fdaniel_vorcaro03.jpg%3Fitok%3DXqCqqcyX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
         }
       ]
     },
@@ -112,21 +112,27 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "841030c03edc",
-          "outrosIds": [],
-          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
-          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
-          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
-          "fonte": "Agência Câmara",
+          "id": "f9155037db5b",
+          "outrosIds": [
+            "12187f75c843",
+            "09752a04406e"
+          ],
+          "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
+          "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T17:57:00.000Z",
-          "tambemEm": [],
+          "data": "2026-11-19T22:47:00.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 34
         },
         {
           "id": "328fef868b55",
@@ -142,6 +148,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
+          "id": "841030c03edc",
+          "outrosIds": [],
+          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T17:57:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 25
         },
@@ -178,23 +201,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "59427c2ad979",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
-          "resumo": "Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T11:49:11.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
         }
       ]
     },
@@ -205,7 +211,7 @@
         {
           "id": "1f7539632ba8",
           "outrosIds": [
-            "32c95ee06e8c",
+            "2171a1970b7e",
             "1fa7ce600334",
             "e1ec3a85c910",
             "79903e5a4ae3",
@@ -233,10 +239,7 @@
             "100fd8f1de6b",
             "f07b9f6a04bd",
             "53db765348b4",
-            "3af4650850ff",
-            "90d485bdc4b6",
-            "829c24155e16",
-            "3a0ac9c8fd01"
+            "3af4650850ff"
           ],
           "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
           "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
@@ -246,10 +249,10 @@
           "categoria": "oficial",
           "data": "2026-11-19T19:00:44.000Z",
           "tambemEm": [
-            "InfoMoney",
             "Money Times",
             "Seu Dinheiro",
-            "Exame Invest"
+            "Exame Invest",
+            "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -297,7 +300,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "7f2c635edb21",
@@ -314,28 +317,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "f25b72fe2e5c",
-          "outrosIds": [
-            "ada18e5cedc9"
-          ],
-          "titulo": "Dow Jones Futuro sobe após Nvidia superar expectativas no 3T",
-          "resumo": "As ações da fabricante de chips avançaram 4% no after-market, após a empresa superar as projeções de lucro e receita no terceiro trimestre The post Dow Jones Futuro sobe após Nvidia superar expectativas no 3T appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/",
-          "fonte": "InfoMoney",
+          "id": "674c1da7b947",
+          "outrosIds": [],
+          "titulo": "Mesmo com pausa nos negócios, taxas do Tesouro Direto fecham em forte alta",
+          "resumo": "A negociação dos títulos do Tesouro Direto tiveram que ser interrompidas nesta quinta-feira (19), em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). O pregão foi retomado por volta das 15h, após uma…",
+          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/19/tesouro-direto-hoje-taxas-prefixado-ipca-pacote-fiscal.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T08:34:40.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "data": "2026-11-19T12:42:14.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -366,22 +365,38 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 31
+          "pontos": 29
         },
         {
-          "id": "73873142d98b",
+          "id": "2d7532381ffd",
           "outrosIds": [],
-          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
-          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
-          "fonte": "Olhar Digital",
+          "titulo": "Do fim do mundo ao próximo Claude: como a Anthropic quer avançar com a IA",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3RPdGZNNUM5Z3dieFo4SE5QZDJUdG8yR2V4UXIwZi1qT3FIX2FjY0E4RVFRdXgxdVpRMlkyVTBLMUllV3NpWkkyaFV6TGY2Y1Y3aEFWODBfeXRRRmxNVG9fZDY1UEJidkJHckJfLTRhaGEweDlxRFJMRHM1aTJBb01jR3ZfSjVVekhxa3RGY3pCVWpkdDlEaGdZclFqMkQ4cVhHTGItWE02THpZdTIya0JfRHhwQQ?oc=5",
+          "fonte": "Exame",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T17:13:39.000Z",
+          "data": "2026-11-19T22:46:57.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 24
+        },
+        {
+          "id": "af0192a3baa2",
+          "outrosIds": [
+            "db88ee9ef71e"
+          ],
+          "titulo": "‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY",
+          "resumo": "Militantes pediram, inclusive, o impedimento da oferta pública inicial de ações da gigante da tecnologia, que ultrapassou a SpaceX em estreia recorde na Bolsa de valores americana The post ‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/congelem-a-ia-e-parem-oligarcas-das-techs-ipo-da-anthropic-provoca-protesto-em-ny/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T20:11:50.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -409,42 +424,21 @@
           "pontos": 24
         },
         {
-          "id": "6cab9c8cd383",
+          "id": "73873142d98b",
           "outrosIds": [],
-          "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "resumo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "fonte": "OpenAI (blog oficial)",
-          "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-18T00:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F6oojxLpPBP1EqJiCFQof6r%2F868dca9f2befad4a1cfa21aeaa7d1cdb%2Fle-groupe-figaro-and-openai-announce-partnership-seo.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "137ab435d2c4",
-          "outrosIds": [
-            "4c7481457616"
-          ],
-          "titulo": "OpenAI lança GPT-6.2 Astra e Sol mais baratos, mas estreia divide usuários",
-          "resumo": "A OpenAI anunciou nesta ter&ccedil;a-feira (17) o lan&ccedil;amento dos modelos de intelig&ecirc;ncia artificial (IA) GPT-6.2 Astra e GPT-6.2 Sol , que prometem melhorias em programa&ccedil;&atilde;o, cria&ccedil;&atilde;o de documentos e execu&ccedil;&atilde;o de tarefas complexas. As novidades tamb&eacute;m buscam…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-62-astra-e-sol-mais-baratos-mas-estreia-divide-usuarios/",
-          "fonte": "Canaltech",
+          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
+          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-18T17:02:00.000Z",
-          "tambemEm": [
-            "Olhar Digital"
-          ],
+          "data": "2026-11-19T17:13:39.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FjsY_z1RKgXTvVQF8aWez6_QhvDo%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbeeb3938-ba6e-4152-8104-6bef676faf2f.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FjsY_z1RKgXTvVQF8aWez6_QhvDo%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fbeeb3938-ba6e-4152-8104-6bef676faf2f.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 23
         }
       ]
     }
@@ -622,7 +616,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1414,
+      "itens": 1418,
       "erro": null
     },
     {
@@ -650,7 +644,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 67,
+      "itens": 66,
       "erro": null
     }
   ]
