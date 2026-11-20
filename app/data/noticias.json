@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T06:17:25.313Z",
+  "geradoEm": "2026-11-20T09:17:24.616Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -32,7 +32,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 33
+          "pontos": 32
         },
         {
           "id": "c2601d2138bd",
@@ -135,23 +135,6 @@
           "pontos": 33
         },
         {
-          "id": "328fef868b55",
-          "outrosIds": [],
-          "titulo": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
-          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previstas nas Leis 15.532 e 15.538, publicadas nesta quinta-feira…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T18:59:36.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
           "id": "841030c03edc",
           "outrosIds": [],
           "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
@@ -169,6 +152,23 @@
           "pontos": 24
         },
         {
+          "id": "328fef868b55",
+          "outrosIds": [],
+          "titulo": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
+          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previstas nas Leis 15.532 e 15.538, publicadas nesta quinta-feira…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T18:59:36.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "5f3942c82890",
           "outrosIds": [],
           "titulo": "Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo",
@@ -183,7 +183,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "09906a26a884",
@@ -209,13 +209,10 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "1f7539632ba8",
+          "id": "59dc97db5dcc",
           "outrosIds": [
-            "2171a1970b7e",
-            "1fa7ce600334",
-            "e1ec3a85c910",
+            "25f7e3a56e36",
             "79903e5a4ae3",
-            "59dc97db5dcc",
             "b163be0a08ed",
             "ebfa6ce1c746",
             "47e9709839a6",
@@ -223,7 +220,6 @@
             "9df7c947762b",
             "b683c33d61b4",
             "be25edbc1540",
-            "e6089ed0eb66",
             "3ac1ae6f7672",
             "2aabb9616461",
             "0e72c553caca",
@@ -231,22 +227,19 @@
             "105164017537",
             "de9c1a328c86",
             "a9463818f426",
-            "6a98c073b8bb",
             "5ef45beed47e",
             "3750a57f6e1c",
             "edaee698e034",
             "d5fd3bfaff68",
-            "100fd8f1de6b",
-            "f07b9f6a04bd",
-            "53db765348b4"
+            "100fd8f1de6b"
           ],
-          "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
-          "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/anthropic-estreia-na-bolsa-com-alta-de-34-bdr-avanca-na-b3/",
+          "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
+          "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/bdr-da-anthropic-chega-a-b3-por-cerca-de-r-60/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T19:00:44.000Z",
+          "data": "2026-11-19T15:05:35.000Z",
           "tambemEm": [
             "Money Times",
             "Seu Dinheiro",
@@ -254,10 +247,10 @@
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 35
+          "pontos": 34
         },
         {
           "id": "3c57bd81da74",
@@ -386,7 +379,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "79d673bba3f7",
@@ -429,21 +422,23 @@
           "pontos": 22
         },
         {
-          "id": "6687f7be62c3",
-          "outrosIds": [],
-          "titulo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "resumo": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "fonte": "OpenAI (blog oficial)",
+          "id": "28081035b10d",
+          "outrosIds": [
+            "fed49ab71972"
+          ],
+          "titulo": "Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras",
+          "resumo": "A dona do Claude passou a OpenAI em março de 2026 nos gastos das empresas com IA, segundo dados da fintech Clara The post Startups: Anthropic concentra 56% do gasto em IA nas empresas brasileiras appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/",
+          "fonte": "InfoMoney",
           "oficial": false,
-          "categoria": "empresa",
-          "data": "2026-11-19T08:00:00.000Z",
+          "categoria": "imprensa",
+          "data": "2026-11-18T20:35:54.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1GmNPxrS3qwhYU0t43dsaa%2F0df53811b9acf8f9699ace630362f112%2Fperformance-factory-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimages.ctfassets.net%2Fkftzwdyauwt9%2F1GmNPxrS3qwhYU0t43dsaa%2F0df53811b9acf8f9699ace630362f112%2Fperformance-factory-social.png%3Fw%3D1600%26h%3D900%26fit%3Dfill&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2F2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         }
       ]
     }
@@ -649,7 +644,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 65,
+      "itens": 69,
       "erro": null
     }
   ]
