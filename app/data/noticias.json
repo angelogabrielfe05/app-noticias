@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T09:17:24.616Z",
+  "geradoEm": "2026-11-20T11:36:59.572Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -35,23 +35,6 @@
           "pontos": 32
         },
         {
-          "id": "c2601d2138bd",
-          "outrosIds": [],
-          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T21:34:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "2a4adcc12a11",
           "outrosIds": [],
           "titulo": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
@@ -67,6 +50,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
+        },
+        {
+          "id": "c2601d2138bd",
+          "outrosIds": [],
+          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T21:34:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         },
         {
           "id": "5f299364a72b",
@@ -132,7 +132,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 33
+          "pontos": 32
         },
         {
           "id": "841030c03edc",
@@ -229,9 +229,7 @@
             "a9463818f426",
             "5ef45beed47e",
             "3750a57f6e1c",
-            "edaee698e034",
-            "d5fd3bfaff68",
-            "100fd8f1de6b"
+            "edaee698e034"
           ],
           "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
           "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
@@ -337,9 +335,8 @@
         {
           "id": "0c3c8b23c6ca",
           "outrosIds": [
-            "882aa41de97d",
-            "cf653894bd27",
-            "519ed4975182"
+            "ee916781ca89",
+            "cf653894bd27"
           ],
           "titulo": "Introducing Gemini 4 Neon",
           "resumo": "",
@@ -349,15 +346,13 @@
           "categoria": "empresa",
           "data": "2026-11-18T21:35:43.000Z",
           "tambemEm": [
-            "Tecnoblog",
-            "Canaltech",
-            "Olhar Digital"
+            "Canaltech"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-4-neon__blog-header__sm.width-1300.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 25
         },
         {
           "id": "af0192a3baa2",
@@ -382,29 +377,6 @@
           "pontos": 24
         },
         {
-          "id": "79d673bba3f7",
-          "outrosIds": [
-            "cc1e8a161d89",
-            "67dad7be03c2"
-          ],
-          "titulo": "Nvidia interrompe envio de chips de IA Hopper para a China",
-          "resumo": "Decisão da Nvidia ocorre após novas restrições dos EUA para limitar o acesso chinês a chips de inteligência artificial em centros de dados externos O post Nvidia interrompe envio de chips de IA Hopper para a China apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/18/pro/nvidia-interrompe-envio-de-chips-de-ia-hopper-para-a-china/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-18T18:27:42.000Z",
-          "tambemEm": [
-            "Canaltech",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
           "id": "73873142d98b",
           "outrosIds": [],
           "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
@@ -418,6 +390,27 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "79d673bba3f7",
+          "outrosIds": [
+            "cc1e8a161d89"
+          ],
+          "titulo": "Nvidia interrompe envio de chips de IA Hopper para a China",
+          "resumo": "Decisão da Nvidia ocorre após novas restrições dos EUA para limitar o acesso chinês a chips de inteligência artificial em centros de dados externos O post Nvidia interrompe envio de chips de IA Hopper para a China apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/18/pro/nvidia-interrompe-envio-de-chips-de-ia-hopper-para-a-china/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T18:27:42.000Z",
+          "tambemEm": [
+            "Canaltech"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia_china.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -532,7 +525,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 23,
+      "itens": 21,
       "erro": null
     },
     {
@@ -644,7 +637,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 69,
+      "itens": 65,
       "erro": null
     }
   ]
