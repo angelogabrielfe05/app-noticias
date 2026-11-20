@@ -1,5 +1,410 @@
 [
   {
+    "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
+    "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
+    "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
+    "data": "2026-11-20T21:13:29.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-091238.png?fit=300%2C202&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
+    "resumo": "O ex-presidente Jair Bolsonaro passou mal nesta sexta-feira (20) e foi levado ao Hospital DF Star, em Brasília, para receber atendimento médico. A ocorrência foi confirmada pelo senador Carlos Bolsonaro (PL-SC), um dos filhos do ex-presidente. Bolsonaro, que está em prisão domiciliar , sentiu fortes dores abdominais e…",
+    "data": "2026-11-20T21:12:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-politica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Trump: EUA, Rússia e China concordaram que conflito nuclear nunca deve ocorrer",
+    "link": "https://www.infomoney.com.br/mundo/trump-eua-russia-e-china-concordaram-que-conflito-nuclear-nunca-deve-ocorrer/",
+    "resumo": "A China teria concordado ainda em realizar um encontro sobre a questão nuclear The post Trump: EUA, Rússia e China concordaram que conflito nuclear nunca deve ocorrer appeared first on InfoMoney .",
+    "data": "2026-11-20T21:12:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/trump-putin-xi-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Mercado do urso: Nasdaq tem forte correção e despenca 5%; índice do medo salta até 31% com liquidação de techs",
+    "link": "https://www.moneytimes.com.br/mercado-do-urso-nasdaq-tem-forte-correcao-e-despenca-5-indice-do-medo-salta-ate-31-com-liquidacao-de-techs/",
+    "resumo": "Uma onda de vendas tomou conta de Wall Street nesta sexta-feira (20), aprofundando a correção das bolsas americanas e levando o Nasdaq a uma das piores quedas dos últimos meses, em meio a dúvidas sobre o ritmo dos investimentos em inteligência artificial (IA) e um forte movimento de realização de lucros nas gigantes…",
+    "data": "2026-11-20T21:11:50.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ação da Nvidia desaba 14% após notícia sobre investigação e têm 7ª semana de queda",
+    "link": "https://www.infomoney.com.br/mercados/acoes-da-nvidia-desabam-noticia-sobre-investigacao-da-sec-sobre-companhia/",
+    "resumo": "Isso acrescenta mais um problema jurídico para a fabricante de chips, já abalada por escândalos The post Ação da Nvidia desaba 14% após notícia sobre investigação e têm 7ª semana de queda appeared first on InfoMoney .",
+    "data": "2026-11-20T21:11:11.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/08/2025-08-28T093244Z_1_LYNXMPEL7R0DO_RTROPTP_4_NVIDIA-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nvidia cai 14% e vive a pior sequência desde 2008 — a (ex?) queridinha de Wall Street vai ter que desatar mais um nó",
+    "link": "https://www.seudinheiro.com/2026/internacional/nvidia-cai-14-e-vive-a-pior-sequencia-desde-2008-a-ex-queridinha-de-wall-street-vai-ter-que-desatar-mais-um-no/",
+    "resumo": "Ação cai pela sétima semana seguida, pressionada por uma série de eventos adversos; valor de mercado já encolheu em US$ 2,5 trilhões The post Nvidia cai 14% e vive a pior sequência desde 2008 — a (ex?) queridinha de Wall Street vai ter que desatar mais um nó appeared first on Seu Dinheiro .",
+    "data": "2026-11-20T21:09:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "IPO da Anthropic não estanca liquidação das ações de tecnologia nos EUA",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHJBZm4tZHMtOWJrQ0x2ZG9CZnpnYlVZMlZ0ZTVfbWZHbHc1QnVXQXlPZkdBMkZDencwendwX3V0WGMwN05mTnpMQTlUcXM3N1R1QmRSMHhVbl9fNjZyOGFBbTg3WmdLT3ZlbldHZkZ5ZGdtRjFyOGUxMkhOeXVIM0stWkNyVW1sQW01VDFMQkpXeF92VjhJdlFGdzY2WXZFLW94S0pIZlJ6TmN6c1l0VE4xZUdhUQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:04:04.000Z",
+    "origem": "Poder360",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Poder360",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "5G+ promete até 2 Gbps no Brasil; veja o que muda para você",
+    "link": "https://canaltech.com.br/telecom/5g-promete-ate-2-gbps-no-brasil-veja-o-que-muda-para-voce/",
+    "resumo": "A chegada da oferta de servi&ccedil;os da nova evolu&ccedil;&atilde;o do 5G, conhecida como 5G Advanced (5G-A ou 5.5G) e comercializada pela Vivo como 5G+, ao mercado consumidor brasileiro marca uma fase importante na evolu&ccedil;&atilde;o da tecnologia. Essa melhoria tecnol&oacute;gica tem como foco clientes mais…",
+    "data": "2026-11-20T21:00:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/_3kd8nB3dJRayRdfDNP_Ck76TGE=/0x0/filters:format(webp):quality(85)/6589e9eb-5ca3-4c17-a1d1-2bcfd336a18c.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dow Jones hoje cai, e Nasdaq desaba 5% com venda generalizada de ações de tecnologia",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T20:59:59.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nikolas Ferreira questiona gasto de R$ 3,3 milhões do Senado com troca de carpetes",
+    "link": "https://www.infomoney.com.br/politica/nikolas-ferreira-questiona-gasto-de-r-33-milhoes-do-senado-com-troca-de-carpetes/",
+    "resumo": "Deputados Nikolas Ferreira (PL-MG) e Duarte Jr. (Avante-MA) questionam a necessidade da compra e o valor previsto The post Nikolas Ferreira questiona gasto de R$ 3,3 milhões do Senado com troca de carpetes appeared first on InfoMoney .",
+    "data": "2026-11-20T20:59:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/fust.jpeg?fit=300%2C199&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Títulos do Tesouro dos EUA sobem com sell-off em IA e busca por ativos seguros",
+    "link": "https://www.infomoney.com.br/mercados/titulos-do-tesouro-dos-eua-sobem-com-sell-off-em-ia-e-busca-por-ativos-seguros/",
+    "resumo": "A valorização do mercado de títulos do governo, avaliado em US$ 32 trilhões, fez com que os rendimentos dos títulos de curto prazo caíssem mais de 15 pontos-base na sexta-feira The post Títulos do Tesouro dos EUA sobem com sell-off em IA e busca por ativos seguros appeared first on InfoMoney .",
+    "data": "2026-11-20T20:57:31.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/468816370.jpg?fit=300%2C198&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
+    "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro (PL-RJ) de deixar o país e determinou a entrega de seus passaportes. O voto foi proferido durante o julgamento virtual de um recurso apresentado pela…",
+    "data": "2026-11-20T20:55:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Trump: Irã quer acordo, mas não quer um acordo aceitável para mim",
+    "link": "https://www.infomoney.com.br/mundo/trump-ira-quer-acordo-mas-nao-quer-um-acordo-aceitavel-para-mim/",
+    "resumo": "\"O Irã nunca terá uma arma nuclear\", reiterou The post Trump: Irã quer acordo, mas não quer um acordo aceitável para mim appeared first on InfoMoney .",
+    "data": "2026-11-20T20:51:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-20T204620Z_836889260_RC2WROA0OWEH_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Índice de ADRs brasileiros acelera perdas na reta final e cai mais de 2%",
+    "link": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-dia-consciencia-negra-20112026/",
+    "resumo": "A queda ocorre seguindo os principais índices americanos, que negociam em baixa já que uma semana importante — marcada pela chegada do tão aguardado IPO da Anthropic The post Índice de ADRs brasileiros acelera perdas na reta final e cai mais de 2% appeared first on InfoMoney .",
+    "data": "2026-11-20T20:47:29.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Jair Bolsonaro sente dores abdominais e é levado a hospital de Brasília para exames",
+    "link": "https://www.infomoney.com.br/politica/jair-bolsonaro-hospital-dores-abdominais/",
+    "resumo": "Bolsonaro cumpre prisão domiciliar após ser condenado a 27 anos de prisão por tentativa de golpe de Estado The post Jair Bolsonaro sente dores abdominais e é levado a hospital de Brasília para exames appeared first on InfoMoney .",
+    "data": "2026-11-20T20:35:33.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-03-27T133145Z_578524049_RC20DKA85MLG_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nasdaq cai 5% com sell-off de ações de IA; S&P500 e Dow Jones têm “correção”",
+    "link": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/",
+    "resumo": "IPO da Anthropic parece ter feito pouco para acalmar as preocupações sobre o setor de inteligência artificial após a empolgação inicial The post Nasdaq cai 5% com sell-off de ações de IA; S&P500 e Dow Jones têm “correção” appeared first on InfoMoney .",
+    "data": "2026-11-20T20:30:35.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Petróleo fecha em alta após sessão volátil, mas tem terceira queda semanal seguida",
+    "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-20112026/",
+    "resumo": "Isso diante do aumento das exportações no Oriente Médio The post Petróleo fecha em alta após sessão volátil, mas tem terceira queda semanal seguida appeared first on InfoMoney .",
+    "data": "2026-11-20T20:19:36.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Guerra-Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Trump fala de tudo, e nem o Brasil escapa: o que você precisa saber sobre as novas ameaças do republicano",
+    "link": "https://www.seudinheiro.com/2026/internacional/trump-fala-de-tudo-e-nem-o-brasil-escapa-o-que-voce-precisa-saber-sobre-as-novas-ameacas-do-republicano-ccgg/",
+    "resumo": "Em coletiva na Casa Branca, o presidente dos EUA criticou o Fed, ameaçou tarifar data centers fora do país, pediu a volta de Jensen Huang à Nvidia e citou o Brasil ao cobrar das Filipinas The post Trump fala de tudo, e nem o Brasil escapa: o que você precisa saber sobre as novas ameaças do republicano appeared first…",
+    "data": "2026-11-20T20:10:59.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Google Vids agora cria seu avatar com IA de graça; veja como fazer",
+    "link": "https://canaltech.com.br/apps/google-vids-agora-cria-seu-avatar-com-ia-de-graca-veja-como-fazer/",
+    "resumo": "O editor de v&iacute;deos Google Vids liberou a cria&ccedil;&atilde;o de um avatar personalizado de IA para todas as contas gratuitas . Cada pessoa pode enviar uma foto pr&oacute;pria e receber um modelo criado pela ferramenta, pronto para uso em diferentes clipes. O recurso j&aacute; existe h&aacute; alguns meses com…",
+    "data": "2026-11-20T20:00:09.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/D4Ujy8opfrXzHDPTzfFADfg_j5Q=/0x0/filters:format(webp):quality(85)/73de4d9c-dfa0-4ea2-aa6d-0a343856d2c3.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Kombi elétrica ganha versão para praia com cama e até ar-condicionado",
+    "link": "https://canaltech.com.br/carros/kombi-eletrica-ganha-versao-para-praia-com-cama-e-ate-ar-condicionado/",
+    "resumo": "A Volkswagen apresentou uma nova vers&atilde;o da Kombi el&eacute;trica, a ID. Buzz Beach , projetada para quem gosta de viajar, acampar ou passar alguns dias na praia. O modelo traz uma cama dobr&aacute;vel, cortinas para garantir privacidade e at&eacute; um sistema de ar-condicionado que funciona por 48 horas sem…",
+    "data": "2026-11-20T19:52:28.000Z",
+    "imagemFeed": null,
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
+    "link": "https://www.moneytimes.com.br/investigacao-da-sec-dos-eua-sobre-nvidia-analisa-possiveis-questoes-contabeis-dizem-fontes/",
+    "resumo": "A Comissão de Valores Mobiliários dos EUA (SEC, na sigla em inglês) está investigando as práticas contábeis da Nvidia, afirmaram duas pessoas a par do assunto, acrescentando mais um problema jurídico para a fabricante de chips, já abalada por escândalos. O “Wall Street Journal” noticiou na terça-feira que a SEC estava…",
+    "data": "2026-11-20T19:48:10.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Trump dá ‘rasteira’ em agro brasileiro e leva Filipinas; ‘o Brasil vai ajudá-los caso eles tenham guerra com a China?’",
+    "link": "https://www.moneytimes.com.br/trump-filipinas-vinham-comprando-produtos-agro-muito-mais-do-brasil-do-que-dos-eua/",
+    "resumo": "O presidente dos Estados Unidos (EUA), Donald Trump, afirmou que as Filipinas concordaram em comprar 100% dos produtos agrícolas americanos a partir de 1º de janeiro. Durante coletiva de imprensa, Trump citou o Brasil entre os países que atualmente fornecem produtos agrícolas aos filipinos e criticou o volume de…",
+    "data": "2026-11-20T19:46:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro",
+    "link": "https://www.seudinheiro.com/2026/bolsa-dolar/ouro-nao-protege-ninguem-cai-a-minima-em-um-ano-e-falha-como-porto-seguro-ccgg/",
+    "resumo": "Metal recua 4,62% e prata cai 7,41% em dia de liquidação global — três gatilhos tiraram o brilho dos metais preciosos nesta sexta-feira (20) The post Ouro não protege ninguém, cai a mínima em um ano e falha como porto seguro appeared first on Seu Dinheiro .",
+    "data": "2026-11-20T19:40:32.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Small caps: Safra coloca na carteira banco que pode disparar 80% e chegar a R$ 100; confira o portfólio",
+    "link": "https://www.moneytimes.com.br/small-caps-safra-coloca-na-carteira-banco-que-pode-disparar-80-e-chegar-a-r-100-na-carteira-confira/",
+    "resumo": "O Banco Safra promoveu uma série de alterações em sua carteira recomendada de small caps para novembro e dezembro. Saíram C&A (CEAB3), JSL (JSLG3), Cyrela (CYRE3) e Banco Inter (INBR34), enquanto passaram a integrar a seleção Banco Mercantil (BMEB4), IRB (IRBR3), Metalúrgica Gerdau (GOAU4) e Minerva (BEEF3). O…",
+    "data": "2026-11-20T19:37:45.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Anthropic: Quem construiu em seis anos uma empresa de US$ 1 trilhão",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXFJT2V4UXhfUzQ0RmdaN1liQWhmWDZGQVVZdGJzTHdSVEZHMnd6WE9DUzhOd3ZhR3RDcFN0T2RwNWFmQm02MnFabHRLVmFCcGl1UlFHYTYtVGh6ajlrSHluRllqcE4yemg5c0lqVmhJU3BjUF9fb01CN2M5cEpoMTRLSW94Y21WRDRLMFFsTXVmY3JoeVpBMmVsSks1YmNHZ0Q3ZUxkZWZTd3NST2VGaGpVMGdESEJTWUdGNDdxQ2NmYXplTk9KQnVmREF1dHRWNElPVWlxQ29rX3MtRERvYdIB7wFBVV95cUxQX01pNDJGOEtvYUwyd3VpYnRveml3Z19TRU8yRlZLUGlLN0lDVGk2eURsRE5aWmNqM2FxdU1qbHpLQkhsYWpUaFV6TnpfX0h3bGpfTDU2UXpSeHNXRXJSVFJmLWdPTldwdEpqNTVGU1JYQS1rMUowOUFySEhDa01PZUU4TVRKbTR4S0g1alRMWERrVnVVWFFGVDI1T3dKa0pnM3hudzU1OVJrS2pESi1lTTdDbkN5Tk1fRGJnMkFVcDhpV3laWnktUUctOUFJZ2Q0RnlMNE9IVU8yLWtacC0xYTQzN1VWWDBUV1BYNEFrNA?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T19:32:51.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Novo carro da BYD parece uma nave espacial; veja como é por dentro",
+    "link": "https://canaltech.com.br/carros/novo-carro-da-byd-parece-uma-nave-espacial-veja-como-e-por-dentro/",
+    "resumo": "O gerente-geral de vendas da divis&atilde;o Ocean da BYD, Zhang Zhuo, apresentou nesta sexta-feira (20) uma nova pr&eacute;via da minivan topo de linha que a montadora chinesa pretende lan&ccedil;ar em breve . O teaser ainda esconde boa parte do ve&iacute;culo, mas revela uma carroceria enorme e com desenho bastante…",
+    "data": "2026-11-20T19:27:35.000Z",
+    "imagemFeed": null,
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ar-condicionado Elgin Inverter de 9.000 BTUs cai para R$ 1.568 na Black Friday",
+    "link": "https://canaltech.com.br/eletro/ar-condicionado-elgin-inverter-de-9000-btus-cai-para-r-1568-na-black-friday/",
+    "resumo": "O ar-condicionado Elgin Eco II Inverter de 9.000 BTUs est&aacute; com um pre&ccedil;o interessante nesta Black Friday. O modelo pode ser comprado por R$ 1.568,98 no Pix na Amazon , uma boa oportunidade para quem quer climatizar o quarto ou escrit&oacute;rio sem gastar tanto. O aparelho se destaca pela tecnologia…",
+    "data": "2026-11-20T19:26:46.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/eLoL6I13UvX0pIddIyPM1ARzuqM=/0x0/filters:format(webp):quality(85)/33c90aeb-b37d-47dd-8d78-e7f7b01fdbeb.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Canon cria sensor de 410 MP para câmeras profissionais; veja detalhes",
+    "link": "https://canaltech.com.br/produtos/canon-cria-sensor-de-410-mp-para-cameras-profissionais-veja-detalhes/",
+    "resumo": "A Canon desenvolveu um novo sensor CMOS de 410 megapixels , com resolu&ccedil;&atilde;o equivalente a 25K, voltado para c&acirc;meras profissionais de uso industrial. O componente, identificado como LI8030SA, entrou em uma nova fase de desenvolvimento e promete capturar imagens com um n&iacute;vel de detalhes muito…",
+    "data": "2026-11-20T19:11:21.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/EeCyVjKfVbtrX_FoHn28cocy9VE=/0x0/filters:format(webp):quality(85)/cf4f4ad2-548c-439b-a5b8-0e2e8b780212.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "3 melhores notebooks para programar e profissionais de TI em 2026",
+    "link": "https://canaltech.com.br/notebook/melhores-notebooks-para-programar-e-profissionais-de-ti-2026/",
+    "resumo": "Trabalhar com desenvolvimento de software, administra&ccedil;&atilde;o de redes e infraestrutura de TI exige muito mais do que um notebook b&aacute;sico para navegar na internet ou editar documentos. Diferente do uso administrativo tradicional, a rotina de quem lida com c&oacute;digo demanda processadores com bom…",
+    "data": "2026-11-20T19:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Com patrimônio inflado por ações, funcionários da Anthropic até estão podendo, mas são muito ocupados para consumir",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNWFNVTzhDQkItM0xNZkE3THUyOFo4SlExaU9FYTg1Q28wNDhQdTVGalNHOS1GeTA4Y3g5d0J3NDU1azFHdExwdkRQZXgwT00wdjhjbWFlYl9vYmFVbUtkcVg5STV6NkViSl9ydk1XLU0zcVF4TV9HTlBFc3l0MW5CZVU1bTRvRFJuUlM5NjNXZ0tkc3prdks1bzc2WWdOTXc0cmxRUWdhY0JsS0stSGxvMU53Vm95dk1Bdy1BSWxiNHoyQWZheGJ6OUcwc0pvcEdsdjFxUlI0N3psRGN5Z1pGXzdpVzlWTzFnWGNDRV9jN2Z6dURHV1RmX20yaFR2S1Rhd3fSAZACQVVfeXFMTkZFUG9iYUhTZXd3U21VWUw5bGxYOThORnU5UjllNWt1V3djNVV5ZHZXd2w3bjUzODJ6SlZjdVZwaV9BbjlNMDJ3VXBwS2ZhUjk4VXdZSkdHZURRTHFobHIxb3FLYTE5Vkp1SUFjQ0VZYU9XOTM2cmVaQ0JxczFmbFBPMDNEVjVRVml6NTFyQlZTNlV6dmRzMWNXeURZNG5hbmZjdFg2MllIejNKRUJvT21IcXFFSDNBYThlOTNwaFRWV3RDWG9pSmZzRWVoSm1oSFdKaXJLWHFBOW1MQks4bUZwUnUzRXF4NmtaZUhPaWo5MWFHS19aOXNTU3d0bHMtd3h6ZERaSVZ5Mm8xdHNEQng?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T19:00:00.000Z",
+    "origem": "O GLOBO",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "O GLOBO",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Black Friday: Saiba como não cair em golpes e economizar ainda mais",
+    "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/black-friday-saiba-como-nao-cair-em-golpes-e-poupar-ainda-mais/",
+    "resumo": "Planejar gastos, acompanhar preços e conferir lojas e pagamentos ajuda a avaliar promoções antes de comprar na Black Friday O post Black Friday: Saiba como não cair em golpes e economizar ainda mais apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-20T18:56:37.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2025/10/compras-online-1024x683.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Trump afirma que apenas chips mais antigos deveriam ser vendidos para China",
+    "link": "https://www.moneytimes.com.br/trump-afirma-que-apenas-chips-mais-antigos-deveriam-ser-vendidos-para-china/",
+    "resumo": "O presidente dos EUA, Donald Trump, afirmou na sexta-feira que os EUA querem que apenas chips mais antigos sejam vendidos à China, acrescentando que seu governo estava discutindo um acordo com a China, sem fornecer mais detalhes. “Queremos apenas chips mais antigos, e não nos importamos se nenhum for vendido. Mas…",
+    "data": "2026-11-20T18:52:14.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Tombo das ações da Anthropic após estreia vira alerta para mercado de IA",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd0NxS3pMenJydTdVdjY2ckpOekRCa0RCYkUyRmc5ODdwa3ozM2tEdTdWcE80U3NNV2dSTmJrTFJOeVBUZGo2cFZObGVsQ1dxd2lZVURaYU5MdmF5TC1VbTN1emRQWGhQTWUydUZyNjFmRWtZdmZoYWlHN2Q2d3NCV0VNbHZLaVBzTWJaNHBYUGhMYmhHblVWZEZYZ2xNakNmcEJiYUFjT2x2YVhndS1yT3FSU3FicWV6aUxRZkhsM2tPQUk?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T18:34:53.000Z",
+    "origem": "CNN Brasil",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "CNN Brasil",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Fuvest antecipa divulgação de aprovados para 2ª fase e locais de provas do vestibular 2027",
+    "link": "https://www.moneytimes.com.br/fuvest-antecipa-divulgacao-de-aprovados-para-2a-fase-e-locais-de-provas-do-vestibular-2027/",
+    "resumo": "A Fundação Universitária para o Vestibular (Fuvest) divulgou nesta sexta-feira, 20, a lista de candidatos convocados para a 2ª fase do Vestibular 2027, juntamente com os locais de prova. A publicação estava prevista para a próxima segunda-feira, 23, e foi antecipada em três dias, segundo informou em seu site oficial.…",
+    "data": "2026-11-20T18:33:19.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ações de emergentes ficam próximas a “bear market” com expansão da crise de IA",
+    "link": "https://www.infomoney.com.br/mercados/acoes-de-emergentes-ficam-proximas-a-bear-market-com-expansao-da-crise-de-ia/",
+    "resumo": "A Ásia, com forte presença do setor de tecnologia, foi a mais afetada pelas vendas nos mercados emergentes The post Ações de emergentes ficam próximas a “bear market” com expansão da crise de IA appeared first on InfoMoney .",
+    "data": "2026-11-20T18:30:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-20-145415.png?fit=300%2C201&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Casos de sarampo nos EUA se aproximam da marca de 6.000 à medida que surto se agrava",
+    "link": "https://www.moneytimes.com.br/casos-de-sarampo-nos-eua-se-aproximam-da-marca-de-6-000-a-medida-que-surto-se-agrava-pads/",
+    "resumo": "Os Centros de Controle e Prevenção de Doenças (CDC) dos EUA informaram nesta sexta-feira que havia 5.838 casos de sarampo até 19 de novembro, conforme o país enfrenta o pior surto dessa infecção viral em décadas. Os casos de sarampo nos EUA ultrapassaram a marca de 5.000 pela primeira vez desde 1991. Nesta semana, os…",
+    "data": "2026-11-20T18:29:55.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Claude teria ajudado a resolver um dos maiores enigmas da matemática",
+    "link": "https://olhardigital.com.br/2026/11/20/inteligencia-artificial/claude-teria-ajudado-a-resolver-um-dos-maiores-enigmas-da-matematica/",
+    "resumo": "Matemático Levent Alpöge, da Anthropic, afirma ter provado a hipótese de Riemann com Claude, mas a solução ainda não passou por verificação independente O post Claude teria ajudado a resolver um dos maiores enigmas da matemática apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-20T18:29:17.000Z",
+    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/claude-anthropic-1024x576.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Xiaomi lança barbeador que se ajusta sozinho à sua barba; bateria dura 60 dias",
+    "link": "https://canaltech.com.br/produtos/xiaomi-lanca-barbeador-que-se-ajusta-sozinho-a-sua-barba-bateria-dura-60-dias/",
+    "resumo": "A Xiaomi anunciou um novo barbeador el&eacute;trico que ajusta automaticamente a pot&ecirc;ncia de acordo com a barba do usu&aacute;rio. O Mijia Portable Electric Shaver Pro chega ao mercado chin&ecirc;s com motor inteligente e promete at&eacute; 60 dias de bateria com uma &uacute;nica carga. O aparelho estar&aacute;…",
+    "data": "2026-11-20T18:21:30.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/TCfBiIIMPjzoj60T7j1A--MniXg=/0x0/filters:format(webp):quality(85)/d0e29fcf-ed3d-4781-b590-10fc64679cf8.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas",
+    "link": "https://www.seudinheiro.com/2026/criptomoedas/maior-tombo-mensal-desde-2022-bitcoin-btc-fura-o-piso-cai-abaixo-de-us-60-mil-e-arrasta-outras-criptomoedas-ccgg/",
+    "resumo": "O maior ativo digital do mundo não consegue se descolar da derrocada das bolsas internacionais e caminha para romper uma série de recordes negativos The post Maior tombo mensal desde 2022: bitcoin (BTC) fura o piso, cai abaixo de US$ 60 mil e arrasta outras criptomoedas appeared first on Seu Dinheiro .",
+    "data": "2026-11-20T18:20:33.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
+    "link": "https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/",
+    "resumo": "A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com impactos sobre…",
+    "data": "2026-11-20T18:18:15.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Funcionário da Anthropic diz que solucionou problema mais famoso da matemática",
     "link": "https://www.infomoney.com.br/mundo/funcionario-da-anthropic-diz-que-solucionou-problema-mais-famoso-da-matematica/",
     "resumo": "Se comprovada a solução da Hipótese de Riemann, toda a matemática terá repercussões The post Funcionário da Anthropic diz que solucionou problema mais famoso da matemática appeared first on InfoMoney .",
@@ -101,6 +506,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Pesquisador anuncia que IA resolveu Hipótese de Riemann, maior problema da matemática",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQndidlV2cVN5TEQ2N3BtZVFOdWI0ZWYxSUJrb3N1WEFOR2l1YUttN0Q0UUJFUEpBUVIzZjBLZjNpZlc5U0FlcmF0UlcwNGpZYy1PSTR5VUVDcURfU3BjS1NTRTVoalYyQkFBVFhvNW15X0lzbHROR1EwNnlybjZ1bnJ4RVpiVExsdnczdG1MNEhfV3V4QVpZczc5bDhUZ0YwaE1nS1k0QnE2dTVGZUdhNmxzYnhveHJ1OS1mQ09UaGl6RDZqMW9GLXJ4MGwwZjBKUG5r?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T17:50:28.000Z",
+    "origem": "UOL",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Xi Jinping projeta a influência global da China após receber Trump e Putin na APEC",
     "link": "https://www.infomoney.com.br/mundo/xi-jinping-projeta-a-influencia-global-da-china-apos-receber-trump-e-putin-na-apec/",
     "resumo": "Como anfitrião da cúpula anual da Cooperação Econômica Ásia-Pacífico (APEC), na quarta e quinta-feira, Xi recebeu os líderes de 21 economias que representam cerca de 60% da atividade econômica global The post Xi Jinping projeta a influência global da China após receber Trump e Putin na APEC appeared first on InfoMoney…",
@@ -151,9 +567,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall Street entra em correção",
+    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção",
     "link": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/",
-    "resumo": "Nasdaq vira para o negativo em 2026, Dow Jones e S&P 500 entram em correção, e as bolsas europeias fecham em forte queda; entenda o que derruba as ações nesta sexta-feira (20) The post Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall Street entra em correção appeared first on Seu Dinheiro .",
+    "resumo": "Nasdaq vira para o negativo em 2026, Dow Jones e S&P 500 entram em correção, e as bolsas europeias fecham em forte queda; entenda o que derrubou as ações nesta sexta-feira (20) The post Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção appeared first on Seu…",
     "data": "2026-11-20T17:35:16.000Z",
     "imagemFeed": null,
     "fonteId": "seudinheiro",
@@ -161,7 +577,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall entra em correção",
+    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall Street entra em correção",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHNxSC1Bel9PdXNaeFFWMGFQOFlQaUg4RWl4Y1FZNFlvX1pmcmpabmxzSVBXUzdxXzZWbHFVTUpoTks0dV80MElHUG00clFRRjc1Nk9NMGxrbG9Sb3M0Skd1eDBxdFNQVU1PdmhqV093Vi1CQk1jMWo5VFZJTjAtNjFLbkswT3pLQVp4ZlNBYWEwNUJKMUh5SUFjWHVNMXpfaTJHYmw2UW5FWjllTFFpYlRGUk1VTkhtME9RNUszaGVOazhPeVBrNW1WOTJraGh3NldLUl9NNEd4ZEE?oc=5",
     "resumo": "",
     "data": "2026-11-20T17:35:16.000Z",
@@ -242,17 +658,6 @@
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-01T235316Z_1_LYNXNPEL302CS_RTROPTP_4_TIKTOK-BLACKSTONE.jpg?fit=300%2C168&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dow Jones hoje cai; Nasdaq perde mais de 3% com queda de 11% da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
-    "resumo": "",
-    "data": "2026-11-20T17:12:34.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
     "categoria": "imprensa"
   },
   {
@@ -605,7 +1010,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Anthropic abre em baixa de até 9%, aos US$ 89,66; Bolsas caem no exterior",
+    "titulo": "Anthropic abre em baixa de até 12%, com receio geral sobre tecnologia; Bolsas caem no exterior",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWlPbC01NHFPMXA5VkhvTEpvV1I5QmVqXzdYVTNsTEtrYno3NW1nQktReW82cTRFbkZGQjl3Qk5SLTdOaVNCemYzOXV5THZCdXJ6R0dhSG9MSFUya1ZOMVNZQkpNUG1WSEl6cWNwb2FsMFNndjVpdUlfNF9Gb1RyYlF3dVFzamRQSldwd0E1bzlTblhDT2NEdEx4NHJEd05LanFzVWhfM1NSdTQ5WUYtTEx30gHAAUFVX3lxTE1FWndjd29fWVhIMlhOMjRZWE5yWXZBMC1wOXB5T204T0tDdXB0cGFDTE9FOFJjUmtmeXc0bnZxTW01ejBxTDFiWnNXLU1sSkVFMVdoYUxBQWFTaTNYYm1jYVdEX1BXcS1QMm9NTmNWQ2pqblBwcFY2ZTd3a29lRTc4dTNLUHIzM2FSd1BJTTk1dEVrY2hpckpIVmZkU2x4bHhXQXlKTWs4VlpKWGMxSmVzd1FnRG1PMklPelpTaXRLNQ?oc=5",
     "resumo": "",
     "data": "2026-11-20T14:48:57.000Z",
@@ -613,16 +1018,6 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "O GLOBO",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ação da Anthropic cai forte após estreia e traz choque de realidade para setor de IA",
-    "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
-    "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai forte após estreia e traz choque de…",
-    "data": "2026-11-20T14:48:01.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-091238.png?fit=300%2C202&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney-ia",
-    "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
   {
@@ -637,16 +1032,6 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Nasdaq registra queda seguindo baixa de ações da Anthropic",
-    "link": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/",
-    "resumo": "IPO parece ter feito pouco para acalmar as preocupações sobre o setor de inteligência artificial após a empolgação inicial The post Nasdaq registra queda seguindo baixa de ações da Anthropic appeared first on InfoMoney .",
-    "data": "2026-11-20T14:45:33.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "IPO da Anthropic alcança US$ 93,5 bi após bancos exercerem lote suplementar",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVC1KdWFOeHAteVNLMVlUZnl3WkVRT1FZVFFHdHhpNW11SHhxS3U3MllneElMV3ZOWlhIYVFBZmVqaGJhTFRERWpFNGgyazBrSV9HWFVGQ3lyTGtKUEViVkJpSGtHRERvQU80RlEtZXdhWWFnTURzMms3bjk5bDFMY1U0NHZQWUU5N2hYSktSandsVGFrSGxOOGtXRUNZaDdQcy1nZ2NsSmRCYkU3YUZWU29odVFoQ2d6cUI0TUZKR01CS2pTWGxUZGNqeHlYSDlVUnlPSkc4YXI0U2NiOGRRem4tTVU4Zk9C0gH3AUFVX3lxTFBaaF9CMlZ5QXFGejVWUVktNHhFR0xESTFKVDhGak1zNDROZmoza1dsWWtjR0tXeFN3VFJ6TjdFR2h1M09ER1AtUmdhLWJOaWN4aFBrZE9FNGQxUU93LXN6LS1GRlAzdmxvVS0yZzgwNDQ0endBT0VWZW10RlpMTUdQdEFmUE1XX3lmbmF6X3MwZ1kxdXZyS05wSTd3YmZOZkg1bTB0OUMxWTUteHJBNU5wRjMtdkxVaUdfU1RrMUFqQ0xvM2RIR3NuRTFFYUNCeFpqdUhTM3JLTHlMRXBKYWJVU0VMR3lQSjN0eV96UGxmSGVyNG1ibzg?oc=5",
     "resumo": "",
@@ -655,16 +1040,6 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "Valor Econômico",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Índice de ADRs brasileiros segue exterior e registra baixa com temores sobre IA",
-    "link": "https://www.infomoney.com.br/mercados/indice-de-adrs-brasileiros-feriado-dia-consciencia-negra-20112026/",
-    "resumo": "A queda ocorre seguindo os principais índices americanos, que negociam em baixa já que uma semana importante — marcada pela chegada do tão aguardado IPO da Anthropic The post Índice de ADRs brasileiros segue exterior e registra baixa com temores sobre IA appeared first on InfoMoney .",
-    "data": "2026-11-20T14:40:28.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-06-100616.png?fit=300%2C202&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
   {
@@ -1456,6 +1831,16 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "resumo": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "data": "2026-11-20T10:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "openai",
+    "fonte": "OpenAI (blog oficial)",
+    "categoria": "empresa"
+  },
+  {
     "titulo": "A inteligência artificial e os novos riscos financeiros",
     "link": "https://valorinveste.globo.com/blogs/jose-brazuna/coluna/a-inteligencia-artificial-e-os-novos-riscos-financeiros.ghtml",
     "resumo": "Uma recente entrevista do futurista australiano Brett King ao Valor Econômico me trouxe uma reflexão importante sobre o futuro do mercado financeiro. Aliás, ele deu essa entrevista no Brasil, onde estava para um evento que infelizmente não consegui ir, por estar viajando. Dentre outras coisas interessantes que ele…",
@@ -1846,6 +2231,26 @@
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "resumo": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "data": "2026-11-20T00:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "openai",
+    "fonte": "OpenAI (blog oficial)",
+    "categoria": "empresa"
+  },
+  {
+    "titulo": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "resumo": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "data": "2026-11-20T00:00:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "openai",
+    "fonte": "OpenAI (blog oficial)",
+    "categoria": "empresa"
   },
   {
     "titulo": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF",
@@ -16738,727 +17143,5 @@
     "fonteId": "google-news-claude",
     "fonte": "Terra",
     "categoria": "imprensa"
-  },
-  {
-    "titulo": "Petróleo fecha em queda de 3% com aumento da oferta no Oriente Médio",
-    "link": "https://www.infomoney.com.br/mercados/petroleo-fecha-em-queda-de-3-com-aumento-da-oferta-no-oriente-medio/",
-    "resumo": "Especialistas avaliam que o mercado global caminha para um superávit crescente no próximo ano, apesar da persistência dos riscos geopolíticos no Oriente Médio The post Petróleo fecha em queda de 3% com aumento da oferta no Oriente Médio appeared first on InfoMoney .",
-    "data": "2026-11-16T21:17:22.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-07T191614Z_1043438909_RC2R4LAN4FM4_RTRMADP_3_IRAN-CRISIS-MISSILES-HORMUZ.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Se governo fizer série de pequenas medidas, juros caem amanhã, diz Mansueto Almeida",
-    "link": "https://www.moneytimes.com.br/se-governo-fizer-serie-de-pequenas-medidas-juros-caem-amanha-diz-mansueto-almeida/",
-    "resumo": "A solução para parte da turbulência que vem castigando os ativos brasileiros pode ser mais simples do que parece. Na avaliação de Mansueto Almeida, economista-chefe do BTG Pactual e ex-secretário do Tesouro Nacional, uma série de medidas pontuais para conter o avanço dos gastos públicos seria suficiente para mudar a…",
-    "data": "2026-11-16T21:16:53.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "EBC inaugura nova sede em São Paulo e amplia estrutura de produção na capital",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/ebc-inaugura-nova-sede-em-sao-paulo-e-amplia-estrutura-de-producao-na-capital",
-    "resumo": "A EBC inaugurou oficialmente, nesta segunda-feira (16), sua nova sede em São Paulo, localizada na Avenida Prestes Maia, nº 733, na região central da capital paulista",
-    "data": "2026-11-16T21:16:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
-    "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
-    "resumo": "Paulo Pimenta afirma que proposta abre espaço no Orçamento para novos compromissos e mantém subsídios aos combustíveis",
-    "data": "2026-11-16T21:15:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20260519153206880-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "COP31: os mapas do caminho do Brasil trazem novidades ou repetem compromissos climáticos?",
-    "link": "https://www.moneytimes.com.br/cop-31-os-mapas-do-caminho-do-brasil-trazem-novidades-ou-repetem-compromissos-climaticos-pads/",
-    "resumo": "O Brasil chegou à COP31, realizada em Antalya, na Turquia, com uma das principais iniciativas de sua Presidência da conferência climática de Belém, em 2025: os chamados mapas do caminho. A proposta pretende orientar os países na transição para longe dos combustíveis fósseis, como petróleo, carvão e gás natural, e no…",
-    "data": "2026-11-16T21:12:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações",
-    "link": "https://www.infomoney.com.br/mercados/xp-anuncia-dividendos-de-r-13-bilhao-e-aprova-nova-recompra-de-acoes/",
-    "resumo": "Companhia pagará US$ 0,46 por ação em dividendos, cancelará 11,7 milhões de ações em tesouraria e poderá recomprar até R$ 1,5 bilhão em papéis The post XP anuncia dividendos de R$ 1,3 bilhão e aprova nova recompra de ações appeared first on InfoMoney .",
-    "data": "2026-11-16T21:11:11.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2149540081.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic acelera significativamente o desenvolvimento de modelos usando a própria IA",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRzFxc3FtRTdxb05NUEF6d0dNYmNPN01VeGhjajZIR2p1RlJJNlNoR2ZyY3RwR2p1d1BnUHIxdjRtMVBMeDI3ZlY3aGh5Y09qUW5FZ19vU0JOQzV6Slg4NmsxZ1VORlRkd2x6eTQ1NVJ6NTN2LWJ2cThYTUxIem5MTjY2UTJaWk9iYmtEWTEwWXlESkZzQnVIb1NWLTFxcmVqOHhia3lLWlRsLXpIR21CYTNKVkpxalFHbkZCS1FUcWFMUnVQajdvcnFEeWk5MTNoNV9KZmplUk4yUlJEam5CaHdmMjdOVV9UbFE?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T21:08:51.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "XP cresce lucro e receita no 3º trimestre, com R$ 2,2 trilhões de ativos de clientes",
-    "link": "https://www.infomoney.com.br/mercados/xp-inc-xpbr31-resultados-terceiro-trimestre-2026/",
-    "resumo": "Expansão dos ativos de clientes e do banco de atacado sustenta crescimento de receita e rentabilidade The post XP cresce lucro e receita no 3º trimestre, com R$ 2,2 trilhões de ativos de clientes appeared first on InfoMoney .",
-    "data": "2026-11-16T21:03:11.000Z",
-    "imagemFeed": null,
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Astro de Lanternas vai virar John Wick natalino em novo filme brutal da Netflix",
-    "link": "https://canaltech.com.br/entretenimento/astro-de-lanternas-vai-virar-john-wick-natalino-em-novo-filme-brutal-da-netflix/",
-    "resumo": "Ap&oacute;s estrelar a s&eacute;rie Lanternas , na HBO, o ator Aaron Pierre j&aacute; tem um novo projeto &agrave; vista: o filme Fairytale in New York (Conto de Fadas em Nova York, em tradu&ccedil;&atilde;o livre). Produzido pela Netflix, o longa promete conquistar os f&atilde;s da franquia John Wick com uma intensa…",
-    "data": "2026-11-16T21:03:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/Ln4beGi-mUqjRKtuaE_C9Dc65YI=/0x0/filters:format(webp):quality(85)/42f729db-fe21-49b7-83cb-40c212d7c267.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ajuste fiscal sem drama: André Esteves diz que Brasil se afoga em ‘copo d’água’ e vê solução ao alcance",
-    "link": "https://www.seudinheiro.com/2026/economia/ajuste-fiscal-sem-drama-esteves-diz-que-brasil-se-afoga-em-copo-dagua-e-ve-solucao-ao-alcance-rnda/",
-    "resumo": "Banqueiro defende que é possível equilibrar as contas públicas sem abandonar promessas sociais e afirma que Congresso tende a apoiar medidas de ajuste The post Ajuste fiscal sem drama: André Esteves diz que Brasil se afoga em ‘copo d’água’ e vê solução ao alcance appeared first on Seu Dinheiro .",
-    "data": "2026-11-16T21:01:26.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "‘Estamos nos afogando em um copo d’água’, diz André Esteves, do BTG",
-    "link": "https://www.moneytimes.com.br/estamos-nos-afogando-em-um-copo-dagua-diz-andre-esteves-do-btg-rnda/",
-    "resumo": "Apesar da encrenca que a situação fiscal traz para o Brasil, o cenário não é tão difícil de resolver. Pelo menos na visão de André Esteves, chairman e sócio sênior do BTG Pactual (BPAC11). Em evento do Agro Fórum, nesta segunda-feira (16), o banqueiro defendeu que o país está se afogando “em um copo d’água” […]",
-    "data": "2026-11-16T20:50:07.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "CGU coordenará três ações nacionais de combate à corrupção e à lavagem de dinheiro em 2027",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/cgu-coordenara-tres-acoes-nacionais-de-combate-a-corrupcao-e-a-lavagem-de-dinheiro-em-2027",
-    "resumo": "Controladoria teve participação de destaque na reunião plenária da ENCCLA, que definiu prioridades para o enfrentamento ao crime organizado, o fortalecimento da contrainteligência e a proteção aos denunciantes",
-    "data": "2026-11-16T20:45:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Brasil quer ter sua própria IA e atrair R$ 2 trilhões em investimentos",
-    "link": "https://olhardigital.com.br/2026/11/16/pro/ia-data-centers-e-redes-sociais-entenda-os-planos-de-lula-para-o-seu-quarto-mandato/",
-    "resumo": "Em entrevista ao Olhar Digital, secretário do governo falou sobre regulação de IA e redes sociais; e construção de data centers no Brasil O post Brasil quer ter sua própria IA e atrair R$ 2 trilhões em investimentos apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-16T20:44:13.000Z",
-    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/10/gemini-grok-chatgpt-claude-1024x682.jpg",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "ACE e Valetec lançam fundo de até R$ 500M para comprar fatias de sócios de startups",
-    "link": "https://www.infomoney.com.br/business/ace-e-valetec-lancam-fundo-de-ate-r-500m-para-comprar-fatias-de-socios-de-startups/",
-    "resumo": "Veículo pretende profissionalizar o mercado secundário no Brasil e terá estratégia de investimento direta, com negociações operação por operação The post ACE e Valetec lançam fundo de até R$ 500M para comprar fatias de sócios de startups appeared first on InfoMoney .",
-    "data": "2026-11-16T20:40:21.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/PedroWaengertner.webp?fit=300%2C175&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissões e bancadas estaduais votam suas emendas ao Orçamento de 2027",
-    "link": "https://www.camara.leg.br/noticias/1319815-comissoes-e-bancadas-estaduais-votam-suas-emendas-ao-orcamento-de-2027",
-    "resumo": "O prazo para a apresentação de emendas vai até o dia 23 deste mês",
-    "data": "2026-11-16T20:40:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261116162820322-768x512.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Áudio: Serviços digitais: projeto prevê medidas para proteger idosos",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/servicos-digitais-projeto-preve-medidas-para-proteger-idosos",
-    "resumo": "Está em análise no Senado um projeto de lei, o PL 5.497/2026, que prevê medidas para proteger os idosos em relação aos produtos e serviços digitais oferecidos a esse público, com ferramentas mais amigáveis e acessíveis que auxiliem esses usuários a utilizar interfaces eletrônicas, com as quais não tiveram acesso em…",
-    "data": "2026-11-16T20:38:40.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Por que o dólar ultrapassou os R$ 5,77 nesta segunda?",
-    "link": "https://www.infomoney.com.br/mercados/por-que-dolar-sobe-nesta-segunda/",
-    "resumo": "A moeda americana sobe ante a maioria das divisas pelo mundo The post Por que o dólar ultrapassou os R$ 5,77 nesta segunda? appeared first on InfoMoney .",
-    "data": "2026-11-16T20:38:01.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados",
-    "resumo": "Em ação proativa, pasta consultou as secretarias estaduais para reforçar os estoques locais e garantir a continuidade da vacinação dos públicos prioritários",
-    "data": "2026-11-16T20:38:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Calote não é acidente, é estatística: Nexa aposta em créditos desenhados para quando algo der errado",
-    "link": "https://www.seudinheiro.com/2026/renda-fixa/calote-nao-e-acidente-e-estatistica-nexa-aposta-em-creditos-desenhados-para-quando-algo-der-errado-mlim/",
-    "resumo": "Em um cenário de empresas mais endividadas e juros elevados, a gestora vê debêntures mal precificadas e prefere FIDCs The post Calote não é acidente, é estatística: Nexa aposta em créditos desenhados para quando algo der errado appeared first on Seu Dinheiro .",
-    "data": "2026-11-16T20:33:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Petróleo fecha em queda de mais de 3% com aumento da oferta no Oriente Médio",
-    "link": "https://www.moneytimes.com.br/petroleo-fecha-em-queda-de-mais-de-3-com-aumento-da-oferta-no-oriente-medio-davs/",
-    "resumo": "O petróleo fechou em baixa de mais de 3% nesta segunda-feira (16), em meio à recuperação dos embarques da commodity via Estreito de Ormuz em ritmo mais rápido do que o esperado pelo mercado. O movimento leva os investidores a precificarem um aumento da oferta acima da demanda global. No entanto, as incertezas sobre…",
-    "data": "2026-11-16T20:32:51.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Pix faz 6 anos e já responde por mais da metade dos pagamentos no Brasil",
-    "link": "https://www.infomoney.com.br/minhas-financas/pix-faz-6-anos-e-ja-responde-por-mais-da-metade-dos-pagamentos-no-brasil/",
-    "resumo": "Sistema deixou de ser uma ferramenta de transferências entre pessoas, ganhou espaço no comércio e agora mira crédito, pagamentos recorrentes e operações internacionais The post Pix faz 6 anos e já responde por mais da metade dos pagamentos no Brasil appeared first on InfoMoney .",
-    "data": "2026-11-16T20:32:37.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/08/pix-pagamento-instantaneo-qrcode-taxa-pagar-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Falha não detectada desde julho causou apagão global da Microsoft",
-    "link": "https://www.infomoney.com.br/business/falha-nao-detectada-desde-julho-causou-apagao-global-da-microsoft/",
-    "resumo": "Empresa afirma que erro presente em seus data centers havia quatro meses foi acionado por uma mudança rotineira na rede, afetando Outlook, Teams, Copilot e outros serviços no mundo todo The post Falha não detectada desde julho causou apagão global da Microsoft appeared first on InfoMoney .",
-    "data": "2026-11-16T20:31:29.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/475250956.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Sam Altman diz que indústria de IA ficará bem sem Jensen Huang na Nvidia",
-    "link": "https://olhardigital.com.br/2026/11/16/inteligencia-artificial/sam-altman-diz-que-industria-de-ia-ficara-bem-sem-jensen-huang-na-nvidia/",
-    "resumo": "Foi a primeira vez que Altman comentou publicamente a saída de Huang da fabricante de chips O post Sam Altman diz que indústria de IA ficará bem sem Jensen Huang na Nvidia apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-16T20:31:02.000Z",
-    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/08/openai-nvidia-1024x683.jpg",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Truque da Nova Zelândia em GTA 6 pode render banimento na Twitch",
-    "link": "https://canaltech.com.br/games/truque-da-nova-zelandia-em-gta-6-pode-render-banimento-na-twitch/",
-    "resumo": "A Twitch pode banir streamers que tentarem \"viajar\" para a Nova Zel&acirc;ndia para transmitir gameplay de GTA 6 antes do hor&aacute;rio local. A informa&ccedil;&atilde;o parte do criador de conte&uacute;do alem&atilde;o Rohat, que afirmou ter sido alertado por um gerente de parcerias da plataforma sobre o risco de…",
-    "data": "2026-11-16T20:30:08.000Z",
-    "imagemFeed": null,
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova criação de programa para fortalecer conselhos municipais de meio ambiente",
-    "link": "https://www.camara.leg.br/noticias/1319766-comissao-aprova-criacao-de-programa-para-fortalecer-conselhos-municipais-de-meio-ambiente",
-    "resumo": "O projeto de lei continua em análise na Câmara dos Deputados",
-    "data": "2026-11-16T20:27:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261112123729967-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal",
-    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/",
-    "resumo": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal The post Dólar hoje sobe 2% e vai a R$ 5,77, maior valor desde abril de 2025, com risco fiscal appeared first on InfoMoney .",
-    "data": "2026-11-16T20:21:29.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/03/blogging-guide-K5DY18hy5JQ-unsplash_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Defesa de Zambelli pede retirada do nome da ex-deputada da lista da Interpol",
-    "link": "https://www.infomoney.com.br/politica/defesa-de-zambelli-pede-retirada-do-nome-da-ex-deputada-da-lista-da-interpol/",
-    "resumo": "Advogados alegam falhas no processo de extradição e questionam a competência do STF para julgar um dos casos que motivaram a inclusão da ex-deputada na difusão vermelha da Interpol The post Defesa de Zambelli pede retirada do nome da ex-deputada da lista da Interpol appeared first on InfoMoney .",
-    "data": "2026-11-16T20:17:24.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/09/carla-zambelli.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Consciência Negra: Paulo Paim defende cotas e combate ao racismo",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/consciencia-negra-paulo-paim-defende-cotas-e-combate-ao-racismo",
-    "resumo": "Durante pronunciamento nesta segunda-feira (16), o senador Paulo Paim (PT-RS) defendeu as políticas de cotas e o combate ao racismo. Ao comentar a sessão especial promovida pela manhã no Senado em homenagem ao Dia Nacional de Zumbi e da Consciência Negra (celebrado em 20 de novembro), ele destacou a importância das…",
-    "data": "2026-11-16T20:15:12.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Dólar à vista fecha no maior valor em mais de 18 meses com incertezas fiscais no Brasil",
-    "link": "https://www.moneytimes.com.br/dolar-fecha-em-forte-alta-a-r-57777-com-incertezas-fiscais-no-brasil-davs/",
-    "resumo": "O dólar encerrou esta segunda-feira (16) em forte alta, de 2,17%, a R$ 5,7777, diante da cautela fiscal no Brasil e em meio a uma sessão marcada pela aversão ao risco. O patamar alcançado pela divisa hoje é o maior valor de fechamento da moeda desde 17 de abril de 2025. A alta do dólar […]",
-    "data": "2026-11-16T20:14:47.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Brasileiros perderam o preconceito com tecnologia chinesa? Veja pesquisa",
-    "link": "https://canaltech.com.br/produtos/brasileiros-perderam-o-preconceito-com-tecnologia-chinesa-veja-pesquisa/",
-    "resumo": "A tecnologia chinesa parece estar conquistando cada vez mais a confian&ccedil;a dos consumidores brasileiros. Uma pesquisa realizada pela Ipsos a pedido da Jovi revelou que 75% dos entrevistados t&ecirc;m uma percep&ccedil;&atilde;o positiva sobre a tecnologia produzida na China . O &iacute;ndice representa um…",
-    "data": "2026-11-16T20:10:33.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/75bs0Oz3cOUhMPGus-KAW5NQgCI=/0x0/filters:format(webp):quality(85)/2fd9df0c-2950-4d71-9c19-b6fb7a157a2d.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Atrasada na festa, Apple leva podcasts em vídeo para a TV para tentar alcançar YouTube e Spotify",
-    "link": "https://canaltech.com.br/apps/atrasada-na-festa-apple-leva-podcasts-em-video-para-a-tv-para-tentar-alcancar-youtube-e-spotify/",
-    "resumo": "O aplicativo Apple TV vai ganhar uma se&ccedil;&atilde;o de podcasts em v&iacute;deo no cat&aacute;logo. A novidade foi liberada em testes a partir desta segunda-feira (16) na vers&atilde;o Beta e deve chegar ao p&uacute;blico nos pr&oacute;ximos meses. A Apple confirmou ao jornal The New York Times que os videocasts…",
-    "data": "2026-11-16T20:10:02.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/iOnmrMwpEVQ-H2J4pxkYXDgIal4=/0x0/filters:format(webp):quality(85)/448dc86a-944c-49c2-a672-62fd8d9653bf.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Defesa de Vorcaro contesta permanência de investigações em gabinete de Fachin",
-    "link": "https://www.infomoney.com.br/politica/defesa-de-vorcaro-contesta-permanencia-de-investigacoes-em-gabinete-de-fachin/",
-    "resumo": "Pedido se dá em meio à expectativa para a apresentação da primeira denúncia, pela PGR, sobre as fraudes do Master The post Defesa de Vorcaro contesta permanência de investigações em gabinete de Fachin appeared first on InfoMoney .",
-    "data": "2026-11-16T20:06:57.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/03/vorcadopreso.avif?resize=300,179",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: Plenário analisa destaques da oposição ao projeto de ajuste fiscal",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/plenario-analisa-destaques-da-oposicao-ao-projeto-de-ajuste-fiscal",
-    "resumo": "O ajuste nas contas do governo continua em discussão no Plenário do Senado. Os senadores e senadoras devem votar esta semana os destaques ao texto principal do projeto (PLP 299/2026) apresentado pelo senador Jaques Wagner (PT-BA), que foi aprovado na última quinta-feira (12). Entre os pontos questionados estão o…",
-    "data": "2026-11-16T20:06:36.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Defesa Civil autoriza R$ 10,4 milhões para 28 cidades afetadas por desastres",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/autorizado-repasse-r-4-1-milhoes-para-13-cidades-gauchas-afetadas-por-desastres",
-    "resumo": "Portarias com a liberação dos valores foram publicadas no Diário Oficial da União; recursos serão utilizados em ações de resposta",
-    "data": "2026-11-16T20:05:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Mistura de Game of Thrones com Reacher, clássico cult com ação brutal domina o streaming",
-    "link": "https://canaltech.com.br/entretenimento/mistura-de-game-of-thrones-com-reacher-classico-cult-com-acao-brutal-domina-o-streaming/",
-    "resumo": "Para quem sente saudades de Game of Thrones , com suas hist&oacute;rias de vingan&ccedil;a e viol&ecirc;ncia, o filme O Homem do Norte , do diretor Robert Eggers (Nosferatu), que voltou a chamar a aten&ccedil;&atilde;o no streaming recentemente, pode ser uma boa op&ccedil;&atilde;o de play para o fim de semana.…",
-    "data": "2026-11-16T20:02:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/Bs5P4NAfVq9dk8PRMEaGahLSo68=/0x0/filters:format(webp):quality(85)/facd0ce3-dd89-4773-8051-dc6d76f9480f.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Banco Master: Defesa de Vorcaro quer tirar caso de Fachin e mandá-lo de volta para André Mendonça",
-    "link": "https://www.moneytimes.com.br/defesa-de-vorcaro-quer-tirar-compliance-zero-de-fachin-e-pede-retorno-dos-autos-para-mendonca/",
-    "resumo": "Os advogados do banqueiro Daniel Vorcaro impetraram nesta segunda-feira, 16, mandado de segurança no Supremo Tribunal Federal (STF) no qual invocam o princípio do juiz natural e questionam ato administrativo do presidente da Corte, Edson Fachin, que transferiu à Presidência os autos da Operação Compliance Zero. O…",
-    "data": "2026-11-16T20:00:09.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ram derruba preços e Rampage sai mais em conta que Toyota Hilux",
-    "link": "https://canaltech.com.br/carros/ram-derruba-precos-e-rampage-sai-mais-em-conta-que-toyota-hilux/",
-    "resumo": "Quem procura uma picape para renovar a garagem n&atilde;o pode perder as ofertas da Black RAM . Em novembro, a Rampage pode ser adquirida com mais de R$ 40 mil de desconto , e a picape m&eacute;dia Dakota pode sair no precinho &mdash; e ainda com a vantagem de condi&ccedil;&otilde;es bem especiais. A ofensiva…",
-    "data": "2026-11-16T20:00:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/G-BHsnOBQcnWvAu5oCMAyKw6bF8=/0x0/filters:format(webp):quality(85)/6f3bc05f-d107-4fc8-b72e-6b066dc68546.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "‘Rota de colisão inevitável’: o que o Brasil precisa fazer para não se queimar na batalha entre EUA e China",
-    "link": "https://www.moneytimes.com.br/rota-de-colisao-inevitavel-o-que-o-brasil-precisa-fazer-para-nao-se-queimar-na-guerra-entre-entre-eua-e-china-bdap/",
-    "resumo": "“Os Estados Unidos e a China estão em uma rota de colisão inevitável.” É assim que o cientista político Heni Ozi Cukier, mais conhecido como Professor HOC, define o atual cenário de tensão entre as duas maiores potências do mundo hoje. Na visão dele, todos os sinais apontam para que os dois países acabem partindo […]",
-    "data": "2026-11-16T19:58:35.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "7 tablets que devem despencar de preço na Black Friday",
-    "link": "https://canaltech.com.br/tablet/7-tablets-que-devem-despencar-de-preco-na-black-friday/",
-    "resumo": "Quem precisa de um dispositivo para aumentar a produtividade nos estudos e no trabalho, ou simplesmente ter uma tela maior para aproveitar filmes e s&eacute;ries, pode encontrar nos tablets uma boa alternativa. E a Black Friday &eacute; uma data interessante para aproveitar descontos e levar para casa um modelo ideal…",
-    "data": "2026-11-16T19:51:03.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/eOrYhS6T18yDiyHy1T2Z97oEYA0=/0x0/filters:format(webp):quality(85)/90dd281f-9359-4d07-867e-141da870e69f.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão promove dois debates sobre redução da maioridade penal nesta semana",
-    "link": "https://www.camara.leg.br/noticias/1319616-comissao-promove-dois-debates-sobre-reducao-da-maioridade-penal-nesta-semana",
-    "resumo": "Vinicius Loures / Câmara dos Deputados Reunião da Comissão Especial sobre Maioridade Penal (PEC 32/15) A comissão especial da Câmara dos Deputados que analisa a Proposta de Emenda à Constituição que reduz a maioridade penal para 16 anos (PEC 32/15) realiza, na terça-feira (17) e na quarta-feira (18), audiências…",
-    "data": "2026-11-16T19:49:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261111154745070-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT",
-    "link": "https://olhardigital.com.br/2026/11/16/inteligencia-artificial/openai-anuncia-punicao-para-quem-tentar-sexualizar-criancas-no-chatgpt/",
-    "resumo": "Violações repetidas poderão resultar no encerramento permanente da conta e até em denúncias às autoridades O post OpenAI anuncia punição para quem tentar sexualizar crianças no ChatGPT apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-16T19:47:40.000Z",
-    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/10/openai-2-1024x512.jpg",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Fed vê oportunidades e riscos na IA, enquanto dirigentes defendem juros mais altos",
-    "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/16/fed-ve-oportunidades-e-riscos-na-ia-enquanto-dirigentes-defendem-juros-mais-altos.ghtml",
-    "resumo": "Declarações de dirigentes do Federal Reserve (Fed, o banco central dos Estados Unidos) nesta segunda-feira (16) colocaram os efeitos da inteligência artificial (IA) sobre a economia americana no centro das discussões de política monetária. Enquanto o presidente da instituição, Kevin Warsh, destacou o potencial da…",
-    "data": "2026-11-16T19:46:33.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/_wexobyAhYXDMU8bohR7YOy0k50=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/8/F/BD3BKJRWGxbUAoldGlxQ/2026-10-01t174747z-1936523488-rc2hunap712l-rtrmadp-3-usa-fed-kashkari.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova incentivo a empresas que desenvolvem tecnologias assistivas",
-    "link": "https://www.camara.leg.br/noticias/1319658-comissao-aprova-incentivo-a-empresas-que-desenvolvem-tecnologias-assistivas",
-    "resumo": "O projeto segue em análise na Câmara dos Deputados",
-    "data": "2026-11-16T19:46:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20260429202042958-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Robert Pattinson é o novo James Bond: qual ator ganhou mais dinheiro para interpretar o agente 007?",
-    "link": "https://www.seudinheiro.com/2026/lifestyle/robert-pattinson-e-o-novo-james-bond-qual-ator-ganhou-mais-dinheiro-para-interpretar-o-agente-007-sama/",
-    "resumo": "De Sean Connery a Daniel Craig, seis atores já interpretaram o agente secreto nos cinemas; veja quem acumulou a maior fortuna com o papel The post Robert Pattinson é o novo James Bond: qual ator ganhou mais dinheiro para interpretar o agente 007? appeared first on Seu Dinheiro .",
-    "data": "2026-11-16T19:42:57.000Z",
-    "imagemFeed": "https://www.seudinheiro.com/uploads/2026/11/905568970_17988441741091618_5612039738973688195_n-scaled.jpg",
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: Senadoras cobram investigação federal sobre crianças desaparecidas no MA",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senadoras-cobram-investigacao-federal-sobre-criancas-desaparecidas-no-ma",
-    "resumo": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) fez uma diligência no município de Bacabal (MA), para acompanhar as investigações sobre o desaparecimento dos irmãos Ágatha Isabelly, de 6 anos, e Allan Michael, de 4 anos. As crianças desapareceram no dia 4 de janeiro, na comunidade quilombola São…",
-    "data": "2026-11-16T19:34:18.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "IPO da Anthropic testa o preço da IA",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcWtmS1YyOThpWXBBNm1KM2VwWjlnUDlOYmYzYW1rQmwyMkp2bmRVT0tPNXVFOWVFWDlyeWg1elp1aVJMZHJUMloyT0Njd1ZvN3c1aU1HYkMyQmtzM2d2dGs1MDJfNzg5bjRDd0dqQm1yRnI4OFBHMEVjUQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T19:34:15.000Z",
-    "origem": "StartSe",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "StartSe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Vinil vazado revela trilha sonora de GTA 6 com Dua Lipa, Lana Del Rey e Travis Scott",
-    "link": "https://canaltech.com.br/games/vinil-vazado-revela-trilha-sonora-de-gta-6-com-dua-lipa-lana-del-rey-e-travis-scott/",
-    "resumo": "No &uacute;ltimo domingo (15), uma loja de discos vazou um v&iacute;deo que pode revelar toda a tracklist do vinil de Grand Theft Auto 6: The Album. Ao todo, ser&atilde;o 34 faixas presentes no disco . Entre elas, est&atilde;o m&uacute;sicas de Lana Del Rey, Dua Lipa e Travis Scott. A grava&ccedil;&atilde;o mostra uma…",
-    "data": "2026-11-16T19:30:03.000Z",
-    "imagemFeed": null,
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "INSS realiza 45 atendimentos à população em situação de rua em São José do Rio Preto (SP)",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-realiza-45-atendimentos-a-populacao-em-situacao-de-rua-em-sao-jose-do-rio-preto-sp",
-    "resumo": "Equipe da Previdência Social ofereceu orientações sobre benefícios, registrou requerimentos de BPC e aposentadorias e emitiu extratos durante o Pop Rua Jud",
-    "data": "2026-11-16T19:30:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "IBGE recebe homenagem pelos seus 90 anos na Assembleia Legislativa da Bahia",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVHI0bldqVHgzRVlUSnBvejU3c3poczFHUUZKNnU5cWpJWjBzdk9WWHdTTzdEM25tMlhUdUhWa25rYUlIUXBuYVpESTBTSXFnb1RCT0JTemJTOGZkNGhTVVlrRzBWUTYtbXlSQW9zclk5ZV9QYlpJaFl2RWRmSlhwVVM3ZjVuYzJFRjdEdzBaLW9YS21TZWJLemJ1SlBSeGJHV3VFTGpWbnkyS0FWdURpNkFkRWdxMEdhRTd5dTlfTndMaEFHSXdpWnNUNFRnNW9tRG9mQmFaV0VsN3pPSnc2MjR2OU9mMVVWZzdNTkxJNXR0dHNJNGRfX3VSbmJmVUU?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T19:29:00.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "‘Trocar fiscal por produção nacional’: a defesa do setor para acelerar o biodiesel no Brasil",
-    "link": "https://www.moneytimes.com.br/trocar-fiscal-por-producao-nacional-a-defesa-do-setor-para-acelerar-o-biodiesel-no-brasil-pads/",
-    "resumo": "Em meio às discussões sobre o atraso na implementação do B16 e as incertezas em torno dos próximos passos da política de biocombustíveis, representantes da cadeia do biodiesel defendem que a discussão vai muito além do percentual de mistura. Para o setor, trata-se de uma escolha econômica mais ampla: continuar…",
-    "data": "2026-11-16T19:23:27.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ouro atinge menor nível desde setembro de 2025 com apostas de alta de juros pelo Fed",
-    "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/16/ouro-atinge-menor-nivel-desde-setembro-de-2025-com-apostas-de-alta-de-juros-pelo-fed.ghtml",
-    "resumo": "Os preços dos contratos futuros do ouro fecharam em queda, no menor patamar em 14 meses, pressionados pelo fortalecimento do dólar, à medida que investidores ampliaram as apostas em altas de juros pelo Federal Reserve (Fed), diante de comentários mais “hawkish”, propensos ao aperto monetário, de autoridades do banco…",
-    "data": "2026-11-16T19:19:30.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/YJUvswdL1ykcwSbXNVk3FgN_dys=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/u/v/62CwliRUK70SBcHN2JjA/ouro-dolar.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: Debatedores defendem recursos para políticas em território ianomâmi",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debatedores-defendem-recursos-para-politicas-em-territorio-ianomami",
-    "resumo": "A Subcomissão dos Povos Indígenas Yanomami debateu nesta segunda-feira (16) recursos para manter ações de saúde, alimentação e proteção territorial em 2027. A presidenta da Fundação Nacional dos Povos Indígenas (Funai), Lúcia Alberta Baré, alertou para a pressão pelo retorno do garimpo. O Ministério dos Povos…",
-    "data": "2026-11-16T19:19:18.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "INSS realiza 315 perícias médicas em mutirões no Paraná",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-realiza-315-pericias-medicas-em-mutiroes-no-parana",
-    "resumo": "Mobilização realizada no último sábado (14) ampliou o atendimento nas agências do INSS em Colombo, São José dos Pinhais e Paranaguá com a antecipação de avaliações médico-periciais.",
-    "data": "2026-11-16T19:18:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "PlayStation Store ganha opção de pagamento via PIX",
-    "link": "https://canaltech.com.br/games/playstation-store-ganha-opcao-de-pagamento-via-pix/",
-    "resumo": "Jogadores do PlayStation no Brasil agora podem adquirir jogos via Pix pela PS Store na Web . Um usu&aacute;rio relatou o surgimento da nova op&ccedil;&atilde;o de pagamento na &uacute;ltima quinta-feira (12) no subreddit r/playstationbrasil. A Sony aparentemente est&aacute; disponibilizando o Pix de maneira gradual…",
-    "data": "2026-11-16T19:16:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ajuste fiscal não compromete políticas sociais, garante Humberto Costa",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/ajuste-fiscal-nao-compromete-politicas-sociais-garante-humberto-costa",
-    "resumo": "O senador Humberto Costa (PT-PE), em pronunciamento no Plenário nesta segunda-feira (16), defendeu o projeto de lei complementar que trata do ajuste fiscal proposto pelo governo federal (PLP 299/2026). O parlamentar afirmou que votou a favor do texto principal e que apoiará os itens restantes que preservem a proposta.…",
-    "data": "2026-11-16T19:06:44.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Projeto estabelece regras para uso de anticoncepcionais hormonais em cadelas e gatas",
-    "link": "https://www.camara.leg.br/noticias/1313139-projeto-estabelece-regras-para-uso-de-anticoncepcionais-hormonais-em-cadelas-e-gatas",
-    "resumo": "A Câmara dos Deputados analisa o assunto",
-    "data": "2026-11-16T19:05:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261110143745719-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Além da educação financeira, educação previdenciária também se aprende na escola",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/alem-da-educacao-financeira-aprender-valor-passa-a-ofertar-tambem-educacao-previdenciaria",
-    "resumo": "Aprender Valor, projeto do Banco Central, inclui novos materiais didáticos em pacote que é ofertado às escolas. Conteúdo para o 8º e o 9º anos ajudam escolas a abordar planejamento em aulas de Matemática, Geografia e História",
-    "data": "2026-11-16T19:05:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Cientistas criam IA que lê lábios em silêncio absoluto e bate recorde de precisão",
-    "link": "https://canaltech.com.br/inteligencia-artificial/cientistas-criam-ia-que-le-labios-em-silencio-absoluto-e-bate-recorde-de-precisao/",
-    "resumo": "Os pesquisadores do Instituto Avan&ccedil;ado de Ci&ecirc;ncia e Tecnologia da Coreia (KAIST) desenvolveram uma intelig&ecirc;ncia artificial que consegue identificar palavras a partir dos movimentos dos l&aacute;bios em v&iacute;deos sem &aacute;udio . Batizado de DLLM-VSR, o sistema alcan&ccedil;ou um novo recorde…",
-    "data": "2026-11-16T19:04:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/9v1u67ne6INmdroVxGU900leCv4=/0x0/filters:format(webp):quality(85)/1df87bb2-d2bd-4a61-91b7-28b8b4d18ac6.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Senado vota nesta quarta mais prazo para escolas usarem verba para internet",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/senado-vota-nesta-quarta-mais-prazo-para-escolas-usarem-verba-para-internet",
-    "resumo": "Um dos itens pautados para a sessão do Plenário do Senado nesta quarta-feira (18) é o projeto de lei que amplia em dois anos o prazo limite para as escolas públicas usarem as verbas destinadas a garantir acesso à internet em estabelecimentos de ensino. O PL 5.756/2026, da senadora Professora Dorinha Seabra (União-TO),…",
-    "data": "2026-11-16T18:56:14.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Sabesp (SBSP3) é a favorita entre analistas nas carteiras ESG; veja outras apostas",
-    "link": "https://www.seudinheiro.com/2026/bolsa-dolar/sabesp-sbsp3-e-a-favorita-entre-analistas-nas-carteiras-esg-veja-outras-apostas-cbcb/",
-    "resumo": "XP, BTG, BB Investimentos e Itaú BBA também destacam empresas como Itaú Unibanco, WEG e Suzano em suas seleções de novembro The post Sabesp (SBSP3) é a favorita entre analistas nas carteiras ESG; veja outras apostas appeared first on Seu Dinheiro .",
-    "data": "2026-11-16T18:55:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ouro fecha em queda e atinge menor valor em um ano",
-    "link": "https://www.moneytimes.com.br/ouro-fecha-em-queda-e-atinge-menor-valor-em-um-ano-davs/",
-    "resumo": "Mais cedo, o metal chegou a recuar a US$ 3.835,20, menor nível desde setembro de 2025",
-    "data": "2026-11-16T18:51:53.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "'Arquivo S' ganha novo volume com registro de fatos históricos",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/16/arquivo-s-ganha-novo-volume-com-registro-de-fatos-historicos",
-    "resumo": "O Senado lança nesta quarta-feira (18), às 15h, o 11º volume da coleção Arquivo S – O Senado na História do Brasil, produzido pela Agência Senado. A obra reúne reportagens sobre fatos marcantes do país, com base em documentos históricos que estão sob a guarda do Arquivo do Senado. O lançamento ocorrerá em uma live do…",
-    "data": "2026-11-16T18:49:15.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Biodiesel: A canola da 3tentos (TTEN3), o girassol da Caramuru e os planos para agregar valor no Arco Norte",
-    "link": "https://www.moneytimes.com.br/a-canola-da-3tentos-tten3-o-girassol-da-caramuru-e-os-planos-conjuntos-para-agregar-valor-no-arco-norte-pads/",
-    "resumo": "Enquanto o setor de biodiesel acompanha as discussões sobre o avanço da mistura obrigatória no diesel, empresas da cadeia já trabalham em outra frente para impulsionar o crescimento do segmento: ampliar a oferta de matérias-primas, diversificar culturas e investir em logística para aumentar o valor agregado da…",
-    "data": "2026-11-16T18:40:25.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa cai 1,8% com desconfiança sobre ajuste fiscal de Lula; NY recua com temor sobre IA",
-    "link": "https://exame.com/invest/mercados/ibovespa-cai-18-com-desconfianca-sobre-ajuste-fiscal-de-lula-ny-recua-com-temor-sobre-ia/",
-    "resumo": "Os preços do petróleo recuaram nesta segunda-feira, 16, diante de sinais de excesso de oferta global",
-    "data": "2026-11-16T18:36:38.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Haja folga: platinar GTA 6 pode exigir pelo menos 200 horas de jogo",
-    "link": "https://canaltech.com.br/games/haja-folga-platinar-gta-6-pode-exigir-pelo-menos-200-horas-de-jogo/",
-    "resumo": "Pode levar cerca de 200 horas para que os jogadores consigam conquistar o Trof&eacute;u de Platina ou a Conquista M&iacute;tica em GTA 6 . &Eacute; o que diz o portal Insider Gaming, que estimou quanto tempo levar&aacute; para completar todas as conquistas no jogo da Rockstar. Para efeito de compara&ccedil;&atilde;o,…",
-    "data": "2026-11-16T18:30:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/rlZ3MUlq2PvPNIhfaGHJj0AmpFs=/0x0/filters:format(webp):quality(85)/45ea9857-b4c5-4279-9ce1-e64c59b50f51.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dólar à vista ganha fôlego e ultrapassa os R$ 5,78 com pacote do governo; ‘má qualidade’, diz economista",
-    "link": "https://www.moneytimes.com.br/dolar-a-vista-ganha-folego-e-ultrapassa-os-r-578-davs/",
-    "resumo": "O dólar segue em alta expressiva nesta segunda-feira (16), em meio a uma sessão marcada pela aversão ao risco. A moeda norte-americana também sobe ante a maioria das divisas pelo mundo. De acordo com Rebecca Nossig, estrategista de ações da Nomad, o movimento é impulsionado pelas incertezas fiscais em torno da votação…",
-    "data": "2026-11-16T18:29:29.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Tesouro e Banco do Brasil vão formar 3 mil servidores como agentes de inclusão de PCD's",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/tesouro-nacional-banco-do-brasil-e-inclusi-lancam-programa-para-formar-3-mil-agentes-publicos-em-inclusao-produtiva-1",
-    "resumo": "A iniciativa oferece formação gratuita e certificada para ampliar a inclusão de pessoas com deficiência na gestão pública",
-    "data": "2026-11-16T18:28:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Vazamento revela \"câmera profissional\" da One UI 9.5 com modo rajada e pista de vídeo",
-    "link": "https://canaltech.com.br/apps/vazamento-revela-camera-profissional-da-one-ui-95-com-modo-rajada-e-pista-de-video/",
-    "resumo": "A Samsung prepara uma grande reformula&ccedil;&atilde;o no Expert RAW , aplicativo de c&acirc;mera com recursos profissionais para os celulares de topo de linha da marca. A ferramenta vai ganhar novo visual , modo de disparo em rajada e mais op&ccedil;&otilde;es de abertura. De acordo com o site SamMobile, a nova…",
-    "data": "2026-11-16T18:26:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/EGFEWChNuGrOLs9evZ1vWojvyiU=/0x0/filters:format(webp):quality(85)/31a4070a-2eb1-45b2-a4e9-8b4c75aff813.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: Senado discute bloqueio de chamadas de números desconhecidos em celulares",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-discute-bloqueio-de-chamadas-de-numeros-desconhecidos-em-celulares",
-    "resumo": "O senador Styvenson Valentim (Podemos-RN) apresentou projeto de lei (PL 5.535/2026) que obriga os celulares comercializados no Brasil a oferecer uma funcionalidade para bloquear, rejeitar ou silenciar chamadas de números que não estejam na lista de contatos dos usuários. A proposta busca ampliar o controle dos…",
-    "data": "2026-11-16T18:25:26.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Brasil Contra o Crime Organizado completa 200 dias com prejuízo de R$ 7,3 bi a facções criminosas",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-contra-o-crime-organizado-completa-200-dias-quase-100-mil-presos-e-prejuizo-de-r-7-3-bi-a-faccoes-criminosas",
-    "resumo": "Com mais de 40 mil profissionais mobilizados, iniciativa retirou de circulação 360,5 toneladas de drogas",
-    "data": "2026-11-16T18:25:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil-aponta-cni",
-    "resumo": "A economia circular movimenta entre R$ 31 bilhões e R$ 90,7 bilhões no Brasil, segundo levantamento inédito da Confederação Nacional da Indústria (CNI). Apresentado na 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), em Antália, na Turquia, o estudo Financiamento para a Economia Circular na Indústria…",
-    "data": "2026-11-16T18:25:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-brasil-economia",
-    "fonte": "Agência Brasil",
-    "categoria": "oficial"
   }
 ]

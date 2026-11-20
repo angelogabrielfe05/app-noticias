@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T18:17:29.931Z",
+  "geradoEm": "2026-11-20T21:17:24.032Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -32,7 +32,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 30
         },
         {
           "id": "2a4adcc12a11",
@@ -69,45 +69,21 @@
           "pontos": 25
         },
         {
-          "id": "8dd3dad0c634",
-          "outrosIds": [
-            "ecd7c04d29ad",
-            "8cd59a67b3f6",
-            "655850993894",
-            "45bd9cd2a1c7"
-          ],
-          "titulo": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta quinta-feira (19) enviar à Procuradoria-Geral da República (PGR) quatro relatórios produzidos pela Polícia Federal (PF) sobre menções a ministros da Corte em conversas encontradas no celular de Daniel Vorcaro. Os relatórios referem-se…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf",
+          "id": "7d821528763f",
+          "outrosIds": [],
+          "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro (PL-RJ) de deixar o país e determinou a entrega de seus passaportes. O voto foi proferido durante o julgamento virtual de um recurso apresentado pela…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T23:56:00.000Z",
+          "data": "2026-11-20T20:55:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
-        },
-        {
-          "id": "48e6c56e58e6",
-          "outrosIds": [
-            "bc59e0ffb6be"
-          ],
-          "titulo": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
-          "resumo": "Kayo Magalhães / Câmara dos Deputados Sessão deliberativa do Plenário da Câmara A Câmara dos Deputados iniciou a Ordem do Dia e analisa o Projeto de Decreto Legislativo (PDL) 756/25, que contém o Tratado de Assistência Jurídica Mútua em Matéria Penal entre o Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de…",
-          "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T19:41:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
+          "pontos": 23
         }
       ]
     },
@@ -124,12 +100,7 @@
             "07d8792ea494",
             "dc8e5bc03ade",
             "a0314ca7a880",
-            "88a5f3fbd08e",
-            "0c582cf6630d",
-            "8b61f9e9e3d6",
-            "e07f5708995c",
-            "05cce13ef54a",
-            "ee52fb0e563c"
+            "88a5f3fbd08e"
           ],
           "titulo": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal",
           "resumo": "O mercado financeiro brasileiro teve mais um dia de perdas nesta quarta-feira (18). O dólar subiu pela quinta sessão consecutiva e atingiu a maior cotação em 19 meses, fechando próximo de R$ 5,87. Na bolsa, o Ibovespa recuou 1,34% , pressionado por ações de bancos e pela cautela dos investidores diante da votação do…",
@@ -139,10 +110,10 @@
           "categoria": "oficial",
           "data": "2026-11-18T22:26:00.000Z",
           "tambemEm": [
-            "Agência Senado",
             "Agência Câmara",
-            "InfoMoney",
+            "Agência Senado",
             "Valor Investe",
+            "InfoMoney",
             "Money Times"
           ],
           "foto": {
@@ -166,13 +137,28 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 21
+        },
+        {
+          "id": "afac9fa8b0e5",
+          "outrosIds": [],
+          "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
+          "resumo": "A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com impactos sobre…",
+          "link": "https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T18:18:15.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffederal-reserve-inteligencia-artificial-.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffederal-reserve-inteligencia-artificial-.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
         },
         {
           "id": "f9155037db5b",
-          "outrosIds": [
-            "12187f75c843"
-          ],
+          "outrosIds": [],
           "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
           "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
           "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
@@ -180,14 +166,12 @@
           "oficial": true,
           "categoria": "oficial",
           "data": "2026-11-19T22:47:00.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
+          "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 17
         },
         {
           "id": "f176f51ca21e",
@@ -204,20 +188,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FAdobeStock_866688608.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F06%2FAdobeStock_866688608.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
-        },
-        {
-          "id": "1233fc4cd65b",
-          "outrosIds": [],
-          "titulo": "Durigan defende novo imposto no Senado",
-          "resumo": "",
-          "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/11/durigan-defende-novo-imposto-no-senado",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T20:02:26.000Z",
-          "tambemEm": [],
-          "foto": null,
           "pontos": 16
         }
       ]
@@ -256,7 +226,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 32
+        },
+        {
+          "id": "bcd0177f984b",
+          "outrosIds": [],
+          "titulo": "Nasdaq cai 5% com sell-off de ações de IA; S&P500 e Dow Jones têm “correção”",
+          "resumo": "IPO da Anthropic parece ter feito pouco para acalmar as preocupações sobre o setor de inteligência artificial após a empolgação inicial The post Nasdaq cai 5% com sell-off de ações de IA; S&P500 e Dow Jones têm “correção” appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/nasdaq-registra-queda-seguindo-baixa-de-acoes-da-anthropic/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T20:30:35.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "d1ea590d0009",
@@ -308,23 +295,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "674c1da7b947",
-          "outrosIds": [],
-          "titulo": "Mesmo com pausa nos negócios, taxas do Tesouro Direto fecham em forte alta",
-          "resumo": "A negociação dos títulos do Tesouro Direto tiveram que ser interrompidas nesta quinta-feira (19), em meio à reação negativa dos investidores com a tramitação do pacote fiscal no Congresso e à leitura mais dura da ata do Federal Reserve (Fed, o banco central americano). O pregão foi retomado por volta das 15h, após uma…",
-          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/19/tesouro-direto-hoje-taxas-prefixado-ipca-pacote-fiscal.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T12:42:14.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Fa2tfvgLe2WaA5OKg7H-g2wVjHPk%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fq%2FE%2FXTQ3xjTzKdxxLxfGvABg%2F116709495-pol-25-10-2026-saobernardodocamposp-opresidentelulavotaparaosegundot.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
         }
       ]
     },
@@ -332,28 +302,6 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "ca082af1df17",
-          "outrosIds": [
-            "61a3c8b6ee79",
-            "6232166beb00"
-          ],
-          "titulo": "Ação da Anthropic cai forte após estreia e traz choque de realidade para setor de IA",
-          "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai forte após estreia e traz choque de…",
-          "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T14:48:01.000Z",
-          "tambemEm": [
-            "Forbes Brasil"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
         {
           "id": "0c3c8b23c6ca",
           "outrosIds": [
@@ -396,6 +344,23 @@
           "pontos": 24
         },
         {
+          "id": "0b1c832cdf59",
+          "outrosIds": [],
+          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
+          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T14:53:08.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
           "id": "af0192a3baa2",
           "outrosIds": [
             "db88ee9ef71e",
@@ -415,24 +380,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 22
         },
         {
-          "id": "0b1c832cdf59",
+          "id": "73873142d98b",
           "outrosIds": [],
-          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
-          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
+          "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
+          "resumo": "Durante a abertura da Nasdaq, Dario Amodei afirmou que a empresa não cederá a pressões comerciais ou políticas e manterá o desenvolvimento da inteligência artificial sob controle humano O post No IPO da Anthropic, CEO diz que IA ficará “sob controle humano” apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/19/inteligencia-artificial/no-ipo-da-anthropic-ceo-diz-que-ia-ficara-sob-controle-humano/",
           "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T14:53:08.000Z",
+          "data": "2026-11-19T17:13:39.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 20
         }
       ]
     }
@@ -532,9 +497,9 @@
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": true,
-      "itens": 30,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -610,7 +575,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1418,
+      "itens": 1421,
       "erro": null
     },
     {
@@ -638,7 +603,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 53,
+      "itens": 52,
       "erro": null
     }
   ]
