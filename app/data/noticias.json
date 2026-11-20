@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T03:17:25.896Z",
+  "geradoEm": "2026-11-20T06:17:25.313Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -49,7 +49,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "2a4adcc12a11",
@@ -69,6 +69,23 @@
           "pontos": 26
         },
         {
+          "id": "5f299364a72b",
+          "outrosIds": [],
+          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
+          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T13:04:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "8dd3dad0c634",
           "outrosIds": [
             "655850993894",
@@ -86,24 +103,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
-        },
-        {
-          "id": "5f299364a72b",
-          "outrosIds": [],
-          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
-          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
-          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T13:04:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -132,24 +132,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
-        },
-        {
-          "id": "841030c03edc",
-          "outrosIds": [],
-          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
-          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
-          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T17:57:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
+          "pontos": 33
         },
         {
           "id": "328fef868b55",
@@ -165,6 +148,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "841030c03edc",
+          "outrosIds": [],
+          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T17:57:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -238,8 +238,7 @@
             "d5fd3bfaff68",
             "100fd8f1de6b",
             "f07b9f6a04bd",
-            "53db765348b4",
-            "3af4650850ff"
+            "53db765348b4"
           ],
           "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
           "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
@@ -317,7 +316,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2023%2F01%2F23121937%2Ftendencias-esg-para-2023-cursos-e-acoes.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "674c1da7b947",
@@ -368,6 +367,28 @@
           "pontos": 29
         },
         {
+          "id": "af0192a3baa2",
+          "outrosIds": [
+            "db88ee9ef71e",
+            "cf6377c11033"
+          ],
+          "titulo": "‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY",
+          "resumo": "Militantes pediram, inclusive, o impedimento da oferta pública inicial de ações da gigante da tecnologia, que ultrapassou a SpaceX em estreia recorde na Bolsa de valores americana The post ‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/congelem-a-ia-e-parem-oligarcas-das-techs-ipo-da-anthropic-provoca-protesto-em-ny/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T20:11:50.000Z",
+          "tambemEm": [
+            "O GLOBO"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
           "id": "79d673bba3f7",
           "outrosIds": [
             "cc1e8a161d89",
@@ -391,25 +412,6 @@
           "pontos": 24
         },
         {
-          "id": "af0192a3baa2",
-          "outrosIds": [
-            "db88ee9ef71e"
-          ],
-          "titulo": "‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY",
-          "resumo": "Militantes pediram, inclusive, o impedimento da oferta pública inicial de ações da gigante da tecnologia, que ultrapassou a SpaceX em estreia recorde na Bolsa de valores americana The post ‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/congelem-a-ia-e-parem-oligarcas-das-techs-ipo-da-anthropic-provoca-protesto-em-ny/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T20:11:50.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
           "id": "73873142d98b",
           "outrosIds": [],
           "titulo": "No IPO da Anthropic, CEO diz que IA ficará “sob controle humano”",
@@ -424,7 +426,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fdario-amodei.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "6687f7be62c3",
