@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-20T11:36:59.572Z",
+  "geradoEm": "2026-11-20T12:17:24.425Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -103,7 +103,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCAkMlRo1nXtCNzcZ8o43w9Z5W5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F02%2Fabertura-stf-mc_abr_30012026-9.jpg%3Fitok%3DpwBEFW-j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -111,29 +111,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "f9155037db5b",
-          "outrosIds": [
-            "12187f75c843",
-            "09752a04406e"
-          ],
-          "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
-          "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T22:47:00.000Z",
-          "tambemEm": [
-            "Valor Investe",
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 32
-        },
         {
           "id": "841030c03edc",
           "outrosIds": [],
@@ -201,6 +178,27 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "c717f98acecb",
+          "outrosIds": [
+            "9d422c756551"
+          ],
+          "titulo": "Durigan diz que Reforma Tributária não deve gerar arrecadação extra para o governo",
+          "resumo": "O ministro da Fazenda, Dario Durigan, afirmou nesta quarta-feira (18) que o governo não espera arrecadação adicional com a Reforma Tributária e reforçou o compromisso do governo com a neutralidade tributária prevista na legislação aprovada pelo Congresso. Além disso, ele defendeu que não pretende adiar a implementação…",
+          "link": "https://www.moneytimes.com.br/durigan-diz-que-reforma-tributaria-nao-deve-gerar-arrecadacao-extra-para-o-governo-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-18T16:50:19.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdario-durigan-fazenda-5-e1785158650649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -228,8 +226,7 @@
             "de9c1a328c86",
             "a9463818f426",
             "5ef45beed47e",
-            "3750a57f6e1c",
-            "edaee698e034"
+            "3750a57f6e1c"
           ],
           "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
           "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
@@ -251,44 +248,36 @@
           "pontos": 34
         },
         {
-          "id": "3c57bd81da74",
-          "outrosIds": [
-            "ee42a830fd06"
-          ],
-          "titulo": "Ibovespa pode subir 20%, mas Itaú BBA não vê motivos para comprar; banco rebaixa bolsa para neutra",
-          "resumo": "A bolsa brasileira está barata em relação à sua média histórica, mas isso não foi suficiente para manter o país entre as principais apostas do Itaú BBA na América Latina. O banco rebaixou a recomendação para as ações brasileiras de overweight (equivalente à compra) para neutra, diante da piora das perspectivas para a…",
-          "link": "https://www.moneytimes.com.br/ibovespa-pode-subir-20-mas-itau-bba-nao-ve-motivos-para-comprar-banco-rebaixa-bolsa-para-neutra-miql/",
+          "id": "d1ea590d0009",
+          "outrosIds": [],
+          "titulo": "FII desembolsa R$ 31,3 milhões por fatia de imóvel logístico; IFIX acumula perda de quase 8% em 2026",
+          "resumo": "O fundo imobiliário Pátria Log (HGLG11) concluiu a compra de uma fatia de um imóvel logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,28 milhões. Segundo fato relevante divulgado ao mercado, a participação adquirida corresponde a 5,33% do empreendimento e deverá gerar uma receita mensal de R$ 35,46…",
+          "link": "https://www.moneytimes.com.br/fii-desembolsa-r-313-milhoes-por-fatia-de-imovel-logistico-ifix-acumula-perda-de-quase-8-em-2026-igdl/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T13:48:02.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
+          "data": "2026-11-20T12:03:35.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2022%2F04%2Fb3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "a09d685f212a",
-          "outrosIds": [
-            "60f0699fb0c8"
-          ],
-          "titulo": "Maior FII de energia renovável da bolsa vai recomprar até 10% das próprias cotas; veja o porquê",
-          "resumo": "O fundo imobiliário Suno Energias Limpas (SNEL11), focado em geração de energia renovável, anunciou a aprovação de um programa de recompra de cotas, com início previsto para o próximo dia 30 de novembro. Em fato relevante divulgado ao mercado, o veículo afirmou que a iniciativa permitirá a aquisição de até 10% dos…",
-          "link": "https://www.moneytimes.com.br/maior-fii-de-energia-renovavel-vai-recomprar-ate-10-das-proprias-cotas-veja-o-porque-igdl/",
+          "id": "afaf3bee3bd2",
+          "outrosIds": [],
+          "titulo": "Só 10 empresas da B3 elevaram o ROE por cinco períodos seguidos; 6 superaram o Ibovespa desde 2021",
+          "resumo": "Apenas dez empresas entre todas as companhias listadas na Bolsa de Valores (B3) apresentaram rentabilidade sobre o patrimônio líquido (ROE) positiva e crescente em cinco períodos consecutivos, considerando os exercícios de 2022 a 2025 e os 12 meses encerrados em setembro de 2026. O levantamento da Elos Ayta revela um…",
+          "link": "https://www.moneytimes.com.br/so-10-empresas-da-b3-elevaram-o-roe-por-cinco-periodos-seguidos-6-superaram-o-ibovespa-desde-2021/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T12:09:59.000Z",
-          "tambemEm": [
-            "Seu Dinheiro"
-          ],
+          "data": "2026-11-20T12:02:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fmercado-alta-3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fmercado-alta-3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -637,7 +626,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 65,
+      "itens": 64,
       "erro": null
     }
   ]
