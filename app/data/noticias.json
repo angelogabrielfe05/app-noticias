@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T06:17:25.216Z",
+  "geradoEm": "2026-11-21T09:17:24.060Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -66,7 +66,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -238,7 +238,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "d3876b0108c4",
@@ -255,7 +255,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "d1ea590d0009",
@@ -290,7 +290,7 @@
             "e4d5a7af4773",
             "a744fa2090b8"
           ],
-          "titulo": "IA Claude da Anthropic afirma ter resolvido problema matemático de 150 anos",
+          "titulo": "IA Claude, da Anthropic, afirma ter resolvido problema matemático de 150 anos",
           "resumo": "",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2d5NzBNRlp6YlNKZzJfZ3ZwUDE5ZDgwMURQMGhWWVNJU202bzZaMzVlZ1JqakFFbGhxdUluRjZEcWZJNFhfQzNZVHExS1l0cjF6MkkyOXVkdkd5SFotckZRLXUxXzI2YnJzWDc4ZUpWMm9ValJKcWFmZVpQMmRZZC1OZnAwa3BOeGYtakNIZ2ZSV1RLWU5NcEhfVEFsTTZMQ3d4WGNNbUg2R3E3R2xkRVV4QXhOQVFuVXN5TmhMNUFJUWJ6aGV3SA?oc=5",
           "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -305,7 +305,7 @@
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "ee916781ca89",
@@ -478,7 +478,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 22,
+      "itens": 20,
       "erro": null
     },
     {
@@ -590,7 +590,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 62,
+      "itens": 65,
       "erro": null
     }
   ]
