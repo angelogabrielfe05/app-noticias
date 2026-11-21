@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T15:17:23.859Z",
+  "geradoEm": "2026-11-21T18:17:25.082Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -7,11 +7,7 @@
       "itens": [
         {
           "id": "52b1705314be",
-          "outrosIds": [
-            "8fe9e46b9c22",
-            "e534ac1e912e",
-            "2a216ee7f8db"
-          ],
+          "outrosIds": [],
           "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
           "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
@@ -19,14 +15,12 @@
           "oficial": true,
           "categoria": "oficial",
           "data": "2026-11-19T19:26:43.000Z",
-          "tambemEm": [
-            "Agência Brasil"
-          ],
+          "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
         },
         {
           "id": "c2601d2138bd",
@@ -83,7 +77,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "b8a9756b47b0",
@@ -101,23 +95,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "841030c03edc",
-          "outrosIds": [],
-          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
-          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
-          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T17:57:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         },
         {
           "id": "328fef868b55",
@@ -152,6 +129,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
+        },
+        {
+          "id": "ee0db6cb01f0",
+          "outrosIds": [],
+          "titulo": "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
+          "resumo": "Segundo a gestora, o sentimento predominante entre investidores locais é de cautela The post Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/brasil-corre-risco-de-perder-ciclo-global-favoravel-sem-ajuste-fiscal-alerta-ashmore/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T20:45:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
         }
       ]
     },
@@ -159,32 +153,6 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "1f7539632ba8",
-          "outrosIds": [
-            "29ed428c63ca",
-            "a15d55ce8807",
-            "1fa7ce600334",
-            "e1ec3a85c910"
-          ],
-          "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
-          "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/anthropic-estreia-na-bolsa-com-alta-de-34-bdr-avanca-na-b3/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T19:00:44.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Exame Invest",
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 31
-        },
         {
           "id": "baf53c451c69",
           "outrosIds": [
@@ -209,27 +177,21 @@
           "pontos": 29
         },
         {
-          "id": "d4bb584093cf",
-          "outrosIds": [
-            "433c08109a41",
-            "713df8cfa17b"
-          ],
-          "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção",
-          "resumo": "Nasdaq vira para o negativo em 2026, Dow Jones e S&P 500 entram em correção, e as bolsas europeias fecham em forte queda; entenda o que derrubou as ações nesta sexta-feira (20) The post Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção appeared first on Seu…",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/",
-          "fonte": "Seu Dinheiro",
+          "id": "dff9dd588523",
+          "outrosIds": [],
+          "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
+          "resumo": "Nasdaq 100 caiu 10% na semana, o pior desempenho desde março de 2020, e o S&P 500 entrou em correção, com recuo de 12% desde o recorde de outubro",
+          "link": "https://exame.com/invest/mercados/nasdaq-tem-pior-semana-desde-2020-e-nem-ipo-da-anthropic-segurou-o-setor-de-tecnologia/",
+          "fonte": "Exame Invest",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T17:35:16.000Z",
-          "tambemEm": [
-            "Valor Investe",
-            "Money Times"
-          ],
+          "data": "2026-11-21T14:22:24.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wd89zM4lTKwC-e1795195962999.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wd89zM4lTKwC-e1795195962999.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 24
         },
         {
           "id": "89fba5458c72",
@@ -266,6 +228,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "d3876b0108c4",
+          "outrosIds": [],
+          "titulo": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
+          "resumo": "Nvidia despenca 14%, setor de semicondutores lidera perdas e investidores buscam proteção diante das incertezas do mercado",
+          "link": "https://exame.com/invest/mercados/tombo-das-acoes-de-ia-derruba-nasdaq-em-528-e-provoca-onda-de-perdas-em-wall-street/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T19:26:21.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -274,10 +253,9 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "fa5bd54d9014",
+          "id": "aefa839a6768",
           "outrosIds": [
-            "1ad22c347b45",
-            "e519b529d6fb",
+            "fa5bd54d9014",
             "429c72c5e8ba",
             "0ff09dbae6f3",
             "70389cd1baaa",
@@ -285,49 +263,130 @@
             "e4d5a7af4773",
             "a744fa2090b8"
           ],
-          "titulo": "IA Claude, da Anthropic, afirma ter resolvido problema matemático de 150 anos",
+          "titulo": "Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2d5NzBNRlp6YlNKZzJfZ3ZwUDE5ZDgwMURQMGhWWVNJU202bzZaMzVlZ1JqakFFbGhxdUluRjZEcWZJNFhfQzNZVHExS1l0cjF6MkkyOXVkdkd5SFotckZRLXUxXzI2YnJzWDc4ZUpWMm9ValJKcWFmZVpQMmRZZC1OZnAwa3BOeGYtakNIZ2ZSV1RLWU5NcEhfVEFsTTZMQ3d4WGNNbUg2R3E3R2xkRVV4QXhOQVFuVXN5TmhMNUFJUWJ6aGV3SA?oc=5",
-          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkNMbWtub1RYQXJ3ZjZ0clQwMUtHV3hBSjBNUjM2QzBGNDBwYzRQUmFLOU8wMjNhRGZwbGptT0NQSUp3dXRxOF92a0pLQ0phLXl1cGhiZ2ozeFNFNVlfbWpNOXFtd2Q1dlMySzhLMVpXWWVPMkNsbEZmTnA1NkkyUDZEN2xROFctRWYwZVFCOUJSdlN2SGJvU3dOMWtiRFdvSjNubWJWcERqZUE2S0xtTDJsQUF3UDA?oc=5",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T02:01:00.000Z",
+          "data": "2026-11-21T15:30:00.000Z",
           "tambemEm": [
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Olhar Digital",
             "VEJA",
-            "Estadão",
             "O GLOBO",
             "G1",
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 28
+          "pontos": 30
         },
         {
-          "id": "3f3002a1143b",
+          "id": "ca082af1df17",
           "outrosIds": [
-            "092516384e98",
-            "5171e3e7746f",
-            "f49448078657",
-            "5f38b04fc6e4"
+            "c5c4d743820b",
+            "e49a2eab94e7",
+            "2316f4c76710",
+            "513da153e084",
+            "61a3c8b6ee79",
+            "0e19aa641a79",
+            "9d97f7808b4f",
+            "6190a8a8ee20",
+            "22e3f5660b54",
+            "031eff98bb25",
+            "f004ab54c8f8",
+            "93aab289c578",
+            "1dab3915a1b9",
+            "5f30d030bdd8",
+            "c1b0faf74848",
+            "b4bc2da87ed2",
+            "7de5d63a4386",
+            "ba647a2c4cea",
+            "6970a69c4758",
+            "194c97df7e88",
+            "7d5932a187d6",
+            "13c38392f0f4",
+            "6232166beb00",
+            "7aaba7b4787e",
+            "f7d52e67048a",
+            "e31d244739aa",
+            "b3cf3f47f12f",
+            "1b931898e736",
+            "bfcb5a738ea7",
+            "2efa5abd8d18",
+            "2e1c9541a265",
+            "7cf869f37df9",
+            "7597d3810a48",
+            "c0df06a1e16b",
+            "2f95390fc041",
+            "6116ee16c474",
+            "bea14c6647e4",
+            "dadc094d82c2",
+            "d6261ad678d9",
+            "9ef072ddeb4c",
+            "c559342f9655",
+            "0d608cd7b595",
+            "3d6c9461ccdc",
+            "8b915955c0cc",
+            "fc6c68de2d51",
+            "6337902c20b3",
+            "47ef8b64fc5f",
+            "332f69257e27",
+            "5efee343f529",
+            "a17389cc9f1a",
+            "828450de5c6a",
+            "985c514a6b6e",
+            "aed877c671de",
+            "958e37c89b21",
+            "cdb03a74f939",
+            "0c78ecc51079",
+            "d2b3dbd07518",
+            "91dfb35a8a2b",
+            "148f6a304d34",
+            "08d463928153",
+            "832bb91d8ef6",
+            "a3c29da58cd5",
+            "c95321220894",
+            "3994893a4870",
+            "c4ec2f1e2726",
+            "5173546a5460"
           ],
-          "titulo": "IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana",
-          "resumo": "Temporada de balanços teve o menor percentual de empresas acima das estimativas de EBITDA desde 2021; Banco do Brasil, cenários para a Selic e resultados da Nvidia também estão entre os destaques da semana The post IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana appeared first on…",
-          "link": "https://www.infomoney.com.br/onde-investir/ipo-historico-da-anthropic-nvidia-e-balancos-na-b3-veja-os-destaques-da-semana/",
+          "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
+          "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
+          "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T10:00:00.000Z",
+          "data": "2026-11-20T21:13:29.000Z",
           "tambemEm": [
             "CNN Brasil",
-            "NeoFeed",
-            "G1"
+            "Valor Econômico",
+            "Bloomberg Línea Brasil",
+            "Money Times",
+            "Forbes Brasil",
+            "UOL Economia",
+            "Estadão",
+            "VEJA",
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "Valor Investe",
+            "Canaltech",
+            "StartSe",
+            "BBC",
+            "Olhar Digital",
+            "G1",
+            "Poder360",
+            "Metrópoles",
+            "O GLOBO",
+            "Exame",
+            "Seu Dinheiro",
+            "Gazeta do Povo",
+            "NeoFeed"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-115856.png%3Ffit%3D939%252C624%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-115856.png%3Ffit%3D939%252C624%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 28
         },
         {
           "id": "98c13efb5a0e",
@@ -343,23 +402,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "0ba4ebad3f39",
-          "outrosIds": [],
-          "titulo": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
-          "resumo": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial será de manutenção, não de inovação apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T10:02:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -384,6 +426,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "0ba4ebad3f39",
+          "outrosIds": [],
+          "titulo": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
+          "resumo": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial será de manutenção, não de inovação apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T10:02:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
         }
       ]
     }
@@ -477,7 +536,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 14,
+      "itens": 10,
       "erro": null
     },
     {
@@ -589,7 +648,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 70,
+      "itens": 72,
       "erro": null
     }
   ]
