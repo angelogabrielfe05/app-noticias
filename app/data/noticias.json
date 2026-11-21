@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T00:17:36.497Z",
+  "geradoEm": "2026-11-21T03:17:24.008Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -35,23 +35,6 @@
           "pontos": 30
         },
         {
-          "id": "7d821528763f",
-          "outrosIds": [],
-          "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro (PL-RJ) de deixar o país e determinou a entrega de seus passaportes. O voto foi proferido durante o julgamento virtual de um recurso apresentado pela…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-20T20:55:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
           "id": "c2601d2138bd",
           "outrosIds": [],
           "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
@@ -67,6 +50,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "7d821528763f",
+          "outrosIds": [],
+          "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro (PL-RJ) de deixar o país e determinou a entrega de seus passaportes. O voto foi proferido durante o julgamento virtual de um recurso apresentado pela…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-20T20:55:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -75,27 +75,21 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "dedbc3a2eb65",
-          "outrosIds": [
-            "ee0db6cb01f0",
-            "1a720c333473"
-          ],
-          "titulo": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
-          "resumo": "Anúncio foi feito em Buenos Aires pelo presidente da Câmara, Hugo Motta; ele destacou a maturidade e a solidez da democracia brasileira",
-          "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
+          "id": "841030c03edc",
+          "outrosIds": [],
+          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário na próxima semana",
+          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
           "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T00:50:00.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Valor Investe"
-          ],
+          "data": "2026-11-19T17:57:00.000Z",
+          "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 22
         },
         {
           "id": "328fef868b55",
@@ -115,55 +109,55 @@
           "pontos": 21
         },
         {
-          "id": "afac9fa8b0e5",
+          "id": "5f3942c82890",
           "outrosIds": [],
-          "titulo": "‘Não temos esse luxo’, diz diretora do Fed sobre esperar mais para combater inflação",
-          "resumo": "A diretora do Federal Reserve (Fed) Lisa Cook alertou nesta sexta-feira (20), que a inflação segue elevada e disseminada nos Estados Unidos, exigindo uma resposta mais agressiva da política monetária. Para ela, adiar ajustes nos juros pode obrigar o Fed a realizar aumentos maiores no futuro, com impactos sobre…",
-          "link": "https://www.moneytimes.com.br/nao-temos-esse-luxo-diz-diretora-do-fed-sobre-esperar-mais-para-combater-inflacao-pads/",
+          "titulo": "Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo",
+          "resumo": "Movimento ocorreu apesar de o Senado ter aprovado projeto ​que busca garantir ao governo um superávit primário de 0,5% do PIB em 2027 The post Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-tem-altas-fortes-com-desconfianca-sobre-ajuste-fiscal-do-governo/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-19T20:08:57.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
+        },
+        {
+          "id": "09906a26a884",
+          "outrosIds": [],
+          "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
+          "resumo": "A Instituição Fiscal Independente (IFI) alertou que o governo do presidente Luiz Inácio Lula da Silva (PT) precisará apresentar um plano de ajuste fiscal estrutural e profundo para enfrentar os desafios das contas públicas em 2027. Segundo a instituição, o pacote fiscal atualmente em discussão no Congresso Nacional…",
+          "link": "https://www.moneytimes.com.br/ifi-cobra-novo-ajuste-fiscal-de-lula-e-diz-que-pacote-atual-nao-basta-para-2027-jcav/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T18:18:15.000Z",
+          "data": "2026-11-19T14:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffederal-reserve-inteligencia-artificial-.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffederal-reserve-inteligencia-artificial-.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 20
         },
         {
-          "id": "4d89ed077699",
+          "id": "59427c2ad979",
           "outrosIds": [],
-          "titulo": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-          "resumo": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pressão no mercado de câmbio, foram…",
-          "link": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
+          "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
+          "resumo": "Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T16:04:46.000Z",
+          "data": "2026-11-19T11:49:11.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdolar-estrangeiros-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
-        },
-        {
-          "id": "f9155037db5b",
-          "outrosIds": [],
-          "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
-          "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T22:47:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
+          "pontos": 20
         }
       ]
     },
@@ -245,7 +239,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "d3876b0108c4",
@@ -262,7 +256,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "d1ea590d0009",
@@ -288,18 +282,31 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "a310d173ceed",
-          "outrosIds": [],
-          "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção",
+          "id": "fa5bd54d9014",
+          "outrosIds": [
+            "429c72c5e8ba",
+            "0ff09dbae6f3",
+            "70389cd1baaa",
+            "07d5c896dc8d",
+            "e4d5a7af4773",
+            "a744fa2090b8"
+          ],
+          "titulo": "IA Claude da Anthropic afirma ter resolvido problema matemático de 150 anos",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHNxSC1Bel9PdXNaeFFWMGFQOFlQaUg4RWl4Y1FZNFlvX1pmcmpabmxzSVBXUzdxXzZWbHFVTUpoTks0dV80MElHUG00clFRRjc1Nk9NMGxrbG9Sb3M0Skd1eDBxdFNQVU1PdmhqV093Vi1CQk1jMWo5VFZJTjAtNjFLbkswT3pLQVp4ZlNBYWEwNUJKMUh5SUFjWHVNMXpfaTJHYmw2UW5FWjllTFFpYlRGUk1VTkhtME9RNUszaGVOazhPeVBrNW1WOTJraGh3NldLUl9NNEd4ZEE?oc=5",
-          "fonte": "Seu Dinheiro",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2d5NzBNRlp6YlNKZzJfZ3ZwUDE5ZDgwMURQMGhWWVNJU202bzZaMzVlZ1JqakFFbGhxdUluRjZEcWZJNFhfQzNZVHExS1l0cjF6MkkyOXVkdkd5SFotckZRLXUxXzI2YnJzWDc4ZUpWMm9ValJKcWFmZVpQMmRZZC1OZnAwa3BOeGYtakNIZ2ZSV1RLWU5NcEhfVEFsTTZMQ3d4WGNNbUg2R3E3R2xkRVV4QXhOQVFuVXN5TmhMNUFJUWJ6aGV3SA?oc=5",
+          "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T17:35:16.000Z",
-          "tambemEm": [],
+          "data": "2026-11-21T02:01:00.000Z",
+          "tambemEm": [
+            "Olhar Digital",
+            "VEJA",
+            "O GLOBO",
+            "G1",
+            "InfoMoney"
+          ],
           "foto": null,
-          "pontos": 23
+          "pontos": 30
         },
         {
           "id": "1c57ddf60943",
@@ -319,23 +326,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "0b1c832cdf59",
-          "outrosIds": [],
-          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
-          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T14:53:08.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -379,6 +369,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "0b1c832cdf59",
+          "outrosIds": [],
+          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
+          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T14:53:08.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
         }
       ]
     }
@@ -478,9 +485,9 @@
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": true,
-      "itens": 30,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -584,7 +591,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 57,
+      "itens": 63,
       "erro": null
     }
   ]
