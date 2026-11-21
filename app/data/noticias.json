@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T09:17:24.060Z",
+  "geradoEm": "2026-11-21T12:17:27.356Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -143,21 +143,21 @@
           "pontos": 20
         },
         {
-          "id": "59427c2ad979",
+          "id": "ee0db6cb01f0",
           "outrosIds": [],
-          "titulo": "Ajuste fiscal: entenda por que projeto do governo é considerado ‘insuficiente’ pelo mercado",
-          "resumo": "Proposta apresentada pelo governo já levanta questionamentos de agentes do mercado: para estrategista da Empiricus, é um ‘puxadinho’ que pode não frear avanço da dívida pública",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-entenda-por-que-projeto-do-governo-e-considerado-insuficiente-pelo-mercado-lbrdaz283/",
-          "fonte": "Money Times",
+          "titulo": "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
+          "resumo": "Segundo a gestora, o sentimento predominante entre investidores locais é de cautela The post Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/brasil-corre-risco-de-perder-ciclo-global-favoravel-sem-ajuste-fiscal-alerta-ashmore/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T11:49:11.000Z",
+          "data": "2026-11-19T20:45:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F09%2Fdivida-publica-brasil-fiscal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 16
         }
       ]
     },
@@ -166,62 +166,33 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "1f7539632ba8",
+          "id": "59dc97db5dcc",
           "outrosIds": [
-            "29ed428c63ca",
-            "a15d55ce8807",
-            "1fa7ce600334",
+            "12a476e7751f",
             "68bb9a17bd32",
-            "e1ec3a85c910",
             "79903e5a4ae3",
-            "59dc97db5dcc",
-            "a74e67eb714f",
-            "9df7c947762b"
+            "b163be0a08ed",
+            "ebfa6ce1c746",
+            "47e9709839a6",
+            "6643126b7c8a"
           ],
-          "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
-          "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/anthropic-estreia-na-bolsa-com-alta-de-34-bdr-avanca-na-b3/",
+          "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
+          "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/bdr-da-anthropic-chega-a-b3-por-cerca-de-r-60/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T19:00:44.000Z",
+          "data": "2026-11-19T15:05:35.000Z",
           "tambemEm": [
             "Money Times",
             "Exame Invest",
-            "Seu Dinheiro"
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 32
-        },
-        {
-          "id": "baf53c451c69",
-          "outrosIds": [
-            "d28628c7fb85",
-            "3bf06afc38fc",
-            "8731588e9261",
-            "80e03851bc18"
-          ],
-          "titulo": "Ibovespa B3 cai 0,69% com cautela fiscal; dólar sobe a R$ 5,93",
-          "resumo": "Índice encerra semana mais curta no vermelho, enquanto indefinições sobre a equipe econômica e cenário externo aumentam cautela dos investidores",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-069-com-cautela-fiscal-dolar-sobe-a-r-593/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T21:40:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney",
-            "Seu Dinheiro",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 31
         },
         {
           "id": "bcd0177f984b",
@@ -258,21 +229,42 @@
           "pontos": 22
         },
         {
-          "id": "d1ea590d0009",
-          "outrosIds": [],
-          "titulo": "FII desembolsa R$ 31,3 milhões por fatia de imóvel logístico; IFIX acumula perda de quase 8% em 2026",
-          "resumo": "O fundo imobiliário Pátria Log (HGLG11) concluiu a compra de uma fatia de um imóvel logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,28 milhões. Segundo fato relevante divulgado ao mercado, a participação adquirida corresponde a 5,33% do empreendimento e deverá gerar uma receita mensal de R$ 35,46…",
-          "link": "https://www.moneytimes.com.br/fii-desembolsa-r-313-milhoes-por-fatia-de-imovel-logistico-ifix-acumula-perda-de-quase-8-em-2026-igdl/",
+          "id": "49cb7bd9bea4",
+          "outrosIds": [
+            "3a3407a99c59"
+          ],
+          "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
+          "resumo": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&P 500 registrou a quinta sessão…",
+          "link": "https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T12:03:35.000Z",
-          "tambemEm": [],
+          "data": "2026-11-19T21:48:00.000Z",
+          "tambemEm": [
+            "Exame Invest"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2020%2F09%2F1-94.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2020%2F09%2F1-94.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "7b391c2cfca9",
+          "outrosIds": [],
+          "titulo": "Ações de petróleo sobem 45% e educação cai 33%: o ranking da bolsa em 2026",
+          "resumo": "Ranking de 17 setores revela os vencedores e perdedores da Bolsa em 2026; veja quem são",
+          "link": "https://exame.com/invest/mercados/acoes-de-petroleo-sobem-45-e-educacao-cai-33-o-ranking-da-bolsa-em-2026/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T08:00:07.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         }
       ]
     },
@@ -308,21 +300,47 @@
           "pontos": 29
         },
         {
-          "id": "ee916781ca89",
+          "id": "3f3002a1143b",
           "outrosIds": [
-            "cf653894bd27"
+            "092516384e98",
+            "5171e3e7746f",
+            "f49448078657",
+            "5f38b04fc6e4"
           ],
-          "titulo": "5 tarefas pesadas que o novo Gemini 4 Carbon faz e nenhuma outra IA consegue",
-          "resumo": "O Google lan&ccedil;ou o Gemini 4 Carbon , seu modelo de intelig&ecirc;ncia artificial mais avan&ccedil;ado at&eacute; agora. Diferente dos chatbots usados para responder perguntas e resumir textos, a novidade foi desenvolvida para lidar com tarefas complexas, que exigem planejamento, an&aacute;lise e v&aacute;rias…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/tarefas-pesadas-que-so-o-gemini-4-carbon-faz/",
-          "fonte": "Canaltech",
+          "titulo": "IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana",
+          "resumo": "Temporada de balanços teve o menor percentual de empresas acima das estimativas de EBITDA desde 2021; Banco do Brasil, cenários para a Selic e resultados da Nvidia também estão entre os destaques da semana The post IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana appeared first on…",
+          "link": "https://www.infomoney.com.br/onde-investir/ipo-historico-da-anthropic-nvidia-e-balancos-na-b3-veja-os-destaques-da-semana/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T10:30:05.000Z",
+          "data": "2026-11-21T10:00:00.000Z",
+          "tambemEm": [
+            "CNN Brasil",
+            "NeoFeed",
+            "G1"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-115856.png%3Ffit%3D939%252C624%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-115856.png%3Ffit%3D939%252C624%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "0ba4ebad3f39",
+          "outrosIds": [
+            "c22963f5e745"
+          ],
+          "titulo": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
+          "resumo": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial será de manutenção, não de inovação apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T10:02:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FDZHsZtYhJh25bI6TF3kHHFGYZwE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F7959b5fa-bef0-473c-a9b3-6662703746f4.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FDZHsZtYhJh25bI6TF3kHHFGYZwE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F7959b5fa-bef0-473c-a9b3-6662703746f4.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -347,27 +365,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "1c57ddf60943",
-          "outrosIds": [
-            "0fba0a78190c"
-          ],
-          "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
-          "resumo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes, incluindo recurso voltado a políticos e figuras públicas O post TikTok lança ferramentas para identificar conteúdos de IA e deepfakes apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/tiktok-lanca-ferramentas-para-identificar-conteudos-de-ia-e-deepfakes/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T23:43:21.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         },
         {
           "id": "0b1c832cdf59",
@@ -478,7 +475,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 20,
+      "itens": 17,
       "erro": null
     },
     {
@@ -590,7 +587,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 65,
+      "itens": 63,
       "erro": null
     }
   ]
