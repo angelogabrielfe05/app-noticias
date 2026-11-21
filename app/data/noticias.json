@@ -1,27 +1,10 @@
 {
-  "geradoEm": "2026-11-21T18:17:25.082Z",
+  "geradoEm": "2026-11-21T21:17:24.226Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "52b1705314be",
-          "outrosIds": [],
-          "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
-          "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T19:26:43.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
         {
           "id": "c2601d2138bd",
           "outrosIds": [],
@@ -54,7 +37,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 19
         }
       ]
     },
@@ -94,58 +77,41 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
-          "id": "328fef868b55",
+          "id": "c45eb5037c17",
           "outrosIds": [],
-          "titulo": "Leis destinam R$ 522 milhões para gestão fiscal e encargos de fundos internacionais",
-          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou duas leis que destinam R$ 522,1 milhões à implantação de soluções tecnológicas para a reforma tributária e à participação do Brasil no capital de instituições financeiras internacionais. As medidas estão previstas nas Leis 15.532 e 15.538, publicadas nesta quinta-feira…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T18:59:36.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fleis-destinam-r-522-milhoes-para-gestao-fiscal-e-encargos-de-fundos-internacionais%2Ffazenda3-2023.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
-        },
-        {
-          "id": "5f3942c82890",
-          "outrosIds": [],
-          "titulo": "Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo",
-          "resumo": "Movimento ocorreu apesar de o Senado ter aprovado projeto ​que busca garantir ao governo um superávit primário de 0,5% do PIB em 2027 The post Taxas dos DIs têm altas fortes com desconfiança sobre ajuste fiscal do governo appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-tem-altas-fortes-com-desconfianca-sobre-ajuste-fiscal-do-governo/",
+          "titulo": "“Exército do Lula” perde 1,4 milhão de seguidores após disputa sobre ajuste fiscal",
+          "resumo": "Canal criado por André Janones durante a campanha presidencial registra queda de público em meio a críticas de aliados ao pacote econômico do governo The post “Exército do Lula” perde 1,4 milhão de seguidores após disputa sobre ajuste fiscal appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/politica/exercito-do-lula-perde-14-milhao-de-seguidores-apos-disputa-sobre-ajuste-fiscal/",
           "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-19T20:08:57.000Z",
+          "data": "2026-11-21T19:18:19.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fo-deputado-federal-andre-janones-rede-mg-e-o-presidente-lula-pt-em-viagem-oficial-para-a-turquia-1794239129913_v2_900x506.jpg.webp%3Ffit%3D900%252C506%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fo-deputado-federal-andre-janones-rede-mg-e-o-presidente-lula-pt-em-viagem-oficial-para-a-turquia-1794239129913_v2_900x506.jpg.webp%3Ffit%3D900%252C506%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         },
         {
-          "id": "ee0db6cb01f0",
+          "id": "f9155037db5b",
           "outrosIds": [],
-          "titulo": "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
-          "resumo": "Segundo a gestora, o sentimento predominante entre investidores locais é de cautela The post Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/brasil-corre-risco-de-perder-ciclo-global-favoravel-sem-ajuste-fiscal-alerta-ashmore/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T20:45:00.000Z",
+          "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
+          "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T22:47:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 15
         }
       ]
     },
@@ -156,8 +122,7 @@
         {
           "id": "baf53c451c69",
           "outrosIds": [
-            "d28628c7fb85",
-            "3bf06afc38fc"
+            "d28628c7fb85"
           ],
           "titulo": "Ibovespa B3 cai 0,69% com cautela fiscal; dólar sobe a R$ 5,93",
           "resumo": "Índice encerra semana mais curta no vermelho, enquanto indefinições sobre a equipe econômica e cenário externo aumentam cautela dos investidores",
@@ -167,14 +132,13 @@
           "categoria": "oficial",
           "data": "2026-11-19T21:40:00.000Z",
           "tambemEm": [
-            "Seu Dinheiro",
             "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 27
         },
         {
           "id": "dff9dd588523",
@@ -191,7 +155,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "89fba5458c72",
@@ -210,7 +174,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "bcd0177f984b",
@@ -227,7 +191,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         },
         {
           "id": "d3876b0108c4",
@@ -244,7 +208,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         }
       ]
     },
@@ -298,58 +262,21 @@
             "93aab289c578",
             "1dab3915a1b9",
             "5f30d030bdd8",
-            "c1b0faf74848",
-            "b4bc2da87ed2",
             "7de5d63a4386",
             "ba647a2c4cea",
             "6970a69c4758",
             "194c97df7e88",
-            "7d5932a187d6",
             "13c38392f0f4",
             "6232166beb00",
             "7aaba7b4787e",
             "f7d52e67048a",
             "e31d244739aa",
-            "b3cf3f47f12f",
-            "1b931898e736",
-            "bfcb5a738ea7",
-            "2efa5abd8d18",
-            "2e1c9541a265",
             "7cf869f37df9",
-            "7597d3810a48",
-            "c0df06a1e16b",
-            "2f95390fc041",
-            "6116ee16c474",
             "bea14c6647e4",
-            "dadc094d82c2",
-            "d6261ad678d9",
-            "9ef072ddeb4c",
             "c559342f9655",
-            "0d608cd7b595",
-            "3d6c9461ccdc",
-            "8b915955c0cc",
-            "fc6c68de2d51",
-            "6337902c20b3",
-            "47ef8b64fc5f",
-            "332f69257e27",
             "5efee343f529",
-            "a17389cc9f1a",
             "828450de5c6a",
-            "985c514a6b6e",
-            "aed877c671de",
-            "958e37c89b21",
-            "cdb03a74f939",
-            "0c78ecc51079",
-            "d2b3dbd07518",
-            "91dfb35a8a2b",
-            "148f6a304d34",
-            "08d463928153",
-            "832bb91d8ef6",
-            "a3c29da58cd5",
-            "c95321220894",
-            "3994893a4870",
-            "c4ec2f1e2726",
-            "5173546a5460"
+            "aed877c671de"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -366,27 +293,53 @@
             "Forbes Brasil",
             "UOL Economia",
             "Estadão",
-            "VEJA",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-            "Valor Investe",
-            "Canaltech",
-            "StartSe",
-            "BBC",
-            "Olhar Digital",
             "G1",
             "Poder360",
+            "Valor Investe",
+            "VEJA",
             "Metrópoles",
-            "O GLOBO",
-            "Exame",
-            "Seu Dinheiro",
-            "Gazeta do Povo",
-            "NeoFeed"
+            "O GLOBO"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
+        },
+        {
+          "id": "12dccd37eaaf",
+          "outrosIds": [],
+          "titulo": "FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia",
+          "resumo": "Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T21:15:07.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "671a7e149185",
+          "outrosIds": [],
+          "titulo": "O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA",
+          "resumo": "Voc&ecirc; sabe quais informa&ccedil;&otilde;es o Gemini guarda sobre voc&ecirc;? O Google lan&ccedil;ou um painel que facilita a consulta e a edi&ccedil;&atilde;o desses dados. Chamado Memory summary, o recurso aparece no Brasil com o nome &ldquo;Fatos salvos na mem&oacute;ria&rdquo; e mostra as…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T21:00:04.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
         },
         {
           "id": "98c13efb5a0e",
@@ -402,45 +355,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "af0192a3baa2",
-          "outrosIds": [
-            "db88ee9ef71e",
-            "cf6377c11033"
-          ],
-          "titulo": "‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY",
-          "resumo": "Militantes pediram, inclusive, o impedimento da oferta pública inicial de ações da gigante da tecnologia, que ultrapassou a SpaceX em estreia recorde na Bolsa de valores americana The post ‘Congelem a IA e parem oligarcas das techs’: IPO da Anthropic provoca protesto em NY appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/congelem-a-ia-e-parem-oligarcas-das-techs-ipo-da-anthropic-provoca-protesto-em-ny/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T20:11:50.000Z",
-          "tambemEm": [
-            "O GLOBO"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "0ba4ebad3f39",
-          "outrosIds": [],
-          "titulo": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
-          "resumo": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial será de manutenção, não de inovação apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T10:02:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2025%2F11%2FInteligencia-artificial-3-1-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 21
         }
@@ -648,7 +562,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 72,
+      "itens": 73,
       "erro": null
     }
   ]
