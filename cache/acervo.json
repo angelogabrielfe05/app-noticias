@@ -1,11 +1,309 @@
 [
   {
+    "titulo": "Anthropic cai 9% um dia após estreia de ações nos EUA",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEZJZklMdkJXbVEzby1DZFB4V3BUQWtkdXBaRGdiRmpsQmRYbmdWRGRNZVF5YzUtZ1Bla1lTZWVNN0RaN0VlcEt5ZXpwUlVRYXljN2xqSlNjd0Q1aHVaY1JHRDBFVGthdmdzZnVpLVRhakc1ektOM0FDRjBlMG9fVllteUFpTlZ5NGl1WWV1MmxjRWlzcGJORmZrOFZOVGxzVjN6MzJUMHU?oc=5",
+    "resumo": "",
+    "data": "2026-11-21T00:03:19.000Z",
+    "origem": "CNN Brasil",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "CNN Brasil",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
+    "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/tiktok-lanca-ferramentas-para-identificar-conteudos-de-ia-e-deepfakes/",
+    "resumo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes, incluindo recurso voltado a políticos e figuras públicas O post TikTok lança ferramentas para identificar conteúdos de IA e deepfakes apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-20T23:43:21.000Z",
+    "imagemFeed": null,
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nvidia derrete quase 14% em meio a investigações nos EUA",
+    "link": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/20/nvidia-derrete-138percent-em-meio-a-investigacoes-nos-eua.ghtml",
+    "resumo": "As ações da Nvidia fecharam em queda de 13,8% nesta sexta-feira (20), cotadas a US$ 125,84. O movimento marca o sétimo pregão consecutivo de perdas para a fabricante de chips, que já acumula recuo de quase 28% nesse intervalo - e tombo de mais de 47% desde o recorde de fechamento registrado em 6 de outubro. Com a…",
+    "data": "2026-11-20T23:21:39.000Z",
+    "imagemFeed": "https://s2-valorinveste.glbimg.com/LmEs0KkR5z1vnf88_3tVa5KwJRk=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/w/A/bZ1fEkTYyg0ViX6ZcnVg/nvidia.jpg",
+    "fonteId": "valor-investe",
+    "fonte": "Valor Investe",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Tempestades que causaram estragos no RS podem chegar até São Paulo? Veja previsão",
+    "link": "https://www.infomoney.com.br/brasil/tempestades-que-causaram-estragos-no-rs-podem-chegar-ate-sao-paulo-veja-previsao/",
+    "resumo": "SP deve ter chuva ao longo do fim de semana The post Tempestades que causaram estragos no RS podem chegar até São Paulo? Veja previsão appeared first on InfoMoney .",
+    "data": "2026-11-20T23:07:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/08/chuva_mudanca_tempo_02.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nova caravana com cerca de 300 migrantes entra no sul do México rumo aos EUA",
+    "link": "https://www.infomoney.com.br/mundo/nova-caravana-com-cerca-de-300-migrantes-entra-no-sul-do-mexico-rumo-aos-eua/",
+    "resumo": "Ação acontece uma semana ‌após o presidente dos Estados Unidos, Donald Trump, ameaçar impor novas tarifas ao México caso o país não impeça o movimento The post Nova caravana com cerca de 300 migrantes entra no sul do México rumo aos EUA appeared first on InfoMoney .",
+    "data": "2026-11-20T23:03:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-20T222821Z_1_LYNXNPEMAJ22Z_RTROPTP_4_MIGRATION-USA-MEXICO-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Como criar relatórios interativos no Gemini Notebook?",
+    "link": "https://canaltech.com.br/inteligencia-artificial/como-criar-relatorios-interativos-no-gemini-notebook/",
+    "resumo": "O Gemini Notebook ganhou uma forma din&acirc;mica de organizar e estudar informa&ccedil;&otilde;es. A plataforma agora consegue criar relat&oacute;rios interativos , que combinam resumos com quizzes, flashcards e infogr&aacute;ficos baseados nas fontes adicionadas pelo usu&aacute;rio. Antes chamado de NotebookLM, o…",
+    "data": "2026-11-20T23:00:06.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/xdalUhzq_RdgQInVBizwH8jlL8k=/0x0/filters:format(webp):quality(85)/5957d543-12e9-4f97-b343-c2b97b267ed5.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Novo ataque israelense no centro de Gaza mata quatro palestinos",
+    "link": "https://www.infomoney.com.br/mundo/novo-ataque-israelense-no-centro-de-gaza-mata-quatro-palestinos/",
+    "resumo": "As forças armadas israelenses afirmam que esses \"terroristas do Hamas\" estavam se reunindo para planejar ataques contra as forças do Exército israelense The post Novo ataque israelense no centro de Gaza mata quatro palestinos appeared first on InfoMoney .",
+    "data": "2026-11-20T22:53:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/soldado-israel-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Patrick Stewart: causa da morte do astro de ‘Star Trek’ e ‘X-Men’ é revelada",
+    "link": "https://www.infomoney.com.br/mundo/patrick-stewart-causa-da-morte-do-astro-de-star-trek-e-x-men-e-revelada/",
+    "resumo": "Ator marcou a história do cinema em Star Trek e X-Men The post Patrick Stewart: causa da morte do astro de ‘Star Trek’ e ‘X-Men’ é revelada appeared first on InfoMoney .",
+    "data": "2026-11-20T22:47:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-10-29T201738Z_1990082430_RC28DOAN8HA3_RTRMADP_3_PEOPLE-PATRICK-STEWART-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Criança morre na Virgínia, EUA, em 1º óbito associado ao sarampo no Estado em 2026",
+    "link": "https://www.infomoney.com.br/mundo/crianca-morre-na-virginia-eua-em-1o-obito-associado-ao-sarampo-no-estado-em-2026/",
+    "resumo": "O departamento informou que a criança tinha entre 0 e ​4 anos de idade The post Criança morre na Virgínia, EUA, em 1º óbito associado ao sarampo no Estado em 2026 appeared first on InfoMoney .",
+    "data": "2026-11-20T22:41:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-14T005404Z_241976091_RC20DDA4CUCW_RTRMADP_3_HEALTH-MEASLES-USA-ELIMINATION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Fc1NOY19naEdxLUdsV2RTdm5QeDdHc2tYLTdZVzR0VDd0ckJHS2c0SWZHdmMtOXZXSVNKS3B2LXBfTC0tOVNtdkQ4RmxfQ0Y4N2M2YmM2SjVmUkFtdnVmbG9LU1Nra3VGeHFzYzBTM212ZllkUmJzUXdn0gGIAUFVX3lxTE9RYWtxTjJndTBlYk9sVXFOTV9MYkZKQ2M1ODVDeU5TVHlHZnkyMVhkQjVYRjlBLUFxNE5xX2dPUGdWajNaUmRlMGhZWHFfUjJWbDhPbWRkaDdIMDhHVFg4S2t4ejNhc2szNlBoWm1mV0JZZVFqR3lVX282QWFjdGtRS0s5bEpIZjY?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T22:34:15.000Z",
+    "origem": "G1",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "G1",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "PF diz que não há conversas de Mendonça com Vorcaro",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pf-diz-que-nao-ha-conversas-de-mendonca-com-vorcaro",
+    "resumo": "A Polícia Federal (PF) informou ao Supremo Tribunal Federal (STF) que não foram encontrados registros de conversas entre o ex-banqueiro Daniel Vorcaro e o ministro André Mendonça. A conclusão consta no relatório entregue nesta semana ao presidente do STF, Edson Fachin , relator do caso Master. Mais cedo, o sigilo do…",
+    "data": "2026-11-20T22:34:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Bitcoin (BTC) cai a US$ 57 mil e renova mínima em mais de dois anos; qual o fundo do poço?",
+    "link": "https://www.moneytimes.com.br/bitcoin-btc-cai-a-us-57-mil-e-renova-minima-em-mais-de-dois-anos-qual-o-fundo-do-poco/",
+    "resumo": "O bitcoin (BTC) aprofundou as perdas nesta sexta-feira (20) e chegou a cair para US$ 57.957, renovando o menor patamar em mais de dois anos, em meio a uma forte aversão a risco nos mercados globais. Apesar de amenizar parte das perdas ao longo do dia, a maior criptomoeda do mundo seguiu negociada abaixo dos […]",
+    "data": "2026-11-20T22:27:45.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Chuvas fortes atingem litoral norte e cidades do interior de SP; veja previsão",
+    "link": "https://www.infomoney.com.br/brasil/chuvas-fortes-atingem-litoral-norte-e-cidades-do-interior-de-sp-veja-previsao/",
+    "resumo": "A previsão é de que partes do Estado registrem temporais ao longo do final semana The post Chuvas fortes atingem litoral norte e cidades do interior de SP; veja previsão appeared first on InfoMoney .",
+    "data": "2026-11-20T22:20:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/12/chuva_sp_tarde_05.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Arandu, atinga Reag, aprova resgate compulsório das ações remanescentes e papéis sairão da B3 em 23 de novembro",
+    "link": "https://www.moneytimes.com.br/arandu-atinga-reag-aprova-resgate-compulsorio-das-acoes-remanescentes-e-papeis-sairao-da-b3-em-23-de-novembro/",
+    "resumo": "A Arandu Investimentos, antiga Reag Investimentos, informou nesta quarta-feira (19) que a assembleia geral extraordinária aprovou o resgate compulsório e o posterior cancelamento de todas as 1.364.507 ações ordinárias remanescentes em circulação no mercado, equivalentes a 0,97% do capital social da companhia. A medida…",
+    "data": "2026-11-20T22:15:04.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Chevrolet dá \"um Dolphin Mini\" de desconto para desovar SUV elétrico",
+    "link": "https://canaltech.com.br/carros/chevrolet-da-um-dolphin-mini-de-desconto-para-desovar-suv-eletrico/",
+    "resumo": "O que o Chevrolet Blazer EV e o BYD Dolphin Mini t&ecirc;m em comum? A resposta mais correta para essa pergunta seria, obviamente, apenas o fato de ambos serem \"carros el&eacute;tricos\" , e n&atilde;o h&aacute; como discordar disso. Nesse m&ecirc;s de novembro, por&eacute;m, um detalhe ligado &agrave;s vendas acabou…",
+    "data": "2026-11-20T22:05:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/zkKXnRdO4d-vRTf5I9lBGaXmTyw=/0x0/filters:format(webp):quality(85)/c48f9d92-06b8-411a-9fcb-a6c15ad96d1d.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene",
+    "link": "https://www.infomoney.com.br/mercados/moedas-dolar-tem-sinais-dispares-com-incertezas-sobre-fed-cautela-em-ny-apoia-iene/",
+    "resumo": "O dólar, porém, caía a 158,53 ienes e a 0,8401 francos suíços, à medida que investidores buscam refúgio na segurança das duas moedas, em um dia de aversão ao risco nos mercados acionários The post Moedas: dólar tem sinais díspares com incertezas sobre Fed; cautela em NY apoia iene appeared first on InfoMoney .",
+    "data": "2026-11-20T22:01:35.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Captura-de-tela-2024-04-29-084645.png?fit=300%2C199&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Maksoud Plaza: hotel fechado em 2021 pode virar condomínio com 398 apartamentos",
+    "link": "https://www.infomoney.com.br/business/maksoud-plaza-hotel-fechado-em-2021-pode-virar-condominio-com-398-apartamentos/",
+    "resumo": "De acordo com a prefeitura de SP, o prédio está em análise para uma reforma que prepara o novo empreendimento The post Maksoud Plaza: hotel fechado em 2021 pode virar condomínio com 398 apartamentos appeared first on InfoMoney .",
+    "data": "2026-11-20T21:58:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2021/12/o-maksoud-plaza.jpg?fit=300%2C100&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Jair Bolsonaro é levado ao hospital após sentir fortes dores abdominais",
+    "link": "https://www.moneytimes.com.br/jair-bolsonaro-e-levado-ao-hospital-apos-sentir-fortes-dores-abdominais/",
+    "resumo": "O ex-presidente Jair Bolsonaro foi levado ao hospital após sentir fortes dores abdominais, afirmou seu filho Carlos Bolsonaro, em uma publicação no X, nesta sexta-feira. “Meu pai acaba de ir para o hospital novamente após sentir fortes dores abdominais”, diz o filho do ex-presidente no post em seu perfil. Pouco…",
+    "data": "2026-11-20T21:52:20.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global",
+    "link": "https://www.infomoney.com.br/mercados/bitcoin-cai-abaixo-de-us-60-mil-pela-primeira-vez-desde-julho/",
+    "resumo": "Um dólar mais forte e as crescentes expectativas de um novo aumento da taxa de juros pelo Federal Reserve pressionaram os mercados esta semana The post Bitcoin cai a US$ 57 mil e vai à mínima em mais de 2 anos, de olho em mercado global appeared first on InfoMoney .",
+    "data": "2026-11-20T21:50:03.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/02/bitcoin-queda-cotacao-cripto.png?fit=300%2C191&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ações da Anthropic caem 8,5% no 2º dia depois de IPO recorde",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTk9DNjBmazFYUmxDS2ZFeW5sTGxiTUJhRzZ4NGJrWkU0VnB5QjUwRHZvSnFsSTJ5cm50RFFabVg4REh5WWdLeVp1NkhrclJsVTdrendOWkNCSlFnY3pGVzl0M2RSUWlIUEptTm1YUnhrZ3A5X0xiMWQyV0xoZUpWRmNaNjZGOHpIN0xvOEdBek04dkhmelNmb1NUYXVPSzRmV1lKbA?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:49:02.000Z",
+    "origem": "Poder360",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Poder360",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas sem conversa direta",
+    "link": "https://www.infomoney.com.br/politica/relatorio-da-pf-tem-dialogos-de-vorcaro-sobre-mendonca-mas-sem-conversa-direta/",
+    "resumo": "O ministro do STF já admitiu que encontrou pessoalmente o banqueiro, em 2025, na sede do instituto do qual era sócio em São Paulo The post Relatório da PF tem diálogos de Vorcaro sobre Mendonça, mas sem conversa direta appeared first on InfoMoney .",
+    "data": "2026-11-20T21:43:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/53629152127_616de6ba79_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Vale, Itaú, Petrobras, Bradesco: como fecharam os ADRs durante o feriado da bolsa",
+    "link": "https://www.moneytimes.com.br/vale-itau-petrobras-bradesco-como-fecharam-os-adrs-em-dia-de-bolsa-fechada/",
+    "resumo": "Enquanto a B3 permaneceu fechada nesta sexta-feira (20) devido ao feriado nacional da Consciência Negra, os recibos de ações brasileiras negociados nos Estados Unidos acompanharam o forte movimento de aversão ao risco que tomou conta dos mercados globais. O principal termômetro do Brasil em Wall Street, o iShares MSCI…",
+    "data": "2026-11-20T21:38:04.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Fim da escala 6×1 pode custar R$ 35 milhões por ano a empresa com 10 mil funcionários, diz levantamento",
+    "link": "https://www.seudinheiro.com/2026/economia/fim-da-escala-6x1-pode-custar-r-35-milhoes-por-ano-a-empresa-com-10-mil-funcionarios-cbcb/",
+    "resumo": "Adequação à jornada 5x2 exigiria 800 novas contratações em um atacarejo; em uma empresa menor, custo seria de R$ 2,9 milhões The post Fim da escala 6×1 pode custar R$ 35 milhões por ano a empresa com 10 mil funcionários, diz levantamento appeared first on Seu Dinheiro .",
+    "data": "2026-11-20T21:35:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
+    "link": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
+    "resumo": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de “Ibovespa em dólar“, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechados por conta do feriado da Consciência Negra. O…",
+    "data": "2026-11-20T21:28:06.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bolsas de NY fecham em forte queda e põem índices em correção, com tombo de Anthropic e Nvidia",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaGpSSUlyWXh3dkpyUUY3eXFBQXF1VnNCaGV6Vng1aDBMdVZranB1MS16ckh4UVFZTnNBTF9mblc3S1BiOWRyVlNmS3l2Z3Q4ek5DNHlaaXlrb1JUMzdsVEppS1o1RnRlUnY1bWViT291V3pMaU5JQ0F5OGJLNWhMMVlmMkJnZWFHTWtlTlBlSHZvYU5WQThaSEg2amZrd1B3R3hLMlc2ajl0cGJFTUtVOW1ReXVmSkVNMzZMdEsxSmlCZFFsbWh3WkZSTEItZGxjX2xsZG9aTl9NZTgtdGhscXNmbHRzdDhuWjNUd0RXQmR3cHpw?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:28:00.000Z",
+    "origem": "UOL Economia",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL Economia",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nasdaq desaba 5% com febre de IA virando medo; S&P e Dow Jones entram em correção",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZElpMzZ2ajAycWd0QTQ4dmR3b3loZVZnc3BLVXBIRjY1WHZIRWF4WDFaUFBDeFlDZGJMcEFfYUxBUlY4YWdUcnh2MURiU0JpT19NRzNRSjR4a21LMjdQQ2pueEozWWFVQW5WeFVtdFUxTTE5eWRfYko2LXFZMk1WYTc1QnJLQjZvLUhIR1RiZ01QWEFWdjU3T1dRVlE1Z9IBowFBVV95cUxObzJxUXJIZWVwb09YRkhHR2Z4UVR5MFE1QUZicTQxZXE4aEZJc0ZCWDctYlBjUlJtUlBCN2xzRHZkWV9BWUVWQmRSbXkzYWVBcVpQNGExSGV1VGhhcV9idDZnR1pJZkZwSkQ5VExlMExCdGlKd3pZV0d2endWVXZFUm5ucTZLSTRyY3hacnVEeGdsU1o1SFo2M3RVcF81WWc5OV9J?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:22:50.000Z",
+    "origem": "InfoMoney",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ações da Anthropic recuam 8,50% no segundo dia de negociações na Nasdaq",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTkJuZXFtQUhVTHF5TU9FcnVYbnBqUjFyc1Bkd3Z1aDBmY19ybXp2a3JzaUROenN0Q2lYV1h2dEFtUlBiLW9sRHBERnRMX0ttWUJ5N085WWRjdnozaWtob3hXaFV1bnBGcl9ZR2oxNnhhemlVOFNDdm1HZmhZR2VpbGZ1amowaHB3dWtMRFhPZFhVMU92WXU4SHlya1hrMnl4SlczaFlpMmpzRk9wRzdrLVFlVW52Ty1zT254UExGVHZyZjJHNFdVcVVaTE5SRngya05Gd2pWYk1zQdIB6AFBVV95cUxNX0I0eG5aNmdwYU1fSUw0QXJFUG9pN2FlUWxqMVlIdTZSanVvU3lNWTcwVWlINDhnYkVucERya2hRN1p6c2t0d0ZuSlp3Tk83VWhZMk5NZXVfbHE2ck8wSUV6U3lMSnFUb1EyQlFkbGVyTGFkS1BnZEdDdU9YZFFybXFkZFlGUzRiUUdpQ1dVcWdYS1dwQnRJR2dNM1NiZU9JeFNrM3VpX0NwXzI0TjEwRFpFODhJTUpTZEx0RjY3SVhLRHFXOFFId2dfWFV4c2todzhLTVZsMUpSODY2VzlST3B0MWJGN1VU?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:16:00.000Z",
+    "origem": "Valor Econômico",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Valor Econômico",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:14:36.000Z",
+    "origem": "Estadão",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
     "link": "https://www.infomoney.com.br/mercados/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia/",
     "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
     "data": "2026-11-20T21:13:29.000Z",
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-091238.png?fit=300%2C202&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney-ia",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzA1NU1wblVmM3ZNR1FOY0xfMkgwWHBLcnZfdVpOYmRuclJyOERGaEdWNjUycTJiMjFxU2x2T2FpMkJuWmt2LWROdTJoU3dlVWw0UUVFeFBYLXVsVFpVdnlqLUtEOWpWVkZnVkF4bGFHQXllb1RSdlN4Vjc0T01hcFg1aTRLUFNlOFdTWERpTFZObXo3eFg0Tk9DbzltelJkQlU5RlBhZGNaenFWN0Q2ZVVHejV5OWZRc1NPV2FHSELSAcYBQVVfeXFMTm5mcjJmX2F5eHJ2Z1N5SExabXZYc1gxdFRpdWhsTXZvbFA0OEJsN1BpVlRYcEhJeUpOeExJUTF3Z0s4amlrTFZMOV9FeHFTYjBRRUhXTVBzeGduaDB5ODFUMkU0TTJ5WkJnbzN3OFQ0YUtHeWF3V0xaaHpPWjY5UGhJbGpPaG1wMS1jYXp0S3ExSkNYZGJzN19SbWVXNm0wb3lnZ2V0ajhHTTFzWHRjOHVKRFBGcVVnYWF3SWpibTBFTzhGa09R?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T21:13:29.000Z",
+    "origem": "InfoMoney",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
     "fonte": "InfoMoney",
     "categoria": "imprensa"
   },
@@ -81,17 +379,6 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Dow Jones hoje cai, e Nasdaq desaba 5% com venda generalizada de ações de tecnologia",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
-    "resumo": "",
-    "data": "2026-11-20T20:59:59.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "Nikolas Ferreira questiona gasto de R$ 3,3 milhões do Senado com troca de carpetes",
     "link": "https://www.infomoney.com.br/politica/nikolas-ferreira-questiona-gasto-de-r-33-milhoes-do-senado-com-troca-de-carpetes/",
     "resumo": "Deputados Nikolas Ferreira (PL-MG) e Duarte Jr. (Avante-MA) questionam a necessidade da compra e o valor previsto The post Nikolas Ferreira questiona gasto de R$ 3,3 milhões do Senado com troca de carpetes appeared first on InfoMoney .",
@@ -129,6 +416,17 @@
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-20T204620Z_836889260_RC2WROA0OWEH_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Hipótese de Riemann: IA pode ter resolvido um dos maiores enigmas da matemática após 167 anos",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbjhfVGhYUmlMX0NUZklqUmxiVFBWcEZ4alRDamlPZ2VmNzNmTkVXWGZWTHpTVUFjWkhtdVlSU2o3S0RxaER0YW5USU1hUXNqNU8yMlViaFJzMkJrZmpCSGo2dkllSlpHQ2lINUtNRmhmaDNFc1JxdlNoWFpTWW92X19KNjh1SHliSDIxMWN3VXFMZ0VSNUFoRm51RUJ4LXR2azF6WEN4N29OQ1lqcDhBWV9CUGZ3SGcyQmh6al9FT2tDU3A5YlBMUzhR?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T20:48:58.000Z",
+    "origem": "VEJA",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "VEJA",
     "categoria": "imprensa"
   },
   {
@@ -270,6 +568,16 @@
     "imagemFeed": "https://tl.ctcdn.com.br/eLoL6I13UvX0pIddIyPM1ARzuqM=/0x0/filters:format(webp):quality(85)/33c90aeb-b37d-47dd-8d78-e7f7b01fdbeb.png",
     "fonteId": "canaltech",
     "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
+    "link": "https://exame.com/invest/mercados/tombo-das-acoes-de-ia-derruba-nasdaq-em-528-e-provoca-onda-de-perdas-em-wall-street/",
+    "resumo": "Nvidia despenca 14%, setor de semicondutores lidera perdas e investidores buscam proteção diante das incertezas do mercado",
+    "data": "2026-11-20T19:26:21.000Z",
+    "imagemFeed": null,
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
     "categoria": "imprensa"
   },
   {
@@ -577,7 +885,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic despenca 13% e Wall Street entra em correção",
+    "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcHNxSC1Bel9PdXNaeFFWMGFQOFlQaUg4RWl4Y1FZNFlvX1pmcmpabmxzSVBXUzdxXzZWbHFVTUpoTks0dV80MElHUG00clFRRjc1Nk9NMGxrbG9Sb3M0Skd1eDBxdFNQVU1PdmhqV093Vi1CQk1jMWo5VFZJTjAtNjFLbkswT3pLQVp4ZlNBYWEwNUJKMUh5SUFjWHVNMXpfaTJHYmw2UW5FWjllTFFpYlRGUk1VTkhtME9RNUszaGVOazhPeVBrNW1WOTJraGh3NldLUl9NNEd4ZEE?oc=5",
     "resumo": "",
     "data": "2026-11-20T17:35:16.000Z",
@@ -586,6 +894,16 @@
     "fonteId": "google-news-claude",
     "fonte": "Seu Dinheiro",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "Combate ao crime reduz em 22% os roubos de veículos no Brasil em 2026",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/roubo-de-veiculos-cai-22-no-brasil-e-atinge-menor-numero-de-ocorrencias-desde-2019",
+    "resumo": "Levantamento do Ministério da Justiça aponta quase 19 mil roubos a menos entre janeiro e outubro de 2026; redução chega a 57,7% em relação ao mesmo período de 2019",
+    "data": "2026-11-20T17:31:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
   },
   {
     "titulo": "Romance de Natal e signos na Netflix: veja 12 estreias para assistir no fim de semana",
@@ -661,9 +979,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Depois do maior IPO da história, ações da Anthropic despencam 10% no 1º dia cheio na bolsa",
+    "titulo": "Depois do maior IPO da história, ações da Anthropic caem 8,5% no 1º dia cheio na bolsa",
     "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/20/depois-do-maior-ipo-da-historia-acoes-da-anthropic-despencam-10percent-no-1o-dia-cheio-na-bolsa.ghtml",
-    "resumo": "As ações da Anthropic caem 10% nesta sexta-feira (20) em seu primeiro pregão completo na Nasdaq, apenas um dia após protagonizarem uma estreia histórica em Wall Street. A forte correção acontece em meio a uma onda de vendas generalizada no setor de inteligência artificial (IA), que derruba também outras gigantes como…",
+    "resumo": "As ações da Anthropic fecharam em queda de 8,5% nesta sexta-feira (20) em sua primeira sessão completa na Nasdaq,após protagonizarem uma estreia histórica em Wall Street. A forte correção aconteceu em meio a uma derrocada generalizada no setor de inteligência artificial (IA), que derrubou gigantes como Nvidia, AMD,…",
     "data": "2026-11-20T17:11:06.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/CblG1xGSKW8yVoG3dzQra88ttqA=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/M/7/Txb1CGSSOmh0vcHiwAqQ/oficial-dimensao-wordpress-2.webp",
     "fonteId": "valor-investe",
@@ -753,17 +1071,6 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Nasdaq cai cerca de 3% e vira para queda no ano; Dow Jones entra em “correção”",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZElpMzZ2ajAycWd0QTQ4dmR3b3loZVZnc3BLVXBIRjY1WHZIRWF4WDFaUFBDeFlDZGJMcEFfYUxBUlY4YWdUcnh2MURiU0JpT19NRzNRSjR4a21LMjdQQ2pueEozWWFVQW5WeFVtdFUxTTE5eWRfYko2LXFZMk1WYTc1QnJLQjZvLUhIR1RiZ01QWEFWdjU3T1dRVlE1Z9IBowFBVV95cUxObzJxUXJIZWVwb09YRkhHR2Z4UVR5MFE1QUZicTQxZXE4aEZJc0ZCWDctYlBjUlJtUlBCN2xzRHZkWV9BWUVWQmRSbXkzYWVBcVpQNGExSGV1VGhhcV9idDZnR1pJZkZwSkQ5VExlMExCdGlKd3pZV0d2endWVXZFUm5ucTZLSTRyY3hacnVEeGdsU1o1SFo2M3RVcF81WWc5OV9J?oc=5",
-    "resumo": "",
-    "data": "2026-11-20T16:58:52.000Z",
-    "origem": "InfoMoney",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "Ações da Anthropic despencam mais de 10% e apagam ganhos da estreia em Wall Street",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTRHbWtZMEwwS3JxajR0X3Fxb0JoOUNIcHZqaWxydDJCUWwzandzZkZRU01tWWtxVGVkNDNxNWlPcnZHVGNCa003SEF0eVlDdkpLNTBlRV94Z2R5akVrOGxlYW54U2NVam9LSEJ6a0RFbkRlZVRaUFdyOEI4V3F6QmlEQ0tEWTBOOE50OFZzd0dqSHhtaHRLQVpmdnlVMkoyeEU3eVNOYWEyQ1pya1M2YU81RFZ3OHJs?oc=5",
     "resumo": "",
@@ -785,9 +1092,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "A bolha da IA furou? Nasdaq apaga todos os ganhos de 2026 com tombo de Nvidia e Anthropic",
+    "titulo": "A bolha da IA furou? Nasdaq cai 10% na pior semana em mais de um ano e apaga ganhos de 2026",
     "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/20/a-bolha-da-ia-furou-nasdaq-apaga-todos-os-ganhos-de-2026-com-tombo-de-nvidia-e-anthropic.ghtml",
-    "resumo": "O índice Nasdaq, principal termômetro das ações de tecnologia em Nova York, opera em forte queda nesta sexta-feira (20) e virou para o vermelho no acumulado de 2026. O movimento é puxado por uma forte onda de vendas no setor de inteligência artificial (IA), que reacendeu no mercado o temor de uma bolha nos preços das…",
+    "resumo": "O índice Nasdaq, principal termômetro das ações de tecnologia em Nova York, caiu 5,3% nesta sexta-feira (20) e fechou a semana com queda de 10%, a pior em mais de um ano. Com o tombo de hoje, o índice apagou todos os ganhos de 2026 e passou a registrar perda de 2,7% no ano. A forte onda de vendas no setor de…",
     "data": "2026-11-20T16:44:57.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/dmwNEeQGlzNJod2N6xtVD_CVONw=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2019/J/q/MishwSTRCEXT1Cc0gzKg/wall.jpg",
     "fonteId": "valor-investe",
@@ -795,7 +1102,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "A bolha da IA furou? Nasdaq apaga todos os ganhos de 2026 com tombo de Nvidia e Anthropic",
+    "titulo": "A bolha da IA furou? Nasdaq cai 10% na pior semana em mais de um ano e apaga ganhos de 2026",
     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMTBuY2s2RjM0aEx6Yl9zQ1o3M3hueklOdmhVenV6OHd4R1dDdGN5RGI4SG1kel94c3BveGVwUTFaQXBONjZRakdYaG1YZXVjNjQtclJaWGZHeG53RUZlRTU4ZWtOeG51aFhyOHNGdjF5SnlhdEV1bmFVTWsxeXNoejdBSmZsT2NRQ1lZZFVra0NmdTZHbzA1ZlBseGctaW03cllaOXNBTGx6NzVXcWhLM2k2bHMtTHZFeGZBS2h2OVRMcFpwY0k1bGc4cjc5MHI4S25UZ0RadHNnUEVUd3VCdG9zaWliOHRJN09XRGJ4WUxGS1ZXVXBxaTZzTGVXVzN6VmhibXA0Mndia0pTLV9DZUpGUdIBogJBVV95cUxQZTdWNjI4N1V0U3VyMGNaLXpOb0hRYXBkcml6dC14bjdKRlJ1UkxlWTl5elNIVkRZLTNlZGgyVWJPSVh2M1E0S2h5SzRmWl9sdUhGbmVTQW5COXZtVmNlemNJbkRXQUpsSUFaRzhOWklCMTlHcVFiaW4ycnI1YlFTNFIxRXRMeVMzbXQwVEppZUw4U2RJN2dkU3VWUzlhbXpKM1hFdkxGWEJ3cjBfLWlWNmVJLThMT3QxallHQzJaZGp4WDU3dHNvRzZjNURRX0NBV2tGLXhSRnpaQXJSN1JTczRNMDNjRXFnREdIeUduakpXWEVpcEktbkQ3dXJaSUNMSDRjcEk4bHpuTG1wNXdud2NJbE55Zi1xVk4tQ1BsUnp2UQ?oc=5",
     "resumo": "",
     "data": "2026-11-20T16:44:57.000Z",
@@ -1021,17 +1328,6 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Ação da Anthropic cai forte após estreia e traz choque de realidade para setor de IA",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONzA1NU1wblVmM3ZNR1FOY0xfMkgwWHBLcnZfdVpOYmRuclJyOERGaEdWNjUycTJiMjFxU2x2T2FpMkJuWmt2LWROdTJoU3dlVWw0UUVFeFBYLXVsVFpVdnlqLUtEOWpWVkZnVkF4bGFHQXllb1RSdlN4Vjc0T01hcFg1aTRLUFNlOFdTWERpTFZObXo3eFg0Tk9DbzltelJkQlU5RlBhZGNaenFWN0Q2ZVVHejV5OWZRc1NPV2FHSELSAcYBQVVfeXFMTm5mcjJmX2F5eHJ2Z1N5SExabXZYc1gxdFRpdWhsTXZvbFA0OEJsN1BpVlRYcEhJeUpOeExJUTF3Z0s4amlrTFZMOV9FeHFTYjBRRUhXTVBzeGduaDB5ODFUMkU0TTJ5WkJnbzN3OFQ0YUtHeWF3V0xaaHpPWjY5UGhJbGpPaG1wMS1jYXp0S3ExSkNYZGJzN19SbWVXNm0wb3lnZ2V0ajhHTTFzWHRjOHVKRFBGcVVnYWF3SWpibTBFTzhGa09R?oc=5",
-    "resumo": "",
-    "data": "2026-11-20T14:48:01.000Z",
-    "origem": "InfoMoney",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
     "titulo": "IPO da Anthropic alcança US$ 93,5 bi após bancos exercerem lote suplementar",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVC1KdWFOeHAteVNLMVlUZnl3WkVRT1FZVFFHdHhpNW11SHhxS3U3MllneElMV3ZOWlhIYVFBZmVqaGJhTFRERWpFNGgyazBrSV9HWFVGQ3lyTGtKUEViVkJpSGtHRERvQU80RlEtZXdhWWFnTURzMms3bjk5bDFMY1U0NHZQWUU5N2hYSktSandsVGFrSGxOOGtXRUNZaDdQcy1nZ2NsSmRCYkU3YUZWU29odVFoQ2d6cUI0TUZKR01CS2pTWGxUZGNqeHlYSDlVUnlPSkc4YXI0U2NiOGRRem4tTVU4Zk9C0gH3AUFVX3lxTFBaaF9CMlZ5QXFGejVWUVktNHhFR0xESTFKVDhGak1zNDROZmoza1dsWWtjR0tXeFN3VFJ6TjdFR2h1M09ER1AtUmdhLWJOaWN4aFBrZE9FNGQxUU93LXN6LS1GRlAzdmxvVS0yZzgwNDQ0endBT0VWZW10RlpMTUdQdEFmUE1XX3lmbmF6X3MwZ1kxdXZyS05wSTd3YmZOZkg1bTB0OUMxWTUteHJBNU5wRjMtdkxVaUdfU1RrMUFqQ0xvM2RIR3NuRTFFYUNCeFpqdUhTM3JLTHlMRXBKYWJVU0VMR3lQSjN0eV96UGxmSGVyNG1ibzg?oc=5",
     "resumo": "",
@@ -1154,9 +1450,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Ouro desaba e caminha para a pior semana em 8 meses após sinal de mais juros nos EUA",
+    "titulo": "Ouro vai à mínima em 14 meses e registra pior semana em 8 meses",
     "link": "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/20/ouro-desaba-e-caminha-para-a-pior-semana-em-8-meses-apos-sinal-de-mais-juros-nos-eua.ghtml",
-    "resumo": "O ouro voltou a despencar nesta sexta-feira (20) e caminha para registrar sua maior queda semanal em oito meses, pressionado pelas apostas de que o Federal Reserve (Fed, o banco central americano) vai manter uma postura mais dura e voltar a subir os juros nos Estados Unidos. No mercado à vista, a onça-troy recuava…",
+    "resumo": "O ouro atingiu seu menor nível em 14 meses nesta sexta-feira (20) e fechou sua pior semana em oito meses, pressionado pelas apostas de que o Federal Reserve (Fed, o banco central americano) vai voltar a subir os juros. No mercado à vista, a onça-troy recuava 2,8% no fim da tarde, negociada a US$ 3.518,50, depois de…",
     "data": "2026-11-20T13:58:03.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/vtwrDKlUbkQDvWQ1quJ1kftmehk=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/6/s/zhhoEGTYSlf1qAU603Qw/ouro-em-barras.jpg",
     "fonteId": "valor-investe",
@@ -1348,9 +1644,9 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "EWZ, principal ETF do Brasil no exterior, cai 2%",
+    "titulo": "EWZ, principal ETF do Brasil no exterior, cai 3,3% em Nova York",
     "link": "https://valorinveste.globo.com/produtos/investimento-no-exterior/noticia/2026/11/20/ewz-principal-etf-do-brasil-no-exterior-cai-antes-da-abertura-vale-e-petrobras-recuam.ghtml",
-    "resumo": "Com o mercado brasileiro fechado nesta sexta-feira (20) em razão do feriado do Dia da Consciência Negra, os investidores acompanham o desempenho dos ativos locais no exterior por meio das negociações em Nova York. Por volta de 14h25 (horário de Brasília), o EWZ recuava 1,95%, cotado a US$ 28,93. Principal ETF de ações…",
+    "resumo": "Com o mercado brasileiro fechado nesta sexta-feira (20) em razão do feriado do Dia da Consciência Negra, os investidores acompanharam o desempenho dos ativos locais no exterior por meio das negociações em Nova York. O EWZ encerrou em queda de 3,3%, cotado a US$ 28,54. Principal ETF de ações brasileiras negociado nos…",
     "data": "2026-11-20T12:47:04.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/Ldsrd0iBbiD3BHPLkjP4lRQ3vXM=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/a/k/lUiCQXTYqQfYA76xnJww/bolsas-dos-eua-jeenah-moon-reuters.jpg",
     "fonteId": "valor-investe",
@@ -1734,6 +2030,17 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "Estadão",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Queda da Anthropic após estreia no mercado traz choque de realidade para setor de IA",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcmlURm0ydDZhbnRoYXd6a0hER1k1VlB6aXU4V0IwejFxZ0p1RDE5SWJfTmhwY1Nvam1TX01mN3hsWURnWWQ3dXM0ODlLdU9XYkg2MlhVUkxpZHNkNzdGZmZHbXFSdFJXQm1zeFUxUTRISXh3bjRNaHlMTkpFRXVEOHl1WTQ4VmRwSDZ1NFp0b0h5TzhscDNGV0RCVkMzcmFCRVBEUmtNZHJiYXVwUWdPa25nVEJuNVJyZkxEVUh4RU5BYU1DYlZmUjFfckwzS1QxSUdXSnZvMkxGLVhM?oc=5",
+    "resumo": "",
+    "data": "2026-11-20T10:59:24.000Z",
+    "origem": "UOL Economia",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL Economia",
     "categoria": "imprensa"
   },
   {
@@ -16756,392 +17063,6 @@
     "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/images.png?fit=300%2C170&amp;quality=70&amp;strip=all",
     "fonteId": "infomoney",
     "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Lotofácil hoje, concurso 3831: confira o resultado sorteado nesta segunda (16)",
-    "link": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3831-confira-o-resultado-sorteado-nesta-segunda-16/",
-    "resumo": "O prêmio estimado para este concurso era de R$ 2 milhões The post Lotofácil hoje, concurso 3831: confira o resultado sorteado nesta segunda (16) appeared first on InfoMoney .",
-    "data": "2026-11-17T00:10:12.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/08/cropped-sorteio-lotofacil.webp?fit=225%2C300&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Quina hoje, concurso 7169: confira o resultado sorteado nesta segunda (16)",
-    "link": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7169-confira-o-resultado-sorteado-nesta-segunda-16/",
-    "resumo": "O prêmio deste concurso era estimado em mais de R$ 13 mil The post Quina hoje, concurso 7169: confira o resultado sorteado nesta segunda (16) appeared first on InfoMoney .",
-    "data": "2026-11-17T00:06:02.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/06/Quina-3-e1771069291316.jpg?fit=300%2C175&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Strengthening NATO and allied cyber defenses with AI",
-    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-    "resumo": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-    "data": "2026-11-17T00:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "openai",
-    "fonte": "OpenAI (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "resumo": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "data": "2026-11-17T00:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "openai",
-    "fonte": "OpenAI (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
-    "resumo": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "data": "2026-11-17T00:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "openai",
-    "fonte": "OpenAI (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
-    "link": "https://www.seudinheiro.com/2026/bolsa-dolar/tempestade-perfeita-na-bolsa-ibovespa-perde-os-170-mil-pontos-e-dolar-sobe-para-r-577-davs/",
-    "resumo": "Enquanto os investidores digeriam os problemas domésticos, a bolsa brasileira também foi fustigada pela tempestade lá fora The post Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje appeared first on Seu Dinheiro .",
-    "data": "2026-11-16T23:13:19.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Com caixa cheio, empresa de Lemann propõe redução de capital de R$ 100 mi e quer distribuir R$ 1,74 a acionista",
-    "link": "https://www.moneytimes.com.br/com-caixa-cheio-empresa-de-lemann-propoe-reducao-de-capital-de-r-100-mi-e-quer-distribuir-r-174-a-acionista/",
-    "resumo": "A São Carlos (SCAR3), empresa controlada pelo 5G de Jorge Paulo Lemann, Marcel Telles e Carlos Alberto Sicupira, aprovou a convocação de uma assembleia geral extraordinária para votar uma proposta de redução do capital social em R$ 100 milhões, sem cancelamento de ações, com restituição em dinheiro aos acionistas. Se…",
-    "data": "2026-11-16T23:08:40.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-para-r-577-e-fecha-no-maior-valor-desde-abril-de-2025",
-    "resumo": "O mercado financeiro brasileiro teve uma segunda-feira (16) de forte pressão sobre os ativos. O dólar subiu mais de 2%, aproximou-se de R$ 5,80 e fechou no maior nível em cerca de um ano e meio. Na bolsa, o Ibovespa recuou quase 2%, aos 169 mil pontos, enquanto o petróleo registrou perdas superiores a 3% no mercado…",
-    "data": "2026-11-16T23:06:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-brasil-economia",
-    "fonte": "Agência Brasil",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "United enfrenta falha em sistemas dias após paralisação aérea nos EUA",
-    "link": "https://www.infomoney.com.br/mundo/united-enfrenta-falha-em-sistemas-dias-apos-paralisacao-aerea-nacional-nos-eua/",
-    "resumo": "Companhia afirma que problema não tem indícios de relação com ataque cibernético; interrupção ocorre poucos dias após pane na FAA provocar paralisação nacional das decolagens The post United enfrenta falha em sistemas dias após paralisação aérea nos EUA appeared first on InfoMoney .",
-    "data": "2026-11-16T23:01:30.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/475273947.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/regulacao-de-big-techs-pode-reduzir-custos-em-ate-r-50-bilhoes",
-    "resumo": "A regulação concorrencial das big techs , grandes plataformas digitais, pode gerar uma redução de custos entre R$ 15,3 bilhões e R$ 50,6 bilhões por ano no Brasil, segundo estudo da Secretaria de Reformas Econômicas do Ministério da Fazenda divulgado nesta segunda-feira (16). A estimativa considera os efeitos da…",
-    "data": "2026-11-16T22:59:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-brasil-economia",
-    "fonte": "Agência Brasil",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Klabin (KLBN11) pega US$ 100 mi com banco argentino para controle das dívidas",
-    "link": "https://www.moneytimes.com.br/klabin-klbn11-pega-us-100-mi-com-banco-argentino-para-controle-das-dividas/",
-    "resumo": "A Klabin (KLBN11) assinou contrato de financiamento na modalidade de pré-pagamento de exportação de até US$ 100 milhões com o Banco Bilbao Vizcaya Argentaria (BBVA), de acordo com comunicado ao mercado da companhia. A operação, afirmou a empresa, é parte do contínuo processo de gestão do endividamento da companhia e…",
-    "data": "2026-11-16T22:55:24.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic oferece cursos gratuitos de inteligência artificial com certificados",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQR3FVWGVCcmNXeXNJLXpFdlRneU5jaEZqNldpUkd3Tmhfc3lOaEhrY2ZwSW9WNFR3VVk3NlN2SUYyYUJ6SWo4SFVrMUpKeTB3Yk5vOHk5MHg3eVM2WThCc3dYMndMQ1kwUHppVmdWZDRIV0pOWmstWFpyeGlsNGdBZ01MR2dPZFhEbm8yckcyOGZWbzhzQzU5SzBnY0h2TlIyZi1uajhoSGFtVGtKQXYxLU5qQ1RRU0dvcjRHR1VoSEFoeHFHbzBxZDFHVHJoQ21IQldUakNQbnRMeHpMem5pOVBMWmVsMERfNXB6ckx2Y3otSVZuTDJ4REVfRkZxTDds?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T22:54:00.000Z",
-    "origem": "Correio Braziliense",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Correio Braziliense",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "PagBank (PAGS34) tem lucro dentro do esperado e prevê pagar pelo menos R$ 2 bi até 2028 a acionistas",
-    "link": "https://www.moneytimes.com.br/pagbank-pags34-tem-lucro-dentro-do-esperado-e-preve-pagar-pelo-menos-r-2-bi-ate-2028-a-acionistas/",
-    "resumo": "O banco digital PagBank (PAGS34) teve alta de 5,3% no lucro líquido do terceiro trimestre sobre um ano antes, para R$ 584 milhões, em um resultado em linha com expectativas do mercado, segundo balanço divulgado nesta segunda-feira. A companhia também anunciou distribuição adicional de R$ 400 milhões em retornos aos…",
-    "data": "2026-11-16T22:50:41.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "PicPay (PICS) vê lucro saltar 157% no 3T26; fintech revê política de baixa de inadimplência em crédito pessoal",
-    "link": "https://www.moneytimes.com.br/picpay-pics-ve-lucro-saltar-157-fintech-reve-politica-de-baixa-de-inadimplencia-em-credito-pessoal/",
-    "resumo": "O PicPay (PICS) teve lucro líquido ajustado de R$ 271 milhões no terceiro trimestre, alta de 157% ante o mesmo intervalo do ano passado, mostrou o balanço do banco digital nesta segunda-feira. A instituição também anunciou redução no prazo de baixa contábil de créditos inadimplentes de 360 para 120 dias nos…",
-    "data": "2026-11-16T22:46:08.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "OpenAI é processada após agentes de IA invadirem sistemas de terceiros",
-    "link": "https://olhardigital.com.br/2026/11/16/pro/openai-e-processada-apos-agentes-de-ia-invadirem-sistemas-de-terceiros/",
-    "resumo": "Investigação envolve episódio ocorrido em julho, quando dois modelos conseguiram escapar de ambiente de testes, acessar internet sem autorização e invadir sistemas da Hugging Face O post OpenAI é processada após agentes de IA invadirem sistemas de terceiros apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-16T22:40:22.000Z",
-    "imagemFeed": null,
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
-    "link": "https://www.moneytimes.com.br/wall-st-fecha-com-forte-queda-devido-a-preocupacoes-sobre-ia-antes-do-resultado-da-nvidia-e-ipo-da-anthropic-davs/",
-    "resumo": "Uma onda generalizada de vendas levou as ações nos EUA para baixo nesta segunda-feira (16). Wall Street foi tomado pela cautela devido às repercussões da renúncia de Jensen Huang ao cargo de presidente-executivo da Nvidia, que esfriaram o entusiasmo em relação às ações do setor de inteligência artificial (IA). A crise…",
-    "data": "2026-11-16T22:35:36.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd09kQmh6ckZDbEFfZDRzY2JFaXRYRGEydkR0SmpjVjNjY2tSakNzM3A3X204a2UzM2dpRk05R1gzVEdOMTB5eWVzMTdCNXFoZU9jMTJZLXZVal9TS1VQV05IcUV6ZEZ1NkxuU1hoM2N5eXR6d1dsTFZHLXRZbmZFTS1NT0RadmpRd0tzbGYtbDI4YVZjN1pXRlFZOEFrbzlPX0Q3dThablZPRjR4b21PQ2lHYUZQc3dJbTR4bk55VjlPMzNUUmxGeG5oRWQwcHRXVW5rbk9MbUtmSHFY?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T22:35:00.000Z",
-    "origem": "Money Times",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Suspeito teria exigido milhões em criptomoedas para evitar ataques no Itaim Bibi",
-    "link": "https://www.infomoney.com.br/brasil/suspeito-teria-exigido-milhoes-em-criptomoedas-para-evitar-ataques-no-itaim-bibi/",
-    "resumo": "Entre os destinatários das cartas, de acordo com outras fontes ligadas à investigação, estão altos executivos do mercado financeiro e de bancos, empresários, além de proprietários de um shopping cente The post Suspeito teria exigido milhões em criptomoedas para evitar ataques no Itaim Bibi appeared first on InfoMoney .",
-    "data": "2026-11-16T22:28:31.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/10/policia-civil-sao-paulo.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Seu saldo é negativo em R$ 11 bi: BB (BBSA3) vê valor de mercado derreter e ação recuar para 2023; o que pode destravar ação?",
-    "link": "https://www.moneytimes.com.br/seu-saldo-e-negativo-em-r-11-bi-bb-bbsa3-ve-valor-de-mercado-derreter-e-acao-recuar-para-2023-o-que-pode-destravar-acao-rnda/",
-    "resumo": "O Banco do Brasil (BBAS3) perdeu cerca de R$ 11 bilhões em valor de mercado desde a divulgação dos resultados do terceiro trimestre, recebidos de forma bastante negativa pelos investidores. Nesta sessão, as ações voltaram a recuar mais de 1%, para R$ 14,95, menor cotação desde março de 2023. Os dados são da Elos Ayta.…",
-    "data": "2026-11-16T22:25:06.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "XP tem lucro de R$ 1,4 bi, alta de 4% no 3º trimestre e anuncia proventos recordes para o ano",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/16/xp-tem-lucro-de-r-14-bi-alta-de-4percent-no-3o-trimestre-e-anuncia-proventos-recordes-para-o-ano.ghtml",
-    "resumo": "A XP Inc. encerrou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,4 bilhão, praticamente estável em relação ao período de abril a junho (-0,14%), com alta de 4% na comparação com o mesmo intervalo de 2025. O desempenho, segundo a administração, foi apoiado pela evolução dos ativos de clientes,…",
-    "data": "2026-11-16T22:22:30.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/asNY5SvgJYEZFVIK8UEyuwanEJE=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/C/7/O1TCebT5mqtUeaWGMbEQ/xp-reproducao.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Lula tem encontro fora da agenda com presidente de Cabo Verde",
-    "link": "https://www.infomoney.com.br/politica/lula-tem-encontro-fora-da-agenda-com-presidente-de-cabo-verde/",
-    "resumo": "Presidente cabo-verdiano foi reeleito no domingo (15) The post Lula tem encontro fora da agenda com presidente de Cabo Verde appeared first on InfoMoney .",
-    "data": "2026-11-16T22:22:23.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/55636960030_366447a419_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova classificar Hamas e Hezbollah como grupos terroristas",
-    "link": "https://www.camara.leg.br/noticias/1319821-comissao-aprova-classificar-hamas-e-hezbollah-como-grupos-terroristas",
-    "resumo": "Outras 15 entidades também foram incluídas no texto, que segue para a análise da CCJ da Câmara",
-    "data": "2026-11-16T22:19:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261014163009966-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "MP Militar faz levantamento sobre casos de assédio a mulheres das Forças Armadas",
-    "link": "https://www.infomoney.com.br/brasil/mp-militar-faz-levantamento-sobre-casos-de-assedio-a-mulheres-das-forcas-armadas/",
-    "resumo": "Casos reunidos contabilizam procedimentos iniciados desde 2025 The post MP Militar faz levantamento sobre casos de assédio a mulheres das Forças Armadas appeared first on InfoMoney .",
-    "data": "2026-11-16T22:18:56.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/07/apresentacao-dos-soldados-do-exercito-brasileiro-1561128950844_v2_900x506.jpg.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "BBAS3: Governo avalia mudança no comando do Banco do Brasil após queda nos lucros",
-    "link": "https://www.infomoney.com.br/mercados/bbas3-governo-avalia-mudanca-no-comando-do-banco-do-brasil-apos-queda-nos-lucros/",
-    "resumo": "O governo está considerando candidatos, incluindo Alexandre Barreto, ex-superintendente do Cade (órgão antitruste brasileiro), segundo duas outras pessoas familiarizadas com as discussões The post BBAS3: Governo avalia mudança no comando do Banco do Brasil após queda nos lucros appeared first on InfoMoney .",
-    "data": "2026-11-16T22:16:22.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-16-191133.png?fit=300%2C198&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "CNJ manda Meta verificar se desembargadora que liberou bets fez ofensas a Lula",
-    "link": "https://www.infomoney.com.br/politica/cnj-manda-meta-verificar-se-desembargadora-que-liberou-bets-fez-ofensas-a-lula/",
-    "resumo": "Conselho determinou que empresa avalie se Adriana Pileggi de Soveral fez postagens de cunho político-partidário contra o presidente The post CNJ manda Meta verificar se desembargadora que liberou bets fez ofensas a Lula appeared first on InfoMoney .",
-    "data": "2026-11-16T22:15:01.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Captura-de-tela-2026-05-09-175508.png?fit=300%2C187&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Portobello renegocia R$ 1 bilhão em dívidas e prevê conversão de parte em ações",
-    "link": "https://www.infomoney.com.br/business/portobello-renegocia-r-1-bilhao-em-dividas-e-preve-conversao-de-parte-em-acoes/",
-    "resumo": "As conversas em andamento preveem que 55% do valor (cerca de R$ 550 milhões) seja renegociado diretamente com os bancos, com postergação dos vencimentos e redução do custo médio The post Portobello renegocia R$ 1 bilhão em dívidas e prevê conversão de parte em ações appeared first on InfoMoney .",
-    "data": "2026-11-16T22:13:05.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/08/Fabrica-Portobello-Foto-ReproducaoPortobello.webp?fit=300%2C152&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões",
-    "link": "https://www.infomoney.com.br/mercados/picpay-fechou-o-terceiro-trimestre-com-lucro-liquido-ajustado-de-r-271-milhoes/",
-    "resumo": "A receita líquida do banco digital alcançou R$ 4,73 bilhões, crescimento de 73% na comparação anual The post PicPay fechou o terceiro trimestre com lucro líquido ajustado de R$ 271 milhões appeared first on InfoMoney .",
-    "data": "2026-11-16T22:06:05.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2021/07/1_ztZr-2Scyx02WRKHB8ubPw.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Maior aposta da história da Netflix, filme com Sydney Sweeney promete quebrar recordes",
-    "link": "https://canaltech.com.br/entretenimento/maior-aposta-da-historia-da-netflix-filme-com-sydney-sweeney-promete-quebrar-recordes/",
-    "resumo": "Com v&aacute;rios projetos em andamento, a atriz Sydney Sweeney firmou uma parceria com a Netflix que promete quebrar recordes impressionantes para o streaming. Estamos falando de Gundam , a aguardada adapta&ccedil;&atilde;o em live-action do cl&aacute;ssico anime Mobile Suit Gundam , sucesso japon&ecirc;s entre os…",
-    "data": "2026-11-16T22:01:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/OlCEBmdrWcGkqIY1tTTayKqyjYs=/0x0/filters:format(webp):quality(85)/f2150bc5-6f86-41e0-811a-dd02014316ff.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa B3 cai 1,83% com pressão do exterior e cautela fiscal; dólar sobe",
-    "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-183-com-pressao-do-exterior-e-cautela-fiscal-dolar-sobe/",
-    "resumo": "Índice recua aos 169 mil pontos em dia de aversão ao risco, enquanto dólar alcança o maior valor desde abril de 2025",
-    "data": "2026-11-16T21:46:43.000Z",
-    "imagemFeed": "https://cdn.borainvestir.b3.com.br/2026/10/30180647/ibovespa-b3-recua-puxado-por-exterior-e-fecha-outubro-com-9-dolar-vai-a-r-544.webp",
-    "fonteId": "b3",
-    "fonte": "B3 Bora Investir",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Guerra entre EUA e China é ‘inevitável’, mas Brasil pode transformar crise em oportunidade se souber jogar o jogo, dizem especialistas",
-    "link": "https://www.seudinheiro.com/2026/internacional/guerra-entre-eua-e-china-e-inevitavel-mas-brasil-pode-transformar-crise-em-oportunidade-se-souber-jogar-o-jogo-dizem-especialistas-bdap/",
-    "resumo": "Durante o Agro Fórum 2026, especialistas discutiram os impactos da rivalidade entre as duas potências e apontaram como o Brasil pode usar suas vantagens para se destacar The post Guerra entre EUA e China é ‘inevitável’, mas Brasil pode transformar crise em oportunidade se souber jogar o jogo, dizem especialistas…",
-    "data": "2026-11-16T21:45:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall Street cai com preocupação sobre IA, antes de dados da Nvidia e IPO da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlczOWhKdW1DcDZhZWZlTDJLQmN1NDdOY0gwanRtcWhlY1E4VzB4d1BtVzdxYXY2SjhnZGpDNXVqNjREZlFQY2NtSF9jaHV1a0VFd1VncjFHZ0ltSjBoZXczc0s4ZjZlLTBzT1NRVXp5b29DNTVhaS1DR3FnWEt0MkxuOWctOS1ONno4dU5wSFAtcDd2SU9peHRZWjdmNkpqMGpmb2RsYXV1QUZKeDUteG9jaXdSM0RXdFhhOUg0RnTSAcYBQVVfeXFMTW5fcnZnbU1iRDBqYW9EVTNBT1ZpN294djVIN2NkaUE0aUx1djNPc3FJdVlCNXZQNGhTRno1a21iMnFIRlBSUTRWb1BOeTYwblFlYmMyaXFsZllqcFhZLTd6OWZSOFM5VnJlX3NoVnBIdE1tMEFJUkRvcjBXajJMNWpSWkd0RjZQa3VsOXM2OUxad0tIVGkwbzdYdm9UdHUzS0pid2d4c1lPRFlkQlRKQWdJc2VtdV81bFdmdFA4blNuUTBVVWx3?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T21:42:56.000Z",
-    "origem": "InfoMoney",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
-    "link": "https://www.camara.leg.br/noticias/1313078-projeto-proibe-uso-da-imagem-de-empregado-em-redes-sociais-da-empresa-sem-previsao-contratual",
-    "resumo": "Proposta enquadra a prática como desvio de função quando a atividade for incompatível com as atribuições do cargo contratado",
-    "data": "2026-11-16T21:35:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261027172334476-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Ibovespa cai quase 2% e dólar vai a R$ 5,77 com ruídos sobre Lula 4 e fuga de estrangeiros",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/16/ibovespa-cai-quase-2percent-e-dolar-vai-a-r-577-com-ruidos-sobre-lula-4-e-fuga-de-estrangeiros.ghtml",
-    "resumo": "O mau humor com o cenário fiscal e as indefinições sobre a equipe econômica do governo Lula 4 provocaram uma forte onda vendedora na bolsa nesta segunda-feira (16), enquanto o dólar tocou o maior nível desde abril de 2025. O Ibovespa encerrou a sessão em queda de 1,8%, aos 169.295 pontos. No mês, ainda sobe 0,8% e, no…",
-    "data": "2026-11-16T21:32:28.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/rPscFGrVjxXNNa5xyoQ_TATSR3w=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/x/P/R05lz9ShC5UnI65zRpLA/gettyimages-168336254.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-    "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
-    "resumo": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de […]",
-    "data": "2026-11-16T21:29:26.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "XP tem lucro líquido ajustado de R$ 1,38 bi no 3T26 e dará agrado bilionário para acionista",
-    "link": "https://www.moneytimes.com.br/xp-tem-lucro-liquido-ajustado-de-r-138-bi-no-3t26-e-dara-agrado-bilionario-para-acionista/",
-    "resumo": "A XP Inc. (XP) teve lucro líquido ajustado de R$1,38 bilhão no terceiro trimestre, alta de 4% em relação ao mesmo período do ano passado, de acordo com o balanço publicado nesta segunda-feira, que mostrou expansão de receita e na base de clientes. O resultado ficou praticamente em linha com a média das projeções de […]",
-    "data": "2026-11-16T21:28:34.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall St fecha com forte queda devido a preocupações sobre IA, antes do resultado da Nvidia e IPO da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQ1dKMjFIelFxT2J1MjFOMFNjZ3lnUWstV19Qem5SR0dnOURNUEEyb0V5ak8yRDVUQnFMVjRUdUdjUWF6TjRVLUtPUTc1d1JOZnRTY0ZoZ3hZY20zXzByNXZLSjcyVzZKVml2Uk1rNWJzYk4xWXpfMHZuYlhLZlM1Y0ZOQy0tbWNmXy1MMEQ4QUJfUHZIUnR0YmR0dUhwUVB5dkg0Z21KSUxINEY2c2JRQ01HMDNpZ0hnVFMzaC00OF94VW9TaHk5bjZNeW41RHVTN2N5cFdiNlVuWnNROTZTRVlOcnJVb1N6UGFSaEFKZDh0cTFZUjJkeHZaQVo?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T21:20:10.000Z",
-    "origem": "UOL Economia",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall St fecha com forte queda devido a preocupações sobre IA, antes do resultado da Nvidia e IPO da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV041RzRUa2d0a2ZqVXdEQ2I2enBYVmVMRXpTMHVETVhRaTNOd3I0Y3UybXZ2Rm5BYklnVVo5VUw4ODRtYldyaG9fZ05IMll4bktyQllBdkczVzdHc3F5OGxaWUY3OWlEZERRSFM5UTh4Wk9ZV0VjTVd3TGNKaGs4Q0RzOWRqNVd4QTN6d2lEdVZiX0hiUXpMX1lsTUdqcEdWMmg0SkZ6TzVzRnZWcFBzVEV4NF92YkpjVmlybk5YT3pGMm9zRGhIckNHTDRNT0wzNllaZ0ZydjBtMm5aLTVtV0hfTEN6QjBYVHBqMkZURGtEa1B2eTBn?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T21:20:00.000Z",
-    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Wall St fecha com forte queda devido a preocupações sobre IA, antes do resultado da Nvidia e IPO da Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNc1paeWpBdC05enhNcHpPSjU2QXMyNkNjSGlhNjFsRnVnRzZQUEhZTDFNS19iVlJMZDlfQW9fcWVWa0U2WlBwM3ZUVVBhRGJwUjJyMHdzQkNrTWxXNmw1UTJrWHdqaXNzOWFIS2RyaTRubGZQczlDYTJhRW5fQTVHeEl5S2x1SmJ6NHhkamhLQXdTY1ZoenpXQ0FQOHVYdWxBejAtLUVua3NBbm9Md3Nwb3JCTk03V0VLS2c0Sk95VWRXQXQxN3VWRFhEaWN4Zk9TME5MMXJ1NnRqRXJDOUdHTjB4RGlpUmp6UllSb045MlBublBYUzROb1BUNFFNVEwtY01uOXBmdExBM2ZrcEF5TXhRX0Jwczg?oc=5",
-    "resumo": "",
-    "data": "2026-11-16T21:20:00.000Z",
-    "origem": "Terra",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Terra",
     "categoria": "imprensa"
   }
 ]
