@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T12:17:27.356Z",
+  "geradoEm": "2026-11-21T15:17:23.859Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -10,12 +10,7 @@
           "outrosIds": [
             "8fe9e46b9c22",
             "e534ac1e912e",
-            "2a216ee7f8db",
-            "b5e5b71343a7",
-            "497d9602c804",
-            "f49a1ce09dcc",
-            "d4f7b3b2bffa",
-            "64e3e0eddf01"
+            "2a216ee7f8db"
           ],
           "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
           "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
@@ -25,14 +20,13 @@
           "categoria": "oficial",
           "data": "2026-11-19T19:26:43.000Z",
           "tambemEm": [
-            "Agência Gov",
             "Agência Brasil"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "c2601d2138bd",
@@ -74,6 +68,40 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "fcdc85f1b0da",
+          "outrosIds": [],
+          "titulo": "Programa Semana Gov destaca o início da escala 5x2 e a devolução de impostos",
+          "resumo": "Programa do Canal Gov/EBC traz o resumo das principais ações do Governo do Brasil. Além do fim da escala 6X1, edição fala do cashback, mecanismo de devolução de impostos que começará a vigorar no ano que vem com a Reforma Tributária",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/programa-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-21T12:15:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
+          "id": "b8a9756b47b0",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
+          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T15:11:04.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
         {
           "id": "841030c03edc",
           "outrosIds": [],
@@ -124,40 +152,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F12%2F2148783033.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "09906a26a884",
-          "outrosIds": [],
-          "titulo": "IFI cobra novo ajuste fiscal de Lula e diz que pacote atual não basta para 2027",
-          "resumo": "A Instituição Fiscal Independente (IFI) alertou que o governo do presidente Luiz Inácio Lula da Silva (PT) precisará apresentar um plano de ajuste fiscal estrutural e profundo para enfrentar os desafios das contas públicas em 2027. Segundo a instituição, o pacote fiscal atualmente em discussão no Congresso Nacional…",
-          "link": "https://www.moneytimes.com.br/ifi-cobra-novo-ajuste-fiscal-de-lula-e-diz-que-pacote-atual-nao-basta-para-2027-jcav/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T14:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F02%2Freal.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "ee0db6cb01f0",
-          "outrosIds": [],
-          "titulo": "Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore",
-          "resumo": "Segundo a gestora, o sentimento predominante entre investidores locais é de cautela The post Brasil corre risco de perder ciclo global favorável sem ajuste fiscal, alerta Ashmore appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/brasil-corre-risco-de-perder-ciclo-global-favoravel-sem-ajuste-fiscal-alerta-ashmore/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T20:45:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2019%2F11%2Fshutterstock_434759536.jpg%3Ffit%3D1700%252C1063%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -166,33 +160,95 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "59dc97db5dcc",
+          "id": "1f7539632ba8",
           "outrosIds": [
-            "12a476e7751f",
-            "68bb9a17bd32",
-            "79903e5a4ae3",
-            "b163be0a08ed",
-            "ebfa6ce1c746",
-            "47e9709839a6",
-            "6643126b7c8a"
+            "29ed428c63ca",
+            "a15d55ce8807",
+            "1fa7ce600334",
+            "e1ec3a85c910"
           ],
-          "titulo": "BDR da Anthropic chega à B3 por cerca de R$ 60",
-          "resumo": "Investidores brasileiros poderão investir na companhia de inteligência artificial a partir desta quinta-feira (19), mesmo dia do IPO, pelo código ANTH34, em reais, por meio das corretoras locais",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/bdr-da-anthropic-chega-a-b3-por-cerca-de-r-60/",
+          "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
+          "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/anthropic-estreia-na-bolsa-com-alta-de-34-bdr-avanca-na-b3/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T15:05:35.000Z",
+          "data": "2026-11-19T19:00:44.000Z",
           "tambemEm": [
             "Money Times",
             "Exame Invest",
-            "InfoMoney"
+            "Seu Dinheiro"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F17160343%2Fclaude.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F07%2F10161917%2Fclaude-ai.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 31
+        },
+        {
+          "id": "baf53c451c69",
+          "outrosIds": [
+            "d28628c7fb85",
+            "3bf06afc38fc"
+          ],
+          "titulo": "Ibovespa B3 cai 0,69% com cautela fiscal; dólar sobe a R$ 5,93",
+          "resumo": "Índice encerra semana mais curta no vermelho, enquanto indefinições sobre a equipe econômica e cenário externo aumentam cautela dos investidores",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-069-com-cautela-fiscal-dolar-sobe-a-r-593/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T21:40:00.000Z",
+          "tambemEm": [
+            "Seu Dinheiro",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
+        },
+        {
+          "id": "d4bb584093cf",
+          "outrosIds": [
+            "433c08109a41",
+            "713df8cfa17b"
+          ],
+          "titulo": "Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção",
+          "resumo": "Nasdaq vira para o negativo em 2026, Dow Jones e S&P 500 entram em correção, e as bolsas europeias fecham em forte queda; entenda o que derrubou as ações nesta sexta-feira (20) The post Onda de caos da IA derruba bolsas no exterior: Anthropic chega a cair 13% e Wall Street entra em correção appeared first on Seu…",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/onda-de-caos-da-ia-derruba-bolsas-no-exterior-anthropic-despenca-13-e-wall-entra-em-correcao-ccgg/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T17:35:16.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wd89zM4lTKwC-e1795195962999.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wd89zM4lTKwC-e1795195962999.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "89fba5458c72",
+          "outrosIds": [
+            "3f5e7fc35c4b"
+          ],
+          "titulo": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
+          "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua vez, continuou no…",
+          "link": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T13:36:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         },
         {
           "id": "bcd0177f984b",
@@ -210,61 +266,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "d3876b0108c4",
-          "outrosIds": [],
-          "titulo": "Tombo das ações de IA derruba Nasdaq em 5,28% e provoca onda de perdas em Wall Street",
-          "resumo": "Nvidia despenca 14%, setor de semicondutores lidera perdas e investidores buscam proteção diante das incertezas do mercado",
-          "link": "https://exame.com/invest/mercados/tombo-das-acoes-de-ia-derruba-nasdaq-em-528-e-provoca-onda-de-perdas-em-wall-street/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T19:26:21.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "49cb7bd9bea4",
-          "outrosIds": [
-            "3a3407a99c59"
-          ],
-          "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
-          "resumo": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&P 500 registrou a quinta sessão…",
-          "link": "https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-19T21:48:00.000Z",
-          "tambemEm": [
-            "Exame Invest"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2020%2F09%2F1-94.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2020%2F09%2F1-94.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "7b391c2cfca9",
-          "outrosIds": [],
-          "titulo": "Ações de petróleo sobem 45% e educação cai 33%: o ranking da bolsa em 2026",
-          "resumo": "Ranking de 17 setores revela os vencedores e perdedores da Bolsa em 2026; veja quem são",
-          "link": "https://exame.com/invest/mercados/acoes-de-petroleo-sobem-45-e-educacao-cai-33-o-ranking-da-bolsa-em-2026/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T08:00:07.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2021%2F03%2FDSC2684bx.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
         }
       ]
     },
@@ -275,6 +276,8 @@
         {
           "id": "fa5bd54d9014",
           "outrosIds": [
+            "1ad22c347b45",
+            "e519b529d6fb",
             "429c72c5e8ba",
             "0ff09dbae6f3",
             "70389cd1baaa",
@@ -292,12 +295,13 @@
           "tambemEm": [
             "Olhar Digital",
             "VEJA",
+            "Estadão",
             "O GLOBO",
             "G1",
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "3f3002a1143b",
@@ -326,10 +330,25 @@
           "pontos": 24
         },
         {
+          "id": "98c13efb5a0e",
+          "outrosIds": [],
+          "titulo": "Com laser e IA, tecnologia da Embrapa e da UFSCar vai analisar esgoto de São Carlos",
+          "resumo": "As técnicas fotônicas, usadas no agro, farão análise dos componentes do esgoto da cidade de São Carlos (SP), em projeto inaugural para investigar contaminantes tóxicos",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/tecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-21T13:50:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
           "id": "0ba4ebad3f39",
-          "outrosIds": [
-            "c22963f5e745"
-          ],
+          "outrosIds": [],
           "titulo": "A próxima crise da inteligência artificial será de manutenção, não de inovação",
           "resumo": "A próxima grande crise da IA pode não surgir da falta de inovação, mas do excesso de soluções que ninguém planejou como manter O post A próxima crise da inteligência artificial será de manutenção, não de inovação apareceu primeiro em Olhar Digital .",
           "link": "https://olhardigital.com.br/2026/11/21/colunistas/a-proxima-crise-da-inteligencia-artificial-sera-de-manutencao-nao-de-inovacao/",
@@ -365,23 +384,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "0b1c832cdf59",
-          "outrosIds": [],
-          "titulo": "Signal bloqueia capturas de tela para proteger mensagens contra IA",
-          "resumo": "Signal bloqueia capturas de tela no Android e iOS 27 para impedir que Gemini, Siri e agentes de IA leiam mensagens, mas admite limites na defesa O post Signal bloqueia capturas de tela para proteger mensagens contra IA apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/signal-bloqueia-capturas-de-tela-para-proteger-mensagens-contra-ia/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T14:53:08.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fsignal-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         }
       ]
     }
@@ -475,7 +477,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 17,
+      "itens": 14,
       "erro": null
     },
     {
@@ -587,7 +589,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 63,
+      "itens": 70,
       "erro": null
     }
   ]
