@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-21T03:17:24.008Z",
+  "geradoEm": "2026-11-21T06:17:25.216Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -176,8 +176,7 @@
             "79903e5a4ae3",
             "59dc97db5dcc",
             "a74e67eb714f",
-            "9df7c947762b",
-            "e6089ed0eb66"
+            "9df7c947762b"
           ],
           "titulo": "Anthropic estreia na bolsa com alta de 34%; BDR avança na B3",
           "resumo": "Ações abriram a US$ 111,50 após IPO recorde; papéis perderam parte do impulso inicial ao longo do pregão",
@@ -309,27 +308,6 @@
           "pontos": 30
         },
         {
-          "id": "1c57ddf60943",
-          "outrosIds": [
-            "0fba0a78190c"
-          ],
-          "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
-          "resumo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes, incluindo recurso voltado a políticos e figuras públicas O post TikTok lança ferramentas para identificar conteúdos de IA e deepfakes apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/tiktok-lanca-ferramentas-para-identificar-conteudos-de-ia-e-deepfakes/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-20T23:43:21.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
           "id": "ee916781ca89",
           "outrosIds": [
             "cf653894bd27"
@@ -369,6 +347,27 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-171020.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "1c57ddf60943",
+          "outrosIds": [
+            "0fba0a78190c"
+          ],
+          "titulo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes",
+          "resumo": "TikTok lança ferramentas para identificar conteúdos de IA e deepfakes, incluindo recurso voltado a políticos e figuras públicas O post TikTok lança ferramentas para identificar conteúdos de IA e deepfakes apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/20/internet-e-redes-sociais/tiktok-lanca-ferramentas-para-identificar-conteudos-de-ia-e-deepfakes/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T23:43:21.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2025%2F05%2Ftiktok-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
         },
         {
           "id": "0b1c832cdf59",
@@ -591,7 +590,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 63,
+      "itens": 62,
       "erro": null
     }
   ]
