@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-22T11:21:40.861Z",
+  "geradoEm": "2026-11-22T12:17:22.387Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -123,7 +123,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 23
         },
         {
           "id": "b8a9756b47b0",
@@ -257,21 +257,21 @@
           "pontos": 20
         },
         {
-          "id": "d1ea590d0009",
+          "id": "4cf8d08c7fd9",
           "outrosIds": [],
-          "titulo": "FII desembolsa R$ 31,3 milhões por fatia de imóvel logístico; IFIX acumula perda de quase 8% em 2026",
-          "resumo": "O fundo imobiliário Pátria Log (HGLG11) concluiu a compra de uma fatia de um imóvel logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,28 milhões. Segundo fato relevante divulgado ao mercado, a participação adquirida corresponde a 5,33% do empreendimento e deverá gerar uma receita mensal de R$ 35,46…",
-          "link": "https://www.moneytimes.com.br/fii-desembolsa-r-313-milhoes-por-fatia-de-imovel-logistico-ifix-acumula-perda-de-quase-8-em-2026-igdl/",
+          "titulo": "Dividendos à vista: Porto Seguro (PSSA3) confirma pagamento de R$ 567 milhões; veja valor por ação",
+          "resumo": "A Porto Seguro (PSSA3) definiu o dia 27 de novembro de 2026 para realizar o pagamento dos dividendos adicionais aprovados em março deste ano, no montante total de R$ 567,4 milhões. Em comunicado divulgado ao mercado, a seguradora informou que o valor corresponde a R$ 0,8861 por ação, sujeito à retenção de Imposto de…",
+          "link": "https://www.moneytimes.com.br/dividendos-a-vista-porto-seguro-pssa3-confirma-pagamento-de-r-567-milhoes-veja-valor-por-acao-igdl/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T12:03:35.000Z",
+          "data": "2026-11-20T13:04:32.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fporto-seguro-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fporto-seguro-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 17
         }
       ]
     },
@@ -318,14 +318,17 @@
             "61a3c8b6ee79",
             "0e19aa641a79",
             "9d97f7808b4f",
+            "6190a8a8ee20",
             "22e3f5660b54",
+            "031eff98bb25",
+            "f004ab54c8f8",
             "93aab289c578",
             "1dab3915a1b9",
             "5f30d030bdd8",
             "7de5d63a4386",
             "ba647a2c4cea",
-            "194c97df7e88",
-            "13c38392f0f4"
+            "6970a69c4758",
+            "194c97df7e88"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -336,9 +339,8 @@
           "data": "2026-11-20T21:13:29.000Z",
           "tambemEm": [
             "CNN Brasil",
-            "Bloomberg Línea Brasil",
             "Valor Econômico",
-            "Money Times",
+            "Bloomberg Línea Brasil",
             "G1",
             "Poder360",
             "Valor Investe",
@@ -495,7 +497,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 8,
+      "itens": 5,
       "erro": null
     },
     {
@@ -600,7 +602,7 @@
       "id": "anthropic",
       "nome": "Anthropic (site oficial)",
       "ok": true,
-      "itens": 100,
+      "itens": 99,
       "erro": null
     },
     {
