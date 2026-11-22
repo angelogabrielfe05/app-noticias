@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-22T03:17:21.773Z",
+  "geradoEm": "2026-11-22T06:17:24.560Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -84,7 +84,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "b8a9756b47b0",
@@ -246,7 +246,7 @@
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "ca082af1df17",
@@ -559,7 +559,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 72,
+      "itens": 74,
       "erro": null
     }
   ]

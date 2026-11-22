@@ -1028,6 +1028,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "IPO trilionário da Anthropic: como dona do Claude ganha dinheiro e enfrenta corrida da IA",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdENLU2RLX3ZibnNfRmdkcXRLTjlJM09nZGxiRHZEMi00VFppdDhhNFRKcVNyVmp6VmJRZ3BKMFpJY0pyRkR0Z0tUd1JlWUdFUzNxSkZYSThOc0QteTJWcjk3TXlzZTZfelBvUjRKZUhXM2pVdlRycE52NGEwbl9KbktHZU1wVnlPVjlHU1ZFQlhBNzdEc2lJZkpuOA?oc=5",
+    "resumo": "",
+    "data": "2026-11-21T11:00:00.000Z",
+    "origem": "Money Times",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "Seus dados estão seguros? Por que segurança e privacidade têm de caminhar juntas",
     "link": "https://canaltech.com.br/seguranca/seus-dados-estao-seguros-por-que-seguranca-e-privacidade-tem-de-caminhar-juntas/",
     "resumo": "A confian&ccedil;a no ambiente digital n&atilde;o depende apenas da tecnologia utilizada por uma empresa, mas tamb&eacute;m da forma como ela administra os riscos e assume a responsabilidade pelas informa&ccedil;&otilde;es que recebe. &Agrave; medida que contratos, transa&ccedil;&otilde;es e rela&ccedil;&otilde;es…",
@@ -14298,56 +14309,6 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "Folha de S.Paulo",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Managing frontier AI risk: From training to deployment",
-    "link": "https://openai.com/index/managing-frontier-ai-risk",
-    "resumo": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-    "data": "2026-11-18T06:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "openai",
-    "fonte": "OpenAI (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Votação do ajuste fiscal, Pnad, ata do Fed e reação ao balanço da Nvidia: o que move os mercados",
-    "link": "https://exame.com/invest/mercados/votacao-do-ajuste-fiscal-pnad-ata-do-fed-e-reacao-ao-balanco-da-nvidia-o-que-move-os-mercados/",
-    "resumo": "Investidores avaliam os riscos fiscais no Brasil e os sinais para os juros americanos em meio às incertezas sobre a inteligência artificial",
-    "data": "2026-11-18T05:30:58.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Na corrida do carro voador, nem todo mundo vai conseguir decolar, diz CEO da Eve",
-    "link": "https://exame.com/invest/mercados/na-corrida-do-carro-voador-nem-todos-vao-conseguir-decolar-diz-ceo-da-eve/",
-    "resumo": "Braço da Embraer tem caixa até 2028 e não precisa captar, afirma Johann Bordais",
-    "data": "2026-11-18T05:00:52.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Bolsa Família paga NIS finais 3, 4, 5, 6, 7, 8, 9 e 0 nesta quarta, 18",
-    "link": "https://exame.com/invest/minhas-financas/bolsa-familia-paga-nis-finais-3-4-5-6-7-8-9-e-0-nesta-quarta-18/",
-    "resumo": "Houve uma antecipação do calendário de pagamentos do Bolsa Família, dias antes da eleição",
-    "data": "2026-11-18T05:00:46.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Recuperações judiciais vão continuar ano que vem, mas sem repetir 2016, diz gestora",
-    "link": "https://exame.com/invest/mercados/recuperacoes-judiciais-vao-continuar-ano-que-vem-mas-sem-repetir-2016-diz-gestora/",
-    "resumo": "Com juros elevados, empresas terão mais dificuldade para honrar dívidas, mas alavancagem das grandes companhias é menor que na recessão; Nicole Vieira vê oportunidades em operações estruturadas",
-    "data": "2026-11-18T05:00:34.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
     "categoria": "imprensa"
   }
 ]
