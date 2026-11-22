@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-22T12:17:22.387Z",
+  "geradoEm": "2026-11-22T15:17:25.640Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -69,23 +69,6 @@
           "pontos": 23
         },
         {
-          "id": "5f299364a72b",
-          "outrosIds": [],
-          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
-          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
-          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-18T13:04:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
           "id": "7d821528763f",
           "outrosIds": [],
           "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
@@ -101,6 +84,25 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
+        },
+        {
+          "id": "48e6c56e58e6",
+          "outrosIds": [
+            "bc59e0ffb6be"
+          ],
+          "titulo": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
+          "resumo": "Kayo Magalhães / Câmara dos Deputados Sessão deliberativa do Plenário da Câmara A Câmara dos Deputados iniciou a Ordem do Dia e analisa o Projeto de Decreto Legislativo (PDL) 756/25, que contém o Tratado de Assistência Jurídica Mútua em Matéria Penal entre o Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de…",
+          "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T19:41:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 16
         }
       ]
     },
@@ -108,6 +110,27 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "51a9027ce575",
+          "outrosIds": [
+            "54ee83f91842"
+          ],
+          "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+          "resumo": "A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) de…",
+          "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T14:50:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
         {
           "id": "fcdc85f1b0da",
           "outrosIds": [],
@@ -124,23 +147,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "b8a9756b47b0",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
-          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T15:11:04.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
         },
         {
           "id": "79a9ffe7b368",
@@ -162,6 +168,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
+        },
+        {
+          "id": "b8a9756b47b0",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
+          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T15:11:04.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 19
         },
         {
           "id": "c45eb5037c17",
@@ -187,6 +210,23 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "66335c06ab0b",
+          "outrosIds": [],
+          "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
+          "resumo": "A cada R$ 1 investido no Serviço Geológico do Brasil (SGB) em 2025, R$ 14,47 voltaram à sociedade em forma de lucro social. O resultado representa um retorno estimado em R$ 10,1 bilhões, segundo a quinta edição do Balanço Social da instituição , publicada neste mês. O lucro social corresponde à estimativa, em valores…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-22T12:21:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
+        },
+        {
           "id": "dff9dd588523",
           "outrosIds": [],
           "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
@@ -201,26 +241,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
-        },
-        {
-          "id": "89fba5458c72",
-          "outrosIds": [
-            "3f5e7fc35c4b"
-          ],
-          "titulo": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
-          "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua vez, continuou no…",
-          "link": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T13:36:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "bcd0177f984b",
@@ -257,21 +278,23 @@
           "pontos": 20
         },
         {
-          "id": "4cf8d08c7fd9",
-          "outrosIds": [],
-          "titulo": "Dividendos à vista: Porto Seguro (PSSA3) confirma pagamento de R$ 567 milhões; veja valor por ação",
-          "resumo": "A Porto Seguro (PSSA3) definiu o dia 27 de novembro de 2026 para realizar o pagamento dos dividendos adicionais aprovados em março deste ano, no montante total de R$ 567,4 milhões. Em comunicado divulgado ao mercado, a seguradora informou que o valor corresponde a R$ 0,8861 por ação, sujeito à retenção de Imposto de…",
-          "link": "https://www.moneytimes.com.br/dividendos-a-vista-porto-seguro-pssa3-confirma-pagamento-de-r-567-milhoes-veja-valor-por-acao-igdl/",
+          "id": "89fba5458c72",
+          "outrosIds": [
+            "3f5e7fc35c4b"
+          ],
+          "titulo": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
+          "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua vez, continuou no…",
+          "link": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-20T13:04:32.000Z",
+          "data": "2026-11-21T13:36:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fporto-seguro-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2024%2F12%2Fporto-seguro-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 19
         }
       ]
     },
@@ -280,8 +303,9 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "aefa839a6768",
+          "id": "48c9fd2d353d",
           "outrosIds": [
+            "aefa839a6768",
             "fa5bd54d9014",
             "429c72c5e8ba",
             "0ff09dbae6f3",
@@ -290,14 +314,15 @@
             "e4d5a7af4773",
             "a744fa2090b8"
           ],
-          "titulo": "Funcionário da Anthropic diz que IA ajudou a resolver problema matemático de 167 anos",
+          "titulo": "Claude fez o impossível? IA da Anthropic ajuda a resolver mistério da matemática de 167 anos",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkNMbWtub1RYQXJ3ZjZ0clQwMUtHV3hBSjBNUjM2QzBGNDBwYzRQUmFLOU8wMjNhRGZwbGptT0NQSUp3dXRxOF92a0pLQ0phLXl1cGhiZ2ozeFNFNVlfbWpNOXFtd2Q1dlMySzhLMVpXWWVPMkNsbEZmTnA1NkkyUDZEN2xROFctRWYwZVFCOUJSdlN2SGJvU3dOMWtiRFdvSjNubWJWcERqZUE2S0xtTDJsQUF3UDA?oc=5",
-          "fonte": "Money Times",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWMzUVRKRVY4RW4yYUpSeEpwTmg1YlE1WUZ4S2pTU2RrcjlSZ1JhR0cxbGYzWktnd0lSeXpmNFFEdUVXRFpsVnMxaTloak84WlN4ZjJDamZSUHUwVzF4Z0txN0d3OTdpOXMyQkt0NDNEa0NwTzYtUjBsTzNWb3BlWFdRZk9VTGI4Q044VUg0T1NVQjRac29zY3pqa1NKYklnRGFfT0ZPdWJaUUFlNElyanhvTGg4YUxMV1BHazdtbUhxQmR0alVmME9lVlFKVjNKSkxsX3pDdS1XaHdGcERDVlp3?oc=5",
+          "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T15:30:00.000Z",
+          "data": "2026-11-22T13:10:00.000Z",
           "tambemEm": [
+            "Money Times",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Olhar Digital",
             "VEJA",
@@ -306,7 +331,7 @@
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 28
+          "pontos": 30
         },
         {
           "id": "ca082af1df17",
@@ -324,11 +349,7 @@
             "f004ab54c8f8",
             "93aab289c578",
             "1dab3915a1b9",
-            "5f30d030bdd8",
-            "7de5d63a4386",
-            "ba647a2c4cea",
-            "6970a69c4758",
-            "194c97df7e88"
+            "5f30d030bdd8"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -345,8 +366,7 @@
             "Poder360",
             "Valor Investe",
             "VEJA",
-            "Metrópoles",
-            "O GLOBO"
+            "Metrópoles"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
