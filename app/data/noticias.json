@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-22T15:17:25.640Z",
+  "geradoEm": "2026-11-22T18:17:22.206Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -310,9 +310,7 @@
             "429c72c5e8ba",
             "0ff09dbae6f3",
             "70389cd1baaa",
-            "07d5c896dc8d",
-            "e4d5a7af4773",
-            "a744fa2090b8"
+            "07d5c896dc8d"
           ],
           "titulo": "Claude fez o impossível? IA da Anthropic ajuda a resolver mistério da matemática de 167 anos",
           "resumo": "",
@@ -327,8 +325,7 @@
             "Olhar Digital",
             "VEJA",
             "O GLOBO",
-            "G1",
-            "InfoMoney"
+            "G1"
           ],
           "foto": null,
           "pontos": 30
@@ -342,14 +339,7 @@
             "513da153e084",
             "61a3c8b6ee79",
             "0e19aa641a79",
-            "9d97f7808b4f",
-            "6190a8a8ee20",
-            "22e3f5660b54",
-            "031eff98bb25",
-            "f004ab54c8f8",
-            "93aab289c578",
-            "1dab3915a1b9",
-            "5f30d030bdd8"
+            "9d97f7808b4f"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -360,13 +350,9 @@
           "data": "2026-11-20T21:13:29.000Z",
           "tambemEm": [
             "CNN Brasil",
-            "Valor Econômico",
-            "Bloomberg Línea Brasil",
             "G1",
             "Poder360",
-            "Valor Investe",
-            "VEJA",
-            "Metrópoles"
+            "Valor Econômico"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -423,7 +409,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 19
         }
       ]
     }
@@ -517,7 +503,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 5,
+      "itens": 2,
       "erro": null
     },
     {
@@ -601,7 +587,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1421,
+      "itens": 1422,
       "erro": null
     },
     {
@@ -622,14 +608,14 @@
       "id": "anthropic",
       "nome": "Anthropic (site oficial)",
       "ok": true,
-      "itens": 99,
+      "itens": 100,
       "erro": null
     },
     {
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 73,
+      "itens": 65,
       "erro": null
     }
   ]
