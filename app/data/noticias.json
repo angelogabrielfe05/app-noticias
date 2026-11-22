@@ -1,10 +1,90 @@
 {
-  "geradoEm": "2026-11-22T06:17:24.560Z",
+  "geradoEm": "2026-11-22T09:17:26.717Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
-      "janelaHoras": 48,
+      "janelaHoras": 96,
       "itens": [
+        {
+          "id": "52b1705314be",
+          "outrosIds": [
+            "8fe9e46b9c22",
+            "e534ac1e912e",
+            "2a216ee7f8db",
+            "b5e5b71343a7",
+            "497d9602c804",
+            "f49a1ce09dcc",
+            "d4f7b3b2bffa",
+            "64e3e0eddf01"
+          ],
+          "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
+          "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T19:26:43.000Z",
+          "tambemEm": [
+            "Agência Gov",
+            "Agência Brasil"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "2a4adcc12a11",
+          "outrosIds": [],
+          "titulo": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
+          "resumo": "O Plenário do Senado aprovou nesta quarta-feira (18), em regime de urgência, projeto de lei da Câmara dos Deputados que fixa em 20 anos o prazo para recorrer à Justiça para pedir reparação civil por crimes sexuais sofridos na infância ou adolescência. Aprovado em votação simbólica, o PL 4.186/2021 recebeu parecer…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/prazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T23:59:50.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F18%2Fprazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao%2F20261118_06069w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "c2601d2138bd",
+          "outrosIds": [],
+          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
+          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-19T21:34:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
+          "id": "5f299364a72b",
+          "outrosIds": [],
+          "titulo": "Deputados podem votar novas regras para educação integral e monitoramento de agressores",
+          "resumo": "Thiago Cristino / Câmara dos Deputados Plenário durante sessão deliberativa O Plenário da Câmara dos Deputados pode votar, nesta quarta-feira (18), projeto de lei (PL) que estabelece regras para ampliar a oferta de educação em tempo integral nas escolas públicas ( PL 479/15 ). De autoria do deputado João Daniel…",
+          "link": "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-18T13:04:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
         {
           "id": "7d821528763f",
           "outrosIds": [],
@@ -21,26 +101,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
-        },
-        {
-          "id": "ecd7c04d29ad",
-          "outrosIds": [
-            "b89f8cf53c75",
-            "8cd59a67b3f6"
-          ],
-          "titulo": "Presidente do Supremo mantém prisão de Vorcaro",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, decidiu nesta sexta-feira (20) manter a prisão do ex-banqueiro Daniel Vorcaro. Fachin rejeitou pedido de soltura protocolado pela defesa do ex-banqueiro, que está preso desde março deste ano no presídio da Papudinha, no Distrito Federal. Notícias…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-20T17:18:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
         }
       ]
     },
@@ -118,7 +178,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fo-deputado-federal-andre-janones-rede-mg-e-o-presidente-lula-pt-em-viagem-oficial-para-a-turquia-1794239129913_v2_900x506.jpg.webp%3Ffit%3D900%252C506%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fo-deputado-federal-andre-janones-rede-mg-e-o-presidente-lula-pt-em-viagem-oficial-para-a-turquia-1794239129913_v2_900x506.jpg.webp%3Ffit%3D900%252C506%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 18
         }
       ]
     },
@@ -258,16 +318,12 @@
             "61a3c8b6ee79",
             "0e19aa641a79",
             "9d97f7808b4f",
-            "6190a8a8ee20",
             "22e3f5660b54",
-            "031eff98bb25",
-            "f004ab54c8f8",
             "93aab289c578",
             "1dab3915a1b9",
             "5f30d030bdd8",
             "7de5d63a4386",
             "ba647a2c4cea",
-            "6970a69c4758",
             "194c97df7e88",
             "13c38392f0f4",
             "6232166beb00",
@@ -284,8 +340,8 @@
           "data": "2026-11-20T21:13:29.000Z",
           "tambemEm": [
             "CNN Brasil",
-            "Valor Econômico",
             "Bloomberg Línea Brasil",
+            "Valor Econômico",
             "Money Times",
             "Forbes Brasil",
             "UOL Economia",
@@ -319,7 +375,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "671a7e149185",
@@ -336,7 +392,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "98c13efb5a0e",
@@ -559,7 +615,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 74,
+      "itens": 75,
       "erro": null
     }
   ]
