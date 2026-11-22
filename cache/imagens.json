@@ -1,20 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNXJSVjNFVGREa0RaUXE5NGxOUk1UN1AtRE0tY0pfTzNvSHRqSzhhZ25WYUNTNzNtWWlPNENKdmxmMGdmOG9LbE9oNk0zTVRZZ19TN25SS01fR3BNZW16WlFpVWlxc0NBY3VrUXBna2tuTDc2czBYZ3pFOHhyd2pEQUFIUUdCN21FQTFEaGItVWcwS0l0anB3VW9XU3NubVRxZEJZTVY3UnMtQnQxRnBjSTI1M29IN3NnSGJVaWJmQTIyaS1HNVJlVE5ZWXlLckI2bFdMdzRucUQxUVdhNUszTDJXUQ?oc=5": {
-    "imagem": null,
-    "em": "2026-11-14T22:22:58.540Z"
-  },
-  "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFNiTW96VHlXRHRpWWpTbGdMRml1aUVYSXJxV1BBeE9JdGFrd1FXTkpEMmt1UWQ0QXBwcW9PTnprZU1wQmRYUl82T0hSQTlFdGl3SzBuMmNfRXRGNkJISkp4dTRzQlNIM0xWWGJKc2t6ZzVsR1dOdVVtVGU2VjYyUDBMeHVLbTZuWFFnVFlJMlZ5WVJZT2pGTXNXOTRvMW5na2JQVVI2QTJkMkhTZW5qUXFHcWdzVGxQZ0HSAb8BQVVfeXFMTzc1dXFpRHhoU05PWFYtRmdTQ1oxNzBOckliV1hrZ3lpcGVUdUVVUHNPS0lMTHVPZ2ZvMDExQ1FnUmZhM1JwVDhveVVSMkc1dkhBa2sxZDR1bzBIMnVOakNZRVVhckZEQUhrZm1UaUI0OUNhUHFsRTBtQnB2Qk1CM2NKdGJwcFp1OG5CbC1fQmFKZ3NXMzNxeGNUZlZyNnEwM041VU83Z0pJTGwtZzhSbWZVZWlJMWVSTkRTb2xWamc?oc=5": {
-    "imagem": null,
-    "em": "2026-11-14T22:22:58.540Z"
-  },
-  "https://www.seudinheiro.com/2026/bolsa-dolar/fii-xp-malls-xpml11-prepara-corte-de-ate-20-no-dividendo-apos-pagamentos-turbinados-e-gestor-abre-o-jogo-sobre-os-motivos-igdl/": {
-    "imagem": "https://www.seudinheiro.com/uploads/2026/11/Felipe-Teatini-gestor-do-XP-Malls-XPML11-Imagem_-divulgacao.png",
-    "em": "2026-11-14T22:22:58.540Z"
-  },
-  "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-066-apos-aprovacao-de-pacote-fiscal-dolar-fica-praticamente-estavel/": {
-    "imagem": "https://cdn.borainvestir.b3.com.br/2026/11/06184748/ibovespa-b3-sobe-139-e-termina-semana-no-azul-dolar-vai-a-r-550.webp",
-    "em": "2026-11-14T22:22:58.540Z"
-  },
   "https://tecnoblog.net/noticias/um-em-cada-tres-usuarios-xinga-chatgpt-gemini-ou-claude/": {
     "imagem": "https://files.tecnoblog.net/wp-content/uploads/2021/12/tipos-de-inteligencia-artificial-1536x864.png",
     "em": "2026-11-15T06:28:26.593Z"
@@ -798,5 +782,13 @@
   "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/": {
     "imagem": "https://tl.ctcdn.com.br/tEtk-Pmp2VblTuAML4TlLueN9l0=/1200x675/smart/filters:format(webp):quality(85)/e10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg",
     "em": "2026-11-21T21:17:24.226Z"
+  },
+  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro": {
+    "imagem": "https://imagens.ebc.com.br/XfuQnwfXqYlkKvgtzxAK7UY-alI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/10/21/55603645624_ea872fc2f4_o.jpg?itok=AXSGO_dE",
+    "em": "2026-11-22T00:17:22.059Z"
+  },
+  "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/21/nao-e-o-sistema-financeiro-que-vai-me-ensinar-a-dirigir-o-pais-diz-lula-sobre-criticas-ao-ajuste-fiscal.ghtml": {
+    "imagem": "https://s2-valor-investe.glbimg.com/lK4bWjpZ4Okp7v_US2NWcVFfdaM=/888x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/B/V/vfx7XKS5qJHzXBvsOSZQ/lula-em-pronunciamento-em-rede-nacional-no-domingo.avif",
+    "em": "2026-11-22T00:17:22.059Z"
   }
 }

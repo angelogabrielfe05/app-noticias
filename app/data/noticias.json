@@ -1,27 +1,10 @@
 {
-  "geradoEm": "2026-11-21T21:17:24.226Z",
+  "geradoEm": "2026-11-22T00:17:22.059Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "c2601d2138bd",
-          "outrosIds": [],
-          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T21:34:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
         {
           "id": "7d821528763f",
           "outrosIds": [],
@@ -38,6 +21,26 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
+        },
+        {
+          "id": "ecd7c04d29ad",
+          "outrosIds": [
+            "b89f8cf53c75",
+            "8cd59a67b3f6"
+          ],
+          "titulo": "Presidente do Supremo mantém prisão de Vorcaro",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, decidiu nesta sexta-feira (20) manter a prisão do ex-banqueiro Daniel Vorcaro. Fachin rejeitou pedido de soltura protocolado pela defesa do ex-banqueiro, que está preso desde março deste ano no presídio da Papudinha, no Distrito Federal. Notícias…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/presidente-do-supremo-mantem-prisao-de-vorcaro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-20T17:18:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FXfuQnwfXqYlkKvgtzxAK7UY-alI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F10%2F21%2F55603645624_ea872fc2f4_o.jpg%3Fitok%3DAXSGO_dE&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
         }
       ]
     },
@@ -60,7 +63,28 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
+        },
+        {
+          "id": "79a9ffe7b368",
+          "outrosIds": [
+            "91932be79682"
+          ],
+          "titulo": "'Não é o sistema financeiro que vai me ensinar a dirigir o país', diz Lula sobre críticas ao ajuste fiscal",
+          "resumo": "O presidente Luiz Inácio Lula da Silva rebateu críticas do mercado financeiro ao projeto de lei complementar (PLP) de ajuste fiscal e afirmou que não vai aceitar questionamentos sobre a \"seriedade do governo\". Ao mesmo tempo, disse ficar \"triste\" com a resistência da esquerda à matéria, garantiu que não haverá cortes…",
+          "link": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/21/nao-e-o-sistema-financeiro-que-vai-me-ensinar-a-dirigir-o-pais-diz-lula-sobre-criticas-ao-ajuste-fiscal.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T21:40:35.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "b8a9756b47b0",
@@ -95,23 +119,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fo-deputado-federal-andre-janones-rede-mg-e-o-presidente-lula-pt-em-viagem-oficial-para-a-turquia-1794239129913_v2_900x506.jpg.webp%3Ffit%3D900%252C506%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "f9155037db5b",
-          "outrosIds": [],
-          "titulo": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025",
-          "resumo": "Em mais um dia de turbulência no mercado financeiro, o dólar avançou pela sexta sessão consecutiva e superou R$ 5,93 nesta quinta-feira (19). A alta ocorreu mesmo após o Banco Central vender US$ 1 bilhão para tentar conter a alta. A moeda fechou no maior patamar desde abril de 2025, em meio à pressão do mercado…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T22:47:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 15
         }
       ]
     },
@@ -119,27 +126,6 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "baf53c451c69",
-          "outrosIds": [
-            "d28628c7fb85"
-          ],
-          "titulo": "Ibovespa B3 cai 0,69% com cautela fiscal; dólar sobe a R$ 5,93",
-          "resumo": "Índice encerra semana mais curta no vermelho, enquanto indefinições sobre a equipe econômica e cenário externo aumentam cautela dos investidores",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-cai-069-com-cautela-fiscal-dolar-sobe-a-r-593/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T21:40:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F10%2F29175036%2Fibovespa-b3-cede-1-com-exterior-negativo-e-balancos-no-radar-dolar-vai-a-r-538.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
-        },
         {
           "id": "dff9dd588523",
           "outrosIds": [],
@@ -209,6 +195,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2022%2F10%2FIMG_9494.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
+        },
+        {
+          "id": "d1ea590d0009",
+          "outrosIds": [],
+          "titulo": "FII desembolsa R$ 31,3 milhões por fatia de imóvel logístico; IFIX acumula perda de quase 8% em 2026",
+          "resumo": "O fundo imobiliário Pátria Log (HGLG11) concluiu a compra de uma fatia de um imóvel logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,28 milhões. Segundo fato relevante divulgado ao mercado, a participação adquirida corresponde a 5,33% do empreendimento e deverá gerar uma receita mensal de R$ 35,46…",
+          "link": "https://www.moneytimes.com.br/fii-desembolsa-r-313-milhoes-por-fatia-de-imovel-logistico-ifix-acumula-perda-de-quase-8-em-2026-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-20T12:03:35.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fqueda-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         }
       ]
     },
@@ -243,7 +246,7 @@
             "InfoMoney"
           ],
           "foto": null,
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "ca082af1df17",
@@ -271,12 +274,7 @@
             "7aaba7b4787e",
             "f7d52e67048a",
             "e31d244739aa",
-            "7cf869f37df9",
-            "bea14c6647e4",
-            "c559342f9655",
-            "5efee343f529",
-            "828450de5c6a",
-            "aed877c671de"
+            "7cf869f37df9"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -450,7 +448,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 10,
+      "itens": 9,
       "erro": null
     },
     {
@@ -562,7 +560,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 73,
+      "itens": 72,
       "erro": null
     }
   ]
