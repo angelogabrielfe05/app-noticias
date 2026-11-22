@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-22T09:17:26.717Z",
+  "geradoEm": "2026-11-22T11:21:40.861Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -126,6 +126,23 @@
           "pontos": 25
         },
         {
+          "id": "b8a9756b47b0",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
+          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
+          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-21T15:11:04.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
+        },
+        {
           "id": "79a9ffe7b368",
           "outrosIds": [
             "91932be79682"
@@ -144,24 +161,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
-        },
-        {
-          "id": "b8a9756b47b0",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
-          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T15:11:04.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "c45eb5037c17",
@@ -325,11 +325,7 @@
             "7de5d63a4386",
             "ba647a2c4cea",
             "194c97df7e88",
-            "13c38392f0f4",
-            "6232166beb00",
-            "7aaba7b4787e",
-            "f7d52e67048a",
-            "e31d244739aa"
+            "13c38392f0f4"
           ],
           "titulo": "Ação da Anthropic cai 8,5% após estreia e traz choque de realidade para setor de IA",
           "resumo": "“Uma queda no valor das ações é normal após uma abertura de capital de grande repercussão, mas não sabemos se essa queda seguirá a tendência de outras IPOs ou será mais volátil, ​e isso deve servir de alerta para os investidores”, disse Tejal Patel The post Ação da Anthropic cai 8,5% após estreia e traz choque de…",
@@ -343,16 +339,12 @@
             "Bloomberg Línea Brasil",
             "Valor Econômico",
             "Money Times",
-            "Forbes Brasil",
-            "UOL Economia",
-            "Estadão",
             "G1",
             "Poder360",
             "Valor Investe",
             "VEJA",
             "Metrópoles",
-            "O GLOBO",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos"
+            "O GLOBO"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FCaptura-de-tela-2026-11-19-091238.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -395,19 +387,19 @@
           "pontos": 22
         },
         {
-          "id": "98c13efb5a0e",
+          "id": "bf823220ac56",
           "outrosIds": [],
-          "titulo": "Com laser e IA, tecnologia da Embrapa e da UFSCar vai analisar esgoto de São Carlos",
-          "resumo": "As técnicas fotônicas, usadas no agro, farão análise dos componentes do esgoto da cidade de São Carlos (SP), em projeto inaugural para investigar contaminantes tóxicos",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/tecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-21T13:50:00.000Z",
+          "titulo": "Agentes de IA encontraram um sítio maia inédito? Não — veja como dados sem revisão geram ruído",
+          "resumo": "Pesquisador usa agentes de IA para \"descobrir\" sítio maia no México, mas local já havia sido mapeado por cientistas. O post Agentes de IA encontraram um sítio maia inédito? Não — veja como dados sem revisão geram ruído apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/agentes-de-ia-encontraram-um-sitio-maia-inedito-nao-veja-como-dados-sem-revisao-geram-ruido/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T09:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -615,7 +607,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 75,
+      "itens": 73,
       "erro": null
     }
   ]
