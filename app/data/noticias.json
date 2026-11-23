@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T15:17:32.109Z",
+  "geradoEm": "2026-11-23T18:17:23.125Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -25,6 +25,25 @@
           "pontos": 22
         },
         {
+          "id": "860a4e54550a",
+          "outrosIds": [
+            "9d5685dcac82"
+          ],
+          "titulo": "Projeto cria regras para ONGs que recebem recursos do exterior e limita transferência de ativos estratégicos",
+          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+          "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-transferencia-de-ativos-estrategicos",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T15:55:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 19
+        },
+        {
           "id": "9ad0899f360f",
           "outrosIds": [],
           "titulo": "Governo Federal aprova R$ 4,7 milhões para ajuda humanitária a Tupanciretã (RS)",
@@ -42,38 +61,21 @@
           "pontos": 18
         },
         {
-          "id": "9d5685dcac82",
+          "id": "c164205f592d",
           "outrosIds": [],
-          "titulo": "Projeto garante transporte gratuito para estudantes de cursos técnicos e de qualificação profissional",
-          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-          "link": "https://www.camara.leg.br/noticias/1321657-projeto-garante-transporte-gratuito-para-estudantes-de-cursos-tecnicos-e-de-qualificacao-profissional",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T13:49:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
-          "id": "4b6cd89eed5d",
-          "outrosIds": [],
-          "titulo": "Estatuto do Aprendiz está na pauta do Plenário nesta terça",
-          "resumo": "O Plenário do Senado pode votar nesta terça-feira (24), a partir das 14h, o projeto que cria o Estatuto do Aprendiz. O PL 6.461/2019 define a aprendizagem profissional como um contrato de trabalho voltado à formação técnica e profissional metódica. O texto permite a contratação de jovens de 14 a 24 anos incompletos e…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/estatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca",
+          "titulo": "Lei libera R$ 4,8 mi extras para tribunais e indenização a servidor de área de fronteira",
+          "resumo": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, para a Agência Brasileira de Inteligência (Abin) e para as Justiças Federal e do Trabalho. A norma teve origem em projeto de lei do…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T13:08:56.000Z",
+          "data": "2026-11-23T17:57:22.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Festatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca%2F20261117_03514jp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Festatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca%2F20261117_03514jp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira%2Fibama_20190205_00507.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira%2Fibama_20190205_00507.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 15
+          "pontos": 16
         }
       ]
     },
@@ -117,7 +119,29 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
+        },
+        {
+          "id": "4ecf9cef33d2",
+          "outrosIds": [
+            "1e8db1867491",
+            "0f958e184d69"
+          ],
+          "titulo": "Dólar vai a R$ 6 e Ibovespa cai enquanto Nvidia e outras empresas de chips disparam; veja o que impacta o mercado hoje (23)",
+          "resumo": "O mercado brasileiro começou a semana na ponta negativa. Nesta segunda-feira (23), o dólar à vista atingiu a marca de R$ 6,00, enquanto o Ibovespa recua em meio às discussões sobre o pacote de ajuste fiscal e a divulgação Focus que, mais uma vez, colocou a inflação acima da meta do Banco Central. O cenário […]",
+          "link": "https://www.moneytimes.com.br/dolar-vai-a-r-6-e-ibovespa-cai-enquanto-nvidia-e-outras-semicondutoras-disparam-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T16:36:47.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "103eba11077c",
@@ -134,7 +158,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "841030c03edc",
@@ -151,24 +175,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
-        },
-        {
-          "id": "2fe782ea7402",
-          "outrosIds": [],
-          "titulo": "Economistas elevam projeções para Selic e inflação em 2027; confira o Focus desta segunda-feira (23)",
-          "resumo": "Os economistas ouvidos pelo Banco Central, voltaram a ajustar suas expectativas para a economia brasileira no Relatório Focus, nesta segunda-feira (23). A principal novidade do levantamento foi a nova alta da estimativa para o IPCA de 2027, que passou de 5,00% para 5,12% e superou novamente a marca de 5%, em movimento…",
-          "link": "https://www.moneytimes.com.br/economistas-elevam-projecoes-para-selic-e-inflacao-em-2027-confira-o-focus-desta-segunda-feira-23-jcav/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T11:43:09.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 25
         }
       ]
     },
@@ -192,6 +199,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 30
+        },
+        {
+          "id": "003956a9c669",
+          "outrosIds": [],
+          "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
+          "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T17:17:22.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
         },
         {
           "id": "e10e30866671",
@@ -229,7 +253,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "ec2272838f17",
@@ -247,23 +271,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "f5bf9c01f441",
-          "outrosIds": [],
-          "titulo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos",
-          "resumo": "Em seis semanas, S&P 500 e Dow Jones saíram dos recordes para uma queda de mais de 10%, e o Nasdaq teve a pior semana desde março de 2020",
-          "link": "https://exame.com/invest/mercados/do-ipo-da-dona-do-claude-a-crise-da-nvidia-a-correcao-de-wall-street-em-cinco-pontos/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T08:27:12.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2025%2F06%2FGettyImages-2208889105.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2025%2F06%2FGettyImages-2208889105.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
         }
       ]
     },
@@ -272,37 +279,33 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "628a9c4b7214",
-          "outrosIds": [
-            "5659bfe6a6cd"
-          ],
-          "titulo": "IPO da Anthropic não afasta preocupações com setor de IA",
+          "id": "b4e8bed493d2",
+          "outrosIds": [],
+          "titulo": "Funcionário da Anthropic afirma ter resolvido um dos maiores problemas da matemática com IA",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHlMRFE5ZnpEZGs3SGl4dmRUZ0szWDRHSjZoaTVlZ1A2a2RjOEY2bVRVZUFoUVBrNzBUN0xaV0RDZTFIS05TazlQZTEwSWtRajhZeTBSSUhIQXY0cWFibGQyd0FwaUpPZTBrbnZUWU5DWGlNZ245b05wcm5hNU9rWDVFZHQ0QkxkMnAyWU9MSHBrNzJBcmFGd09FdFlyN2tuRVhjaDBLYVd1MGM2M1FzUGxR0gGyAUFVX3lxTE5keUxEUTlmekRkazdIaXh2ZFRnSzNYNEdKNmhpNWVnUDZrZGM4RjZtVFVlQWhRUGs3MFQ3TFpXRENlMUhLTlNrOVBlMTBJa1FqOFl5MFJJSEhBdjRxYWJsZDJ3QXBpSk9lMGtudlRZTkNYaU1nbjlvTnBybmE1T2tYNUVkdDRCTGQycDJZT0xIcGs3MkFyYUZ3T0V0WXI3a25FWGNoMEthV3UwYzYzUXNQbFE?oc=5",
-          "fonte": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNkJDWG5IYWxWX2d4TzFYOURWcVJjVWU1NERja0FBazYzNjYzNjBsdXNLc002c3hnV29RMTJldlN6VWxrWkh4ajZ0dlZrbjRzb2VMNWRoWDlwUllRdGZQUkxMQVlaQzlyZ2J2dFBNSDRqQmQ5VGdtaHNoeG9sQnloV3VLQ2I2dGR1cHRpZXNKYW1ZX0ZPbjJiUFphaHZmRk16dWJZZ0l0UUpVbkFkM2ZjSV9adVg3V0FVTERJZVNKUzBvUzZxNnpuZmhZWUNVUFV5ZGZabFhHazhyV1hUbllVTWxJV2M4UVgwVElFTDNQTk5tSEFnby1ITmM4X3lfUU40ejdnNnNR?oc=5",
+          "fonte": "Terra",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-23T08:00:00.000Z",
-          "tambemEm": [
-            "Exame"
-          ],
+          "data": "2026-11-23T17:48:00.000Z",
+          "tambemEm": [],
           "foto": null,
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "4d80cd7fb07a",
           "outrosIds": [
-            "607a85b292cf"
+            "00e6101180f6"
           ],
-          "titulo": "Bolsas de NY disparam com volta de Huang ao comando da Nvidia; ação salta quase 30%",
-          "resumo": "As bolsas de Nova York caminham para uma forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). As ações da companhia chegaram a disparar quase 30% nas negociações antes da abertura do mercado, em um…",
+          "titulo": "Nvidia salta mais de 30% com volta de Huang e puxa bolsas de NY",
+          "resumo": "As bolsas de Nova York caminham para uma forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). Ainda no pré-mercado, antes da abertura da sessão, as ações da companhia já disparavam quase 30% nas…",
           "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/23/bolsas-de-ny-disparam-com-volta-de-huang-ao-comando-da-nvidia-acao-salta-quase-30percent.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
           "data": "2026-11-23T14:43:49.000Z",
           "tambemEm": [
-            "Olhar Digital"
+            "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -452,16 +455,16 @@
     {
       "id": "ibge-google",
       "nome": "IBGE",
-      "ok": false,
-      "itens": 0,
-      "erro": "HTTP 503"
+      "ok": true,
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": true,
-      "itens": 30,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -557,16 +560,16 @@
     {
       "id": "anthropic",
       "nome": "Anthropic (site oficial)",
-      "ok": false,
-      "itens": 0,
-      "erro": "HTTP 503"
+      "ok": true,
+      "itens": 100,
+      "erro": null
     },
     {
       "id": "google-news-claude",
       "nome": "{veiculo}",
-      "ok": false,
-      "itens": 0,
-      "erro": "HTTP 503"
+      "ok": true,
+      "itens": 46,
+      "erro": null
     }
   ]
 }
