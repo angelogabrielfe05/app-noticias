@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T09:17:26.988Z",
+  "geradoEm": "2026-11-23T12:17:28.478Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -67,6 +67,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
+        },
+        {
+          "id": "9ad0899f360f",
+          "outrosIds": [],
+          "titulo": "Governo Federal aprova R$ 4,7 milhões para ajuda humanitária a Tupanciretã (RS)",
+          "resumo": "Primeiro plano de trabalho destina recursos para aquisição de cestas básicas, kits de limpeza e higiene, colchões e kit dormitório, locação de veículos e combustível",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-22T23:45:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs%2F%40%40download%2Fimage%2F70d1c0c6-1f7f-408f-802e-4f103abbd21e.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs%2F%40%40download%2Fimage%2F70d1c0c6-1f7f-408f-802e-4f103abbd21e.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
         }
       ]
     },
@@ -75,97 +92,89 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "51a9027ce575",
-          "outrosIds": [
-            "54ee83f91842"
-          ],
-          "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
-          "resumo": "A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) de…",
-          "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
-          "fonte": "Money Times",
+          "id": "a04863657574",
+          "outrosIds": [],
+          "titulo": "Receita Federal abre consulta ao lote residual de restituição do Imposto de Renda",
+          "resumo": "Lote é composto por 223.793 restituições, destinadas a contribuintes prioritários e não prioritários, com valor total de R$ 666.285.077,46. Crédito bancário será realizado ao longo do dia 30 de novembro.",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T10:22:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "103eba11077c",
+          "outrosIds": [],
+          "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
+          "resumo": "Qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar do ambiente de testes do piloto da Reforma Tributária referente à Contribuição sobre Bens e Serviços (CBS) . De acordo com portaria da Receita Federal publicada nesta segunda-feira (23), não será mais necessária a indicação por…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T11:40:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "841030c03edc",
+          "outrosIds": [],
+          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
+          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário",
+          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T10:57:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "095179ddb039",
+          "outrosIds": [],
+          "titulo": "Dólar hoje sobe e se aproxima dos R$ 6 com tensão fiscal no retorno do feriado",
+          "resumo": "Moeda americana avança em meio à preocupação dos investidores com as contas públicas e à expectativa pela votação do ajuste fiscal na Câmara The post Dólar hoje sobe e se aproxima dos R$ 6 com tensão fiscal no retorno do feriado appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23112026/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-22T14:50:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
+          "data": "2026-11-23T12:16:27.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "fcdc85f1b0da",
+          "id": "b70487ee9d24",
           "outrosIds": [],
-          "titulo": "Programa Semana Gov destaca o início da escala 5x2 e a devolução de impostos",
-          "resumo": "Programa do Canal Gov/EBC traz o resumo das principais ações do Governo do Brasil. Além do fim da escala 6X1, edição fala do cashback, mecanismo de devolução de impostos que começará a vigorar no ano que vem com a Reforma Tributária",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/programa-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-21T12:15:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fprograma-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos%2F%40%40download%2Fimage%2Fsemanagov_capa.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "b8a9756b47b0",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal: Lula defende Moretti e critica ‘gritaria’ de parte da esquerda e de ‘yuppies da Faria Lima’",
-          "resumo": "O presidente Luiz Inácio Lula da Silva (PT) falou na manhã deste sábado (21) sobre sua proposta de ajuste fiscal, aprovada na última semana pelo Senado e em tramitação ainda na Câmara. Lula defendeu o ministro Bruno Moretti, do Planejamento e Orçamento, e criticou a “gritaria” de parte da esquerda brasileira e…",
-          "link": "https://www.moneytimes.com.br/ajuste-fiscal-lula-defende-moretti-e-critica-gritaria-de-parte-da-esquerda-e-de-yuppies-da-faria-lima/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T15:11:04.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2F20261121-120513-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
-        },
-        {
-          "id": "79a9ffe7b368",
-          "outrosIds": [
-            "91932be79682"
-          ],
-          "titulo": "'Não é o sistema financeiro que vai me ensinar a dirigir o país', diz Lula sobre críticas ao ajuste fiscal",
-          "resumo": "O presidente Luiz Inácio Lula da Silva rebateu críticas do mercado financeiro ao projeto de lei complementar (PLP) de ajuste fiscal e afirmou que não vai aceitar questionamentos sobre a \"seriedade do governo\". Ao mesmo tempo, disse ficar \"triste\" com a resistência da esquerda à matéria, garantiu que não haverá cortes…",
-          "link": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2026/11/21/nao-e-o-sistema-financeiro-que-vai-me-ensinar-a-dirigir-o-pais-diz-lula-sobre-criticas-ao-ajuste-fiscal.ghtml",
+          "titulo": "Boletim Focus: Mercado eleva previsão para dólar, inflação e juros; PIB cai mais uma vez",
+          "resumo": "A expectativa dos economistas para a inflação, o dólar e os juros voltou a subir, enquanto a previsão para o crescimento da economia brasileira continuou em queda, segundo o Boletim Focus do Banco Central (BC). A piora das projeções é mais acentuada para 2027, ano em que o mercado já espera uma inflação de 5,12%,…",
+          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/23/boletim-focus-mercado-eleva-previsao-para-dolar-inflacao-e-juros-pib-cai-mais-uma-vez.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T21:40:35.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FlK4bWjpZ4Okp7v_US2NWcVFfdaM%3D%2F888x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FB%2FV%2Fvfx7XKS5qJHzXBvsOSZQ%2Flula-em-pronunciamento-em-rede-nacional-no-domingo.avif&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
-          "id": "ba4d10f73a7a",
-          "outrosIds": [],
-          "titulo": "UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio?",
-          "resumo": "UBS prevê mercados piorando e maior risco de estagflação com demora do governo em definir ajuste fiscal e recomenda investimento no exterior e em NTN-B como proteção para inflação The post UBS vê possibilidade de estagflação no Brasil em 2027; como balancear o portfólio? appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/ubs-ve-possibilidade-de-estagflacao-no-brasil-em-2027-como-balancear-o-portfolio/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T08:00:00.000Z",
+          "data": "2026-11-23T11:44:16.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F07%2FCaptura-de-tela-2025-07-26-092249.png%3Ffit%3D1124%252C674%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F07%2FCaptura-de-tela-2025-07-26-092249.png%3Ffit%3D1124%252C674%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTYcYbq_CIuXxNZGX2H8ZXji1-SY%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fs%2Fy%2FOOFbQfQXKpeS8HHEQMYg%2Ffinance-9227766-1280.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTYcYbq_CIuXxNZGX2H8ZXji1-SY%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fs%2Fy%2FOOFbQfQXKpeS8HHEQMYg%2Ffinance-9227766-1280.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 24
         }
       ]
     },
@@ -173,6 +182,23 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "e6fa150c0d94",
+          "outrosIds": [],
+          "titulo": "Petrobras (PETR4), Taesa (TAEE3) e mais empresas pagam dividendos nesta semana; veja valores",
+          "resumo": "Algumas companhias listadas no Ibovespa, como Petrobras (PETR4) e Taesa (TAEE3), distribuem dividendos ou juros sobre capital próprio (JCP) aos seus acionistas nesta semana. Na segunda-feira (9), petroleira distribui JCP de R$ 0,6741 para os acionistas das ações PETR3 e PETR4. Nos dois casos, a data de corte é 21 de…",
+          "link": "https://www.moneytimes.com.br/petrobras-petr4-taesa-taee3-dividendos-nesta-semana-valores-mlem/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T10:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "ec2272838f17",
           "outrosIds": [],
@@ -189,23 +215,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "dff9dd588523",
-          "outrosIds": [],
-          "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
-          "resumo": "Nasdaq 100 caiu 10% na semana, o pior desempenho desde março de 2020, e o S&P 500 entrou em correção, com recuo de 12% desde o recorde de outubro",
-          "link": "https://exame.com/invest/mercados/nasdaq-tem-pior-semana-desde-2020-e-nem-ipo-da-anthropic-segurou-o-setor-de-tecnologia/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T14:22:24.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2026%2F11%2FQueda-Tecnologica-em-Vermelho.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
         },
         {
           "id": "89fba5458c72",
@@ -227,23 +236,6 @@
           "pontos": 19
         },
         {
-          "id": "758de4cf2868",
-          "outrosIds": [],
-          "titulo": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
-          "resumo": "O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T22:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
           "id": "66335c06ab0b",
           "outrosIds": [],
           "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
@@ -259,6 +251,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
+        },
+        {
+          "id": "758de4cf2868",
+          "outrosIds": [],
+          "titulo": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
+          "resumo": "O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T22:30:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
         }
       ]
     },
@@ -267,22 +276,22 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "48c9fd2d353d",
+          "id": "628a9c4b7214",
           "outrosIds": [
-            "aefa839a6768"
+            "5659bfe6a6cd"
           ],
-          "titulo": "Claude fez o impossível? IA da Anthropic ajuda a resolver mistério da matemática de 167 anos",
+          "titulo": "IPO da Anthropic não afasta preocupações com setor de IA",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWMzUVRKRVY4RW4yYUpSeEpwTmg1YlE1WUZ4S2pTU2RrcjlSZ1JhR0cxbGYzWktnd0lSeXpmNFFEdUVXRFpsVnMxaTloak84WlN4ZjJDamZSUHUwVzF4Z0txN0d3OTdpOXMyQkt0NDNEa0NwTzYtUjBsTzNWb3BlWFdRZk9VTGI4Q044VUg0T1NVQjRac29zY3pqa1NKYklnRGFfT0ZPdWJaUUFlNElyanhvTGg4YUxMV1BHazdtbUhxQmR0alVmME9lVlFKVjNKSkxsX3pDdS1XaHdGcERDVlp3?oc=5",
-          "fonte": "Seu Dinheiro",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHlMRFE5ZnpEZGs3SGl4dmRUZ0szWDRHSjZoaTVlZ1A2a2RjOEY2bVRVZUFoUVBrNzBUN0xaV0RDZTFIS05TazlQZTEwSWtRajhZeTBSSUhIQXY0cWFibGQyd0FwaUpPZTBrbnZUWU5DWGlNZ245b05wcm5hNU9rWDVFZHQ0QkxkMnAyWU9MSHBrNzJBcmFGd09FdFlyN2tuRVhjaDBLYVd1MGM2M1FzUGxR0gGyAUFVX3lxTE5keUxEUTlmekRkazdIaXh2ZFRnSzNYNEdKNmhpNWVnUDZrZGM4RjZtVFVlQWhRUGs3MFQ3TFpXRENlMUhLTlNrOVBlMTBJa1FqOFl5MFJJSEhBdjRxYWJsZDJ3QXBpSk9lMGtudlRZTkNYaU1nbjlvTnBybmE1T2tYNUVkdDRCTGQycDJZT0xIcGs3MkFyYUZ3T0V0WXI3a25FWGNoMEthV3UwYzYzUXNQbFE?oc=5",
+          "fonte": "Valor Econômico",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-22T13:10:00.000Z",
+          "data": "2026-11-23T08:00:00.000Z",
           "tambemEm": [
-            "Money Times"
+            "Exame"
           ],
           "foto": null,
-          "pontos": 24
+          "pontos": 26
         },
         {
           "id": "88e0bf83f429",
@@ -299,7 +308,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "12dccd37eaaf",
@@ -336,19 +345,19 @@
           "pontos": 20
         },
         {
-          "id": "bf823220ac56",
+          "id": "98c13efb5a0e",
           "outrosIds": [],
-          "titulo": "Agentes de IA encontraram um sítio maia inédito? Não — veja como dados sem revisão geram ruído",
-          "resumo": "Pesquisador usa agentes de IA para \"descobrir\" sítio maia no México, mas local já havia sido mapeado por cientistas. O post Agentes de IA encontraram um sítio maia inédito? Não — veja como dados sem revisão geram ruído apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/22/ciencia-e-espaco/agentes-de-ia-encontraram-um-sitio-maia-inedito-nao-veja-como-dados-sem-revisao-geram-ruido/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T09:30:00.000Z",
+          "titulo": "Com laser e IA, tecnologia da Embrapa e da UFSCar vai analisar esgoto de São Carlos",
+          "resumo": "As técnicas fotônicas, usadas no agro, farão análise dos componentes do esgoto da cidade de São Carlos (SP), em projeto inaugural para investigar contaminantes tóxicos",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/tecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-21T13:50:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fshutterstock_2641923885-2.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
         }
@@ -444,7 +453,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 0,
+      "itens": 1,
       "erro": null
     },
     {
@@ -556,7 +565,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 50,
+      "itens": 52,
       "erro": null
     }
   ]
