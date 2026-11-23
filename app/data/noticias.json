@@ -1,72 +1,28 @@
 {
-  "geradoEm": "2026-11-23T12:17:28.478Z",
+  "geradoEm": "2026-11-23T15:17:32.109Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
-      "janelaHoras": 96,
+      "janelaHoras": 48,
       "itens": [
         {
-          "id": "52b1705314be",
+          "id": "b3d7e433a473",
           "outrosIds": [
-            "8fe9e46b9c22",
-            "e534ac1e912e",
-            "2a216ee7f8db",
-            "b5e5b71343a7",
-            "497d9602c804",
-            "f49a1ce09dcc",
-            "d4f7b3b2bffa",
-            "64e3e0eddf01"
+            "178ddc6d0dfb"
           ],
-          "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
-          "resumo": "O governo federal publicou nesta quinta-feira (19) decreto do presidente Luiz Inácio Lula da Silva que regulamenta o fim da escala de trabalho 6x1, extinta pela Emenda Constitucional 141, promulgada pelo Congresso no mês passado. A mudança vai beneficiar empregados urbanos, rurais, domésticos e, em alguns casos,…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
+          "titulo": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
+          "resumo": "Uma nova lei abre crédito suplementar de R$ 290 milhões para a Eletronuclear S.A., no Orçamento de Investimento da União, para reforçar os recursos destinados à implantação da Usina Termonuclear Angra 3. A Lei 15.547, de 2026, foi sancionada pelo presidente da República e publicada no Diário Oficial da União (DOU) em…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-19T19:26:43.000Z",
-          "tambemEm": [
-            "Agência Gov",
-            "Agência Brasil"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F19%2Fsenadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2%2F55662493824_199c90c0a0_o.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 30
-        },
-        {
-          "id": "c2601d2138bd",
-          "outrosIds": [],
-          "titulo": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), marcou para o dia 4 de dezembro o julgamento virtual sobe a validade da lei que altera o cálculo das penas (dosimetria) de condenados pelos atos golpistas de 8 de janeiro de 2023 e que também pode beneficiar o ex-presidente Jair Bolsonaro. O processo…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-19T21:34:00.000Z",
+          "data": "2026-11-23T13:54:25.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FJqHvFoqAEwNMxBM4sThGT3BKprI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmanifestacao1_mcamgo_abr_080120231818-8.jpg%3Fitok%3D6xDwX7zO&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
-        },
-        {
-          "id": "7d821528763f",
-          "outrosIds": [],
-          "titulo": "Moraes vota para manter apreensão de passaportes de Flávio Bolsonaro",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), votou nesta sexta-feira (20) para manter a própria decisão que proibiu o senador Flávio Bolsonaro (PL-RJ) de deixar o país e determinou a entrega de seus passaportes. O voto foi proferido durante o julgamento virtual de um recurso apresentado pela…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-vota-para-manter-apreensao-de-passaportes-de-flavio-bolsonaro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-20T20:55:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FkbrSxjVywH74SwPU3-b54PuAOvo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F16%2Flula4803_0.jpg%3Fitok%3DmxF_Cd7U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
+          "pontos": 22
         },
         {
           "id": "9ad0899f360f",
@@ -84,6 +40,40 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs%2F%40%40download%2Fimage%2F70d1c0c6-1f7f-408f-802e-4f103abbd21e.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
+        },
+        {
+          "id": "9d5685dcac82",
+          "outrosIds": [],
+          "titulo": "Projeto garante transporte gratuito para estudantes de cursos técnicos e de qualificação profissional",
+          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
+          "link": "https://www.camara.leg.br/noticias/1321657-projeto-garante-transporte-gratuito-para-estudantes-de-cursos-tecnicos-e-de-qualificacao-profissional",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T13:49:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 17
+        },
+        {
+          "id": "4b6cd89eed5d",
+          "outrosIds": [],
+          "titulo": "Estatuto do Aprendiz está na pauta do Plenário nesta terça",
+          "resumo": "O Plenário do Senado pode votar nesta terça-feira (24), a partir das 14h, o projeto que cria o Estatuto do Aprendiz. O PL 6.461/2019 define a aprendizagem profissional como um contrato de trabalho voltado à formação técnica e profissional metódica. O texto permite a contratação de jovens de 14 a 24 anos incompletos e…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/estatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T13:08:56.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Festatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca%2F20261117_03514jp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Festatuto-do-aprendiz-esta-na-pauta-do-plenario-nesta-terca%2F20261117_03514jp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 15
         }
       ]
     },
@@ -91,6 +81,27 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "3157e4d6c66f",
+          "outrosIds": [
+            "b70487ee9d24"
+          ],
+          "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
+          "resumo": "Analistas do mercado financeiro elevaram de R$ 5,40 para R$ 5,55 a estimativa para a cotação do dólar no fim de 2026. O dado consta do boletim Focus, divulgado nesta segunda-feira (23) pelo Banco Central, com expectativas de instituições financeiras para os principais indicadores da economia. Além do câmbio, o mercado…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T13:11:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FIuiHBafzvIOBtXEJd-vQ2WkR460%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimage%2Feconomia_ilustracao-5.jpg%3Fitok%3DTSiQOBb-&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FIuiHBafzvIOBtXEJd-vQ2WkR460%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimage%2Feconomia_ilustracao-5.jpg%3Fitok%3DTSiQOBb-&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
         {
           "id": "a04863657574",
           "outrosIds": [],
@@ -143,36 +154,19 @@
           "pontos": 26
         },
         {
-          "id": "095179ddb039",
+          "id": "2fe782ea7402",
           "outrosIds": [],
-          "titulo": "Dólar hoje sobe e se aproxima dos R$ 6 com tensão fiscal no retorno do feriado",
-          "resumo": "Moeda americana avança em meio à preocupação dos investidores com as contas públicas e à expectativa pela votação do ajuste fiscal na Câmara The post Dólar hoje sobe e se aproxima dos R$ 6 com tensão fiscal no retorno do feriado appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23112026/",
-          "fonte": "InfoMoney",
+          "titulo": "Economistas elevam projeções para Selic e inflação em 2027; confira o Focus desta segunda-feira (23)",
+          "resumo": "Os economistas ouvidos pelo Banco Central, voltaram a ajustar suas expectativas para a economia brasileira no Relatório Focus, nesta segunda-feira (23). A principal novidade do levantamento foi a nova alta da estimativa para o IPCA de 2027, que passou de 5,00% para 5,12% e superou novamente a marca de 5%, em movimento…",
+          "link": "https://www.moneytimes.com.br/economistas-elevam-projecoes-para-selic-e-inflacao-em-2027-confira-o-focus-desta-segunda-feira-23-jcav/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-23T12:16:27.000Z",
+          "data": "2026-11-23T11:43:09.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "b70487ee9d24",
-          "outrosIds": [],
-          "titulo": "Boletim Focus: Mercado eleva previsão para dólar, inflação e juros; PIB cai mais uma vez",
-          "resumo": "A expectativa dos economistas para a inflação, o dólar e os juros voltou a subir, enquanto a previsão para o crescimento da economia brasileira continuou em queda, segundo o Boletim Focus do Banco Central (BC). A piora das projeções é mais acentuada para 2027, ano em que o mercado já espera uma inflação de 5,12%,…",
-          "link": "https://valorinveste.globo.com/mercados/moedas-e-juros/noticia/2026/11/23/boletim-focus-mercado-eleva-previsao-para-dolar-inflacao-e-juros-pib-cai-mais-uma-vez.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T11:44:16.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTYcYbq_CIuXxNZGX2H8ZXji1-SY%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fs%2Fy%2FOOFbQfQXKpeS8HHEQMYg%2Ffinance-9227766-1280.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FTYcYbq_CIuXxNZGX2H8ZXji1-SY%3D%2F1280x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fs%2Fy%2FOOFbQfQXKpeS8HHEQMYg%2Ffinance-9227766-1280.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -182,6 +176,44 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "5f41ee87c2ea",
+          "outrosIds": [],
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T14:12:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "e10e30866671",
+          "outrosIds": [
+            "a99100a9d217"
+          ],
+          "titulo": "Fim do ‘dividendo turbinado’: FII reduz pagamento após 29 meses; veja novo valor e o que levou ao corte",
+          "resumo": "Fundo imobiliário XPML11 manteve rendimentos em R$ 0,92 por cota de maio de 2024 até outubro de 2026 The post Fim do ‘dividendo turbinado’: FII reduz pagamento após 29 meses; veja novo valor e o que levou ao corte appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fim-do-dividendo-turbinado-fii-reduz-pagamento-apos-29-meses-veja-novo-valor-e-o-que-levou-ao-corte-igdl/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T13:01:03.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wzdSU0wM1yl3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wzdSU0wM1yl3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "e6fa150c0d94",
           "outrosIds": [],
@@ -214,60 +246,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "89fba5458c72",
-          "outrosIds": [
-            "3f5e7fc35c4b"
-          ],
-          "titulo": "Balanços do 3T26 superam expectativas, mas cenário macro limita reação das ações, diz Citi",
-          "resumo": "A temporada de balanços do terceiro trimestre de 2026 foi positiva para as empresas do Ibovespa, mas não foi suficiente para impulsionar as ações. Segundo relatório do Citi, a execução de margens e o controle de custos ajudaram a compensar a demanda ainda irregular. O cenário macroeconômico, por sua vez, continuou no…",
-          "link": "https://www.moneytimes.com.br/balancos-do-3t26-superam-expectativas-mas-cenario-macro-limita-reacao-das-acoes-diz-citi/",
-          "fonte": "Money Times",
+          "id": "f5bf9c01f441",
+          "outrosIds": [],
+          "titulo": "Do IPO da dona do Claude à crise da Nvidia: a correção de Wall Street em cinco pontos",
+          "resumo": "Em seis semanas, S&P 500 e Dow Jones saíram dos recordes para uma queda de mais de 10%, e o Nasdaq teve a pior semana desde março de 2020",
+          "link": "https://exame.com/invest/mercados/do-ipo-da-dona-do-claude-a-crise-da-nvidia-a-correcao-de-wall-street-em-cinco-pontos/",
+          "fonte": "Exame Invest",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T13:36:00.000Z",
+          "data": "2026-11-23T08:27:12.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2025%2F06%2FGettyImages-2208889105.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2025%2F06%2FGettyImages-2208889105.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
-        },
-        {
-          "id": "66335c06ab0b",
-          "outrosIds": [],
-          "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
-          "resumo": "A cada R$ 1 investido no Serviço Geológico do Brasil (SGB) em 2025, R$ 14,47 voltaram à sociedade em forma de lucro social. O resultado representa um retorno estimado em R$ 10,1 bilhões, segundo a quinta edição do Balanço Social da instituição , publicada neste mês. O lucro social corresponde à estimativa, em valores…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-22T12:21:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
-          "id": "758de4cf2868",
-          "outrosIds": [],
-          "titulo": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
-          "resumo": "O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T22:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
+          "pontos": 23
         }
       ]
     },
@@ -291,7 +287,45 @@
             "Exame"
           ],
           "foto": null,
-          "pontos": 26
+          "pontos": 25
+        },
+        {
+          "id": "4d80cd7fb07a",
+          "outrosIds": [
+            "607a85b292cf"
+          ],
+          "titulo": "Bolsas de NY disparam com volta de Huang ao comando da Nvidia; ação salta quase 30%",
+          "resumo": "As bolsas de Nova York caminham para uma forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). As ações da companhia chegaram a disparar quase 30% nas negociações antes da abertura do mercado, em um…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/23/bolsas-de-ny-disparam-com-volta-de-huang-ao-comando-da-nvidia-acao-salta-quase-30percent.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T14:43:49.000Z",
+          "tambemEm": [
+            "Olhar Digital"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "03a382c8405a",
+          "outrosIds": [],
+          "titulo": "Audiência debate violência sexual facilitada por tecnologia e material de abuso infantil gerado por IA",
+          "resumo": "GettyImages Estudo mostra que tecnologia facilita violência sexual A Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil realiza audiência pública nesta quarta-feira (25), às 14 horas, para discutir a violência sexual facilitada pela tecnologia e a produção de material de abuso sexual…",
+          "link": "https://www.camara.leg.br/noticias/1321180-audiencia-debate-violencia-sexual-facilitada-por-tecnologia-e-material-de-abuso-infantil-gerado-por-ia",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T12:18:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "88e0bf83f429",
@@ -311,55 +345,21 @@
           "pontos": 22
         },
         {
-          "id": "12dccd37eaaf",
+          "id": "390a0aabff80",
           "outrosIds": [],
-          "titulo": "FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia",
-          "resumo": "Segundo o Financial Times, gigante americana está próxima de adquirir a Decart, empresa especializada em otimizar o processamento de inteligência artificial e reduzir a demanda por chips The post FT: Amazon negocia compra de startup de IA por US$ 7,5 bilhões para enfrentar Nvidia appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/ft-amazon-negocia-compra-de-startup-de-ia-por-us-75-bilhoes-para-enfrentar-nvidia/",
-          "fonte": "InfoMoney",
+          "titulo": "Bancos dos EUA endurecem controle sobre agentes de IA por segurança",
+          "resumo": "Bancos americanos criam equipes internas, limitam permissões e revisam botões de emergência para evitar falhas de agentes de IA O post Bancos dos EUA endurecem controle sobre agentes de IA por segurança apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/bancos-dos-eua-endurecem-controle-sobre-agentes-de-ia-por-seguranca/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-21T21:15:07.000Z",
+          "data": "2026-11-23T12:28:05.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2Famazon-empresa-business-entrega-02.jpg%3Ffit%3D1100%252C700%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "671a7e149185",
-          "outrosIds": [],
-          "titulo": "O que o Gemini sabe sobre você? Veja como acessar e apagar a memória da IA",
-          "resumo": "Voc&ecirc; sabe quais informa&ccedil;&otilde;es o Gemini guarda sobre voc&ecirc;? O Google lan&ccedil;ou um painel que facilita a consulta e a edi&ccedil;&atilde;o desses dados. Chamado Memory summary, o recurso aparece no Brasil com o nome &ldquo;Fatos salvos na mem&oacute;ria&rdquo; e mostra as…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/veja-o-que-o-gemini-sabe-sobre-voce/",
-          "fonte": "Canaltech",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-21T21:00:04.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FtEtk-Pmp2VblTuAML4TlLueN9l0%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Fe10d6e86-c94e-420b-9d41-6956a6c5eb6a.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "98c13efb5a0e",
-          "outrosIds": [],
-          "titulo": "Com laser e IA, tecnologia da Embrapa e da UFSCar vai analisar esgoto de São Carlos",
-          "resumo": "As técnicas fotônicas, usadas no agro, farão análise dos componentes do esgoto da cidade de São Carlos (SP), em projeto inaugural para investigar contaminantes tóxicos",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/tecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-21T13:50:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Ftecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos%2F%40%40download%2Fimage%2Fufscar.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
         }
       ]
     }
@@ -452,16 +452,16 @@
     {
       "id": "ibge-google",
       "nome": "IBGE",
-      "ok": true,
-      "itens": 1,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "HTTP 503"
     },
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
+      "ok": true,
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "b3",
@@ -557,16 +557,16 @@
     {
       "id": "anthropic",
       "nome": "Anthropic (site oficial)",
-      "ok": true,
-      "itens": 100,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "HTTP 503"
     },
     {
       "id": "google-news-claude",
       "nome": "{veiculo}",
-      "ok": true,
-      "itens": 52,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "HTTP 503"
     }
   ]
 }
