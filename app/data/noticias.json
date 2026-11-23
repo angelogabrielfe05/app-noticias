@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T03:17:21.631Z",
+  "geradoEm": "2026-11-23T06:17:23.988Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -191,23 +191,6 @@
           "pontos": 20
         },
         {
-          "id": "758de4cf2868",
-          "outrosIds": [],
-          "titulo": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
-          "resumo": "O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T22:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
-        },
-        {
           "id": "89fba5458c72",
           "outrosIds": [
             "3f5e7fc35c4b"
@@ -225,6 +208,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
+        },
+        {
+          "id": "758de4cf2868",
+          "outrosIds": [],
+          "titulo": "Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market",
+          "resumo": "O índice Nasdaq 100 ampliou para 19,8% a queda desde o recorde de 6 de outubro, enquanto o S&P 500 passou a acumular recuo de 12% The post Investidores hesitam em comprar na baixa com Nasdaq 100 perto de bear market appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/investidores-hesitam-em-comprar-na-baixa-com-nasdaq-100-perto-de-bear-market/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T22:30:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FNasdaq.jpg%3Ffit%3D1920%252C1316%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
         },
         {
           "id": "66335c06ab0b",
@@ -267,23 +267,6 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "88e0bf83f429",
-          "outrosIds": [],
-          "titulo": "Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor",
-          "resumo": "Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T21:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
           "id": "48c9fd2d353d",
           "outrosIds": [
             "aefa839a6768"
@@ -300,6 +283,23 @@
           ],
           "foto": null,
           "pontos": 24
+        },
+        {
+          "id": "88e0bf83f429",
+          "outrosIds": [],
+          "titulo": "Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor",
+          "resumo": "Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T21:30:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         },
         {
           "id": "12dccd37eaaf",
@@ -556,7 +556,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 56,
+      "itens": 52,
       "erro": null
     }
   ]

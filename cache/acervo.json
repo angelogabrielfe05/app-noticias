@@ -2236,6 +2236,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Bolsas de NY fecham em forte queda; Anthropic e Nvidia tombam",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaGpSSUlyWXh3dkpyUUY3eXFBQXF1VnNCaGV6Vng1aDBMdVZranB1MS16ckh4UVFZTnNBTF9mblc3S1BiOWRyVlNmS3l2Z3Q4ek5DNHlaaXlrb1JUMzdsVEppS1o1RnRlUnY1bWViT291V3pMaU5JQ0F5OGJLNWhMMVlmMkJnZWFHTWtlTlBlSHZvYU5WQThaSEg2amZrd1B3R3hLMlc2ajl0cGJFTUtVOW1ReXVmSkVNMzZMdEsxSmlCZFFsbWh3WkZSTEItZGxjX2xsZG9aTl9NZTgtdGhscXNmbHRzdDhuWjNUd0RXQmR3cHpw?oc=5",
+    "resumo": "",
+    "data": "2026-11-21T02:28:00.000Z",
+    "origem": "UOL Economia",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "UOL Economia",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "IA Claude, da Anthropic, afirma ter resolvido problema matemático de 150 anos",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV2d5NzBNRlp6YlNKZzJfZ3ZwUDE5ZDgwMURQMGhWWVNJU202bzZaMzVlZ1JqakFFbGhxdUluRjZEcWZJNFhfQzNZVHExS1l0cjF6MkkyOXVkdkd5SFotckZRLXUxXzI2YnJzWDc4ZUpWMm9ValJKcWFmZVpQMmRZZC1OZnAwa3BOeGYtakNIZ2ZSV1RLWU5NcEhfVEFsTTZMQ3d4WGNNbUg2R3E3R2xkRVV4QXhOQVFuVXN5TmhMNUFJUWJ6aGV3SA?oc=5",
     "resumo": "",
@@ -2553,17 +2564,6 @@
     "imagemFeed": null,
     "fonteId": "moneytimes",
     "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Bolsas de NY fecham em forte queda; Anthropic e Nvidia tombam",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaGpSSUlyWXh3dkpyUUY3eXFBQXF1VnNCaGV6Vng1aDBMdVZranB1MS16ckh4UVFZTnNBTF9mblc3S1BiOWRyVlNmS3l2Z3Q4ek5DNHlaaXlrb1JUMzdsVEppS1o1RnRlUnY1bWViT291V3pMaU5JQ0F5OGJLNWhMMVlmMkJnZWFHTWtlTlBlSHZvYU5WQThaSEg2amZrd1B3R3hLMlc2ajl0cGJFTUtVOW1ReXVmSkVNMzZMdEsxSmlCZFFsbWh3WkZSTEItZGxjX2xsZG9aTl9NZTgtdGhscXNmbHRzdDhuWjNUd0RXQmR3cHpw?oc=5",
-    "resumo": "",
-    "data": "2026-11-20T21:28:00.000Z",
-    "origem": "UOL Economia",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "UOL Economia",
     "categoria": "imprensa"
   },
   {
@@ -10496,58 +10496,6 @@
     "imagemFeed": null,
     "fonteId": "google-news-claude",
     "fonte": "O GLOBO",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa fecha em queda após falas de Lula sobre ministérios e perde 3,53% na semana",
-    "link": "https://exame.com/invest/mercados/ibovespa-hoje-19-11-2026/",
-    "resumo": "Bolsas de Nova York também fecharam em forte queda, apesar da estreia positiva da Anthropic na Nasdaq, com investidores cautelosos sobre o setor de inteligência artificial",
-    "data": "2026-11-19T05:30:04.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dona do Claude, Anthropic estreia hoje na bolsa: o que se sabe até agora",
-    "link": "https://exame.com/invest/mercados/dona-do-claude-anthropic-estreia-hoje-na-bolsa-o-que-se-sabe-ate-agora/",
-    "resumo": "Ação saiu a US$ 83, acima da faixa, e dinheiro vai para chips e data centers",
-    "data": "2026-11-19T05:00:47.000Z",
-    "imagemFeed": "https://classic.exame.com/wp-content/uploads/2026/11/ipo-anthropic-numeros-horizontal.png?resize=1024,576",
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "O Super El Niño chegou e o ICMS do diesel vai subir. Quanto isso pesa no seu prato?",
-    "link": "https://exame.com/invest/minhas-financas/o-super-el-nino-chegou-e-o-icms-do-diesel-vai-subir-quanto-isso-pesa-no-seu-prato/",
-    "resumo": "Dados reunidos por Carlos Henrique Junior, estrategista da Freex Casa de Câmbio, mostram como ambos os fatores impactam a cesta básica do brasileiro",
-    "data": "2026-11-19T05:00:09.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Saiba quem é quem na Anthropic, gigante da IA que lança IPO nesta quinta",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEp0OFBfSXRQZmltbzNGWUx2Rm81RjAtcUltSlFzV1laUm5FUzhQR05jemtlMmVfWllpa1BYM1RLdHZUeENZZ09wR0NqMFhQQ19pSFhCemJqWnNqRWl6WldvZUxUR0JxT1psRjc2MzAtb0JySzRQN0RNSFh2SjBCck4yUUpzaC1HQ1puWlUzOG1HQ1lTVFU4M2lwSmZjTjRtek9tYWJGR1lpLURXVHl3aElLTDdEdFhoWFl3alpUQ3l0UVk?oc=5",
-    "resumo": "",
-    "data": "2026-11-19T04:54:34.000Z",
-    "origem": "CNN Brasil",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "CNN Brasil",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "CEO do SoftBank, classifica oportunidade perdida de investir na Anthropic como um de seus erros",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZVBJSEttZDZUTVZ3eWRxajBSMEF3eDdpOWpJWjJ6MVZIRkRuckZsUkFmNW9EV0hBOG9Oc0diMko4Mlh1bWJ2U0dPeDh4M0xxd2QxaGE5dEV0eGtFdEE1dzhQNHhmVGpPRFhJMUFBSXNBV3RtMnRFT1NPd0g3dE43LWlNRWFQdGp3bkRpakxUN2dITHBkQ2dUT05uckF4RWljcGE0dnpQMG9YTFQzMHhXd2hMQXFRNHk5NlJrMURNMFBWM3RwNXhqMFR1bktWYnd6TFVTWUR2UTdSZ0htZ2RIWTVpeEhmZ2PSAfYBQVVfeXFMUFNkR1ptb3NfbmQ2WmlXdjVqYjU3VVFURi1BcVZqOGpDUk12WkdOX0lqVVBFcUlUYmhmZmh0QUxyckF6c2w5WE1jSHRkSS1jczJYQ3ZXeUtxNDRBM3JyWUpGaFNPYXZjVmZ1MnB0NHQ4QldQeFpXekhsS0lLSmlVYmVtMFpvSHhuU0RXVEE2Uk00VzZsY1Zzb1VCLWRvTE5QMEhNcjhqUmFhVGJDZHdYWXhlTHF5QXowWlhmWEc5bTBobWpyOGZrYkZ5bGFTYkw1SUUxengxNTRyWHNucnhjUXIyeDdrcmJHdV9lWVRkdW9wdDlWN3hR?oc=5",
-    "resumo": "",
-    "data": "2026-11-19T03:56:40.000Z",
-    "origem": "Valor Econômico",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Valor Econômico",
     "categoria": "imprensa"
   }
 ]
