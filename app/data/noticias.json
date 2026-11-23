@@ -1,13 +1,33 @@
 {
-  "geradoEm": "2026-11-23T18:17:23.125Z",
+  "geradoEm": "2026-11-23T21:17:25.436Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "eec940787887",
+          "outrosIds": [
+            "1bbb76d4e410"
+          ],
+          "titulo": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
+          "resumo": "A Advocacia-Geral da União (AGU) defendeu nesta segunda-feira (23) a dispensa da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que estabeleceu regras de transição para a implantação da escala 5x2 de trabalho. Na manifestação, a AGU afirmou que o presidente Luiz Inácio Lula da Silva já editou…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T18:45:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
           "id": "b3d7e433a473",
           "outrosIds": [
+            "9231d1ea8abd",
             "178ddc6d0dfb"
           ],
           "titulo": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
@@ -22,7 +42,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
+        },
+        {
+          "id": "2ef22fabc4b3",
+          "outrosIds": [],
+          "titulo": "Plenário vota criação da Força Nacional do SUS nesta quarta-feira",
+          "resumo": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. O PL 351/2019 é o primeiro item da pauta da…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T18:37:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 19
         },
         {
           "id": "860a4e54550a",
@@ -59,23 +96,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs%2F%40%40download%2Fimage%2F70d1c0c6-1f7f-408f-802e-4f103abbd21e.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
-        },
-        {
-          "id": "c164205f592d",
-          "outrosIds": [],
-          "titulo": "Lei libera R$ 4,8 mi extras para tribunais e indenização a servidor de área de fronteira",
-          "resumo": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, para a Agência Brasileira de Inteligência (Abin) e para as Justiças Federal e do Trabalho. A norma teve origem em projeto de lei do…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T17:57:22.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira%2Fibama_20190205_00507.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira%2Fibama_20190205_00507.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 16
         }
       ]
     },
@@ -84,25 +104,52 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "3157e4d6c66f",
+          "id": "293dd5362555",
           "outrosIds": [
-            "b70487ee9d24"
+            "a526fec0846d",
+            "841030c03edc",
+            "91624c2115de"
           ],
-          "titulo": "Mercado eleva projeção do dólar para R$ 5,55 em 2026",
-          "resumo": "Analistas do mercado financeiro elevaram de R$ 5,40 para R$ 5,55 a estimativa para a cotação do dólar no fim de 2026. O dado consta do boletim Focus, divulgado nesta segunda-feira (23) pelo Banco Central, com expectativas de instituições financeiras para os principais indicadores da economia. Além do câmbio, o mercado…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-eleva-projecao-do-dolar-para-r-555-em-2026",
+          "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
+          "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T13:11:00.000Z",
+          "data": "2026-11-23T19:57:00.000Z",
           "tambemEm": [
+            "Agência Câmara",
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 34
+        },
+        {
+          "id": "b3c88d6fd380",
+          "outrosIds": [
+            "5fa33b925d56",
+            "a24e6a16eb4a",
+            "b70487ee9d24"
+          ],
+          "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
+          "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE), o Produto Interno Bruto (PIB) deve avançar 1,8% em…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T19:48:00.000Z",
+          "tambemEm": [
+            "Money Times",
             "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FIuiHBafzvIOBtXEJd-vQ2WkR460%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimage%2Feconomia_ilustracao-5.jpg%3Fitok%3DTSiQOBb-&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FIuiHBafzvIOBtXEJd-vQ2WkR460%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimage%2Feconomia_ilustracao-5.jpg%3Fitok%3DTSiQOBb-&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 34
         },
         {
           "id": "a04863657574",
@@ -123,10 +170,7 @@
         },
         {
           "id": "4ecf9cef33d2",
-          "outrosIds": [
-            "1e8db1867491",
-            "0f958e184d69"
-          ],
+          "outrosIds": [],
           "titulo": "Dólar vai a R$ 6 e Ibovespa cai enquanto Nvidia e outras empresas de chips disparam; veja o que impacta o mercado hoje (23)",
           "resumo": "O mercado brasileiro começou a semana na ponta negativa. Nesta segunda-feira (23), o dólar à vista atingiu a marca de R$ 6,00, enquanto o Ibovespa recua em meio às discussões sobre o pacote de ajuste fiscal e a divulgação Focus que, mais uma vez, colocou a inflação acima da meta do Banco Central. O cenário […]",
           "link": "https://www.moneytimes.com.br/dolar-vai-a-r-6-e-ibovespa-cai-enquanto-nvidia-e-outras-semicondutoras-disparam-mlem/",
@@ -134,48 +178,29 @@
           "oficial": false,
           "categoria": "imprensa",
           "data": "2026-11-23T16:36:47.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
+          "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fmercado-bolsa-ibovespa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 24
         },
         {
-          "id": "103eba11077c",
+          "id": "095179ddb039",
           "outrosIds": [],
-          "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
-          "resumo": "Qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar do ambiente de testes do piloto da Reforma Tributária referente à Contribuição sobre Bens e Serviços (CBS) . De acordo com portaria da Receita Federal publicada nesta segunda-feira (23), não será mais necessária a indicação por…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T11:40:00.000Z",
+          "titulo": "Dólar hoje recua e fecha a R$ 5,92, após bater R$ 6 na máxima",
+          "resumo": "Moeda americana refletiu mais cedo preocupação dos investidores com as contas públicas e à expectativa pela votação do ajuste fiscal na Câmara The post Dólar hoje recua e fecha a R$ 5,92, após bater R$ 6 na máxima appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23112026/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T20:24:37.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F09%2F2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
-        },
-        {
-          "id": "841030c03edc",
-          "outrosIds": [],
-          "titulo": "Câmara deve votar ajuste fiscal; proposta do governo pretende economizar R$ 70 bilhões",
-          "resumo": "Projetos em alusão à Semana da Consciência Negra também estão na pauta do Plenário",
-          "link": "https://www.camara.leg.br/noticias/1321186-camara-deve-votar-ajuste-fiscal-proposta-do-governo-pretende-economizar-r-70-bilhoes",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T10:57:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
+          "pontos": 23
         }
       ]
     },
@@ -183,23 +208,6 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "5f41ee87c2ea",
-          "outrosIds": [],
-          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
-          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T14:12:01.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 30
-        },
         {
           "id": "003956a9c669",
           "outrosIds": [],
@@ -216,6 +224,59 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 29
+        },
+        {
+          "id": "5f41ee87c2ea",
+          "outrosIds": [],
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T14:12:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 29
+        },
+        {
+          "id": "95302f3c8000",
+          "outrosIds": [
+            "bef17e9e8598"
+          ],
+          "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
+          "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
+          "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T15:50:12.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "582577e23427",
+          "outrosIds": [],
+          "titulo": "Dividendos de 11%: Citi eleva recomendação de Tim (TIMS3) e Telefônica Brasil (VIVT3), mas prefere uma delas",
+          "resumo": "Empresas apresentaram um resultado no 3T26 com lucro e Ebitda acima do que era esperado no mercado The post Dividendos de 11%: Citi eleva recomendação de Tim (TIMS3) e Telefônica Brasil (VIVT3), mas prefere uma delas appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/empresas/dividendos-de-11-citi-eleva-recomendacao-de-tim-tims3-e-telefonica-brasil-vivt3-para-compra-mas-prefere-uma-mlem/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T21:02:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2021%2F11%2FTim-TIMS3-Vivo-VIVT3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2021%2F11%2FTim-TIMS3-Vivo-VIVT3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         },
         {
           "id": "e10e30866671",
@@ -236,40 +297,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wzdSU0wM1yl3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-wzdSU0wM1yl3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "e6fa150c0d94",
-          "outrosIds": [],
-          "titulo": "Petrobras (PETR4), Taesa (TAEE3) e mais empresas pagam dividendos nesta semana; veja valores",
-          "resumo": "Algumas companhias listadas no Ibovespa, como Petrobras (PETR4) e Taesa (TAEE3), distribuem dividendos ou juros sobre capital próprio (JCP) aos seus acionistas nesta semana. Na segunda-feira (9), petroleira distribui JCP de R$ 0,6741 para os acionistas das ações PETR3 e PETR4. Nos dois casos, a data de corte é 21 de…",
-          "link": "https://www.moneytimes.com.br/petrobras-petr4-taesa-taee3-dividendos-nesta-semana-valores-mlem/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T10:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
-        },
-        {
-          "id": "ec2272838f17",
-          "outrosIds": [],
-          "titulo": "Mudanças em impostos de dividendos, investimentos isentos e fortunas entram no radar",
-          "resumo": "Nos últimas semanas, foram apresentados à Câmara dos Deputados projetos de lei que contam com ideias de mudança no Imposto de Renda sobre dividendos, juros sobre capital próprio e papéis de renda fixa isentos para investidores pessoas físicas. Além disso, também foram apresentadas outras propostas de um imposto sobre…",
-          "link": "https://valorinveste.globo.com/objetivo/hora-de-investir/noticia/2026/11/23/mudancas-em-impostos-de-dividendos-investimentos-isentos-e-fortunas-entram-no-radar.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T09:00:01.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FELpwYUkSgFyXZPQCyhkMBuvdid8%3D%2F4957x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fi%2Fd%2FxBqXcoRT6d4wUpaqjcwA%2Firpf-2025-prazo.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 23
         }
       ]
@@ -279,15 +306,15 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "b4e8bed493d2",
+          "id": "08d86d5dd18e",
           "outrosIds": [],
-          "titulo": "Funcionário da Anthropic afirma ter resolvido um dos maiores problemas da matemática com IA",
+          "titulo": "Anthropic lança Claude Ship para acelerar desenvolvimento de software",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNkJDWG5IYWxWX2d4TzFYOURWcVJjVWU1NERja0FBazYzNjYzNjBsdXNLc002c3hnV29RMTJldlN6VWxrWkh4ajZ0dlZrbjRzb2VMNWRoWDlwUllRdGZQUkxMQVlaQzlyZ2J2dFBNSDRqQmQ5VGdtaHNoeG9sQnloV3VLQ2I2dGR1cHRpZXNKYW1ZX0ZPbjJiUFphaHZmRk16dWJZZ0l0UUpVbkFkM2ZjSV9adVg3V0FVTERJZVNKUzBvUzZxNnpuZmhZWUNVUFV5ZGZabFhHazhyV1hUbllVTWxJV2M4UVgwVElFTDNQTk5tSEFnby1ITmM4X3lfUU40ejdnNnNR?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcUtrMnYxWnJEZG80NUZUazg2ckhQYy1TejdRRmoycTh5TjBEZkVORlgyYU9Ka3ByaDdUSGpQTGEycnNhWi1wSTRFaDQyd09PN3R2MDg4N01NMHJsakRtV1RjMm12RnR6Nl9ZNzlvRk5DRmxrWnc1bnE4MmxnclRUcXZlVlZWTjRsS1JfbWl0UmtqWTdlREpBVFJod0dCTWZfSUlHVHRjVEFUdUQtRkl1ZE9sMS0wZ1c4X2dGb3lfaEZVczJYSEZHcWZHYmpIOTdjeXVMcjJjX01GdU0teFE?oc=5",
           "fonte": "Terra",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-23T17:48:00.000Z",
+          "data": "2026-11-23T20:41:00.000Z",
           "tambemEm": [],
           "foto": null,
           "pontos": 24
@@ -295,7 +322,9 @@
         {
           "id": "4d80cd7fb07a",
           "outrosIds": [
-            "00e6101180f6"
+            "52dc72c24cf2",
+            "00e6101180f6",
+            "607a85b292cf"
           ],
           "titulo": "Nvidia salta mais de 30% com volta de Huang e puxa bolsas de NY",
           "resumo": "As bolsas de Nova York caminham para uma forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). Ainda no pré-mercado, antes da abertura da sessão, as ações da companhia já disparavam quase 30% nas…",
@@ -305,24 +334,25 @@
           "categoria": "imprensa",
           "data": "2026-11-23T14:43:49.000Z",
           "tambemEm": [
-            "InfoMoney"
+            "InfoMoney",
+            "Olhar Digital"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 23
         },
         {
-          "id": "03a382c8405a",
+          "id": "fae28a285764",
           "outrosIds": [],
-          "titulo": "Audiência debate violência sexual facilitada por tecnologia e material de abuso infantil gerado por IA",
-          "resumo": "GettyImages Estudo mostra que tecnologia facilita violência sexual A Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil realiza audiência pública nesta quarta-feira (25), às 14 horas, para discutir a violência sexual facilitada pela tecnologia e a produção de material de abuso sexual…",
-          "link": "https://www.camara.leg.br/noticias/1321180-audiencia-debate-violencia-sexual-facilitada-por-tecnologia-e-material-de-abuso-infantil-gerado-por-ia",
+          "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
+          "resumo": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
+          "link": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
           "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T12:18:00.000Z",
+          "data": "2026-11-23T19:03:00.000Z",
           "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -348,21 +378,21 @@
           "pontos": 22
         },
         {
-          "id": "390a0aabff80",
+          "id": "03a382c8405a",
           "outrosIds": [],
-          "titulo": "Bancos dos EUA endurecem controle sobre agentes de IA por segurança",
-          "resumo": "Bancos americanos criam equipes internas, limitam permissões e revisam botões de emergência para evitar falhas de agentes de IA O post Bancos dos EUA endurecem controle sobre agentes de IA por segurança apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/bancos-dos-eua-endurecem-controle-sobre-agentes-de-ia-por-seguranca/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T12:28:05.000Z",
+          "titulo": "Audiência debate violência sexual facilitada por tecnologia e material de abuso infantil gerado por IA",
+          "resumo": "GettyImages Estudo mostra que tecnologia facilita violência sexual A Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil realiza audiência pública nesta quarta-feira (25), às 14 horas, para discutir a violência sexual facilitada pela tecnologia e a produção de material de abuso sexual…",
+          "link": "https://www.camara.leg.br/noticias/1321180-audiencia-debate-violencia-sexual-facilitada-por-tecnologia-e-material-de-abuso-infantil-gerado-por-ia",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T12:18:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 21
         }
       ]
     }
@@ -540,7 +570,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1422,
+      "itens": 1423,
       "erro": null
     },
     {
@@ -568,7 +598,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 46,
+      "itens": 43,
       "erro": null
     }
   ]
