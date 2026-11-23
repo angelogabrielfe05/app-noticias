@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-23T00:17:25.014Z",
+  "geradoEm": "2026-11-23T03:17:21.631Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -93,7 +93,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "fcdc85f1b0da",
@@ -208,23 +208,6 @@
           "pontos": 19
         },
         {
-          "id": "66335c06ab0b",
-          "outrosIds": [],
-          "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
-          "resumo": "A cada R$ 1 investido no Serviço Geológico do Brasil (SGB) em 2025, R$ 14,47 voltaram à sociedade em forma de lucro social. O resultado representa um retorno estimado em R$ 10,1 bilhões, segundo a quinta edição do Balanço Social da instituição , publicada neste mês. O lucro social corresponde à estimativa, em valores…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-22T12:21:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
-        },
-        {
           "id": "89fba5458c72",
           "outrosIds": [
             "3f5e7fc35c4b"
@@ -244,6 +227,23 @@
           "pontos": 19
         },
         {
+          "id": "66335c06ab0b",
+          "outrosIds": [],
+          "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
+          "resumo": "A cada R$ 1 investido no Serviço Geológico do Brasil (SGB) em 2025, R$ 14,47 voltaram à sociedade em forma de lucro social. O resultado representa um retorno estimado em R$ 10,1 bilhões, segundo a quinta edição do Balanço Social da instituição , publicada neste mês. O lucro social corresponde à estimativa, em valores…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-22T12:21:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FLRZPjElPU0GqnMPzz4F7aG_KVyI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F01%2F23%2F_d6a3681_1.jpg%3Fitok%3Drngo_HzQ&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
+        },
+        {
           "id": "a7acdab88f9d",
           "outrosIds": [],
           "titulo": "Novo plano da Petrobras ronda os US$ 115 bilhões, com dividendos no radar",
@@ -258,7 +258,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FEREUT7pALwnKOGIdqC_VN1PPMPE%3D%2F5406x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fm%2FJ%2FbLdqH8QYqjcZUfc1U0yQ%2F2025-08-16t174551z-119122991-rc2g8gany38p-rtrmadp-3-petrobras-raizen.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FEREUT7pALwnKOGIdqC_VN1PPMPE%3D%2F5406x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2025%2Fm%2FJ%2FbLdqH8QYqjcZUfc1U0yQ%2F2025-08-16t174551z-119122991-rc2g8gany38p-rtrmadp-3-petrobras-raizen.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         }
       ]
     },
@@ -266,28 +266,6 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "48c9fd2d353d",
-          "outrosIds": [
-            "aefa839a6768",
-            "fa5bd54d9014",
-            "429c72c5e8ba"
-          ],
-          "titulo": "Claude fez o impossível? IA da Anthropic ajuda a resolver mistério da matemática de 167 anos",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWMzUVRKRVY4RW4yYUpSeEpwTmg1YlE1WUZ4S2pTU2RrcjlSZ1JhR0cxbGYzWktnd0lSeXpmNFFEdUVXRFpsVnMxaTloak84WlN4ZjJDamZSUHUwVzF4Z0txN0d3OTdpOXMyQkt0NDNEa0NwTzYtUjBsTzNWb3BlWFdRZk9VTGI4Q044VUg0T1NVQjRac29zY3pqa1NKYklnRGFfT0ZPdWJaUUFlNElyanhvTGg4YUxMV1BHazdtbUhxQmR0alVmME9lVlFKVjNKSkxsX3pDdS1XaHdGcERDVlp3?oc=5",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T13:10:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-            "O GLOBO"
-          ],
-          "foto": null,
-          "pontos": 29
-        },
         {
           "id": "88e0bf83f429",
           "outrosIds": [],
@@ -303,6 +281,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
+          "pontos": 24
+        },
+        {
+          "id": "48c9fd2d353d",
+          "outrosIds": [
+            "aefa839a6768"
+          ],
+          "titulo": "Claude fez o impossível? IA da Anthropic ajuda a resolver mistério da matemática de 167 anos",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWMzUVRKRVY4RW4yYUpSeEpwTmg1YlE1WUZ4S2pTU2RrcjlSZ1JhR0cxbGYzWktnd0lSeXpmNFFEdUVXRFpsVnMxaTloak84WlN4ZjJDamZSUHUwVzF4Z0txN0d3OTdpOXMyQkt0NDNEa0NwTzYtUjBsTzNWb3BlWFdRZk9VTGI4Q044VUg0T1NVQjRac29zY3pqa1NKYklnRGFfT0ZPdWJaUUFlNElyanhvTGg4YUxMV1BHazdtbUhxQmR0alVmME9lVlFKVjNKSkxsX3pDdS1XaHdGcERDVlp3?oc=5",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T13:10:00.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
+          "foto": null,
           "pontos": 24
         },
         {
@@ -560,7 +556,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 54,
+      "itens": 56,
       "erro": null
     }
   ]
