@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T03:17:21.561Z",
+  "geradoEm": "2026-11-24T06:17:26.614Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -78,7 +78,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         },
         {
           "id": "9ad0899f360f",
@@ -104,36 +104,39 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "293dd5362555",
+          "id": "147e09e8494f",
           "outrosIds": [
-            "c9ecaea1b9c1",
+            "dca73435df0b",
             "e440f6fb007e",
+            "cbd2f20a968e",
+            "4ac33b82d64d",
             "0e2ae7228ef3",
             "46d977957847",
             "c8697aab7ac1",
             "aac899bbdce4",
             "a526fec0846d",
             "095179ddb039",
+            "293dd5362555",
             "841030c03edc",
             "91624c2115de"
           ],
-          "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-          "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-          "fonte": "Agência Brasil",
+          "titulo": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
+          "resumo": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
+          "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T19:57:00.000Z",
+          "data": "2026-11-24T04:02:00.000Z",
           "tambemEm": [
-            "Agência Câmara",
+            "Agência Brasil",
             "Money Times",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 35
+          "pontos": 36
         },
         {
           "id": "b3c88d6fd380",
@@ -160,6 +163,23 @@
           "pontos": 33
         },
         {
+          "id": "f367575626b4",
+          "outrosIds": [],
+          "titulo": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
+          "resumo": "Presidente cobrou, porém, mais medidas para conter juros e dólar",
+          "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T04:10:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "a04863657574",
           "outrosIds": [],
           "titulo": "Receita Federal abre consulta ao lote residual de restituição do Imposto de Renda",
@@ -177,42 +197,21 @@
           "pontos": 28
         },
         {
-          "id": "2fe782ea7402",
+          "id": "103eba11077c",
           "outrosIds": [],
-          "titulo": "Economistas elevam projeções para Selic e inflação em 2027; confira o Focus desta segunda-feira (23)",
-          "resumo": "Os economistas ouvidos pelo Banco Central, voltaram a ajustar suas expectativas para a economia brasileira no Relatório Focus, nesta segunda-feira (23). A principal novidade do levantamento foi a nova alta da estimativa para o IPCA de 2027, que passou de 5,00% para 5,12% e superou novamente a marca de 5%, em movimento…",
-          "link": "https://www.moneytimes.com.br/economistas-elevam-projecoes-para-selic-e-inflacao-em-2027-confira-o-focus-desta-segunda-feira-23-jcav/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T11:43:09.000Z",
+          "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
+          "resumo": "Qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar do ambiente de testes do piloto da Reforma Tributária referente à Contribuição sobre Bens e Serviços (CBS) . De acordo com portaria da Receita Federal publicada nesta segunda-feira (23), não será mais necessária a indicação por…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T11:40:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
-        },
-        {
-          "id": "51a9027ce575",
-          "outrosIds": [
-            "54ee83f91842"
-          ],
-          "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
-          "resumo": "A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) de…",
-          "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T14:50:00.000Z",
-          "tambemEm": [
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
+          "pontos": 24
         }
       ]
     },
@@ -235,22 +234,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
-          "id": "003956a9c669",
+          "id": "5f41ee87c2ea",
           "outrosIds": [],
-          "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
-          "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T17:17:22.000Z",
+          "data": "2026-11-23T14:12:01.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
@@ -302,7 +301,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "95302f3c8000",
@@ -323,7 +322,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         }
       ]
     },
@@ -347,7 +346,7 @@
             "Terra"
           ],
           "foto": null,
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "8c3363137cb9",
@@ -381,7 +380,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "fae28a285764",
@@ -621,7 +620,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 39,
+      "itens": 49,
       "erro": null
     }
   ]
