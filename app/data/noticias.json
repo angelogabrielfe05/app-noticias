@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T09:17:25.820Z",
+  "geradoEm": "2026-11-24T12:17:25.028Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -106,7 +106,10 @@
         {
           "id": "293dd5362555",
           "outrosIds": [
-            "0e5c4e79e435",
+            "3ceb7889adfc",
+            "776b5332dd63",
+            "0dcc89ca033e",
+            "5c10ade4533d",
             "c9ecaea1b9c1",
             "e440f6fb007e",
             "0e2ae7228ef3",
@@ -115,8 +118,15 @@
             "aac899bbdce4",
             "a526fec0846d",
             "095179ddb039",
+            "994e0daa59db",
+            "d56373b475ef",
+            "55360ca0c5d5",
+            "2af20f08311f",
+            "1c095e5e0b49",
             "841030c03edc",
-            "91624c2115de"
+            "0f958e184d69",
+            "91624c2115de",
+            "ba4d10f73a7a"
           ],
           "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
           "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
@@ -128,7 +138,8 @@
           "tambemEm": [
             "Agência Câmara",
             "Money Times",
-            "InfoMoney"
+            "InfoMoney",
+            "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -162,7 +173,9 @@
         },
         {
           "id": "f367575626b4",
-          "outrosIds": [],
+          "outrosIds": [
+            "498e7d60df30"
+          ],
           "titulo": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
           "resumo": "Presidente cobrou, porém, mais medidas para conter juros e dólar",
           "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
@@ -175,7 +188,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "147e09e8494f",
@@ -192,7 +205,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "a04863657574",
@@ -209,7 +222,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
         }
       ]
     },
@@ -232,7 +245,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "5f41ee87c2ea",
@@ -252,69 +265,59 @@
           "pontos": 28
         },
         {
-          "id": "e6fa150c0d94",
+          "id": "854cc235f866",
           "outrosIds": [
-            "77f78cf2a208",
-            "ac5d739ff71f",
-            "c9b1d47661a6"
+            "ba43845ba649"
           ],
-          "titulo": "Petrobras (PETR4), Taesa (TAEE3) e mais empresas pagam dividendos nesta semana; veja valores",
-          "resumo": "Algumas companhias listadas no Ibovespa, como Petrobras (PETR4) e Taesa (TAEE3), distribuem dividendos ou juros sobre capital próprio (JCP) aos seus acionistas nesta semana. Na segunda-feira (9), petroleira distribui JCP de R$ 0,6741 para os acionistas das ações PETR3 e PETR4. Nos dois casos, a data de corte é 21 de…",
-          "link": "https://www.moneytimes.com.br/petrobras-petr4-taesa-taee3-dividendos-nesta-semana-valores-mlem/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T10:00:00.000Z",
-          "tambemEm": [
-            "Valor Investe",
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F09%2Fpetrobras-petr4-dividendos-jcp.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
-          "id": "ba43845ba649",
-          "outrosIds": [],
-          "titulo": "FIIs 3.0: CEO da Inter Asset revela como a gestora se prepara para a fase dos “fundos imobiliários de tudo”",
-          "resumo": "Executivo vê mandatos híbridos como próximo passo da indústria e projeta elevar a participação do setor imobiliário para até 25% dos negócios The post FIIs 3.0: CEO da Inter Asset revela como a gestora se prepara para a fase dos “fundos imobiliários de tudo” appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fiis-3-0-ceo-da-inter-asset-revela-como-a-gestora-se-prepara-para-a-fase-dos-fundos-imobiliarios-de-tudo-igdl/",
+          "titulo": "Hora de arrumar a casa: a fase 3.0 dos fundos imobiliários, os dividendos da Petrobras e o que agita os mercados hoje",
+          "resumo": "CEO da Inter Asset conta como a gestora está se adaptando à nova fase dos FIIs; mercado deve reagir à aprovação do ajuste fiscal do governo e ao plano de investimentos da Petrobras The post Hora de arrumar a casa: a fase 3.0 dos fundos imobiliários, os dividendos da Petrobras e o que agita os mercados hoje appeared…",
+          "link": "https://www.seudinheiro.com/2026/colunistas/hora-de-arrumar-a-casa-a-fase-3-0-dos-fundos-imobiliarios-os-dividendos-da-petrobras-e-o-que-agita-os-mercados-hoje-julw/",
           "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T09:10:00.000Z",
+          "data": "2026-11-24T12:14:25.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F09%2FDaniel-Castro-CEO-da-Inter-Asset.-Foto-Divulgacao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F09%2FDaniel-Castro-CEO-da-Inter-Asset.-Foto-Divulgacao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "a67f9a0a13e0",
-          "outrosIds": [
-            "0a61cf291b6c",
-            "885dedd19203",
-            "3bc18b8c0b4c",
-            "a7acdab88f9d"
-          ],
-          "titulo": "Petrobras (PETR4): US$ 122 bilhões em investimentos e US$ 60 bilhões em dividendos — por dentro do plano de 5 anos da estatal",
-          "resumo": "Plano traz mais produção, mas também mais gastos; confira como os números podem mexer com dividendos e com quem tem ações da companhia The post Petrobras (PETR4): US$ 122 bilhões em investimentos e US$ 60 bilhões em dividendos — por dentro do plano de 5 anos da estatal appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/empresas/us-122-bilhoes-da-petrobras-petr4-entenda-para-onde-vai-o-dinheiro-do-plano-de-investimentos-de-5-anos-da-estatal-ccgg/",
-          "fonte": "Seu Dinheiro",
+          "id": "f0735e8b6219",
+          "outrosIds": [],
+          "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
+          "resumo": "O fundo imobiliário Patria Escritório (HGRE11) acertou a compra de 67 salas comerciais do edifício One Eleven Home, localizado na Vila Olímpia, em São Paulo (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, com a operação, fechada por R$ 73,5 milhões, o FII passou a deter participação equivalente…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-67-salas-comerciais-alugadas-a-wework-por-r-735-milhoes-ifix-amplia-perdas-em-novembro-igdl/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-23T23:25:31.000Z",
+          "data": "2026-11-24T11:11:32.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "95302f3c8000",
+          "outrosIds": [
+            "7e990356b8a4"
+          ],
+          "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
+          "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
+          "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
+          "fonte": "Exame Invest",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T15:50:12.000Z",
           "tambemEm": [
-            "Valor Investe",
-            "Money Times",
-            "InfoMoney"
+            "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -325,22 +328,18 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "f0aa8641bd45",
-          "outrosIds": [
-            "08d86d5dd18e"
-          ],
-          "titulo": "Anthropic lança Claude Ship para acelerar desenvolvimento de software",
+          "id": "059ccdb89c70",
+          "outrosIds": [],
+          "titulo": "Novas IAs já são poderosas demais para serem lançadas, afirmam funcionários da OpenAI e da Anthropic",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkZVeS1wUU51N0trN2hKNTU3bERVZXZTWDlVYTMyLTlJNnhPbTJGR0dLdmh0bnlXa0ZVU1NjNlZfNnItTEpnWFdMaWFXVTJGX1oxRkZqdW1zVy10a3MyN25EcWM5eU5zcE5zSDRsd3NyRThObkpSdWU5ZERPNUJHSkgwMEpqNWh1WFFfSGZKVUZJOEs5blVYNlY4ZmJXTkZDUXRZVmVXUF9zRWF0YUNfWFk1b3lReEluQjB3dXZxNzJveXRX0gHTAUFVX3lxTFBNN2NwdGl2UDhDQUJrSG1EOGxkcUppTS15SHpvd09TZ3N5LTNfb3ZvdjhKTmFUXzBFLVM2OGZVUTVoazFuV1NYWGtQMElKZldIdjJSQkpkOXF2aktwbUY4NG9temVacXlmcjBwM1pjektOVVhDTjlQZzNZdVhiazlqdWo0OExvdzNobDhobXJqSWEzOTZnbDBsWXFONzF3NzZCMVJWdjlscU5kN2dhQnRtZU1Qa2N1Z3BSVEw2b1lfd1Z0YW9nR1RtYjA3LWloUjNjWEk?oc=5",
-          "fonte": "Valor Econômico",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVksybGtzUEdETnlXcVF2eXIya0J5a1g4ZS14eWpEYUxkX2lXTmJnQkhUbmhpZU5tajF0UThneXFnQ2g0WkpYWFFfQWpibkRJWWpOTkMyRFlOaXFucnhzNkJfWjQwNUJJbmN0dUVBTXpTbzJhOGVoM0JHcnQzZkhOb2ktMnlEX3hLS2FhY1NmWGNab25lYlhJSVM2S1Nja3RFcVVFQTE5ZENTOGZ2a25vSjVoYkJ3aHZ6emtuRnRqS1E5dDJKazd1ZjRxWEJUMDNLVmRzNWtFNHVpdw?oc=5",
+          "fonte": "Exame",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-23T21:31:25.000Z",
-          "tambemEm": [
-            "Terra"
-          ],
+          "data": "2026-11-24T11:51:53.000Z",
+          "tambemEm": [],
           "foto": null,
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "8c3363137cb9",
@@ -360,26 +359,19 @@
           "pontos": 23
         },
         {
-          "id": "4d80cd7fb07a",
-          "outrosIds": [
-            "52dc72c24cf2",
-            "00e6101180f6",
-            "607a85b292cf"
-          ],
-          "titulo": "Nvidia salta mais de 30% com volta de Huang e puxa bolsas de NY",
-          "resumo": "As bolsas de Nova York tiveram forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). Com o retorno do executivo e o salto nos papéis da companhia, a empresa fabricante de chips recuperou US$ 954 bilhões…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/23/bolsas-de-ny-disparam-com-volta-de-huang-ao-comando-da-nvidia-acao-salta-quase-30percent.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T14:43:49.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Olhar Digital"
-          ],
+          "id": "fae28a285764",
+          "outrosIds": [],
+          "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
+          "resumo": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
+          "link": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T11:49:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -398,22 +390,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
-          "id": "fae28a285764",
+          "id": "88e0bf83f429",
           "outrosIds": [],
-          "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
-          "resumo": "A realização do fórum atende a requerimentos dos deputados Saulo Pedroso (PSD-SP) e Julio Cesar Ribeiro (Republicanos-DF)",
-          "link": "https://www.camara.leg.br/noticias/1321757-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T19:03:00.000Z",
+          "titulo": "Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor",
+          "resumo": "Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T21:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -517,7 +509,7 @@
       "nome": "Receita Federal",
       "ok": false,
       "itens": 0,
-      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT); fetch failed (UND_ERR_CONNECT_TIMEOUT)"
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -621,7 +613,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 39,
+      "itens": 38,
       "erro": null
     }
   ]
