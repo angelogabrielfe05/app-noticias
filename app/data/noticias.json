@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T06:17:26.614Z",
+  "geradoEm": "2026-11-24T09:17:25.820Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -22,7 +22,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "b3d7e433a473",
@@ -59,7 +59,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         },
         {
           "id": "860a4e54550a",
@@ -104,39 +104,37 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "147e09e8494f",
+          "id": "293dd5362555",
           "outrosIds": [
-            "dca73435df0b",
+            "0e5c4e79e435",
+            "c9ecaea1b9c1",
             "e440f6fb007e",
-            "cbd2f20a968e",
-            "4ac33b82d64d",
             "0e2ae7228ef3",
             "46d977957847",
             "c8697aab7ac1",
             "aac899bbdce4",
             "a526fec0846d",
             "095179ddb039",
-            "293dd5362555",
             "841030c03edc",
             "91624c2115de"
           ],
-          "titulo": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
-          "resumo": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
-          "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
-          "fonte": "Agência Câmara",
+          "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
+          "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T04:02:00.000Z",
+          "data": "2026-11-23T19:57:00.000Z",
           "tambemEm": [
-            "Agência Brasil",
+            "Agência Câmara",
             "Money Times",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 34
         },
         {
           "id": "b3c88d6fd380",
@@ -160,7 +158,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 33
+          "pontos": 32
         },
         {
           "id": "f367575626b4",
@@ -172,6 +170,23 @@
           "oficial": true,
           "categoria": "oficial",
           "data": "2026-11-24T04:10:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "147e09e8494f",
+          "outrosIds": [],
+          "titulo": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
+          "resumo": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
+          "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T04:02:00.000Z",
           "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -195,23 +210,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
-        },
-        {
-          "id": "103eba11077c",
-          "outrosIds": [],
-          "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
-          "resumo": "Qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar do ambiente de testes do piloto da Reforma Tributária referente à Contribuição sobre Bens e Serviços (CBS) . De acordo com portaria da Receita Federal publicada nesta segunda-feira (23), não será mais necessária a indicação por…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T11:40:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
         }
       ]
     },
@@ -278,6 +276,23 @@
           "pontos": 26
         },
         {
+          "id": "ba43845ba649",
+          "outrosIds": [],
+          "titulo": "FIIs 3.0: CEO da Inter Asset revela como a gestora se prepara para a fase dos “fundos imobiliários de tudo”",
+          "resumo": "Executivo vê mandatos híbridos como próximo passo da indústria e projeta elevar a participação do setor imobiliário para até 25% dos negócios The post FIIs 3.0: CEO da Inter Asset revela como a gestora se prepara para a fase dos “fundos imobiliários de tudo” appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fiis-3-0-ceo-da-inter-asset-revela-como-a-gestora-se-prepara-para-a-fase-dos-fundos-imobiliarios-de-tudo-igdl/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T09:10:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F09%2FDaniel-Castro-CEO-da-Inter-Asset.-Foto-Divulgacao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F09%2FDaniel-Castro-CEO-da-Inter-Asset.-Foto-Divulgacao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "a67f9a0a13e0",
           "outrosIds": [
             "0a61cf291b6c",
@@ -300,27 +315,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FImagens-Larissa-1200x675-2026-07-01T125244.487.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "95302f3c8000",
-          "outrosIds": [
-            "7e990356b8a4"
-          ],
-          "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
-          "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
-          "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T15:50:12.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -363,7 +357,31 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
+        },
+        {
+          "id": "4d80cd7fb07a",
+          "outrosIds": [
+            "52dc72c24cf2",
+            "00e6101180f6",
+            "607a85b292cf"
+          ],
+          "titulo": "Nvidia salta mais de 30% com volta de Huang e puxa bolsas de NY",
+          "resumo": "As bolsas de Nova York tiveram forte recuperação nesta segunda-feira (23), impulsionadas pelo retorno de Jensen Huang ao comando da Nvidia, gigante americana de chips para inteligência artificial (IA). Com o retorno do executivo e o salto nos papéis da companhia, a empresa fabricante de chips recuperou US$ 954 bilhões…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/23/bolsas-de-ny-disparam-com-volta-de-huang-ao-comando-da-nvidia-acao-salta-quase-30percent.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-23T14:43:49.000Z",
+          "tambemEm": [
+            "InfoMoney",
+            "Olhar Digital"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FbfAf1SlQiPIzXEsHF9wmGKVSPv8%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Ft%2FW%2F5jjz1LRfKhKl2QELs4UQ%2Fgettyimages-157591482.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "b9ff96f435bb",
@@ -396,23 +414,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
-        },
-        {
-          "id": "88e0bf83f429",
-          "outrosIds": [],
-          "titulo": "Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor",
-          "resumo": "Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-22T21:30:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -516,7 +517,7 @@
       "nome": "Receita Federal",
       "ok": false,
       "itens": 0,
-      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
+      "erro": "fetch failed (UND_ERR_CONNECT_TIMEOUT); fetch failed (UND_ERR_CONNECT_TIMEOUT)"
     },
     {
       "id": "b3",
@@ -620,7 +621,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 49,
+      "itens": 39,
       "erro": null
     }
   ]
