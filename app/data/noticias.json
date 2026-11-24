@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T15:17:25.736Z",
+  "geradoEm": "2026-11-24T18:17:26.048Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -64,25 +64,6 @@
           "pontos": 18
         },
         {
-          "id": "860a4e54550a",
-          "outrosIds": [
-            "9d5685dcac82"
-          ],
-          "titulo": "Projeto cria regras para ONGs que recebem recursos do exterior e limita transferência de ativos estratégicos",
-          "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-          "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-transferencia-de-ativos-estrategicos",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T15:55:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
-        },
-        {
           "id": "9ad0899f360f",
           "outrosIds": [],
           "titulo": "Governo Federal aprova R$ 4,7 milhões para ajuda humanitária a Tupanciretã (RS)",
@@ -98,6 +79,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-federal-aprova-r-4-7-milhoes-para-ajuda-humanitaria-a-tupancireta-rs%2F%40%40download%2Fimage%2F70d1c0c6-1f7f-408f-802e-4f103abbd21e.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 16
+        },
+        {
+          "id": "94874164a336",
+          "outrosIds": [],
+          "titulo": "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência",
+          "resumo": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), revogou na noite dessa segunda-feira (24) a prisão preventiva de Adroaldo Portal, ex-secretário executivo do Ministério da Previdência Social. Ele foi preso em dezembro, no âmbito da Operação Sem Desconto, que apura fraudes em aposentadorias e pensões do…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fraudes-no-inss-mendonca-manda-soltar-ex-numero-2-da-previdencia",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T12:35:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FF__noUd4rwXRkXLfQ4JEezSwl48%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmca_abr_numero_de_serie_de_4_digitos_090620_4.jpg%3Fitok%3DcCdq5v0f&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FF__noUd4rwXRkXLfQ4JEezSwl48%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmca_abr_numero_de_serie_de_4_digitos_090620_4.jpg%3Fitok%3DcCdq5v0f&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 15
         }
       ]
     },
@@ -147,6 +145,29 @@
           "pontos": 36
         },
         {
+          "id": "605c26c3e63b",
+          "outrosIds": [
+            "60690f0b624b",
+            "5d38241fd8a0"
+          ],
+          "titulo": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro",
+          "resumo": "A arrecadação das receitas federais somou R$ 293,975 bilhões em outubro deste ano, informou a Receita Federal. O valor representa aumento real de 7,28% em relação ao mesmo mês de 2025 e é o maior já registrado para meses de outubro desde o início da série histórica, em 1995. De janeiro a outubro, a arrecadação…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T15:57:00.000Z",
+          "tambemEm": [
+            "Money Times",
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
           "id": "b3c88d6fd380",
           "outrosIds": [
             "5fa33b925d56",
@@ -187,7 +208,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "4cafeacf8d5d",
@@ -204,24 +225,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
-        },
-        {
-          "id": "a04863657574",
-          "outrosIds": [],
-          "titulo": "Receita Federal abre consulta ao lote residual de restituição do Imposto de Renda",
-          "resumo": "Lote é composto por 223.793 restituições, destinadas a contribuintes prioritários e não prioritários, com valor total de R$ 666.285.077,46. Crédito bancário será realizado ao longo do dia 30 de novembro.",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T10:22:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freceita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23%2F%40%40download%2Fimage%2Ff4637ad0-14ab-48fc-b213-a6b807aa9be3.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
+          "pontos": 27
         }
       ]
     },
@@ -233,6 +237,7 @@
           "id": "c8c8a8b0274e",
           "outrosIds": [
             "fa8ce06d0b9f",
+            "c64dbfce3aba",
             "a67f9a0a13e0",
             "77f78cf2a208",
             "0a61cf291b6c",
@@ -253,6 +258,7 @@
           "tambemEm": [
             "Money Times",
             "Valor Investe",
+            "Exame Invest",
             "InfoMoney"
           ],
           "foto": {
@@ -279,25 +285,9 @@
           "pontos": 28
         },
         {
-          "id": "003956a9c669",
-          "outrosIds": [],
-          "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
-          "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T17:17:22.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 27
-        },
-        {
           "id": "f0735e8b6219",
           "outrosIds": [
+            "744c9644248b",
             "4578dce16253"
           ],
           "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
@@ -308,11 +298,29 @@
           "categoria": "imprensa",
           "data": "2026-11-24T11:11:32.000Z",
           "tambemEm": [
+            "InfoMoney",
             "Seu Dinheiro"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
+          "id": "5f41ee87c2ea",
+          "outrosIds": [],
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T14:12:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
         },
@@ -333,7 +341,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -379,6 +387,27 @@
           ],
           "foto": null,
           "pontos": 30
+        },
+        {
+          "id": "59f80dd561d8",
+          "outrosIds": [
+            "88e0bf83f429"
+          ],
+          "titulo": "Como a OpenAI quer estabelecer limites para o avanço da IA no setor",
+          "resumo": "Plano da OpenAI busca padrões globais de segurança em IA ligando limites de perplexidade a avanços em monitoramento e auditoria O post Como a OpenAI quer estabelecer limites para o avanço da IA no setor apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/como-a-openai-quer-estabelecer-limites-para-o-avanco-da-ia-no-setor/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T16:53:10.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "84febded1ca2",
@@ -429,24 +458,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
-        },
-        {
-          "id": "8c3363137cb9",
-          "outrosIds": [],
-          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
-          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T00:21:32.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     }
@@ -652,7 +664,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 39,
+      "itens": 35,
       "erro": null
     }
   ]

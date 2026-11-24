@@ -1,16 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzd1Mi12YmpEbk52VFVzdUgyU0FsM0REcXRUTTBCZUd1MjlOQTl3T2N4ZElRUnp4NEVhYjh5RzF6Q242T09UQ2VLT215alk4V205aFRvd0pEVWwyczVZVjRiMlQzcUN6V1UwWW52WmtMeHJISGplaGxPQW8xSXVqaDhqU3RXN3A4SDNGVk56amEtMldBT3lWTFR4dFo5MmhVOTQ5LU1qNHZqT19OYmdrLWxVbmM?oc=5": {
-    "imagem": null,
-    "em": "2026-11-17T15:17:25.814Z"
-  },
-  "https://openai.com/index/introducing-openai-for-chile": {
-    "imagem": "https://images.ctfassets.net/kftzwdyauwt9/1rTLbF8FhSFEoyiGB0lTYU/418dfbea2c146e27e301a9f85869eb12/introducing-openai-for-chile-social.png?w=1600&h=900&fit=fill",
-    "em": "2026-11-17T15:17:25.814Z"
-  },
-  "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores": {
-    "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cdr-aprova-apoio-da-uniao-a-municipios-para-elaboracao-de-planos-diretores/dsc_6314.jpg",
-    "em": "2026-11-17T15:17:25.814Z"
-  },
   "https://www.infomoney.com.br/mercados/picpay-fechou-o-terceiro-trimestre-com-lucro-liquido-ajustado-de-r-271-milhoes/": {
     "imagem": "https://www.infomoney.com.br/wp-content/uploads/2021/07/1_ztZr-2Scyx02WRKHB8ubPw.jpeg",
     "em": "2026-11-17T18:17:26.286Z"
@@ -754,5 +742,17 @@
   "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao": {
     "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao/20261124_00216g.jpg",
     "em": "2026-11-24T15:17:25.736Z"
+  },
+  "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/como-a-openai-quer-estabelecer-limites-para-o-avanco-da-ia-no-setor/": {
+    "imagem": "https://olhardigital.com.br/wp-content/uploads/2026/11/openai-1.jpg",
+    "em": "2026-11-24T18:17:26.048Z"
+  },
+  "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro": {
+    "imagem": "https://imagens.ebc.com.br/edXhlA_iXSD5sD95m2wU72O5eS8=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/real_moedadinheiro_jfcrz_abr_1701220048_1.jpg?itok=H30i3fvq",
+    "em": "2026-11-24T18:17:26.048Z"
+  },
+  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fraudes-no-inss-mendonca-manda-soltar-ex-numero-2-da-previdencia": {
+    "imagem": "https://imagens.ebc.com.br/F__noUd4rwXRkXLfQ4JEezSwl48=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/mca_abr_numero_de_serie_de_4_digitos_090620_4.jpg?itok=cCdq5v0f",
+    "em": "2026-11-24T18:17:26.048Z"
   }
 }
