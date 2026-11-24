@@ -1,10 +1,27 @@
 {
-  "geradoEm": "2026-11-24T21:17:24.632Z",
+  "geradoEm": "2026-11-24T23:53:38.596Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "bdee2b828702",
+          "outrosIds": [],
+          "titulo": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
+          "resumo": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, autorizou nesta terça-feira (24), em Plenário, a Advocacia do Senado a atuar junto ao Supremo Tribunal Federal (STF) em defesa das prerrogativas parlamentares. A decisão atendeu a uma solicitação do senador Rogerio Marinho (PL-RN), motivada por um…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T20:58:34.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
         {
           "id": "cbfcfdddc545",
           "outrosIds": [
@@ -25,6 +42,40 @@
           "pontos": 24
         },
         {
+          "id": "568f59cea86c",
+          "outrosIds": [],
+          "titulo": "Projeto de regulação das big techs será votado na próxima semana",
+          "resumo": "O Projeto de Lei 4675/2025 , conhecido como PL dos Mercados Digitais, vai entrar na pauta de votação do plenário da Câmara dos Deputados na próxima semana, informou o relator da matéria, deputado Aliel Machado (PV-PR). Em pronunciamento na tarde desta terça-feira (24), Machado afirmou que o calendário foi definido…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T23:23:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
+        },
+        {
+          "id": "90b0d18987de",
+          "outrosIds": [],
+          "titulo": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
+          "resumo": "Benefício de um salário mínimo será pago a familiares das 11 vítimas de 1990; texto inscreve Mães de Acari no Livro dos Heróis e vai ao Senado",
+          "link": "https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T21:16:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 19
+        },
+        {
           "id": "37aee15611a4",
           "outrosIds": [],
           "titulo": "Moraes nega diminuir pena de Carla Zambelli",
@@ -40,64 +91,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FnWzwmgX-VLazhio7I-5VUcq-W7c%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2024%2F04%2F23%2Flula1103-13.jpg%3Fitok%3DHOevPPEw&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 19
-        },
-        {
-          "id": "0643a07df7b3",
-          "outrosIds": [
-            "f23b32ca3e73"
-          ],
-          "titulo": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde; acompanhe",
-          "resumo": "Proposta prevê atendimento humanizado, busca ativa e dados desagregados no SUS em epidemias e calamidades; texto vai ao Senado",
-          "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude-acompanhe",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T20:27:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
-        },
-        {
-          "id": "eec940787887",
-          "outrosIds": [
-            "1bbb76d4e410"
-          ],
-          "titulo": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
-          "resumo": "A Advocacia-Geral da União (AGU) defendeu nesta segunda-feira (23) a dispensa da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que estabeleceu regras de transição para a implantação da escala 5x2 de trabalho. Na manifestação, a AGU afirmou que o presidente Luiz Inácio Lula da Silva já editou…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T18:45:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
-          "id": "b3d7e433a473",
-          "outrosIds": [
-            "9231d1ea8abd",
-            "178ddc6d0dfb"
-          ],
-          "titulo": "Lei abre crédito de R$ 290 milhões para a Eletronuclear investir em Angra 3",
-          "resumo": "Uma nova lei abre crédito suplementar de R$ 290 milhões para a Eletronuclear S.A., no Orçamento de Investimento da União, para reforçar os recursos destinados à implantação da Usina Termonuclear Angra 3. A Lei 15.547, de 2026, foi sancionada pelo presidente da República e publicada no Diário Oficial da União (DOU) em…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T13:54:25.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
         }
       ]
     },
@@ -106,8 +99,32 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "031148410048",
+          "id": "7d86097ee7f1",
           "outrosIds": [
+            "2c694380c6b3",
+            "faa27b00b1b2"
+          ],
+          "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
+          "resumo": "O dólar fechou em queda nesta terça-feira (24), após notícias sobre novas medidas de controle dos gastos públicos e a sanção do pacote fiscal pelo presidente Luiz Inácio Lula da Silva . A moeda americana recuou cerca de 0,3%, para R$ 5,91. Principal índice da Bolsa brasileira, o Ibovespa caiu aproximadamente 0,4% ,…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T22:01:00.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 34
+        },
+        {
+          "id": "98968ba5a3af",
+          "outrosIds": [
+            "031148410048",
             "bc47f19c2648",
             "147e09e8494f",
             "dca73435df0b",
@@ -116,22 +133,22 @@
             "cbd2f20a968e",
             "4ac33b82d64d"
           ],
-          "titulo": "Projeto de ajuste fiscal segue para a sanção presidencial",
-          "resumo": "A Câmara dos Deputados aprovou na segunda-feira (23) o projeto de lei do ajuste fiscal, que altera regras fiscais para permitir que o Executivo limite a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O projeto (PLP 299/2026) recebeu 353 votos favoráveis e 128 contrários. Não…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
-          "fonte": "Agência Senado",
+          "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
+          "resumo": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
+          "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T13:47:15.000Z",
+          "data": "2026-11-24T21:58:00.000Z",
           "tambemEm": [
-            "Agência Câmara",
+            "Agência Senado",
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fprojeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial%2Fajuste_fiscal_camara_01.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fprojeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial%2Fajuste_fiscal_camara_01.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 33
+          "pontos": 34
         },
         {
           "id": "605c26c3e63b",
@@ -154,7 +171,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 31
         },
         {
           "id": "4a108df0b8f0",
@@ -168,30 +185,6 @@
           "data": "2026-11-24T18:33:00.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 30
-        },
-        {
-          "id": "b3c88d6fd380",
-          "outrosIds": [
-            "5fa33b925d56",
-            "a24e6a16eb4a",
-            "b70487ee9d24"
-          ],
-          "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-          "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE), o Produto Interno Bruto (PIB) deve avançar 1,8% em…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T19:48:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 30
         },
         {
@@ -222,9 +215,15 @@
         {
           "id": "7493f2e474cf",
           "outrosIds": [
-            "ee997cfd0a98",
+            "10d0bbee5eeb",
+            "a67f9a0a13e0",
             "77f78cf2a208",
-            "ac5d739ff71f"
+            "0a61cf291b6c",
+            "ac5d739ff71f",
+            "885dedd19203",
+            "c9b1d47661a6",
+            "3bc18b8c0b4c",
+            "e6fa150c0d94"
           ],
           "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos extraordinários",
           "resumo": "Conselho de Administração aprovou distribuição de proventos nesta segunda (23)",
@@ -235,30 +234,15 @@
           "data": "2026-11-24T14:10:18.000Z",
           "tambemEm": [
             "Money Times",
-            "Seu Dinheiro"
+            "Seu Dinheiro",
+            "Valor Investe",
+            "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F11%2F21115422%2Fpetrobras-paga-hoje-a-primeira-parcela-de-dividendos-e-juros-sobre-capital-proprio.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F11%2F21115422%2Fpetrobras-paga-hoje-a-primeira-parcela-de-dividendos-e-juros-sobre-capital-proprio.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
-        },
-        {
-          "id": "aeff16ab20e5",
-          "outrosIds": [],
-          "titulo": "Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta segunda-feira (23) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T21:47:52.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
+          "pontos": 35
         },
         {
           "id": "f0735e8b6219",
@@ -281,7 +265,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
+        },
+        {
+          "id": "5f41ee87c2ea",
+          "outrosIds": [],
+          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
+          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T14:12:01.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "854cc235f866",
@@ -303,21 +304,30 @@
           "pontos": 23
         },
         {
-          "id": "27ae769d2a9b",
-          "outrosIds": [],
-          "titulo": "Aprovação do pacote fiscal e dividendos da Petrobras movimentam bolsa; Ibovespa em dólar cai nesta terça-feira (24)",
-          "resumo": "Os investidores locais têm diversas coisas para digerir nesta terça-feira (24). Começando pelo projeto de ajuste fiscal aprovado pela Câmara dos Deputados na noite da última segunda-feira (23), algo que era amplamente esperado pelos analistas do mercado. O projeto prevê redução de despesas para se atingir superávit…",
-          "link": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/",
-          "fonte": "Money Times",
+          "id": "95302f3c8000",
+          "outrosIds": [
+            "0f10c93e604f",
+            "93c67d659983",
+            "b799bf2a0dbe",
+            "7e990356b8a4",
+            "3416e6341743",
+            "f5bf9c01f441"
+          ],
+          "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
+          "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
+          "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
+          "fonte": "Exame Invest",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T10:00:16.000Z",
-          "tambemEm": [],
+          "data": "2026-11-23T15:50:12.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F04%2Fpetrobras-dividendos.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F04%2Fpetrobras-dividendos.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -364,25 +374,21 @@
           "pontos": 29
         },
         {
-          "id": "59f80dd561d8",
-          "outrosIds": [
-            "88e0bf83f429"
-          ],
-          "titulo": "Como a OpenAI quer estabelecer limites para o avanço da IA no setor",
-          "resumo": "Plano da OpenAI busca padrões globais de segurança em IA ligando limites de perplexidade a avanços em monitoramento e auditoria O post Como a OpenAI quer estabelecer limites para o avanço da IA no setor apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/como-a-openai-quer-estabelecer-limites-para-o-avanco-da-ia-no-setor/",
-          "fonte": "Olhar Digital",
+          "id": "5ce057548cac",
+          "outrosIds": [],
+          "titulo": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema",
+          "resumo": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema A OpenAI come&ccedil;ou a liberar nesta segunda-feira (23) o GPT-6.2 nas conversas convencionais do ChatGPT . A atualiza&ccedil;&atilde;o promete melhorias na interpreta&ccedil;&atilde;o de imagens, no cumprimento de…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/gpt-62-chega-aos-usuarios-do-chatgpt-com-alertas-de-preco-mas-ha-um-problema/",
+          "fonte": "Canaltech",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T16:53:10.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
+          "data": "2026-11-24T21:55:03.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 24
         },
         {
           "id": "bcab181a8f83",
@@ -402,38 +408,40 @@
           "pontos": 24
         },
         {
-          "id": "3edf413b7036",
+          "id": "59f80dd561d8",
           "outrosIds": [],
-          "titulo": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira",
-          "resumo": "Modo IA do Google vai consultar seus arquivos e até dados da Carteira O Google anunciou nesta segunda-feira (23) que o Modo IA da Pesquisa poder&aacute; acessar informa&ccedil;&otilde;es do Google Drive, da Carteira do Google e do Gemini para personalizar suas respostas. A novidade permite que a ferramenta considere…",
-          "link": "https://canaltech.com.br/internet-e-redes-sociais/modo-ia-do-google-vai-consultar-seus-arquivos-e-ate-dados-da-carteira/",
-          "fonte": "Canaltech",
+          "titulo": "Como a OpenAI quer estabelecer limites para o avanço da IA no setor",
+          "resumo": "Plano da OpenAI busca padrões globais de segurança em IA ligando limites de perplexidade a avanços em monitoramento e auditoria O post Como a OpenAI quer estabelecer limites para o avanço da IA no setor apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/como-a-openai-quer-estabelecer-limites-para-o-avanco-da-ia-no-setor/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T19:15:03.000Z",
+          "data": "2026-11-24T16:53:10.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fd0iloAPrat_BTRTS7k6SNBpX580%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2Fd0iloAPrat_BTRTS7k6SNBpX580%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F7d9c7996-5e16-4d2d-aeb7-28e176e8aff3.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fopenai-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 23
         },
         {
-          "id": "84febded1ca2",
-          "outrosIds": [],
-          "titulo": "LibreOffice endurece regras para código gerado por IA no projeto",
-          "resumo": "Uma das regras da The Document Foundation determina que o desenvolvedor seja capaz de explicar todo o código gerado com inteligência artificial. LibreOffice endurece regras para código gerado por IA no projeto",
-          "link": "https://tecnoblog.net/noticias/libreoffice-endurece-regras-para-codigo-gerado-por-ia-no-projeto/",
-          "fonte": "Tecnoblog",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T14:55:49.000Z",
+          "id": "e73b73e5f5ab",
+          "outrosIds": [
+            "fae28a285764"
+          ],
+          "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
+          "resumo": "Depositphotos Atletas de alto rendimento podem se beneficiar da inteligência artificial para melhorar a performance As comissões de Ciência, Tecnologia e Inovação e do Esporte da Câmara dos Deputados dão continuidade, nesta quarta-feira (25), ao 4º Fórum Legislativo do Esporte, com três atividades ao longo do dia. A…",
+          "link": "https://www.camara.leg.br/noticias/1322597-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+          "fonte": "Agência Câmara",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T22:24:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F10%2Flibreoffice-writer.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F10%2Flibreoffice-writer.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 22
         }
       ]
     }
@@ -611,7 +619,7 @@
       "id": "openai",
       "nome": "OpenAI (blog oficial)",
       "ok": true,
-      "itens": 1428,
+      "itens": 1430,
       "erro": null
     },
     {
@@ -639,7 +647,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 32,
+      "itens": 38,
       "erro": null
     }
   ]

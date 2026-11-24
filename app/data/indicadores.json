@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T21:17:24.632Z",
+  "geradoEm": "2026-11-24T23:53:38.596Z",
   "paineis": {
     "economia": [
       {
@@ -16,7 +16,7 @@
           "data": "2026-09-16"
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -33,7 +33,7 @@
           "valor": 4.58
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -50,7 +50,7 @@
           "valor": 5.8889
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -67,7 +67,7 @@
           "referencia": "1º tri 2026"
         },
         "fonte": "IBGE",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       }
     ],
@@ -78,15 +78,15 @@
         "unidade": "pts",
         "formato": "pontos",
         "variacao": "percentual",
-        "valor": 164796.05,
-        "data": "2026-11-23",
-        "referencia": "23/11/2026",
+        "valor": 161125.37,
+        "data": "2025-12-30",
+        "referencia": "30/12/2025",
         "anterior": {
-          "data": "2026-11-19",
-          "valor": 166376.43
+          "data": "2025-12-29",
+          "valor": 160490.3
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -103,7 +103,7 @@
           "valor": 13.65
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -112,15 +112,15 @@
         "unidade": "pts",
         "formato": "pontos",
         "variacao": "percentual",
-        "valor": 3440.08,
-        "data": "2026-11-23",
-        "referencia": "23/11/2026",
+        "valor": 3467.64,
+        "data": "2026-11-24",
+        "referencia": "24/11/2026",
         "anterior": {
-          "data": "2026-11-19",
-          "valor": 3485.06
+          "data": "2026-11-23",
+          "valor": 3440.08
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       },
       {
@@ -137,7 +137,7 @@
           "valor": 7237.17
         },
         "fonte": "Yahoo Finance",
-        "atualizadoEm": "2026-11-24T21:17:24.632Z",
+        "atualizadoEm": "2026-11-24T23:53:38.596Z",
         "desatualizado": false
       }
     ]
