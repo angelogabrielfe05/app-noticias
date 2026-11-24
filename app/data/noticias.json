@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-24T00:17:22.610Z",
+  "geradoEm": "2026-11-24T03:17:21.561Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -22,7 +22,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "b3d7e433a473",
@@ -42,7 +42,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "2ef22fabc4b3",
@@ -59,7 +59,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 18
         },
         {
           "id": "860a4e54550a",
@@ -104,36 +104,36 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "cbd2f20a968e",
+          "id": "293dd5362555",
           "outrosIds": [
-            "5e0e621e7c82",
-            "4ac33b82d64d",
+            "c9ecaea1b9c1",
+            "e440f6fb007e",
             "0e2ae7228ef3",
             "46d977957847",
+            "c8697aab7ac1",
             "aac899bbdce4",
             "a526fec0846d",
             "095179ddb039",
-            "293dd5362555",
             "841030c03edc",
             "91624c2115de"
           ],
-          "titulo": "Deputados analisam proposta de ajuste fiscal; acompanhe",
-          "resumo": "Vinicius Loures / Câmara dos Deputados Sessão deliberativa do Plenário A Câmara dos Deputados começa a analisar agora o Projeto de Lei Complementar (PLP) 299/26, do Senado, que muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de…",
-          "link": "https://www.camara.leg.br/noticias/1322109-deputados-analisam-proposta-de-ajuste-fiscal-acompanhe",
-          "fonte": "Agência Câmara",
+          "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
+          "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T22:57:00.000Z",
+          "data": "2026-11-23T19:57:00.000Z",
           "tambemEm": [
-            "Agência Brasil",
+            "Agência Câmara",
             "Money Times",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 35
         },
         {
           "id": "b3c88d6fd380",
@@ -157,7 +157,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 33
         },
         {
           "id": "a04863657574",
@@ -177,23 +177,6 @@
           "pontos": 28
         },
         {
-          "id": "103eba11077c",
-          "outrosIds": [],
-          "titulo": "Receita amplia participação em piloto da CBS para todas as empresas",
-          "resumo": "Qualquer empresa inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) poderá participar do ambiente de testes do piloto da Reforma Tributária referente à Contribuição sobre Bens e Serviços (CBS) . De acordo com portaria da Receita Federal publicada nesta segunda-feira (23), não será mais necessária a indicação por…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-amplia-participacao-em-piloto-da-cbs-para-todas-empresas",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T11:40:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fml4vE-UO3T--02ZnAwfjFXT_RAg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fmcam20022020-5.jpg%3Fitok%3DmVGKMS8U&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
           "id": "2fe782ea7402",
           "outrosIds": [],
           "titulo": "Economistas elevam projeções para Selic e inflação em 2027; confira o Focus desta segunda-feira (23)",
@@ -207,6 +190,27 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F06%2Fbanco-central-focus-selic-dolar-ipca-pib.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "51a9027ce575",
+          "outrosIds": [
+            "54ee83f91842"
+          ],
+          "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+          "resumo": "A semana de 23 a 27 de novembro será marcada por indicadores de inflação, atividade econômica e contas públicas, além de um feriado que deve reduzir a liquidez dos mercados internacionais. No Brasil, as atenções estarão voltadas para a divulgação do Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) de…",
+          "link": "https://www.moneytimes.com.br/inflacao-no-brasil-e-nos-eua-movimentam-a-semana-veja-a-agenda-de-indicadores/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-22T14:50:00.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fagenda-indicadores-mercados.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -234,21 +238,21 @@
           "pontos": 30
         },
         {
-          "id": "5f41ee87c2ea",
+          "id": "003956a9c669",
           "outrosIds": [],
-          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
-          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
+          "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T14:12:01.000Z",
+          "data": "2026-11-23T17:17:22.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "e6fa150c0d94",
@@ -346,6 +350,23 @@
           "pontos": 26
         },
         {
+          "id": "8c3363137cb9",
+          "outrosIds": [],
+          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
+          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T00:21:32.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "b9ff96f435bb",
           "outrosIds": [],
           "titulo": "Comissão aprova auditoria de licitações com inteligência artificial",
@@ -377,7 +398,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "88e0bf83f429",
@@ -395,23 +416,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
-        },
-        {
-          "id": "390a0aabff80",
-          "outrosIds": [],
-          "titulo": "Bancos dos EUA endurecem controle sobre agentes de IA por segurança",
-          "resumo": "Bancos americanos criam equipes internas, limitam permissões e revisam botões de emergência para evitar falhas de agentes de IA O post Bancos dos EUA endurecem controle sobre agentes de IA por segurança apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/bancos-dos-eua-endurecem-controle-sobre-agentes-de-ia-por-seguranca/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T12:28:05.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fagente-de-ia-financeiro.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
         }
       ]
     }
@@ -617,7 +621,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 51,
+      "itens": 39,
       "erro": null
     }
   ]
