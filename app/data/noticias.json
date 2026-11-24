@@ -1,10 +1,29 @@
 {
-  "geradoEm": "2026-11-24T12:17:25.028Z",
+  "geradoEm": "2026-11-24T15:17:25.736Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "cbfcfdddc545",
+          "outrosIds": [
+            "913814bc402b"
+          ],
+          "titulo": "Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos vai à sanção",
+          "resumo": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) o projeto de lei que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos (PL 2.238/2021). Como o texto foi aprovado em decisão terminativa, a matéria segue diretamente para a sanção da Presidência da República — a não ser…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T14:12:40.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsemana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao%2F20261124_00216g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsemana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao%2F20261124_00216g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
         {
           "id": "eec940787887",
           "outrosIds": [
@@ -42,24 +61,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Flei-abre-credito-de-r-290-milhoes-para-a-eletronuclear-investir-em-angra-3%2Fangra3_002.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
-        },
-        {
-          "id": "2ef22fabc4b3",
-          "outrosIds": [],
-          "titulo": "Plenário vota criação da Força Nacional do SUS nesta quarta-feira",
-          "resumo": "O Senado pode votar nesta quarta-feira (25) um projeto de lei que institui de forma permanente a Força Nacional do Sistema Único de Saúde (FN-SUS), estrutura destinada a atuar em situações de emergência e calamidade pública que exijam resposta rápida dos serviços de saúde. O PL 351/2019 é o primeiro item da pauta da…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/plenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T18:37:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F23%2Fplenario-vota-criacao-da-forca-nacional-do-sus-nesta-quarta-feira%2Fvacina_03-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 17
+          "pontos": 18
         },
         {
           "id": "860a4e54550a",
@@ -104,48 +106,45 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "293dd5362555",
+          "id": "031148410048",
           "outrosIds": [
-            "3ceb7889adfc",
-            "776b5332dd63",
-            "0dcc89ca033e",
-            "5c10ade4533d",
+            "bc47f19c2648",
+            "147e09e8494f",
+            "dca73435df0b",
             "c9ecaea1b9c1",
             "e440f6fb007e",
+            "5e0e621e7c82",
+            "c2329b622efa",
+            "cbd2f20a968e",
+            "4ac33b82d64d",
             "0e2ae7228ef3",
             "46d977957847",
             "c8697aab7ac1",
             "aac899bbdce4",
             "a526fec0846d",
             "095179ddb039",
-            "994e0daa59db",
-            "d56373b475ef",
-            "55360ca0c5d5",
-            "2af20f08311f",
-            "1c095e5e0b49",
+            "293dd5362555",
             "841030c03edc",
-            "0f958e184d69",
-            "91624c2115de",
-            "ba4d10f73a7a"
+            "91624c2115de"
           ],
-          "titulo": "Câmara pode votar ajuste fiscal nesta segunda-feira",
-          "resumo": "A Câmara dos Deputados pode votar nesta segunda-feira (23) o projeto de lei complementar (PLP) 299/26, que trata de medidas de ajuste fiscal das contas públicas. O texto foi aprovado pelo Senado na quarta-feira (18) e prevê redução de despesas para se atingir superávit primário de cerca de R$ 18,7 bilhões . O projeto…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/camara-pode-votar-ajuste-fiscal-nesta-segunda-feira",
-          "fonte": "Agência Brasil",
+          "titulo": "Projeto de ajuste fiscal segue para a sanção presidencial",
+          "resumo": "A Câmara dos Deputados aprovou na segunda-feira (23) o projeto de lei do ajuste fiscal, que altera regras fiscais para permitir que o Executivo limite a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O projeto (PLP 299/2026) recebeu 353 votos favoráveis e 128 contrários. Não…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/projeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial",
+          "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T19:57:00.000Z",
+          "data": "2026-11-24T13:47:15.000Z",
           "tambemEm": [
             "Agência Câmara",
+            "Agência Brasil",
             "Money Times",
-            "InfoMoney",
-            "Valor Investe"
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fd4K9Xc9PqV-22wdKpLg10RvLBK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F19%2F0d9a9165.jpg%3Fitok%3D2GfbeiHU&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fprojeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial%2Fajuste_fiscal_camara_01.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fprojeto-de-ajuste-fiscal-segue-para-a-sancao-presidencial%2Fajuste_fiscal_camara_01.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 36
         },
         {
           "id": "b3c88d6fd380",
@@ -191,21 +190,21 @@
           "pontos": 29
         },
         {
-          "id": "147e09e8494f",
+          "id": "4cafeacf8d5d",
           "outrosIds": [],
-          "titulo": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
-          "resumo": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
-          "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
-          "fonte": "Agência Câmara",
+          "titulo": "Publicadas as novas regras para o Simples Nacional e a transição da Reforma Tributária",
+          "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário.",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
+          "fonte": "Agência Gov",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T04:02:00.000Z",
+          "data": "2026-11-24T11:36:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "a04863657574",
@@ -231,6 +230,38 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "c8c8a8b0274e",
+          "outrosIds": [
+            "fa8ce06d0b9f",
+            "a67f9a0a13e0",
+            "77f78cf2a208",
+            "0a61cf291b6c",
+            "ac5d739ff71f",
+            "885dedd19203",
+            "c9b1d47661a6",
+            "3bc18b8c0b4c",
+            "e6fa150c0d94",
+            "a7acdab88f9d"
+          ],
+          "titulo": "Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e gera apreensão",
+          "resumo": "Com investimentos de US$ 122 bilhões até 2031, estatal pode enfrentar pressão sobre a geração de caixa; Itaú BBA e Citi veem riscos aos proventos, enquanto BTG destaca potencial de crescimento da produção The post Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e…",
+          "link": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-vai-conseguir-manter-os-dividendos-plano-de-negocios-conta-com-petroleo-nas-alturas-e-gera-apreensao-bdap/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T15:11:04.000Z",
+          "tambemEm": [
+            "Money Times",
+            "Valor Investe",
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
           "id": "aeff16ab20e5",
           "outrosIds": [],
           "titulo": "Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92",
@@ -248,21 +279,42 @@
           "pontos": 28
         },
         {
-          "id": "5f41ee87c2ea",
+          "id": "003956a9c669",
           "outrosIds": [],
-          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
-          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
+          "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T14:12:01.000Z",
+          "data": "2026-11-23T17:17:22.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F10%2F24154632%2Fdecimo-terceiro-como-rentabilizar.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 27
+        },
+        {
+          "id": "f0735e8b6219",
+          "outrosIds": [
+            "4578dce16253"
+          ],
+          "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
+          "resumo": "O fundo imobiliário Patria Escritório (HGRE11) acertou a compra de 67 salas comerciais do edifício One Eleven Home, localizado na Vila Olímpia, em São Paulo (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, com a operação, fechada por R$ 73,5 milhões, o FII passou a deter participação equivalente…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-67-salas-comerciais-alugadas-a-wework-por-r-735-milhoes-ifix-amplia-perdas-em-novembro-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T11:11:32.000Z",
+          "tambemEm": [
+            "Seu Dinheiro"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
         },
         {
           "id": "854cc235f866",
@@ -282,44 +334,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "f0735e8b6219",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
-          "resumo": "O fundo imobiliário Patria Escritório (HGRE11) acertou a compra de 67 salas comerciais do edifício One Eleven Home, localizado na Vila Olímpia, em São Paulo (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, com a operação, fechada por R$ 73,5 milhões, o FII passou a deter participação equivalente…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-67-salas-comerciais-alugadas-a-wework-por-r-735-milhoes-ifix-amplia-perdas-em-novembro-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T11:11:32.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "95302f3c8000",
-          "outrosIds": [
-            "7e990356b8a4"
-          ],
-          "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
-          "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
-          "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
-          "fonte": "Exame Invest",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-23T15:50:12.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2023%2F02%2FDSC2575.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
         }
       ]
     },
@@ -328,35 +342,77 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "059ccdb89c70",
-          "outrosIds": [],
-          "titulo": "Novas IAs já são poderosas demais para serem lançadas, afirmam funcionários da OpenAI e da Anthropic",
+          "id": "e6ec47d262c3",
+          "outrosIds": [
+            "bbc7768c8d71",
+            "cf2cdb93d135",
+            "d9dc266e31a1",
+            "be295a41291e",
+            "0b0c9d6a7009",
+            "0661b66e18cd",
+            "e5066d4c938f",
+            "4a18c8454cd7",
+            "39a0a7269ced",
+            "becb6a7f54d1",
+            "bcc8c0060c51",
+            "628a9c4b7214",
+            "72249b38ec51",
+            "f7d52e67048a"
+          ],
+          "titulo": "Ações da Anthropic caem abaixo do preço do IPO e ampliam temores sobre setor de IA",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVksybGtzUEdETnlXcVF2eXIya0J5a1g4ZS14eWpEYUxkX2lXTmJnQkhUbmhpZU5tajF0UThneXFnQ2g0WkpYWFFfQWpibkRJWWpOTkMyRFlOaXFucnhzNkJfWjQwNUJJbmN0dUVBTXpTbzJhOGVoM0JHcnQzZkhOb2ktMnlEX3hLS2FhY1NmWGNab25lYlhJSVM2S1Nja3RFcVVFQTE5ZENTOGZ2a25vSjVoYkJ3aHZ6emtuRnRqS1E5dDJKazd1ZjRxWEJUMDNLVmRzNWtFNHVpdw?oc=5",
-          "fonte": "Exame",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOE9EczdsR3JpVzhNczVyMTVjZmdpVHRySHdCRDhKb0Zwbk1hMWRrTi0tZ3pLSXg1WXRDSjkzeVV5M2gwRlVESlhqRmNqNmlTUzBCM3hvc1Nzb3NISnRja3F1R0diSFpWYUxETXFMMnIyLUdFOWs3enBxYktEb0hhLWZSSlh2clN6RDI0OE1GSmtxMXdPMC1vUTVrd0dVakNXUmRlb3h1SmhfSWhVTnNWVnZmejhscG9kb2c?oc=5",
+          "fonte": "VEJA",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T11:51:53.000Z",
-          "tambemEm": [],
+          "data": "2026-11-24T14:03:13.000Z",
+          "tambemEm": [
+            "Valor Econômico",
+            "Estadão",
+            "CNN Brasil",
+            "Olhar Digital",
+            "G1",
+            "InfoMoney",
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "Money Times",
+            "UOL Economia"
+          ],
           "foto": null,
-          "pontos": 24
+          "pontos": 30
         },
         {
-          "id": "8c3363137cb9",
+          "id": "84febded1ca2",
           "outrosIds": [],
-          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
-          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
+          "titulo": "LibreOffice endurece regras para código gerado por IA no projeto",
+          "resumo": "Uma das regras da The Document Foundation determina que o desenvolvedor seja capaz de explicar todo o código gerado com inteligência artificial. LibreOffice endurece regras para código gerado por IA no projeto",
+          "link": "https://tecnoblog.net/noticias/libreoffice-endurece-regras-para-codigo-gerado-por-ia-no-projeto/",
+          "fonte": "Tecnoblog",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T14:55:49.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F10%2Flibreoffice-writer.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2026%2F10%2Flibreoffice-writer.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "a84394c3e21c",
+          "outrosIds": [],
+          "titulo": "Confidências digitais e o gerenciamento de informações na IA",
+          "resumo": "Vice-presidente de Negócios de Consumo da Positivo Tecnologia analisa os desafios de privacidade, segurança e governança no uso da inteligência artificial O post Confidências digitais e o gerenciamento de informações na IA apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/24/colunistas/confidencias-digitais-e-o-gerenciamento-de-informacoes-na-ia/",
           "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T00:21:32.000Z",
+          "data": "2026-11-24T14:22:48.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fia-documentos.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fia-documentos.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "fae28a285764",
@@ -376,38 +432,21 @@
           "pontos": 22
         },
         {
-          "id": "b9ff96f435bb",
+          "id": "8c3363137cb9",
           "outrosIds": [],
-          "titulo": "Comissão aprova auditoria de licitações com inteligência artificial",
-          "resumo": "Projeto prevê monitoramento automatizado e contínuo das contratações públicas",
-          "link": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T23:23:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "88e0bf83f429",
-          "outrosIds": [],
-          "titulo": "Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor",
-          "resumo": "Jakub Pachocki defendeu a criação de padrões para toda a indústria que estabeleçam limites para o desenvolvimento da tecnologia The post Cientista-chefe da OpenAI defende limites para o desenvolvimento de IA no setor appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/cientista-chefe-da-openai-defende-limites-para-o-desenvolvimento-de-ia-no-setor/",
-          "fonte": "InfoMoney",
+          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
+          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-22T21:30:00.000Z",
+          "data": "2026-11-24T00:21:32.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2F2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 22
         }
       ]
     }
@@ -613,7 +652,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 38,
+      "itens": 39,
       "erro": null
     }
   ]
