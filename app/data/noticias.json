@@ -1,10 +1,27 @@
 {
-  "geradoEm": "2026-11-25T18:17:26.486Z",
+  "geradoEm": "2026-11-25T21:17:21.144Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "188ce565e647",
+          "outrosIds": [],
+          "titulo": "STF marca julgamento sobre eleições no Rio para 4 de dezembro",
+          "resumo": "O ministro do Supremo Tribunal Federal (STF) Cristiano Zanin pautou para 4 de dezembro o julgamento da nova ação que pede a realização de segundo turno das eleições para o governo do estado do Rio de Janeiro. O caso será analisado em sessão virtual do plenário e ficará aberto para votação até 15 de dezembro. Notícias…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-marca-julgamento-sobre-eleicoes-no-rio-para-4-de-dezembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T20:20:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
         {
           "id": "bf885e06480e",
           "outrosIds": [],
@@ -23,72 +40,57 @@
           "pontos": 27
         },
         {
-          "id": "bdee2b828702",
-          "outrosIds": [],
-          "titulo": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
-          "resumo": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, autorizou nesta terça-feira (24), em Plenário, a Advocacia do Senado a atuar junto ao Supremo Tribunal Federal (STF) em defesa das prerrogativas parlamentares. A decisão atendeu a uma solicitação do senador Rogerio Marinho (PL-RN), motivada por um…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
+          "id": "9042b2e3ac2d",
+          "outrosIds": [
+            "e2ca9f51e144"
+          ],
+          "titulo": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
+          "resumo": "O Senado aprovou nesta quarta-feira (25), em regime de urgência, o projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), responsável pelo atendimento a situações de emergência em saúde pública. A proposta detalha as atribuições da força, amplia as possibilidades de composição das…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T20:58:34.000Z",
+          "data": "2026-11-25T20:23:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
+          "id": "3838a89cf1a4",
+          "outrosIds": [],
+          "titulo": "Senado aprova estímulo à inclusão digital de idosos",
+          "resumo": "O Plenário do Senado aprovou nesta quarta-feira (25) um projeto de lei que estimula a inclusão digital de idosos. O PL 1.257/2021 altera o Estatuto da Pessoa Idosa para prever que os mais velhos devem ter acesso a tecnologias de informação e comunicação, com o objetivo de preservar sua saúde mental e cognitiva. O…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/senado-aprova-estimulo-a-inclusao-digital-de-idosos",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T21:02:21.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fsenado-aprova-estimulo-a-inclusao-digital-de-idosos%2F20261125_03640t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fsenado-aprova-estimulo-a-inclusao-digital-de-idosos%2F20261125_03640t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "f6adf38403b1",
+          "id": "10333e3ec168",
           "outrosIds": [],
-          "titulo": "Senado aprova Plano Nacional de Cultura para os próximos 10 anos",
-          "resumo": "Após dois anos sem plano em vigor, o Brasil terá um novo Plano Nacional de Cultura (PNC), que vai orientar as políticas culturais do país nos próximos dez anos. O Plenário do Senado aprovou nesta terça-feira (24) o PL 5.894/2025, que segue para sanção presidencial. A proposta foi apresentada pela Presidência da…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T23:56:23.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsenado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos%2F20261124_04296cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsenado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos%2F20261124_04296cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "463ce8501cc1",
-          "outrosIds": [],
-          "titulo": "Justiça derruba liminar que suspendia novas regras para VA e VR",
-          "resumo": "O desembargador Alexandre Jorge Fontes Laranjeira, do Tribunal Regional Federal da 1ª Região (TRF1), derrubou decisão provisória que suspendia a aplicação de novas regras para as empresas de vale alimentação (VA) e vale refeição (VR). A liminar que suspendeu parte das regras havia sido concedida em 9 de novembro, dias…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T12:53:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FoLW-gljrAhKcAdwOrlAstFMgr4E%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F12%2F_d6a9161.jpg%3Fitok%3DG4SyTJc-&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FoLW-gljrAhKcAdwOrlAstFMgr4E%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F12%2F_d6a9161.jpg%3Fitok%3DG4SyTJc-&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "90b0d18987de",
-          "outrosIds": [],
-          "titulo": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
-          "resumo": "Benefício de um salário mínimo será pago a familiares das 11 vítimas de 1990; texto inscreve Mães de Acari no Livro dos Heróis e vai ao Senado",
-          "link": "https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari",
+          "titulo": "Câmara aprova alerta automático para mulher monitorar aproximação de agressor",
+          "resumo": "Projeto, que segue para o Senado, prevê aviso sonoro e luminoso e fixa 100 metros como referência para a distância mínima de afastamento",
+          "link": "https://www.camara.leg.br/noticias/1322986-camara-aprova-alerta-automatico-para-mulher-monitorar-aproximacao-de-agressor",
           "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T21:16:00.000Z",
+          "data": "2026-11-25T20:35:00.000Z",
           "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 19
         }
       ]
     },
@@ -97,70 +99,66 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "7d86097ee7f1",
+          "id": "98968ba5a3af",
           "outrosIds": [
-            "b365663a318d",
+            "c713f49d69ef",
             "4e133caed04f",
             "aa141e1e90a7",
             "22ab0f3a0be5",
-            "2c694380c6b3",
-            "0dcc89ca033e",
+            "031148410048",
             "bd19077203c1",
-            "5c10ade4533d",
+            "bc47f19c2648",
+            "147e09e8494f",
+            "dca73435df0b",
             "798705413443",
-            "c9ecaea1b9c1",
-            "e440f6fb007e",
-            "0e2ae7228ef3",
-            "46d977957847",
-            "c8697aab7ac1",
-            "aac899bbdce4",
-            "a526fec0846d",
-            "095179ddb039",
-            "faa27b00b1b2",
-            "293dd5362555"
+            "5e0e621e7c82",
+            "c2329b622efa",
+            "cbd2f20a968e",
+            "4ac33b82d64d"
           ],
-          "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
-          "resumo": "O dólar fechou em queda nesta terça-feira (24), após notícias sobre novas medidas de controle dos gastos públicos e a sanção do pacote fiscal pelo presidente Luiz Inácio Lula da Silva . A moeda americana recuou cerca de 0,3%, para R$ 5,91. Principal índice da Bolsa brasileira, o Ibovespa caiu aproximadamente 0,4% ,…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
-          "fonte": "Agência Brasil",
+          "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
+          "resumo": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
+          "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T22:01:00.000Z",
+          "data": "2026-11-24T21:58:00.000Z",
           "tambemEm": [
             "Agência Senado",
-            "Agência Câmara",
-            "Valor Investe",
+            "Agência Gov",
+            "Agência Brasil",
             "Money Times",
+            "Valor Investe",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 34
         },
         {
-          "id": "b3c88d6fd380",
+          "id": "605c26c3e63b",
           "outrosIds": [
-            "5fa33b925d56",
-            "a24e6a16eb4a"
+            "60690f0b624b",
+            "5d38241fd8a0"
           ],
-          "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
-          "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE), o Produto Interno Bruto (PIB) deve avançar 1,8% em…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
+          "titulo": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro",
+          "resumo": "A arrecadação das receitas federais somou R$ 293,975 bilhões em outubro deste ano, informou a Receita Federal. O valor representa aumento real de 7,28% em relação ao mesmo mês de 2025 e é o maior já registrado para meses de outubro desde o início da série histórica, em 1995. De janeiro a outubro, a arrecadação…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T19:48:00.000Z",
+          "data": "2026-11-24T15:57:00.000Z",
           "tambemEm": [
             "Money Times",
-            "Valor Investe"
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "4a108df0b8f0",
@@ -174,7 +172,7 @@
           "data": "2026-11-24T18:33:00.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 28
+          "pontos": 26
         },
         {
           "id": "f367575626b4",
@@ -298,19 +296,23 @@
           "pontos": 24
         },
         {
-          "id": "0fe2c1d11af3",
-          "outrosIds": [],
-          "titulo": "Vai pingar na conta: fundo imobiliário anuncia ‘dividendo extra’ após venda milionária de imóvel",
-          "resumo": "FII LVBI11 distribuirá rendimentos extraordinários após negociar galpão logístico em Itapevi (SP); veja quando o dinheiro chega The post Vai pingar na conta: fundo imobiliário anuncia ‘dividendo extra’ após venda milionária de imóvel appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/vai-pingar-fundo-imobiliario-anuncia-dividendo-extra-apos-venda-milionaria-de-imovel-igdl/",
+          "id": "774ffa435e08",
+          "outrosIds": [
+            "6ee53dc37d82"
+          ],
+          "titulo": "Mais caixa, mais dividendos? BTG eleva preço-alvo do IRB (IRBR3) e vê potencial de alta de 54%",
+          "resumo": "Segundo o BTG, o lucro em caixa do IRB deve saltar de aproximadamente R$ 530 milhões em 2026 The post Mais caixa, mais dividendos? BTG eleva preço-alvo do IRB (IRBR3) e vê potencial de alta de 54% appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/empresas/mais-caixa-mais-dividendos-btg-eleva-preco-alvo-do-irb-irbr3-e-ve-potencial-de-alta-de-54-lmrs/",
           "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T16:30:00.000Z",
-          "tambemEm": [],
+          "data": "2026-11-25T20:03:00.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FFundo-imobiliario-na-bolsa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FFundo-imobiliario-na-bolsa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F03%2FIRB-Re-IRBR3-Nova-sede.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F03%2FIRB-Re-IRBR3-Nova-sede.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -354,19 +356,19 @@
           "pontos": 26
         },
         {
-          "id": "138f33b9da3e",
+          "id": "40053bf3d3e7",
           "outrosIds": [],
-          "titulo": "Saúde e ImpulsoGov vão ampliar uso de dados e IA na comunicação com usuários do SUS",
-          "resumo": "Parceria de cinco anos, sem repasse de recursos, prevê apoio técnico para qualificar mensagens, assistentes virtuais com IA e a avaliação de políticas públicas",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T14:17:00.000Z",
+          "titulo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
+          "resumo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam O Google Mensagens ganhou uma integra&ccedil;&atilde;o com o Gemini Tasks , agente de IA capaz de executar tarefas automaticamente. Entre os destaques, &eacute; poss&iacute;vel procurar por atualiza&ccedil;&otilde;es de entrega de…",
+          "link": "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-25T19:01:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         },
@@ -388,42 +390,38 @@
           "pontos": 22
         },
         {
-          "id": "bcab181a8f83",
+          "id": "138f33b9da3e",
           "outrosIds": [],
-          "titulo": "OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo",
-          "resumo": "Modelos ainda não lançados estariam apresentando capacidades que desafiam os mecanismos de segurança das empresas O post OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/openai-e-anthropic-tem-medo-de-lancar-suas-ias-mais-poderosas-entenda-o-motivo/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T18:25:36.000Z",
+          "titulo": "Saúde e ImpulsoGov vão ampliar uso de dados e IA na comunicação com usuários do SUS",
+          "resumo": "Parceria de cinco anos, sem repasse de recursos, prevê apoio técnico para qualificar mensagens, assistentes virtuais com IA e a avaliação de políticas públicas",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T14:17:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
-          "id": "8c3363137cb9",
-          "outrosIds": [
-            "90d872ef19b1"
-          ],
-          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
-          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
-          "fonte": "Olhar Digital",
+          "id": "06f8e6783096",
+          "outrosIds": [],
+          "titulo": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "resumo": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "link": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
+          "fonte": "Tecnoblog",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T00:21:32.000Z",
-          "tambemEm": [
-            "UOL"
-          ],
+          "data": "2026-11-25T11:52:34.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     }
@@ -517,7 +515,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 8,
+      "itens": 13,
       "erro": null
     },
     {
@@ -629,7 +627,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 35,
+      "itens": 34,
       "erro": null
     }
   ]
