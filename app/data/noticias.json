@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T06:17:25.228Z",
+  "geradoEm": "2026-11-25T08:31:05.429Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -183,7 +183,7 @@
           "data": "2026-11-24T18:33:00.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "4cafeacf8d5d",
@@ -341,9 +341,7 @@
             "4a18c8454cd7",
             "becb6a7f54d1",
             "c7c87381b437",
-            "bcc8c0060c51",
-            "628a9c4b7214",
-            "72249b38ec51"
+            "bcc8c0060c51"
           ],
           "titulo": "Ações da Anthropic caem abaixo do preço do IPO e ampliam temores sobre setor de IA",
           "resumo": "",
@@ -354,11 +352,11 @@
           "data": "2026-11-24T14:03:13.000Z",
           "tambemEm": [
             "Estadão",
-            "Valor Econômico",
             "CNN Brasil",
             "Olhar Digital",
             "G1",
             "InfoMoney",
+            "Valor Econômico",
             "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Money Times",
             "UOL Economia"
@@ -398,7 +396,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "59f80dd561d8",
@@ -640,7 +638,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 39,
+      "itens": 36,
       "erro": null
     }
   ]
