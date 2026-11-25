@@ -1,10 +1,27 @@
 {
-  "geradoEm": "2026-11-25T15:17:24.485Z",
+  "geradoEm": "2026-11-25T18:17:26.486Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "bf885e06480e",
+          "outrosIds": [],
+          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
+          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T16:09:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
         {
           "id": "bdee2b828702",
           "outrosIds": [],
@@ -57,23 +74,6 @@
           "pontos": 20
         },
         {
-          "id": "568f59cea86c",
-          "outrosIds": [],
-          "titulo": "Projeto de regulação das big techs será votado na próxima semana",
-          "resumo": "O Projeto de Lei 4675/2025 , conhecido como PL dos Mercados Digitais, vai entrar na pauta de votação do plenário da Câmara dos Deputados na próxima semana, informou o relator da matéria, deputado Aliel Machado (PV-PR). Em pronunciamento na tarde desta terça-feira (24), Machado afirmou que o calendário foi definido…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T23:23:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
           "id": "90b0d18987de",
           "outrosIds": [],
           "titulo": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
@@ -97,53 +97,68 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "2a2a129a774f",
+          "id": "7d86097ee7f1",
           "outrosIds": [
-            "df8e06d10182",
-            "776b5332dd63",
-            "147e09e8494f",
-            "dca73435df0b",
-            "cbd2f20a968e",
-            "4ac33b82d64d"
+            "b365663a318d",
+            "4e133caed04f",
+            "aa141e1e90a7",
+            "22ab0f3a0be5",
+            "2c694380c6b3",
+            "0dcc89ca033e",
+            "bd19077203c1",
+            "5c10ade4533d",
+            "798705413443",
+            "c9ecaea1b9c1",
+            "e440f6fb007e",
+            "0e2ae7228ef3",
+            "46d977957847",
+            "c8697aab7ac1",
+            "aac899bbdce4",
+            "a526fec0846d",
+            "095179ddb039",
+            "faa27b00b1b2",
+            "293dd5362555"
           ],
-          "titulo": "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal",
-          "resumo": "O governo federal liberou R$ 3,43 bilhões do Orçamento de 2026, reduzindo o volume de despesas congeladas, apesar da piora na previsão do resultado das contas públicas. A medida foi anunciada nessa terça-feira (24), após a sanção da lei que permite excluir até R$ 10,5 bilhões em gastos com subsídios ao diesel da meta…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal",
+          "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
+          "resumo": "O dólar fechou em queda nesta terça-feira (24), após notícias sobre novas medidas de controle dos gastos públicos e a sanção do pacote fiscal pelo presidente Luiz Inácio Lula da Silva . A moeda americana recuou cerca de 0,3%, para R$ 5,91. Principal índice da Bolsa brasileira, o Ibovespa caiu aproximadamente 0,4% ,…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T10:02:00.000Z",
+          "data": "2026-11-24T22:01:00.000Z",
           "tambemEm": [
+            "Agência Senado",
             "Agência Câmara",
+            "Valor Investe",
             "Money Times",
             "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 34
         },
         {
-          "id": "605c26c3e63b",
+          "id": "b3c88d6fd380",
           "outrosIds": [
-            "60690f0b624b",
-            "5d38241fd8a0"
+            "5fa33b925d56",
+            "a24e6a16eb4a"
           ],
-          "titulo": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro",
-          "resumo": "A arrecadação das receitas federais somou R$ 293,975 bilhões em outubro deste ano, informou a Receita Federal. O valor representa aumento real de 7,28% em relação ao mesmo mês de 2025 e é o maior já registrado para meses de outubro desde o início da série histórica, em 1995. De janeiro a outubro, a arrecadação…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro",
+          "titulo": "Fazenda reduz previsão do PIB e eleva inflação para 2027",
+          "resumo": "O Ministério da Fazenda reduziu a previsão de crescimento da economia brasileira em 2027 e elevou a estimativa de inflação para o próximo ano. Segundo o Boletim Macrofiscal de novembro, divulgado nesta segunda-feira (23) pela Secretaria de Política Econômica (SPE), o Produto Interno Bruto (PIB) deve avançar 1,8% em…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/fazenda-reduz-previsao-do-pib-e-eleva-inflacao-para-2027",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T15:57:00.000Z",
+          "data": "2026-11-23T19:48:00.000Z",
           "tambemEm": [
             "Money Times",
-            "InfoMoney"
+            "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCj2WmsXWU4W3zJ1qn7SEPvgsA5Y%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf03857.jpg%3Fitok%3DV6076K3L&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 30
         },
@@ -181,19 +196,19 @@
           "pontos": 26
         },
         {
-          "id": "0b150b23ce9e",
+          "id": "e1300f758cd5",
           "outrosIds": [],
-          "titulo": "Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?",
-          "resumo": "A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para garantir a neutralidade da reforma tributária. Na avaliação da ROIT, empresa especializada em tecnologia tributária, há espaço para reduzir esse percentual para 9,8%.…",
-          "link": "https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/",
+          "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
+          "resumo": "A descrença cada vez maior da Faria Lima de que o governo Lula 4 entregará um ajuste fiscal crível a partir de 2027 e endereçará o problema das contas públicas pode bater de forma ainda mais intensa no câmbio no horizonte relevante. Em um cenário severo, em que as perspectivas de estabilização da dívida pública […]",
+          "link": "https://www.moneytimes.com.br/ate-onde-o-dolar-pode-ir-diante-da-incerteza-fiscal-no-governo-lula-4-lbrdml146/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T10:00:00.000Z",
+          "data": "2026-11-25T18:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fricardo-de-holanda-janesch-vice-presidente-executivo-da-roit.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fricardo-de-holanda-janesch-vice-presidente-executivo-da-roit.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -232,77 +247,70 @@
           "pontos": 32
         },
         {
-          "id": "aeff16ab20e5",
-          "outrosIds": [
-            "7aa29de29a38",
-            "27ae769d2a9b",
-            "dc3efc28d1e9"
-          ],
-          "titulo": "Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta segunda-feira (23) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/",
+          "id": "7a99dc619ebb",
+          "outrosIds": [],
+          "titulo": "Índice de Letras Financeiras lidera valorização da renda fixa na B3 em outubro",
+          "resumo": "Indicadores ligados a debêntures e títulos públicos atrelados à Selic completam o Top 5 do mês",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/indices/indice-de-letras-financeiras-lidera-valorizacao-da-renda-fixa-na-b3-em-outubro/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T21:47:52.000Z",
-          "tambemEm": [
-            "Money Times",
-            "Exame Invest"
-          ],
+          "data": "2026-11-25T17:50:54.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 30
         },
         {
-          "id": "f0bc87302d90",
+          "id": "93d028eec257",
           "outrosIds": [],
-          "titulo": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
-          "resumo": "Wall Street opera no vermelho na manhã desta quarta-feira (25), com os índices futuros de S&P 500, Dow Jones e Nasdaq caindo 2,13%, 1,38% e 3,17% respectivamente. Quem lidera as perdas é o setor de tecnologia, que cai em bloco lá fora — mais especificamente, o ramo de inteligência artificial (IA). O movimento…",
-          "link": "https://www.moneytimes.com.br/wall-street-em-queda-e-nova-liquidacao-de-ia-por-que-mercado-esta-em-queda-hoje-leia-analise-rens/",
+          "titulo": "Fundo imobiliário anuncia distribuição extraordinária de dividendos; veja o porquê",
+          "resumo": "O fundo imobiliário VBI Logístico (LVBI11) fará uma distribuição extraordinária de dividendos antes de ser incorporado pelo Patria Log (HGLG11). O anúncio foi feito no mais recente relatório gerencial do veículo. Segundo o comunicado, o rendimento adicional está relacionado à venda de um imóvel logístico localizado em…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-distribuicao-extraordinaria-de-dividendos-veja-o-porque-igdl/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T14:29:03.000Z",
+          "data": "2026-11-25T17:04:42.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-5kolqpmbtu1n.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-5kolqpmbtu1n.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "72e92db09278",
+          "id": "93dad365f55e",
           "outrosIds": [],
-          "titulo": "FII garante inquilino por mais 3 anos, mas mantém vacância acima de 10%; IFIX interrompe sequência de quedas",
-          "resumo": "O fundo imobiliário REC Renda (RECT11) renovou por mais três anos o contrato de aluguel de um conjunto de escritórios no Condomínio Evolution Corporate, localizado em Barueri (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, o acordo foi firmado com a Elo Participações, inquilina dos espaços. O…",
-          "link": "https://www.moneytimes.com.br/fii-garante-inquilino-por-mais-3-anos-mas-mantem-vacancia-acima-de-10-ifix-interrompe-sequencia-de-quedas-igdl/",
+          "titulo": "Mais S&P 500 e menos Ibovespa: a estratégia da Itaú Asset para os investimentos em 2027",
+          "resumo": "O Itaú BBA já está estruturando a estratégia de investimentos para seus clientes em 2027 e uma das principais conclusões é: os ativos internacionais devem ocupar mais espaço nas carteiras do que os brasileiros. E isso vale principalmente para os investimentos em ações. A gestora do Itaú Unibanco (ITUB4) recomenda uma…",
+          "link": "https://www.moneytimes.com.br/mais-sp-500-e-menos-ibovespa-a-estrategia-da-itau-asset-para-os-investimentos-em-2027-mlim/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T10:50:34.000Z",
+          "data": "2026-11-25T17:04:39.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fadmin-ajax-3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fadmin-ajax-3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fistock-1089423284-1-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F07%2Fistock-1089423284-1-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "2709b1b10dae",
+          "id": "0fe2c1d11af3",
           "outrosIds": [],
-          "titulo": "Comprar imóveis e FIIs protege o patrimônio da inflação? Veja o que diz especialista",
-          "resumo": "Para João da Rocha Lima, gestor de fundos imobiliários e professor da USP, a tendência de longo prazo é de valorização dos imóveis. The post Comprar imóveis e FIIs protege o patrimônio da inflação? Veja o que diz especialista appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/onde-investir/comprar-imoveis-e-fiis-protege-o-patrimonio-da-inflacao-veja-o-que-diz-especialista/",
-          "fonte": "InfoMoney",
+          "titulo": "Vai pingar na conta: fundo imobiliário anuncia ‘dividendo extra’ após venda milionária de imóvel",
+          "resumo": "FII LVBI11 distribuirá rendimentos extraordinários após negociar galpão logístico em Itapevi (SP); veja quando o dinheiro chega The post Vai pingar na conta: fundo imobiliário anuncia ‘dividendo extra’ após venda milionária de imóvel appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/vai-pingar-fundo-imobiliario-anuncia-dividendo-extra-apos-venda-milionaria-de-imovel-igdl/",
+          "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T15:00:00.000Z",
+          "data": "2026-11-25T16:30:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F02%2FGettyImages-1497684257.jpg%3Ffit%3D724%252C483%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F02%2FGettyImages-1497684257.jpg%3Ffit%3D724%252C483%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FFundo-imobiliario-na-bolsa.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F07%2FFundo-imobiliario-na-bolsa.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -363,42 +371,6 @@
           "pontos": 22
         },
         {
-          "id": "06f8e6783096",
-          "outrosIds": [],
-          "titulo": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
-          "resumo": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
-          "link": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
-          "fonte": "Tecnoblog",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-25T11:52:34.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "e73b73e5f5ab",
-          "outrosIds": [
-            "fae28a285764"
-          ],
-          "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
-          "resumo": "45Depositphotos Atletas de alto rendimento podem se beneficiar da inteligência artificial para melhorar a performance As comissões de Ciência, Tecnologia e Inovação e do Esporte da Câmara dos Deputados dão continuidade, nesta quarta-feira (25), ao 4º Fórum Legislativo do Esporte, com três atividades ao longo do dia. A…",
-          "link": "https://www.camara.leg.br/noticias/1322597-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T11:45:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
           "id": "5ce057548cac",
           "outrosIds": [],
           "titulo": "GPT-6.2 chega aos usuários do ChatGPT com alertas de preço, mas há um problema",
@@ -412,6 +384,44 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "bcab181a8f83",
+          "outrosIds": [],
+          "titulo": "OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo",
+          "resumo": "Modelos ainda não lançados estariam apresentando capacidades que desafiam os mecanismos de segurança das empresas O post OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/openai-e-anthropic-tem-medo-de-lancar-suas-ias-mais-poderosas-entenda-o-motivo/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T18:25:36.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
+          "id": "8c3363137cb9",
+          "outrosIds": [
+            "90d872ef19b1"
+          ],
+          "titulo": "Anthropic lança IA que revisa, corrige e aprova alterações em códigos",
+          "resumo": "Claude Ship utiliza agentes de IA para revisar, corrigir e aprovar alterações em códigos de programação O post Anthropic lança IA que revisa, corrige e aprova alterações em códigos apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/23/inteligencia-artificial/anthropic-lanca-ia-que-revisa-corrige-e-aprova-alteracoes-em-codigos/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T00:21:32.000Z",
+          "tambemEm": [
+            "UOL"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fanthropic-5-e1795026144591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -507,7 +517,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 7,
+      "itens": 8,
       "erro": null
     },
     {
@@ -619,7 +629,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 38,
+      "itens": 35,
       "erro": null
     }
   ]
