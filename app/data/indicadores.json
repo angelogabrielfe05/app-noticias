@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T08:31:05.429Z",
+  "geradoEm": "2026-11-25T09:17:29.822Z",
   "paineis": {
     "economia": [
       {
@@ -16,7 +16,7 @@
           "data": "2026-09-16"
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       },
       {
@@ -34,7 +34,7 @@
         },
         "fonte": "Banco Central",
         "atualizadoEm": "2026-11-25T08:31:05.429Z",
-        "desatualizado": false
+        "desatualizado": true
       },
       {
         "id": "dolar",
@@ -50,7 +50,7 @@
           "valor": 5.9708
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       },
       {
@@ -67,7 +67,7 @@
           "referencia": "1º tri 2026"
         },
         "fonte": "IBGE",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       }
     ],
@@ -86,7 +86,7 @@
           "valor": 164796.05
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       },
       {
@@ -103,7 +103,7 @@
           "valor": 13.65
         },
         "fonte": "Banco Central",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       },
       {
@@ -120,7 +120,7 @@
           "valor": 3440.08
         },
         "fonte": "B3",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       },
       {
@@ -137,7 +137,7 @@
           "valor": 7237.17
         },
         "fonte": "Yahoo Finance",
-        "atualizadoEm": "2026-11-25T08:31:05.429Z",
+        "atualizadoEm": "2026-11-25T09:17:29.822Z",
         "desatualizado": false
       }
     ]

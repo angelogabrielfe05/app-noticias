@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T08:31:05.429Z",
+  "geradoEm": "2026-11-25T09:17:29.822Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -20,7 +20,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fdavi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar%2F20261124_02129w.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "f6adf38403b1",
@@ -57,6 +57,25 @@
           "pontos": 19
         },
         {
+          "id": "eec940787887",
+          "outrosIds": [
+            "1bbb76d4e410"
+          ],
+          "titulo": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
+          "resumo": "A Advocacia-Geral da União (AGU) defendeu nesta segunda-feira (23) a dispensa da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que estabeleceu regras de transição para a implantação da escala 5x2 de trabalho. Na manifestação, a AGU afirmou que o presidente Luiz Inácio Lula da Silva já editou…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-23T18:45:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
+        },
+        {
           "id": "90b0d18987de",
           "outrosIds": [],
           "titulo": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
@@ -71,24 +90,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
-        },
-        {
-          "id": "37aee15611a4",
-          "outrosIds": [],
-          "titulo": "Moraes nega diminuir pena de Carla Zambelli",
-          "resumo": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), rejeitou nesta terça-feira (24) pedido para diminuir a pena da ex-deputada federal Carla Zambelli no caso da invasão ao sistema eletrônico do Conselho Nacional de Justiça (CNJ), ocorrida em 2023, para emitir um mandado de prisão falso contra o…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-nega-diminuir-pena-de-carla-zambelli",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T21:12:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FnWzwmgX-VLazhio7I-5VUcq-W7c%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2024%2F04%2F23%2Flula1103-13.jpg%3Fitok%3DHOevPPEw&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FnWzwmgX-VLazhio7I-5VUcq-W7c%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2024%2F04%2F23%2Flula1103-13.jpg%3Fitok%3DHOevPPEw&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
+          "pontos": 17
         }
       ]
     },
