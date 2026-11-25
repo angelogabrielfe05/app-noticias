@@ -1,28 +1,4 @@
 {
-  "https://www.moneytimes.com.br/wall-street-fecha-em-queda-com-expectativa-de-alta-dos-juros-nos-eua-e-pressao-tech-davs/": {
-    "imagem": "https://www.moneytimes.com.br/uploads/2023/12/mercados-wall-street-morning-rali-natal.jpg",
-    "em": "2026-11-18T00:17:33.636Z"
-  },
-  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/defesa-pede-que-supremo-julgue-pedido-para-soltar-vorcaro": {
-    "imagem": "https://imagens.ebc.com.br/tNESgdSebkNjmPajI4bEmul1OCg=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/03/13/daniel_vorcaro03.jpg?itok=XqCqqcyX",
-    "em": "2026-11-18T00:17:33.636Z"
-  },
-  "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao": {
-    "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao/20261117_02241cm.jpg",
-    "em": "2026-11-18T00:17:33.636Z"
-  },
-  "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal": {
-    "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal/20261117_03199cm.jpg",
-    "em": "2026-11-18T00:17:33.636Z"
-  },
-  "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/nvidia-dobra-lucro-e-receita-supera-expectativas-mas-saida-de-ceo-preocupa-investidores.ghtml": {
-    "imagem": "https://s2-valor-investe.glbimg.com/hkGLiB6y39YEA7hIKbRp74CCcb4=/3240x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2025/w/A/bZ1fEkTYyg0ViX6ZcnVg/nvidia.jpg",
-    "em": "2026-11-18T00:17:33.636Z"
-  },
-  "https://valorinveste.globo.com/mercados/internacional-e-commodities/noticia/2026/11/17/anthropic-mira-ipo-no-topo-ou-acima-da-faixa-indicativa-diz-agncia.ghtml": {
-    "imagem": "https://s2-valor-investe.glbimg.com/hWo9kScF7FHOgnPW0wlweEj10as=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/M/7/Txb1CGSSOmh0vcHiwAqQ/oficial-dimensao-wordpress-2.webp",
-    "em": "2026-11-18T03:17:23.467Z"
-  },
   "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-apos-nvidia-superar-expectativas-no-3t/": {
     "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T100021Z_1199777547_RC2G8OARKJXV_RTRMADP_3_USA-FED-REGULATION.jpg",
     "em": "2026-11-18T09:17:25.793Z"
@@ -734,5 +710,9 @@
   "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar": {
     "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar/20261124_02129w.jpg",
     "em": "2026-11-24T23:53:38.596Z"
+  },
+  "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos": {
+    "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos/20261124_04296cm.jpg",
+    "em": "2026-11-25T03:17:23.871Z"
   }
 }
