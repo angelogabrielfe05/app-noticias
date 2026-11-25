@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-25T12:17:28.618Z",
+  "geradoEm": "2026-11-25T15:17:24.485Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -23,23 +23,38 @@
           "pontos": 24
         },
         {
-          "id": "cbfcfdddc545",
-          "outrosIds": [
-            "913814bc402b"
-          ],
-          "titulo": "Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos vai à sanção",
-          "resumo": "A Comissão de Meio Ambiente do Senado (CMA) aprovou nesta terça-feira (24) o projeto de lei que cria a Semana Nacional de Conscientização sobre Resíduos Eletroeletrônicos (PL 2.238/2021). Como o texto foi aprovado em decisão terminativa, a matéria segue diretamente para a sanção da Presidência da República — a não ser…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/semana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao",
+          "id": "f6adf38403b1",
+          "outrosIds": [],
+          "titulo": "Senado aprova Plano Nacional de Cultura para os próximos 10 anos",
+          "resumo": "Após dois anos sem plano em vigor, o Brasil terá um novo Plano Nacional de Cultura (PNC), que vai orientar as políticas culturais do país nos próximos dez anos. O Plenário do Senado aprovou nesta terça-feira (24) o PL 5.894/2025, que segue para sanção presidencial. A proposta foi apresentada pela Presidência da…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos",
           "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T14:12:40.000Z",
+          "data": "2026-11-24T23:56:23.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsemana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao%2F20261124_00216g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsemana-nacional-de-conscientizacao-sobre-residuos-eletroeletronicos-vai-a-sancao%2F20261124_00216g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsenado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos%2F20261124_04296cm.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F24%2Fsenado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos%2F20261124_04296cm.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
+        },
+        {
+          "id": "463ce8501cc1",
+          "outrosIds": [],
+          "titulo": "Justiça derruba liminar que suspendia novas regras para VA e VR",
+          "resumo": "O desembargador Alexandre Jorge Fontes Laranjeira, do Tribunal Regional Federal da 1ª Região (TRF1), derrubou decisão provisória que suspendia a aplicação de novas regras para as empresas de vale alimentação (VA) e vale refeição (VR). A liminar que suspendeu parte das regras havia sido concedida em 9 de novembro, dias…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T12:53:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FoLW-gljrAhKcAdwOrlAstFMgr4E%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F12%2F_d6a9161.jpg%3Fitok%3DG4SyTJc-&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FoLW-gljrAhKcAdwOrlAstFMgr4E%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F12%2F_d6a9161.jpg%3Fitok%3DG4SyTJc-&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 20
         },
         {
           "id": "568f59cea86c",
@@ -55,25 +70,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FCYDf8pNNb9WBN3JlcbhSYYWjHGg%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F05%2F20%2Fbig_techs.jpeg%3Fitok%3DvUweTTYa&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 18
-        },
-        {
-          "id": "eec940787887",
-          "outrosIds": [
-            "1bbb76d4e410"
-          ],
-          "titulo": "AGU defende dispensa de liminar de Dino sobre escala 5x2",
-          "resumo": "A Advocacia-Geral da União (AGU) defendeu nesta segunda-feira (23) a dispensa da decisão do ministro Flávio Dino, do Supremo Tribunal Federal (STF), que estabeleceu regras de transição para a implantação da escala 5x2 de trabalho. Na manifestação, a AGU afirmou que o presidente Luiz Inácio Lula da Silva já editou…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/agu-defende-dispensa-de-liminar-de-dino-sobre-escala-5x2",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-23T18:45:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F7vjU6P8E6LidhRaYoq1UFIQhpFQ%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F09%2F15%2F55530389414_9c5deca160_o.jpg%3Fitok%3D3I1GPw8j&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 18
         },
@@ -103,15 +99,10 @@
         {
           "id": "2a2a129a774f",
           "outrosIds": [
-            "4e133caed04f",
             "df8e06d10182",
-            "aa141e1e90a7",
-            "22ab0f3a0be5",
             "776b5332dd63",
-            "bd19077203c1",
             "147e09e8494f",
             "dca73435df0b",
-            "798705413443",
             "cbd2f20a968e",
             "4ac33b82d64d"
           ],
@@ -124,10 +115,8 @@
           "data": "2026-11-25T10:02:00.000Z",
           "tambemEm": [
             "Agência Câmara",
-            "Agência Senado",
             "Money Times",
-            "InfoMoney",
-            "Valor Investe"
+            "InfoMoney"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -192,21 +181,19 @@
           "pontos": 26
         },
         {
-          "id": "ab83b2e2c028",
-          "outrosIds": [
-            "84613de621ec"
-          ],
-          "titulo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA",
-          "resumo": "O dólar comercial e o Ibovespa operam nesta quarta-feira (25) sob a expectativa de novos avanços no ajuste fiscal, após a sinalização de uma nova PEC (Proposta de Emenda à Constituição) para conter despesas obrigatórias trazer alívio aos ativos domésticos ontem. Por volta das 9h: Dólar: abre com alta de 0,82%, a R$…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/25/dolar-e-ibovespa-hoje-mercado-acompanha-pec-fiscal-e-pce-nos-eua.ghtml",
-          "fonte": "Valor Investe",
+          "id": "0b150b23ce9e",
+          "outrosIds": [],
+          "titulo": "Reforma tributária: CBS de 11,3% pode estar superestimada, diz especialista; qual seria o valor ideal?",
+          "resumo": "A alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), calculada pelo Tribunal de Contas da União (TCU), pode estar acima do necessário para garantir a neutralidade da reforma tributária. Na avaliação da ROIT, empresa especializada em tecnologia tributária, há espaço para reduzir esse percentual para 9,8%.…",
+          "link": "https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T12:00:41.000Z",
+          "data": "2026-11-25T10:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FsM_j3aYtlyQGr49aacTvSI9JJX4%3D%2F2116x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2023%2FG%2FC%2FAnsFtiSRW5A1FTgbzDQg%2Fgettyimages-157393591.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FsM_j3aYtlyQGr49aacTvSI9JJX4%3D%2F2116x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2023%2FG%2FC%2FAnsFtiSRW5A1FTgbzDQg%2Fgettyimages-157393591.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fricardo-de-holanda-janesch-vice-presidente-executivo-da-roit.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fricardo-de-holanda-janesch-vice-presidente-executivo-da-roit.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -224,9 +211,7 @@
             "77f78cf2a208",
             "0a61cf291b6c",
             "ac5d739ff71f",
-            "885dedd19203",
-            "c9b1d47661a6",
-            "3bc18b8c0b4c"
+            "c9b1d47661a6"
           ],
           "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos extraordinários",
           "resumo": "Conselho de Administração aprovou distribuição de proventos nesta segunda (23)",
@@ -238,31 +223,54 @@
           "tambemEm": [
             "Money Times",
             "Seu Dinheiro",
-            "Valor Investe",
-            "InfoMoney"
+            "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F11%2F21115422%2Fpetrobras-paga-hoje-a-primeira-parcela-de-dividendos-e-juros-sobre-capital-proprio.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2024%2F11%2F21115422%2Fpetrobras-paga-hoje-a-primeira-parcela-de-dividendos-e-juros-sobre-capital-proprio.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 34
+          "pontos": 32
         },
         {
-          "id": "5f41ee87c2ea",
-          "outrosIds": [],
-          "titulo": "Dividendos dos FIIs: confira os fundos que pagam na quarta semana de novembro",
-          "resumo": "Os rendimentos dos FIIs são distribuídos periodicamente aos cotistas e servem como renda passiva",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/fundos-investimento/dividendos-dos-fiis-confira-os-fundos-que-pagam-na-quarta-semana-de-novembro/",
+          "id": "aeff16ab20e5",
+          "outrosIds": [
+            "7aa29de29a38",
+            "27ae769d2a9b",
+            "dc3efc28d1e9"
+          ],
+          "titulo": "Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta segunda-feira (23) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-23T14:12:01.000Z",
+          "data": "2026-11-23T21:47:52.000Z",
+          "tambemEm": [
+            "Money Times",
+            "Exame Invest"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F23184659%2Fibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "f0bc87302d90",
+          "outrosIds": [],
+          "titulo": "Wall Street em queda e nova liquidação de IA: por que mercado cai hoje? Leia análise",
+          "resumo": "Wall Street opera no vermelho na manhã desta quarta-feira (25), com os índices futuros de S&P 500, Dow Jones e Nasdaq caindo 2,13%, 1,38% e 3,17% respectivamente. Quem lidera as perdas é o setor de tecnologia, que cai em bloco lá fora — mais especificamente, o ramo de inteligência artificial (IA). O movimento…",
+          "link": "https://www.moneytimes.com.br/wall-street-em-queda-e-nova-liquidacao-de-ia-por-que-mercado-esta-em-queda-hoje-leia-analise-rens/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-25T14:29:03.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2025%2F02%2F14144702%2Fpreco-dos-fiis-cairam-mas-mercado-imobiliario-tem-fundamentos-solidos-dizem-gestores.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-5kolqpmbtu1n.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-5kolqpmbtu1n.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 24
         },
         {
           "id": "72e92db09278",
@@ -282,46 +290,21 @@
           "pontos": 24
         },
         {
-          "id": "f0735e8b6219",
-          "outrosIds": [
-            "744c9644248b",
-            "4578dce16253"
-          ],
-          "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
-          "resumo": "O fundo imobiliário Patria Escritório (HGRE11) acertou a compra de 67 salas comerciais do edifício One Eleven Home, localizado na Vila Olímpia, em São Paulo (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, com a operação, fechada por R$ 73,5 milhões, o FII passou a deter participação equivalente…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-67-salas-comerciais-alugadas-a-wework-por-r-735-milhoes-ifix-amplia-perdas-em-novembro-igdl/",
-          "fonte": "Money Times",
+          "id": "2709b1b10dae",
+          "outrosIds": [],
+          "titulo": "Comprar imóveis e FIIs protege o patrimônio da inflação? Veja o que diz especialista",
+          "resumo": "Para João da Rocha Lima, gestor de fundos imobiliários e professor da USP, a tendência de longo prazo é de valorização dos imóveis. The post Comprar imóveis e FIIs protege o patrimônio da inflação? Veja o que diz especialista appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/onde-investir/comprar-imoveis-e-fiis-protege-o-patrimonio-da-inflacao-veja-o-que-diz-especialista/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T11:11:32.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Seu Dinheiro"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "854cc235f866",
-          "outrosIds": [
-            "ba43845ba649"
-          ],
-          "titulo": "Hora de arrumar a casa: a fase 3.0 dos fundos imobiliários, os dividendos da Petrobras e o que agita os mercados hoje",
-          "resumo": "CEO da Inter Asset conta como a gestora está se adaptando à nova fase dos FIIs; mercado deve reagir à aprovação do ajuste fiscal do governo e ao plano de investimentos da Petrobras The post Hora de arrumar a casa: a fase 3.0 dos fundos imobiliários, os dividendos da Petrobras e o que agita os mercados hoje appeared…",
-          "link": "https://www.seudinheiro.com/2026/colunistas/hora-de-arrumar-a-casa-a-fase-3-0-dos-fundos-imobiliarios-os-dividendos-da-petrobras-e-o-que-agita-os-mercados-hoje-julw/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T12:14:25.000Z",
+          "data": "2026-11-25T15:00:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-tdbN6xiqRbH4.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F02%2FGettyImages-1497684257.jpg%3Ffit%3D724%252C483%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F02%2FGettyImages-1497684257.jpg%3Ffit%3D724%252C483%26quality%3D70%26strip%3Dall&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 22
         }
       ]
     },
@@ -332,18 +315,15 @@
         {
           "id": "e6ec47d262c3",
           "outrosIds": [
-            "39a0a7269ced",
+            "8c20f71d6938",
             "bbc7768c8d71",
             "cf2cdb93d135",
             "d9dc266e31a1",
             "be295a41291e",
             "0b0c9d6a7009",
             "0661b66e18cd",
-            "f7d52e67048a",
             "e5066d4c938f",
-            "4a18c8454cd7",
-            "becb6a7f54d1",
-            "c7c87381b437"
+            "4a18c8454cd7"
           ],
           "titulo": "Ações da Anthropic caem abaixo do preço do IPO e ampliam temores sobre setor de IA",
           "resumo": "",
@@ -353,18 +333,34 @@
           "categoria": "imprensa",
           "data": "2026-11-24T14:03:13.000Z",
           "tambemEm": [
-            "Estadão",
+            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "CNN Brasil",
             "Olhar Digital",
             "G1",
             "InfoMoney",
             "Valor Econômico",
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
             "Money Times",
             "UOL Economia"
           ],
           "foto": null,
-          "pontos": 28
+          "pontos": 26
+        },
+        {
+          "id": "138f33b9da3e",
+          "outrosIds": [],
+          "titulo": "Saúde e ImpulsoGov vão ampliar uso de dados e IA na comunicação com usuários do SUS",
+          "resumo": "Parceria de cinco anos, sem repasse de recursos, prevê apoio técnico para qualificar mensagens, assistentes virtuais com IA e a avaliação de políticas públicas",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T14:17:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "06f8e6783096",
@@ -416,23 +412,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F3W7jqIkyvuBGZZhFrfyjakvq7DI%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F18446ab6-fd96-4ef4-ad57-251e00fc4358.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "bcab181a8f83",
-          "outrosIds": [],
-          "titulo": "OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo",
-          "resumo": "Modelos ainda não lançados estariam apresentando capacidades que desafiam os mecanismos de segurança das empresas O post OpenAI e Anthropic têm medo de lançar suas IAs mais poderosas; entenda o motivo apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/openai-e-anthropic-tem-medo-de-lancar-suas-ias-mais-poderosas-entenda-o-motivo/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T18:25:36.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F10%2Fopenai-x-anthropic.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -528,7 +507,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 5,
+      "itens": 7,
       "erro": null
     },
     {
@@ -640,7 +619,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 37,
+      "itens": 38,
       "erro": null
     }
   ]

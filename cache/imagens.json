@@ -1,20 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0Utd3BJUG5QdUxWYy1kT2FlNzBDVUVKOFJycE9rUFBzckhYa3JmaWJFalZXTkdiWDZIR2xYazNZZzVNSUFvRXlKWjg0V0QwXzhlelA3cXNkbnUxS08ybGVDTXJLbG41MUtOQmVmdDRFRzY5VnZaLVhRLUc4WG1qM0l1eHppVGE4bEhxRXNpTGhfRGZvbjJ2eFI3RUc2RGE4Z2Q3aEEzOXFHNVR1RVBIRmE5ckdsbjhXSGwxeEcxV0Q?oc=5": {
-    "imagem": null,
-    "em": "2026-11-18T15:17:23.705Z"
-  },
-  "https://www.moneytimes.com.br/piora-do-credito-separa-os-bancoes-no-3t26-quem-tem-mais-folego-para-proteger-lucros-e-dividendos-em-2027-miql/": {
-    "imagem": "https://www.moneytimes.com.br/uploads/2024/11/bancos-feriado-servicos.jpg",
-    "em": "2026-11-18T15:17:23.705Z"
-  },
-  "https://canaltech.com.br/inteligencia-artificial/google-libera-agente-de-ia-gratuito-que-faz-ligacoes-e-compras-por-voce/": {
-    "imagem": "https://tl.ctcdn.com.br/K7MGesuTuho3vxUmAk3Q31s9fsM=/1200x675/smart/filters:format(webp):quality(85)/bdc06da0-0714-4caa-bbad-1e18aad4f7e7.jpeg",
-    "em": "2026-11-18T15:17:23.705Z"
-  },
-  "https://www.camara.leg.br/noticias/1320550-deputados-podem-votar-novas-regras-para-educacao-integral-e-monitoramento-de-agressores": {
-    "imagem": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
-    "em": "2026-11-18T15:17:23.705Z"
-  },
   "https://www.moneytimes.com.br/durigan-diz-que-reforma-tributaria-nao-deve-gerar-arrecadacao-extra-para-o-governo-mlem/": {
     "imagem": "https://www.moneytimes.com.br/uploads/2026/07/dario-durigan-fazenda-5-e1785158650649.jpg",
     "em": "2026-11-18T18:17:26.362Z"
@@ -694,5 +678,25 @@
   "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/25/dolar-e-ibovespa-hoje-mercado-acompanha-pec-fiscal-e-pce-nos-eua.ghtml": {
     "imagem": "https://s2-valor-investe.glbimg.com/sM_j3aYtlyQGr49aacTvSI9JJX4=/2116x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2023/G/C/AnsFtiSRW5A1FTgbzDQg/gettyimages-157393591.jpg",
     "em": "2026-11-25T12:17:28.618Z"
+  },
+  "https://www.moneytimes.com.br/reforma-tributaria-cbs-de-113-pode-estar-superestimada-diz-especialista-qual-seria-o-valor-ideal/": {
+    "imagem": "https://www.moneytimes.com.br/uploads/2026/11/ricardo-de-holanda-janesch-vice-presidente-executivo-da-roit.jpg",
+    "em": "2026-11-25T15:17:24.485Z"
+  },
+  "https://www.moneytimes.com.br/wall-street-em-queda-e-nova-liquidacao-de-ia-por-que-mercado-esta-em-queda-hoje-leia-analise-rens/": {
+    "imagem": "https://www.moneytimes.com.br/uploads/2026/11/ai-insights-5kolqpmbtu1n.jpg",
+    "em": "2026-11-25T15:17:24.485Z"
+  },
+  "https://www.infomoney.com.br/onde-investir/comprar-imoveis-e-fiis-protege-o-patrimonio-da-inflacao-veja-o-que-diz-especialista/": {
+    "imagem": "https://www.infomoney.com.br/wp-content/uploads/2025/02/GettyImages-1497684257.jpg?fit=724%2C483&quality=70&strip=all",
+    "em": "2026-11-25T15:17:24.485Z"
+  },
+  "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus": {
+    "imagem": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus/@@download/image/SUS.jpeg",
+    "em": "2026-11-25T15:17:24.485Z"
+  },
+  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-derruba-liminar-que-suspendia-novas-regras-para-va-e-vr": {
+    "imagem": "https://imagens.ebc.com.br/oLW-gljrAhKcAdwOrlAstFMgr4E=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2025/11/12/_d6a9161.jpg?itok=G4SyTJc-",
+    "em": "2026-11-25T15:17:24.485Z"
   }
 }
