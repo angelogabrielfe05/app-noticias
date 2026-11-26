@@ -1,8 +1,4 @@
 {
-  "https://www.infomoney.com.br/business/startups-anthropic-concentra-56-do-gasto-em-ia-nas-empresas-brasileiras/": {
-    "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-16T034721Z_807224254_RC2VJNALBSAV_RTRMADP_3_AUSTRALIA-AI-DATACENTRE.jpg",
-    "em": "2026-11-18T21:17:26.944Z"
-  },
   "https://www.moneytimes.com.br/dolar-supera-r580-antes-de-leiloes-do-bc-e-com-pacote-fiscal-no-foco/": {
     "imagem": "https://www.moneytimes.com.br/uploads/2026/07/dolar-real-1.jpg",
     "em": "2026-11-19T00:17:26.125Z"
@@ -702,5 +698,29 @@
   "https://www12.senado.leg.br/noticias/materias/2026/11/25/senado-aprova-estimulo-a-inclusao-digital-de-idosos": {
     "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/25/senado-aprova-estimulo-a-inclusao-digital-de-idosos/20261125_03640t.jpg",
     "em": "2026-11-25T21:17:21.144Z"
+  },
+  "https://www.infomoney.com.br/business/startups-universidade-brasileira-lanca-ia-para-reduzir-dependencia-estrangeira/": {
+    "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-13T132429Z_1_LYNXMPEM6C0QG_RTROPTP_4_GLOBAL-AI-ECONOMY.jpg",
+    "em": "2026-11-26T00:17:21.940Z"
+  },
+  "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso": {
+    "imagem": "https://imagens.ebc.com.br/WFQgyj2UfzbL-UQ8nfU54Oe-VvE=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/11/19/decreto-escala-5x2-mc_abr_19112026-9.jpg?itok=nzsH5AVl",
+    "em": "2026-11-26T00:17:21.940Z"
+  },
+  "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores": {
+    "imagem": "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores/@@download/image/ia.webp",
+    "em": "2026-11-26T00:17:21.940Z"
+  },
+  "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/": {
+    "imagem": "https://cdn.borainvestir.b3.com.br/2026/11/25184142/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp",
+    "em": "2026-11-26T00:17:21.940Z"
+  },
+  "https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral": {
+    "imagem": "https://www.camara.leg.br/tema/assets/images/imagens-compartilhamento/imagem-padrao.jpg",
+    "em": "2026-11-26T00:17:21.940Z"
+  },
+  "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df": {
+    "imagem": "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df/20261125_03591t.jpg",
+    "em": "2026-11-26T00:17:21.940Z"
   }
 }
