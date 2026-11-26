@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T03:17:21.049Z",
+  "geradoEm": "2026-11-26T06:17:23.146Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -22,7 +22,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "188ce565e647",
@@ -42,19 +42,21 @@
           "pontos": 29
         },
         {
-          "id": "bf885e06480e",
-          "outrosIds": [],
-          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
-          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
+          "id": "b8f5f51c3a0c",
+          "outrosIds": [
+            "ae8507143ac1"
+          ],
+          "titulo": "Lula sanciona ajuste fiscal aprovado no Congresso",
+          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24) a lei que prevê ajuste fiscal nas contas públicas em 2027. O texto muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O texto passou pelo Senado na…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T16:09:00.000Z",
+          "data": "2026-11-24T20:25:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
         },
@@ -92,7 +94,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 18
         }
       ]
     },
@@ -159,38 +161,44 @@
           "pontos": 26
         },
         {
-          "id": "f367575626b4",
-          "outrosIds": [
-            "498e7d60df30"
-          ],
-          "titulo": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
-          "resumo": "Presidente cobrou, porém, mais medidas para conter juros e dólar",
-          "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
+          "id": "498e7d60df30",
+          "outrosIds": [],
+          "titulo": "Motta: ajuste fiscal garante mais investimentos para melhorar a vida de quem mais precisa",
+          "resumo": "Bruno Spada / Câmara dos Deputados Hugo Motta destacou a importância da aprovação O presidente da Câmara, Hugo Motta (Republicanos-PB), afirmou, por meio de suas redes sociais, que a aprovação da proposta de ajuste fiscal do governo (PLP 299/26) dá ao País melhores condições de organizar o orçamento do ano que vem e…",
+          "link": "https://www.camara.leg.br/noticias/1322204-motta-ajuste-fiscal-garante-mais-investimentos-para-melhorar-a-vida-de-quem-mais-precisa",
           "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T04:10:00.000Z",
+          "data": "2026-11-24T11:43:00.000Z",
           "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
-          "id": "4cafeacf8d5d",
-          "outrosIds": [],
-          "titulo": "Publicadas as novas regras para o Simples Nacional e a transição da Reforma Tributária",
-          "resumo": "As mudanças envolvem procedimentos de declaração, apuração de receitas, repartição dos tributos e adaptações necessárias para a transição ao novo modelo tributário.",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/comite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T11:36:00.000Z",
-          "tambemEm": [],
+          "id": "2c694380c6b3",
+          "outrosIds": [
+            "6a16ee069ef1",
+            "50acf845a91b",
+            "6a0c0c041594",
+            "3ceb7889adfc"
+          ],
+          "titulo": "Dólar fecha em queda, com ajuste fiscal; Ibovespa recua pressionado por Vale (VALE3)",
+          "resumo": "O dólar e o Ibovespa, principal índice de ações brasileiro, encerram o dia em queda, sob os reflexos da aprovação do pacote de ajuste fiscal pela Câmara dos Deputados e a sinalização de que o presidente Luiz Inácio Lula da Silva deve enviar uma PEC (Proposta de Emenda à Constituição) como uma segunda etapa do plano. O…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/24/dolar-e-ibovespa-hoje-24-11-2026.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-24T12:01:04.000Z",
+          "tambemEm": [
+            "InfoMoney",
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fcomite-gestor-do-simples-nacional-publica-novas-regras-para-o-simples-nacional-e-para-a-transicao-da-reforma-tributaria%2F%40%40download%2Fimage%2F734fdb69-8910-4652-af90-c7ccfbb7ba79.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F2JiNe0V9rM4jjFQAXzWBPJOCJ4k%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fi%2Fh%2FlQ3YIrR5GiDr652aDkPA%2Fdolar-getty-images.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F2JiNe0V9rM4jjFQAXzWBPJOCJ4k%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fi%2Fh%2FlQ3YIrR5GiDr652aDkPA%2Fdolar-getty-images.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         }
@@ -205,8 +213,7 @@
           "outrosIds": [
             "982616b068fe",
             "7aa29de29a38",
-            "27ae769d2a9b",
-            "dc3efc28d1e9"
+            "27ae769d2a9b"
           ],
           "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
           "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
@@ -217,14 +224,13 @@
           "data": "2026-11-25T21:43:05.000Z",
           "tambemEm": [
             "Money Times",
-            "Exame Invest",
             "Seu Dinheiro"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 33
         },
         {
           "id": "7a99dc619ebb",
@@ -241,7 +247,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "f0735e8b6219",
@@ -281,7 +287,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "c8c8a8b0274e",
