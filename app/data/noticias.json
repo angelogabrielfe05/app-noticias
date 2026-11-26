@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T18:17:30.736Z",
+  "geradoEm": "2026-11-26T21:17:23.881Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -39,26 +39,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
-        },
-        {
-          "id": "9042b2e3ac2d",
-          "outrosIds": [
-            "e2ca9f51e144"
-          ],
-          "titulo": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
-          "resumo": "O Senado aprovou nesta quarta-feira (25), em regime de urgência, o projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), responsável pelo atendimento a situações de emergência em saúde pública. A proposta detalha as atribuições da força, amplia as possibilidades de composição das…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T20:23:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
+          "pontos": 26
         },
         {
           "id": "bf885e06480e",
@@ -78,21 +59,40 @@
           "pontos": 23
         },
         {
-          "id": "f0d6f4409a38",
-          "outrosIds": [],
-          "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
-          "resumo": "Texto segue para análise do Senado",
-          "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
-          "fonte": "Agência Câmara",
+          "id": "9042b2e3ac2d",
+          "outrosIds": [
+            "e2ca9f51e144"
+          ],
+          "titulo": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
+          "resumo": "O Senado aprovou nesta quarta-feira (25), em regime de urgência, o projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), responsável pelo atendimento a situações de emergência em saúde pública. A proposta detalha as atribuições da força, amplia as possibilidades de composição das…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
+          "fonte": "Agência Senado",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T14:49:00.000Z",
+          "data": "2026-11-25T20:23:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 21
+        },
+        {
+          "id": "f601b8d855be",
+          "outrosIds": [],
+          "titulo": "Reforma de 2019 traz mudanças para se aposentar no ano que vem. Veja as novas regras",
+          "resumo": "As medidas levam em consideração o cronograma de transição previsto na Reforma da Previdência. Há mais de uma modalidade para contagem de tempo. A plataforma Meu INSS faz simulação",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-2027-conheca-as-novas-regras-para-se-aposentar",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T19:46:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 18
         }
       ]
     },
@@ -101,39 +101,82 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "34c62dc063d3",
+          "id": "7f978a000164",
           "outrosIds": [
-            "09cfc778220d",
+            "0c711352d990",
+            "f2366146b9e6",
+            "08ce3158fff6",
             "048aa381dcc5",
             "19aac461dea0",
             "f3c06792fae9",
+            "fc8cac71ad3b",
+            "376a60c94947",
+            "9cf594842bb3",
+            "6a16ee069ef1",
+            "41fb6eedb220",
             "11be12e33db4"
           ],
-          "titulo": "IPCA-15 teve alta de 0,22% em novembro",
-          "resumo": "A prévia da inflação teve alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro (0,32%). O resultado vem, principalmente, das influências dos grupos alimentação e bebidas, com alta de 1,51% e impacto de 0,33 p.p. no índice geral; e transportes, que recuou -0,71% e exerceu influência de -0,14 pontos…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+          "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
+          "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T12:30:00.000Z",
+          "data": "2026-11-25T22:08:00.000Z",
           "tambemEm": [
-            "Agência Gov",
+            "IBGE",
             "Money Times",
             "InfoMoney",
             "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 36
+          "pontos": 34
+        },
+        {
+          "id": "7cfdd36aaa48",
+          "outrosIds": [],
+          "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
+          "resumo": "Medidas incluem imposto zero para cesta básica e remédios, devolução de tributos para famílias de baixa renda e apuração automática para empresas",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T20:05:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 30
+        },
+        {
+          "id": "7d86097ee7f1",
+          "outrosIds": [
+            "b365663a318d"
+          ],
+          "titulo": "Dólar cai para R$ 5,91 com expectativa de ajuste fiscal",
+          "resumo": "O dólar fechou em queda nesta terça-feira (24), após notícias sobre novas medidas de controle dos gastos públicos e a sanção do pacote fiscal pelo presidente Luiz Inácio Lula da Silva . A moeda americana recuou cerca de 0,3%, para R$ 5,91. Principal índice da Bolsa brasileira, o Ibovespa caiu aproximadamente 0,4% ,…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-591-com-expectativa-de-ajuste-fiscal",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T22:01:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FFK_Ld555uZXxFMjBIfEhtQlCMQo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221205.jpg%3Fitok%3DMdcwUUjv&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 28
         },
         {
           "id": "98968ba5a3af",
           "outrosIds": [
-            "c713f49d69ef",
-            "4e133caed04f",
-            "aa141e1e90a7"
+            "c713f49d69ef"
           ],
           "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
           "resumo": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
@@ -143,15 +186,13 @@
           "categoria": "oficial",
           "data": "2026-11-24T21:58:00.000Z",
           "tambemEm": [
-            "Agência Gov",
-            "Agência Senado",
-            "Agência Brasil"
+            "Agência Gov"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 28
         },
         {
           "id": "5dd8494e37e7",
@@ -169,42 +210,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 27
-        },
-        {
-          "id": "fbe6b4f84c22",
-          "outrosIds": [],
-          "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
-          "resumo": "Mesmo depois da surpresa positiva do IPCA-15, seguimos vendo uma combinação interessante nos títulos indexados à inflação de prazo mais curto. A correção recente da inflação ajuda a reduzir parte do risco de novas altas de juros, enquanto as taxas reais continuam em patamares atrativos. Nesse cenário, o PACC11 permite…",
-          "link": "https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:05:18.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
-        },
-        {
-          "id": "d0ac362923a4",
-          "outrosIds": [
-            "50ed9593acf8"
-          ],
-          "titulo": "Tesouro Direto hoje: prefixados caem abaixo de 15%, mas IPCA remunera até 7,69%",
-          "resumo": "As taxas dos títulos do Tesouro Direto operaram, nesta quinta-feira (26), em leve queda tanto entre os prefixados, quanto entre os títulos atrelados à inflação. O mercado continua acompanhando o avanço nas discussões sobre uma PEC (Proposta de Emenda à Constituição) como segunda etapa do ajuste fiscal do governo Lula,…",
-          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/26/tesouro-direto-hoje-prefixados-ipca-26-11-2026.ghtml",
-          "fonte": "Valor Investe",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T12:44:27.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FCRax4K2rJHJPnb0b6ENlIBjwFOI%3D%2F6713x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FN%2Fu%2FcfNdRLRAO4lLuNDEHYqw%2Fpexels-tomfisk-11114516.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FCRax4K2rJHJPnb0b6ENlIBjwFOI%3D%2F6713x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FN%2Fu%2FcfNdRLRAO4lLuNDEHYqw%2Fpexels-tomfisk-11114516.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
         }
       ]
     },
@@ -213,27 +218,24 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "bace4d271015",
+          "id": "5135bb25a17f",
           "outrosIds": [
-            "1f838adbf99f",
-            "2f02412d0525",
-            "928a64a77fdb",
-            "982616b068fe"
+            "07646c0d0ba1",
+            "7aa29de29a38"
           ],
-          "titulo": "Tudo no azul: por que nenhuma ação está caindo no Ibovespa hoje?",
-          "resumo": "IPCA-15 abaixo das expectativas e rumores sobre Trabuco no Ministério da Fazenda impulsionam o apetite por risco e colocam as ações da B3 no azul The post Tudo no azul: por que nenhuma ação está caindo no Ibovespa hoje? appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/nenhuma-acao-em-queda-no-ibovespa-os-dois-motivos-por-tras-da-festa-de-hoje-bdap/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T18:09:57.000Z",
+          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T21:43:05.000Z",
           "tambemEm": [
-            "Money Times",
-            "Valor Investe"
+            "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2025%2F05%2Fcarolina-gama-esse-6.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2025%2F05%2Fcarolina-gama-esse-6.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 28
         },
@@ -278,24 +280,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
-        },
-        {
-          "id": "bdd5995cc52e",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
-          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:34:45.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
+          "pontos": 25
         },
         {
           "id": "5ced0bd345ee",
@@ -315,6 +300,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "5bc337ad55e6",
+          "outrosIds": [],
+          "titulo": "Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado",
+          "resumo": "Prefixados atingem os menores patamares desde a disparada dos juros após as eleições The post Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/renda-fixa/adeus-aos-15-ao-ano-tesouro-direto-reduz-taxas-com-euforia-na-bolsa-e-trabuco-no-radar-do-mercado/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T16:05:27.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -322,6 +324,20 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "be7c575241e9",
+          "outrosIds": [],
+          "titulo": "Frear a IA por empregos? CEO da Anthropic acha que sim",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeG56cXRiV0wzdXdnVThzVGhZWXhIU0NYSFZxUWQ1UVNfUFNrRDJ0ZW5KWmdsTXVFVXNndmUtYkZoak9KNWQ3Ukt4c0ZsSHZPODNpeldnR2FiQ0gwU19DOW11Ry1LWlFITDZNTWdfOHNPVDUzZV92d2dnaF9qS24wSnJWYkxnbkFGMlZHNEx5aDY?oc=5",
+          "fonte": "StartSe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T21:11:32.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 24
+        },
         {
           "id": "23284cbf5695",
           "outrosIds": [],
@@ -371,20 +387,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "f175c7edeb1f",
-          "outrosIds": [],
-          "titulo": "Diretor-executivo da Anthropic nega intenção de conceder 'livre-arbítrio humano' à IA",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTjk5VEZZNGMxWU8zTy1DY1JiUTlxVkRMQ3dpdzI1YVh4NndzM0Rza1pJenRWMEM5cHZKek9fX1VPZjMzc2Z0bVgyNGVYRHJqVG9UN210RE1kZkJtcENRVDBnMkViUXcxVmJST1kzM0Rla25RTjRLSnhSalB1Qy1nLUFtS2l2dUItUnBqZ0R2UWduS2hGa2ozd2dmNVRWOHpsbEg0STRyd1VrdTdoQWdiUFVRSlRrRjV3UkphRHdaWVl1RERLbTNkbTgwYmFUM256VkQtNkRyVERuajZWa0t5dl9nd0FYRjFG0gH3AUFVX3lxTE5OaDFPeHZsQXpTeFYxYlJyNUpuX21RNkFqUU1UMzZEX1pzTURNdjVRaDBKWnBIQXNQb2dmcjJrX00tdi1Ydmxpa2o4Zi12dHByc3k2dXA5QU1vOGVBa3EyODZXcXZBVXJnWkgyQUhBNWNVUkVRT3JwSFV1V0VkR2RjVkxtYzFPZjhvbUpTY2o4aDJqLW83N1VoVkJvWVZWbU1BdnpVSllHZW1kQTA4a29NNzVqOTZnZ0NTQ1liTXlIN29JTFEzUUFTeDNMOVllSVNrYWczSVlVTDd0eUs1N2RXMlB2STlUckFucW41Sk9CeExEX011V00?oc=5",
-          "fonte": "O GLOBO",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T05:46:59.000Z",
-          "tambemEm": [],
-          "foto": null,
           "pontos": 22
         },
         {
@@ -502,9 +504,9 @@
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": true,
-      "itens": 30,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -608,7 +610,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 35,
+      "itens": 39,
       "erro": null
     }
   ]
