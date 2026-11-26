@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T09:17:32.245Z",
+  "geradoEm": "2026-11-26T12:17:25.561Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -22,7 +22,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "188ce565e647",
@@ -42,23 +42,21 @@
           "pontos": 28
         },
         {
-          "id": "b8f5f51c3a0c",
-          "outrosIds": [
-            "ae8507143ac1"
-          ],
-          "titulo": "Lula sanciona ajuste fiscal aprovado no Congresso",
-          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24) a lei que prevê ajuste fiscal nas contas públicas em 2027. O texto muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O texto passou pelo Senado na…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso",
+          "id": "bf885e06480e",
+          "outrosIds": [],
+          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
+          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T20:25:00.000Z",
+          "data": "2026-11-25T16:09:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "9042b2e3ac2d",
@@ -94,7 +92,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         }
       ]
     },
@@ -103,24 +101,55 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "2a2a129a774f",
+          "id": "98968ba5a3af",
           "outrosIds": [
-            "df8e06d10182"
+            "c713f49d69ef",
+            "4e133caed04f",
+            "aa141e1e90a7",
+            "22ab0f3a0be5",
+            "031148410048"
           ],
-          "titulo": "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal",
-          "resumo": "O governo federal liberou R$ 3,43 bilhões do Orçamento de 2026, reduzindo o volume de despesas congeladas, apesar da piora na previsão do resultado das contas públicas. A medida foi anunciada nessa terça-feira (24), após a sanção da lei que permite excluir até R$ 10,5 bilhões em gastos com subsídios ao diesel da meta…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal",
-          "fonte": "Agência Brasil",
+          "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
+          "resumo": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
+          "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T10:02:00.000Z",
+          "data": "2026-11-24T21:58:00.000Z",
           "tambemEm": [
+            "Agência Senado",
+            "Agência Gov",
+            "Agência Brasil",
             "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
+          "pontos": 32
+        },
+        {
+          "id": "4a108df0b8f0",
+          "outrosIds": [
+            "19aac461dea0",
+            "f3c06792fae9",
+            "fc8cac71ad3b",
+            "376a60c94947",
+            "9cf594842bb3",
+            "11be12e33db4"
+          ],
+          "titulo": "Novas cestas do IPCA e do INPC serão apresentadas pelo IBGE em 30 de novembro na Fiesp",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM0xGa182T0VaMkFLWFIyb2VBRnlrUzI1YVNaTmVpN0d0R1hqWHlJcmQyR1FGRXNNUDZsYjNvSjRJTmNaelNtZDJfOHM3aVE1czE3YWVxNzRuTXc4T04yQzhwTTZEQmNmakdGeTl3eU5pN0FOSGNWaFdJSUl3LVMtUTB0V2g3NVRSV1c0UGt6ZlUzbDZhUUNENUpEREk2VVFHU05jODBpU1R1QjA4R0RnYWwyNmZmNF9iTFJpQXc1VnA4bzdJVk1wYlBjODFUSy1VM09iNW9xa3lCbVhmUG1RMlFTME5yeEpjdnJJWVd6SzhJTFJtS3JJeGM2bnlTbWdJdThmQzVxYXJIU2poWFE?oc=5",
+          "fonte": "IBGE",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-24T18:33:00.000Z",
+          "tambemEm": [
+            "Money Times",
+            "InfoMoney"
+          ],
+          "foto": null,
           "pontos": 30
         },
         {
@@ -147,59 +176,38 @@
           "pontos": 28
         },
         {
-          "id": "4a108df0b8f0",
+          "id": "a4c57e17d255",
           "outrosIds": [],
-          "titulo": "Novas cestas do IPCA e do INPC serão apresentadas pelo IBGE em 30 de novembro na Fiesp",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM0xGa182T0VaMkFLWFIyb2VBRnlrUzI1YVNaTmVpN0d0R1hqWHlJcmQyR1FGRXNNUDZsYjNvSjRJTmNaelNtZDJfOHM3aVE1czE3YWVxNzRuTXc4T04yQzhwTTZEQmNmakdGeTl3eU5pN0FOSGNWaFdJSUl3LVMtUTB0V2g3NVRSV1c0UGt6ZlUzbDZhUUNENUpEREk2VVFHU05jODBpU1R1QjA4R0RnYWwyNmZmNF9iTFJpQXc1VnA4bzdJVk1wYlBjODFUSy1VM09iNW9xa3lCbVhmUG1RMlFTME5yeEpjdnJJWVd6SzhJTFJtS3JJeGM2bnlTbWdJdThmQzVxYXJIU2poWFE?oc=5",
-          "fonte": "IBGE",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T18:33:00.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 26
-        },
-        {
-          "id": "498e7d60df30",
-          "outrosIds": [],
-          "titulo": "Motta: ajuste fiscal garante mais investimentos para melhorar a vida de quem mais precisa",
-          "resumo": "Bruno Spada / Câmara dos Deputados Hugo Motta destacou a importância da aprovação O presidente da Câmara, Hugo Motta (Republicanos-PB), afirmou, por meio de suas redes sociais, que a aprovação da proposta de ajuste fiscal do governo (PLP 299/26) dá ao País melhores condições de organizar o orçamento do ano que vem e…",
-          "link": "https://www.camara.leg.br/noticias/1322204-motta-ajuste-fiscal-garante-mais-investimentos-para-melhorar-a-vida-de-quem-mais-precisa",
-          "fonte": "Agência Câmara",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T11:43:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
-          "id": "2c694380c6b3",
-          "outrosIds": [
-            "6a16ee069ef1",
-            "50acf845a91b",
-            "6a0c0c041594"
-          ],
-          "titulo": "Dólar fecha em queda, com ajuste fiscal; Ibovespa recua pressionado por Vale (VALE3)",
-          "resumo": "O dólar e o Ibovespa, principal índice de ações brasileiro, encerram o dia em queda, sob os reflexos da aprovação do pacote de ajuste fiscal pela Câmara dos Deputados e a sinalização de que o presidente Luiz Inácio Lula da Silva deve enviar uma PEC (Proposta de Emenda à Constituição) como uma segunda etapa do plano. O…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/24/dolar-e-ibovespa-hoje-24-11-2026.ghtml",
+          "titulo": "Equipe do Lula 4, PEC fiscal e IPCA-15 ditam ritmo sem NY",
+          "resumo": "Com as bolsas de Nova York fechadas em razão do feriado de Ação de Graças nos Estados Unidos — o que reduz a liquidez global nesta quinta-feira (26) —, a formação da equipe econômica do governo Lula 4 segue como o principal gatilho para o Ibovespa e o dólar. Ontem, a possibilidade de o presidente do Conselho de…",
+          "link": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/11/26/equipe-do-lula-4-pec-fiscal-e-ipca-15-ditam-ritmo-sem-ny.ghtml",
           "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T12:01:04.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Money Times"
-          ],
+          "data": "2026-11-26T10:36:29.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F2JiNe0V9rM4jjFQAXzWBPJOCJ4k%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fi%2Fh%2FlQ3YIrR5GiDr652aDkPA%2Fdolar-getty-images.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F2JiNe0V9rM4jjFQAXzWBPJOCJ4k%3D%2F2121x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fi%2Fh%2FlQ3YIrR5GiDr652aDkPA%2Fdolar-getty-images.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FjcHx0C56i3PGrDcUTOjZ1nIsPPQ%3D%2F724x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2FU%2FM%2FpDn7CoS8C9RGAEAB99wQ%2Fgettyimages-879108800.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FjcHx0C56i3PGrDcUTOjZ1nIsPPQ%3D%2F724x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2FU%2FM%2FpDn7CoS8C9RGAEAB99wQ%2Fgettyimages-879108800.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
+        },
+        {
+          "id": "e1300f758cd5",
+          "outrosIds": [],
+          "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
+          "resumo": "A descrença cada vez maior da Faria Lima de que o governo Lula 4 entregará um ajuste fiscal crível a partir de 2027 e endereçará o problema das contas públicas pode bater de forma ainda mais intensa no câmbio no horizonte relevante. Em um cenário severo, em que as perspectivas de estabilização da dívida pública […]",
+          "link": "https://www.moneytimes.com.br/ate-onde-o-dolar-pode-ir-diante-da-incerteza-fiscal-no-governo-lula-4-lbrdml146/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-25T18:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -211,8 +219,7 @@
           "id": "5135bb25a17f",
           "outrosIds": [
             "982616b068fe",
-            "7aa29de29a38",
-            "27ae769d2a9b"
+            "7aa29de29a38"
           ],
           "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
           "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
@@ -222,14 +229,13 @@
           "categoria": "oficial",
           "data": "2026-11-25T21:43:05.000Z",
           "tambemEm": [
-            "Money Times",
             "Seu Dinheiro"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 33
+          "pontos": 28
         },
         {
           "id": "7a99dc619ebb",
@@ -249,25 +255,40 @@
           "pontos": 28
         },
         {
-          "id": "f0735e8b6219",
+          "id": "e9d983125396",
           "outrosIds": [
-            "744c9644248b",
-            "4578dce16253"
+            "93d028eec257"
           ],
-          "titulo": "Fundo imobiliário compra salas comerciais alugadas à WeWork por R$ 73,5 milhões; IFIX amplia perdas em novembro",
-          "resumo": "O fundo imobiliário Patria Escritório (HGRE11) acertou a compra de 67 salas comerciais do edifício One Eleven Home, localizado na Vila Olímpia, em São Paulo (SP), mostra fato relevante divulgado ao mercado. Segundo o documento, com a operação, fechada por R$ 73,5 milhões, o FII passou a deter participação equivalente…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-compra-67-salas-comerciais-alugadas-a-wework-por-r-735-milhoes-ifix-amplia-perdas-em-novembro-igdl/",
+          "titulo": "Fundo imobiliário de logística estende projeção de dividendos até fevereiro de 2027; veja o valor",
+          "resumo": "O fundo imobiliário Vinci Logística (VILG11) estendeu até fevereiro de 2027 a projeção de distribuição de rendimentos (guidance) entre R$ 0,80 e R$ 0,87 por cota. A informação consta no relatório gerencial mais recente do FII. Apesar da ampliação do período previsto, já que a estimativa anterior contemplava os…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-de-logistica-estende-projecao-de-dividendos-ate-fevereiro-de-2027-veja-o-valor-igdl/",
           "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T11:11:32.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Seu Dinheiro"
-          ],
+          "data": "2026-11-26T12:10:35.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-microstockhub-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fimoveis-fiis-fundos-imobilarios-imagem-watchara-ritjanistock-id-da-foto1389305098.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fimoveis-fiis-fundos-imobilarios-imagem-watchara-ritjanistock-id-da-foto1389305098.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "5ced0bd345ee",
+          "outrosIds": [
+            "72e92db09278"
+          ],
+          "titulo": "Fundo imobiliário fecha contrato que pode elevar receita em 36%; IFIX ensaia recuperação",
+          "resumo": "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação para um dos imóveis comerciais de seu portfólio, localizado em João Pessoa (PB), mostra fato relevante divulgado ao mercado. Segundo o documento, o acordo prevê aluguel mensal inicial de R$ 170 mil e prazo de 10 anos, com início no próximo dia…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-nova-locacao-que-pode-elevar-receita-em-36-ifix-ensaia-recuperacao-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T10:47:46.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -287,23 +308,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F708bSTH4KTLobU1DiU_PmfpcDBs%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2022%2Fi%2FW%2FA5M7KUQIGEFcCAjAsTtg%2F100697159-politica-20-20s-c3-83o-20paulo-20sp-20-2001-09-2022-20-20agenda-20do-20candidato-20ao-20governo-20de-20s-c3-83o-20paulo-20fernand.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
-        },
-        {
-          "id": "93d028eec257",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário anuncia distribuição extraordinária de dividendos; veja o porquê",
-          "resumo": "O fundo imobiliário VBI Logístico (LVBI11) fará uma distribuição extraordinária de dividendos antes de ser incorporado pelo Patria Log (HGLG11). O anúncio foi feito no mais recente relatório gerencial do veículo. Segundo o comunicado, o rendimento adicional está relacionado à venda de um imóvel logístico localizado em…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-distribuicao-extraordinaria-de-dividendos-veja-o-porque-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-25T17:04:42.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -312,25 +316,25 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "e6ec47d262c3",
+          "id": "f7d52e67048a",
           "outrosIds": [
-            "8c20f71d6938",
+            "39a0a7269ced",
             "bbc7768c8d71",
             "cf2cdb93d135",
+            "e6ec47d262c3",
             "d9dc266e31a1",
             "be295a41291e",
-            "0b0c9d6a7009",
-            "0661b66e18cd"
+            "0b0c9d6a7009"
           ],
-          "titulo": "Ações da Anthropic caem abaixo do preço do IPO e ampliam temores sobre setor de IA",
+          "titulo": "Bolsas da Ásia caem com temor sobre IA, apesar da estreia forte da Anthropic em Wall Street",
           "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOE9EczdsR3JpVzhNczVyMTVjZmdpVHRySHdCRDhKb0Zwbk1hMWRrTi0tZ3pLSXg1WXRDSjkzeVV5M2gwRlVESlhqRmNqNmlTUzBCM3hvc1Nzb3NISnRja3F1R0diSFpWYUxETXFMMnIyLUdFOWs3enBxYktEb0hhLWZSSlh2clN6RDI0OE1GSmtxMXdPMC1vUTVrd0dVakNXUmRlb3h1SmhfSWhVTnNWVnZmejhscG9kb2c?oc=5",
-          "fonte": "VEJA",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN0I1ZmhDOVQ1dUdhSElVTjkzMG00SWp2RjlKeWNpWTdTSDFGMzdYMG9CM19tSlE3eXpndzdaUEYzd2xhN1NVRUJ6cjV4ZkJ3aE1OT09zbFBOd1FoejM1RmZQYlRCZnpMNjFnTGNwZFhGbloydmVQZ3BsRTVfa2VHSFF1NHEwSzhlT1ZZdWpReVpPc00wM0xxUGN1eDJrM2h3ODhHU3ZkOEdMRnhIZHVySlJOZ3N4eE5ybkExdDJyMUVkQllwZS0xUUk1OURzRk5zWnNZWjJRNDZhbHBXVUZXaXJHeTF1Wlh2eHBfby0tZTNJOE0?oc=5",
+          "fonte": "Estadão",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-24T14:03:13.000Z",
+          "data": "2026-11-25T16:41:27.000Z",
           "tambemEm": [
-            "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+            "VEJA",
             "CNN Brasil",
             "Olhar Digital",
             "G1",
@@ -338,7 +342,7 @@
             "Valor Econômico"
           ],
           "foto": null,
-          "pontos": 26
+          "pontos": 28
         },
         {
           "id": "6a9fb1efb4f4",
@@ -356,6 +360,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
+        },
+        {
+          "id": "3a834f44db53",
+          "outrosIds": [],
+          "titulo": "Brasileiro confia na IA para ajudar nas compras, mas não para gastar seu dinheiro",
+          "resumo": "O brasileiro está disposto a contar com a ajuda da inteligência artificial (IA) na hora de fazer compras, mas ainda tem ressalvas quando se trata de delegar à tecnologia a tarefa de gastar seu dinheiro. É o que aponta a primeira edição do Índice de Confiança em Pagamentos Digitais, elaborado para a fintech global…",
+          "link": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/11/26/brasileiro-confia-na-ia-para-ajudar-nas-compras-mas-nao-para-gastar-seu-dinheiro.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T09:30:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "40053bf3d3e7",
@@ -388,23 +409,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "06f8e6783096",
-          "outrosIds": [],
-          "titulo": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
-          "resumo": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
-          "link": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
-          "fonte": "Tecnoblog",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-25T11:52:34.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -500,7 +504,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 15,
+      "itens": 18,
       "erro": null
     },
     {
@@ -612,7 +616,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 36,
+      "itens": 37,
       "erro": null
     }
   ]
