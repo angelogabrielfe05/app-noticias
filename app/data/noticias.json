@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T12:17:25.561Z",
+  "geradoEm": "2026-11-26T15:17:23.182Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -78,21 +78,21 @@
           "pontos": 23
         },
         {
-          "id": "513130ac594f",
+          "id": "f0d6f4409a38",
           "outrosIds": [],
-          "titulo": "Câmara aprova marco regulatório da educação em tempo integral",
-          "resumo": "Projeto prevê jornada mínima de sete horas diárias ou 35 horas semanais; texto segue para o Senado",
-          "link": "https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral",
+          "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
+          "resumo": "Texto segue para análise do Senado",
+          "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
           "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T22:11:00.000Z",
+          "data": "2026-11-26T14:49:00.000Z",
           "tambemEm": [],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 19
         }
       ]
     },
@@ -101,13 +101,39 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "34c62dc063d3",
+          "outrosIds": [
+            "09cfc778220d",
+            "048aa381dcc5",
+            "19aac461dea0",
+            "f3c06792fae9",
+            "11be12e33db4"
+          ],
+          "titulo": "IPCA-15 teve alta de 0,22% em novembro",
+          "resumo": "A prévia da inflação teve alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro (0,32%). O resultado vem, principalmente, das influências dos grupos alimentação e bebidas, com alta de 1,51% e impacto de 0,33 p.p. no índice geral; e transportes, que recuou -0,71% e exerceu influência de -0,14 pontos…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T12:30:00.000Z",
+          "tambemEm": [
+            "Agência Gov",
+            "Money Times",
+            "InfoMoney",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 36
+        },
+        {
           "id": "98968ba5a3af",
           "outrosIds": [
             "c713f49d69ef",
             "4e133caed04f",
-            "aa141e1e90a7",
-            "22ab0f3a0be5",
-            "031148410048"
+            "aa141e1e90a7"
           ],
           "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
           "resumo": "Norma permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
@@ -117,10 +143,9 @@
           "categoria": "oficial",
           "data": "2026-11-24T21:58:00.000Z",
           "tambemEm": [
-            "Agência Senado",
             "Agência Gov",
-            "Agência Brasil",
-            "Money Times"
+            "Agência Senado",
+            "Agência Brasil"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
@@ -129,85 +154,61 @@
           "pontos": 32
         },
         {
-          "id": "4a108df0b8f0",
-          "outrosIds": [
-            "19aac461dea0",
-            "f3c06792fae9",
-            "fc8cac71ad3b",
-            "376a60c94947",
-            "9cf594842bb3",
-            "11be12e33db4"
-          ],
-          "titulo": "Novas cestas do IPCA e do INPC serão apresentadas pelo IBGE em 30 de novembro na Fiesp",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM0xGa182T0VaMkFLWFIyb2VBRnlrUzI1YVNaTmVpN0d0R1hqWHlJcmQyR1FGRXNNUDZsYjNvSjRJTmNaelNtZDJfOHM3aVE1czE3YWVxNzRuTXc4T04yQzhwTTZEQmNmakdGeTl3eU5pN0FOSGNWaFdJSUl3LVMtUTB0V2g3NVRSV1c0UGt6ZlUzbDZhUUNENUpEREk2VVFHU05jODBpU1R1QjA4R0RnYWwyNmZmNF9iTFJpQXc1VnA4bzdJVk1wYlBjODFUSy1VM09iNW9xa3lCbVhmUG1RMlFTME5yeEpjdnJJWVd6SzhJTFJtS3JJeGM2bnlTbWdJdThmQzVxYXJIU2poWFE?oc=5",
-          "fonte": "IBGE",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T18:33:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
-          "foto": null,
-          "pontos": 30
-        },
-        {
-          "id": "605c26c3e63b",
-          "outrosIds": [
-            "60690f0b624b",
-            "5d38241fd8a0"
-          ],
-          "titulo": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro",
-          "resumo": "A arrecadação das receitas federais somou R$ 293,975 bilhões em outubro deste ano, informou a Receita Federal. O valor representa aumento real de 7,28% em relação ao mesmo mês de 2025 e é o maior já registrado para meses de outubro desde o início da série histórica, em 1995. De janeiro a outubro, a arrecadação…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/arrecadacao-federal-atinge-r-294-bilhoes-e-bate-recorde-para-outubro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-24T15:57:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FedXhlA_iXSD5sD95m2wU72O5eS8%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220048_1.jpg%3Fitok%3DH30i3fvq&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
-        {
-          "id": "a4c57e17d255",
+          "id": "fbe6b4f84c22",
           "outrosIds": [],
-          "titulo": "Equipe do Lula 4, PEC fiscal e IPCA-15 ditam ritmo sem NY",
-          "resumo": "Com as bolsas de Nova York fechadas em razão do feriado de Ação de Graças nos Estados Unidos — o que reduz a liquidez global nesta quinta-feira (26) —, a formação da equipe econômica do governo Lula 4 segue como o principal gatilho para o Ibovespa e o dólar. Ontem, a possibilidade de o presidente do Conselho de…",
-          "link": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/11/26/equipe-do-lula-4-pec-fiscal-e-ipca-15-ditam-ritmo-sem-ny.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
+          "resumo": "Mesmo depois da surpresa positiva do IPCA-15, seguimos vendo uma combinação interessante nos títulos indexados à inflação de prazo mais curto. A correção recente da inflação ajuda a reduzir parte do risco de novas altas de juros, enquanto as taxas reais continuam em patamares atrativos. Nesse cenário, o PACC11 permite…",
+          "link": "https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T10:36:29.000Z",
+          "data": "2026-11-26T14:05:18.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FjcHx0C56i3PGrDcUTOjZ1nIsPPQ%3D%2F724x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2FU%2FM%2FpDn7CoS8C9RGAEAB99wQ%2Fgettyimages-879108800.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FjcHx0C56i3PGrDcUTOjZ1nIsPPQ%3D%2F724x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2020%2FU%2FM%2FpDn7CoS8C9RGAEAB99wQ%2Fgettyimages-879108800.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
         {
-          "id": "e1300f758cd5",
-          "outrosIds": [],
-          "titulo": "Até onde o dólar pode ir diante da incerteza fiscal no governo Lula 4?",
-          "resumo": "A descrença cada vez maior da Faria Lima de que o governo Lula 4 entregará um ajuste fiscal crível a partir de 2027 e endereçará o problema das contas públicas pode bater de forma ainda mais intensa no câmbio no horizonte relevante. Em um cenário severo, em que as perspectivas de estabilização da dívida pública […]",
-          "link": "https://www.moneytimes.com.br/ate-onde-o-dolar-pode-ir-diante-da-incerteza-fiscal-no-governo-lula-4-lbrdml146/",
-          "fonte": "Money Times",
+          "id": "d0ac362923a4",
+          "outrosIds": [
+            "50ed9593acf8"
+          ],
+          "titulo": "Tesouro Direto hoje: prefixados caem abaixo de 15%, mas IPCA remunera até 7,72%",
+          "resumo": "As taxas dos títulos do Tesouro Direto operaram, nesta quinta-feira (26), em leve queda tanto entre os prefixados, quanto entre os títulos atrelados à inflação. O mercado continua acompanhando o avanço nas discussões sobre uma PEC (Proposta de Emenda à Constituição) como segunda etapa do ajuste fiscal do governo Lula,…",
+          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/26/tesouro-direto-hoje-prefixados-ipca-26-11-2026.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T18:00:00.000Z",
+          "data": "2026-11-26T12:44:27.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Flula-agencia-brasil.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FCRax4K2rJHJPnb0b6ENlIBjwFOI%3D%2F6713x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FN%2Fu%2FcfNdRLRAO4lLuNDEHYqw%2Fpexels-tomfisk-11114516.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FCRax4K2rJHJPnb0b6ENlIBjwFOI%3D%2F6713x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FN%2Fu%2FcfNdRLRAO4lLuNDEHYqw%2Fpexels-tomfisk-11114516.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 24
+        },
+        {
+          "id": "f3055dad6666",
+          "outrosIds": [
+            "c7953bf9a265"
+          ],
+          "titulo": "Contas externas têm déficit de US$ 4 bilhões em outubro",
+          "resumo": "As contas externas brasileiras registraram déficit de US$ 4 bilhões em outubro de 2026, resultado igual ao verificado no mesmo mês do ano passado. Os dados constam das Estatísticas do Setor Externo divulgadas nesta quinta-feira (26) pelo Banco Central . Segundo a instituição, o déficit acumulado em 12 meses ficou em…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-externas-tem-deficit-de-us-4-bilhoes-em-outubro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T13:33:00.000Z",
+          "tambemEm": [
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FB3GHHE0Esonzs9jfkLkTGDk4PVs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2020-09-25t121331z_1_lynxnpeg8o13a_rtroptp_4_dolar-abre.jpg%3Fitok%3DjLwfl1bc&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FB3GHHE0Esonzs9jfkLkTGDk4PVs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2020-09-25t121331z_1_lynxnpeg8o13a_rtroptp_4_dolar-abre.jpg%3Fitok%3DjLwfl1bc&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
         }
       ]
     },
@@ -218,6 +219,10 @@
         {
           "id": "5135bb25a17f",
           "outrosIds": [
+            "07646c0d0ba1",
+            "2f02412d0525",
+            "928a64a77fdb",
+            "4729eec39f72",
             "982616b068fe",
             "7aa29de29a38"
           ],
@@ -229,17 +234,22 @@
           "categoria": "oficial",
           "data": "2026-11-25T21:43:05.000Z",
           "tambemEm": [
-            "Seu Dinheiro"
+            "Money Times",
+            "Seu Dinheiro",
+            "Exame Invest",
+            "Valor Investe"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 32
         },
         {
           "id": "7a99dc619ebb",
-          "outrosIds": [],
+          "outrosIds": [
+            "86f618312b37"
+          ],
           "titulo": "Índice de Letras Financeiras lidera valorização da renda fixa na B3 em outubro",
           "resumo": "Indicadores ligados a debêntures e títulos públicos atrelados à Selic completam o Top 5 do mês",
           "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/indices/indice-de-letras-financeiras-lidera-valorizacao-da-renda-fixa-na-b3-em-outubro/",
@@ -247,31 +257,36 @@
           "oficial": true,
           "categoria": "oficial",
           "data": "2026-11-25T17:50:54.000Z",
-          "tambemEm": [],
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 30
         },
         {
-          "id": "e9d983125396",
+          "id": "c3b79425f7fc",
           "outrosIds": [
+            "e9d983125396",
             "93d028eec257"
           ],
-          "titulo": "Fundo imobiliário de logística estende projeção de dividendos até fevereiro de 2027; veja o valor",
-          "resumo": "O fundo imobiliário Vinci Logística (VILG11) estendeu até fevereiro de 2027 a projeção de distribuição de rendimentos (guidance) entre R$ 0,80 e R$ 0,87 por cota. A informação consta no relatório gerencial mais recente do FII. Apesar da ampliação do período previsto, já que a estimativa anterior contemplava os…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-de-logistica-estende-projecao-de-dividendos-ate-fevereiro-de-2027-veja-o-valor-igdl/",
-          "fonte": "Money Times",
+          "titulo": "FII estende projeção de dividendos após venda milionária e novos aluguéis no radar; saiba valor",
+          "resumo": "VILG11 mantém estimativa de distribuição entre R$ 0,80 e R$ 0,87 por cota, mas amplia prazo do guidance até fevereiro de 2027 The post FII estende projeção de dividendos após venda milionária e novos aluguéis no radar; saiba valor appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-estende-projecao-de-dividendos-apos-venda-milionaria-e-novos-alugueis-no-radar-saiba-valor-igdl/",
+          "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T12:10:35.000Z",
-          "tambemEm": [],
+          "data": "2026-11-26T14:44:00.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fimoveis-fiis-fundos-imobilarios-imagem-watchara-ritjanistock-id-da-foto1389305098.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F06%2Fimoveis-fiis-fundos-imobilarios-imagem-watchara-ritjanistock-id-da-foto1389305098.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 26
         },
         {
           "id": "5ced0bd345ee",
@@ -293,19 +308,19 @@
           "pontos": 24
         },
         {
-          "id": "4cfe8deca4a4",
+          "id": "bdd5995cc52e",
           "outrosIds": [],
-          "titulo": "Um mês depois da eleição, Ibovespa acumula queda de 19% e algumas ações ficaram baratas. Veja quais são",
-          "resumo": "Desde a segunda-feira, 26 de outubro, em que o mercado se retraiu frente à reeleição de Luiz Inácio Lula da Silva e o circuit breaker foi acionado, o Ibovespa já acumula 19,6% de queda. O cenário se torna ainda mais destoante porque, nas vésperas do segundo turno, o Ibovespa acumulava alta de 27,28% em 2026, e batia…",
-          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/26/um-mes-depois-da-eleicao-ibovespa-acumula-queda-de-19percent-e-algumas-acoes-ficaram-baratas-veja-quais-sao.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
+          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T09:00:00.000Z",
+          "data": "2026-11-26T14:34:45.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F708bSTH4KTLobU1DiU_PmfpcDBs%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2022%2Fi%2FW%2FA5M7KUQIGEFcCAjAsTtg%2F100697159-politica-20-20s-c3-83o-20paulo-20sp-20-2001-09-2022-20-20agenda-20do-20candidato-20ao-20governo-20de-20s-c3-83o-20paulo-20fernand.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F708bSTH4KTLobU1DiU_PmfpcDBs%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2022%2Fi%2FW%2FA5M7KUQIGEFcCAjAsTtg%2F100697159-politica-20-20s-c3-83o-20paulo-20sp-20-2001-09-2022-20-20agenda-20do-20candidato-20ao-20governo-20de-20s-c3-83o-20paulo-20fernand.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         }
@@ -315,35 +330,6 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "f7d52e67048a",
-          "outrosIds": [
-            "39a0a7269ced",
-            "bbc7768c8d71",
-            "cf2cdb93d135",
-            "e6ec47d262c3",
-            "d9dc266e31a1",
-            "be295a41291e",
-            "0b0c9d6a7009"
-          ],
-          "titulo": "Bolsas da Ásia caem com temor sobre IA, apesar da estreia forte da Anthropic em Wall Street",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN0I1ZmhDOVQ1dUdhSElVTjkzMG00SWp2RjlKeWNpWTdTSDFGMzdYMG9CM19tSlE3eXpndzdaUEYzd2xhN1NVRUJ6cjV4ZkJ3aE1OT09zbFBOd1FoejM1RmZQYlRCZnpMNjFnTGNwZFhGbloydmVQZ3BsRTVfa2VHSFF1NHEwSzhlT1ZZdWpReVpPc00wM0xxUGN1eDJrM2h3ODhHU3ZkOEdMRnhIZHVySlJOZ3N4eE5ybkExdDJyMUVkQllwZS0xUUk1OURzRk5zWnNZWjJRNDZhbHBXVUZXaXJHeTF1Wlh2eHBfby0tZTNJOE0?oc=5",
-          "fonte": "Estadão",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-25T16:41:27.000Z",
-          "tambemEm": [
-            "VEJA",
-            "CNN Brasil",
-            "Olhar Digital",
-            "G1",
-            "InfoMoney",
-            "Valor Econômico"
-          ],
-          "foto": null,
-          "pontos": 28
-        },
         {
           "id": "6a9fb1efb4f4",
           "outrosIds": [],
@@ -360,6 +346,20 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
+        },
+        {
+          "id": "f175c7edeb1f",
+          "outrosIds": [],
+          "titulo": "Diretor-executivo da Anthropic nega intenção de conceder 'livre-arbítrio humano' à IA",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTjk5VEZZNGMxWU8zTy1DY1JiUTlxVkRMQ3dpdzI1YVh4NndzM0Rza1pJenRWMEM5cHZKek9fX1VPZjMzc2Z0bVgyNGVYRHJqVG9UN210RE1kZkJtcENRVDBnMkViUXcxVmJST1kzM0Rla25RTjRLSnhSalB1Qy1nLUFtS2l2dUItUnBqZ0R2UWduS2hGa2ozd2dmNVRWOHpsbEg0STRyd1VrdTdoQWdiUFVRSlRrRjV3UkphRHdaWVl1RERLbTNkbTgwYmFUM256VkQtNkRyVERuajZWa0t5dl9nd0FYRjFG0gH3AUFVX3lxTE5OaDFPeHZsQXpTeFYxYlJyNUpuX21RNkFqUU1UMzZEX1pzTURNdjVRaDBKWnBIQXNQb2dmcjJrX00tdi1Ydmxpa2o4Zi12dHByc3k2dXA5QU1vOGVBa3EyODZXcXZBVXJnWkgyQUhBNWNVUkVRT3JwSFV1V0VkR2RjVkxtYzFPZjhvbUpTY2o4aDJqLW83N1VoVkJvWVZWbU1BdnpVSllHZW1kQTA4a29NNzVqOTZnZ0NTQ1liTXlIN29JTFEzUUFTeDNMOVllSVNrYWczSVlVTDd0eUs1N2RXMlB2STlUckFucW41Sk9CeExEX011V00?oc=5",
+          "fonte": "O GLOBO",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T05:46:59.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 23
         },
         {
           "id": "3a834f44db53",
@@ -379,6 +379,23 @@
           "pontos": 22
         },
         {
+          "id": "dca557e320ba",
+          "outrosIds": [],
+          "titulo": "Restrições dos EUA podem atrasar modelos de IA chineses até 2027",
+          "resumo": "Z.AI pode lançar o GLM-5.5 apenas em 2027, enquanto a Moonshot prevê intervalos maiores entre seus principais modelos de IA O post Restrições dos EUA podem atrasar modelos de IA chineses até 2027 apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/26/pro/restricoes-dos-eua-podem-atrasar-modelos-de-ia-chineses-ate-2027/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T12:17:18.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmoonshot-ai-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmoonshot-ai-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
+        },
+        {
           "id": "40053bf3d3e7",
           "outrosIds": [],
           "titulo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
@@ -392,23 +409,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "138f33b9da3e",
-          "outrosIds": [],
-          "titulo": "Saúde e ImpulsoGov vão ampliar uso de dados e IA na comunicação com usuários do SUS",
-          "resumo": "Parceria de cinco anos, sem repasse de recursos, prevê apoio técnico para qualificar mensagens, assistentes virtuais com IA e a avaliação de políticas públicas",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T14:17:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -504,7 +504,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -616,7 +616,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 37,
+      "itens": 38,
       "erro": null
     }
   ]
