@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T15:17:23.182Z",
+  "geradoEm": "2026-11-26T18:17:30.736Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -42,23 +42,6 @@
           "pontos": 28
         },
         {
-          "id": "bf885e06480e",
-          "outrosIds": [],
-          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
-          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T16:09:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
           "id": "9042b2e3ac2d",
           "outrosIds": [
             "e2ca9f51e144"
@@ -74,6 +57,23 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
+          "id": "bf885e06480e",
+          "outrosIds": [],
+          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
+          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T16:09:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
         },
@@ -154,6 +154,23 @@
           "pontos": 32
         },
         {
+          "id": "5dd8494e37e7",
+          "outrosIds": [],
+          "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+          "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T17:38:09.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
           "id": "fbe6b4f84c22",
           "outrosIds": [],
           "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
@@ -175,7 +192,7 @@
           "outrosIds": [
             "50ed9593acf8"
           ],
-          "titulo": "Tesouro Direto hoje: prefixados caem abaixo de 15%, mas IPCA remunera até 7,72%",
+          "titulo": "Tesouro Direto hoje: prefixados caem abaixo de 15%, mas IPCA remunera até 7,69%",
           "resumo": "As taxas dos títulos do Tesouro Direto operaram, nesta quinta-feira (26), em leve queda tanto entre os prefixados, quanto entre os títulos atrelados à inflação. O mercado continua acompanhando o avanço nas discussões sobre uma PEC (Proposta de Emenda à Constituição) como segunda etapa do ajuste fiscal do governo Lula,…",
           "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/26/tesouro-direto-hoje-prefixados-ipca-26-11-2026.ghtml",
           "fonte": "Valor Investe",
@@ -188,27 +205,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2FCRax4K2rJHJPnb0b6ENlIBjwFOI%3D%2F6713x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2FN%2Fu%2FcfNdRLRAO4lLuNDEHYqw%2Fpexels-tomfisk-11114516.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "f3055dad6666",
-          "outrosIds": [
-            "c7953bf9a265"
-          ],
-          "titulo": "Contas externas têm déficit de US$ 4 bilhões em outubro",
-          "resumo": "As contas externas brasileiras registraram déficit de US$ 4 bilhões em outubro de 2026, resultado igual ao verificado no mesmo mês do ano passado. Os dados constam das Estatísticas do Setor Externo divulgadas nesta quinta-feira (26) pelo Banco Central . Segundo a instituição, o déficit acumulado em 12 meses ficou em…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-externas-tem-deficit-de-us-4-bilhoes-em-outubro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T13:33:00.000Z",
-          "tambemEm": [
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FB3GHHE0Esonzs9jfkLkTGDk4PVs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2020-09-25t121331z_1_lynxnpeg8o13a_rtroptp_4_dolar-abre.jpg%3Fitok%3DjLwfl1bc&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FB3GHHE0Esonzs9jfkLkTGDk4PVs%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2020-09-25t121331z_1_lynxnpeg8o13a_rtroptp_4_dolar-abre.jpg%3Fitok%3DjLwfl1bc&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
         }
       ]
     },
@@ -217,33 +213,29 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "5135bb25a17f",
+          "id": "bace4d271015",
           "outrosIds": [
-            "07646c0d0ba1",
+            "1f838adbf99f",
             "2f02412d0525",
             "928a64a77fdb",
-            "4729eec39f72",
-            "982616b068fe",
-            "7aa29de29a38"
+            "982616b068fe"
           ],
-          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T21:43:05.000Z",
+          "titulo": "Tudo no azul: por que nenhuma ação está caindo no Ibovespa hoje?",
+          "resumo": "IPCA-15 abaixo das expectativas e rumores sobre Trabuco no Ministério da Fazenda impulsionam o apetite por risco e colocam as ações da B3 no azul The post Tudo no azul: por que nenhuma ação está caindo no Ibovespa hoje? appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/nenhuma-acao-em-queda-no-ibovespa-os-dois-motivos-por-tras-da-festa-de-hoje-bdap/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T18:09:57.000Z",
           "tambemEm": [
             "Money Times",
-            "Seu Dinheiro",
-            "Exame Invest",
             "Valor Investe"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2025%2F05%2Fcarolina-gama-esse-6.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2025%2F05%2Fcarolina-gama-esse-6.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 32
+          "pontos": 28
         },
         {
           "id": "7a99dc619ebb",
@@ -264,7 +256,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 28
         },
         {
           "id": "c3b79425f7fc",
@@ -289,6 +281,23 @@
           "pontos": 26
         },
         {
+          "id": "bdd5995cc52e",
+          "outrosIds": [],
+          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
+          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T14:34:45.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "5ced0bd345ee",
           "outrosIds": [
             "72e92db09278"
@@ -305,23 +314,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "bdd5995cc52e",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
-          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:34:45.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 23
         }
       ]
@@ -330,6 +322,40 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "23284cbf5695",
+          "outrosIds": [],
+          "titulo": "XP Educação lança pré-MBA que ensina gestores a usar IA na análise de dados",
+          "resumo": "Programa on-line e gravado aborda como organizar informações, interpretar indicadores e utilizar inteligência artificial para apoiar decisões no dia a dia das empresas. The post XP Educação lança pré-MBA que ensina gestores a usar IA na análise de dados appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/carreira/xp-educacao-pre-mba-ia-analise-dados/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T17:43:30.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "806ff390225a",
+          "outrosIds": [],
+          "titulo": "OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos",
+          "resumo": "Entenda como a correção afeta planos Go, Plus, Pro e Business, o impacto no Codex e por que não há cobrança retroativa do uso O post OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/openai-corrige-erro-no-gpt-6-2-e-muda-limites-de-uso-dos-planos/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T15:27:54.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "6a9fb1efb4f4",
           "outrosIds": [],
@@ -359,7 +385,7 @@
           "data": "2026-11-26T05:46:59.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "3a834f44db53",
@@ -376,41 +402,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
-        },
-        {
-          "id": "dca557e320ba",
-          "outrosIds": [],
-          "titulo": "Restrições dos EUA podem atrasar modelos de IA chineses até 2027",
-          "resumo": "Z.AI pode lançar o GLM-5.5 apenas em 2027, enquanto a Moonshot prevê intervalos maiores entre seus principais modelos de IA O post Restrições dos EUA podem atrasar modelos de IA chineses até 2027 apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/26/pro/restricoes-dos-eua-podem-atrasar-modelos-de-ia-chineses-ate-2027/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T12:17:18.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmoonshot-ai-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fmoonshot-ai-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
           "pontos": 21
-        },
-        {
-          "id": "40053bf3d3e7",
-          "outrosIds": [],
-          "titulo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
-          "resumo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam O Google Mensagens ganhou uma integra&ccedil;&atilde;o com o Gemini Tasks , agente de IA capaz de executar tarefas automaticamente. Entre os destaques, &eacute; poss&iacute;vel procurar por atualiza&ccedil;&otilde;es de entrega de…",
-          "link": "https://canaltech.com.br/apps/novo-gemini-no-google-mensagens-avisa-sobre-entregas-e-promocoes-que-te-interessam/",
-          "fonte": "Canaltech",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-25T19:01:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
         }
       ]
     }
@@ -504,15 +496,15 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
+      "ok": true,
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "b3",
@@ -616,7 +608,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 38,
+      "itens": 35,
       "erro": null
     }
   ]
