@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T00:17:21.940Z",
+  "geradoEm": "2026-11-26T03:17:21.049Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -39,30 +39,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
-          "id": "b8f5f51c3a0c",
-          "outrosIds": [
-            "ae8507143ac1",
-            "778318423314",
-            "080f91912b5f"
-          ],
-          "titulo": "Lula sanciona ajuste fiscal aprovado no Congresso",
-          "resumo": "O presidente Luiz Inácio Lula da Silva sancionou nesta terça-feira (24) a lei que prevê ajuste fiscal nas contas públicas em 2027. O texto muda as regras fiscais para permitir ao Executivo limitar a execução de despesas a fim de alcançar as metas de superávit primário a partir de 2027. O texto passou pelo Senado na…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso",
+          "id": "bf885e06480e",
+          "outrosIds": [],
+          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
+          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-24T20:25:00.000Z",
-          "tambemEm": [
-            "Agência Câmara"
-          ],
+          "data": "2026-11-25T16:09:00.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FWFQgyj2UfzbL-UQ8nfU54Oe-VvE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F19%2Fdecreto-escala-5x2-mc_abr_19112026-9.jpg%3Fitok%3DnzsH5AVl&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
+          "pontos": 26
         },
         {
           "id": "9042b2e3ac2d",
@@ -81,7 +75,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "513130ac594f",
@@ -290,23 +284,23 @@
           "pontos": 23
         },
         {
-          "id": "774ffa435e08",
+          "id": "c8c8a8b0274e",
           "outrosIds": [
-            "6ee53dc37d82"
+            "c64dbfce3aba"
           ],
-          "titulo": "Mais caixa, mais dividendos? BTG eleva preço-alvo do IRB (IRBR3) e vê potencial de alta de 54%",
-          "resumo": "Segundo o BTG, o lucro em caixa do IRB deve saltar de aproximadamente R$ 530 milhões em 2026 The post Mais caixa, mais dividendos? BTG eleva preço-alvo do IRB (IRBR3) e vê potencial de alta de 54% appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/empresas/mais-caixa-mais-dividendos-btg-eleva-preco-alvo-do-irb-irbr3-e-ve-potencial-de-alta-de-54-lmrs/",
+          "titulo": "Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e gera apreensão",
+          "resumo": "Com investimentos de US$ 122 bilhões até 2031, estatal pode enfrentar pressão sobre a geração de caixa; Itaú BBA e Citi veem riscos aos proventos, enquanto BTG destaca potencial de crescimento da produção The post Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e…",
+          "link": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-vai-conseguir-manter-os-dividendos-plano-de-negocios-conta-com-petroleo-nas-alturas-e-gera-apreensao-bdap/",
           "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T20:03:00.000Z",
+          "data": "2026-11-24T15:11:04.000Z",
           "tambemEm": [
-            "Money Times"
+            "Exame Invest"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F03%2FIRB-Re-IRBR3-Nova-sede.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F03%2FIRB-Re-IRBR3-Nova-sede.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -316,23 +310,6 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "6a9fb1efb4f4",
-          "outrosIds": [],
-          "titulo": "Gestão lança novo guia com cenários práticos para uso da IA no serviço público",
-          "resumo": "Publicação mostra como a IA pode apoiar tarefas como preparar minutas e resumir documentos, quais cuidados tomar e como conferir os resultados. Guia para elaboração de prompts também ganha novas versão",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T20:47:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
         {
           "id": "e6ec47d262c3",
           "outrosIds": [
@@ -363,6 +340,23 @@
           "pontos": 26
         },
         {
+          "id": "6a9fb1efb4f4",
+          "outrosIds": [],
+          "titulo": "Gestão lança novo guia com cenários práticos para uso da IA no serviço público",
+          "resumo": "Publicação mostra como a IA pode apoiar tarefas como preparar minutas e resumir documentos, quais cuidados tomar e como conferir os resultados. Guia para elaboração de prompts também ganha novas versão",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T20:47:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
           "id": "40053bf3d3e7",
           "outrosIds": [],
           "titulo": "Novo Gemini no Google Mensagens avisa sobre entregas e promoções que te interessam",
@@ -377,7 +371,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "138f33b9da3e",
@@ -394,22 +388,22 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fministerio-da-saude-firma-acordo-com-a-impulsogov-para-ampliar-uso-de-dados-e-inteligencia-artificial-na-comunicacao-com-usuarios-do-sus%2F%40%40download%2Fimage%2FSUS.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
-          "id": "840ce892ecef",
+          "id": "06f8e6783096",
           "outrosIds": [],
-          "titulo": "Startups: Universidade brasileira lança IA para reduzir dependência estrangeira",
-          "resumo": "Desenvolvido pela Universidade Federal de Goiás, Lumi tem 4 bilhões de parâmetros e pode ser adaptado com dados próprios de empresas The post Startups: Universidade brasileira lança IA para reduzir dependência estrangeira appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/business/startups-universidade-brasileira-lanca-ia-para-reduzir-dependencia-estrangeira/",
-          "fonte": "InfoMoney",
+          "titulo": "É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "resumo": "Em post, diretor de inteligência artificial da big tech destaca a chegada iminente da chamada superinteligência. É difícil imaginar que humanidade manterá o controle, diz Meta sobre IA",
+          "link": "https://tecnoblog.net/noticias/e-dificil-imaginar-que-humanidade-mantera-o-controle-diz-meta-sobre-ia/",
+          "fonte": "Tecnoblog",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-25T18:52:49.000Z",
+          "data": "2026-11-25T11:52:34.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-13T132429Z_1_LYNXMPEM6C0QG_RTROPTP_4_GLOBAL-AI-ECONOMY.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F07%2F2026-07-13T132429Z_1_LYNXMPEM6C0QG_RTROPTP_4_GLOBAL-AI-ECONOMY.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ffiles.tecnoblog.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fmeta-capa-3-nov-2022-1536x864.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -617,7 +611,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 33,
+      "itens": 35,
       "erro": null
     }
   ]
