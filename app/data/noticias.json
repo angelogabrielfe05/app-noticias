@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-26T06:17:23.146Z",
+  "geradoEm": "2026-11-26T09:17:32.245Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -39,7 +39,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "b8f5f51c3a0c",
@@ -77,7 +77,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "513130ac594f",
@@ -182,8 +182,7 @@
           "outrosIds": [
             "6a16ee069ef1",
             "50acf845a91b",
-            "6a0c0c041594",
-            "3ceb7889adfc"
+            "6a0c0c041594"
           ],
           "titulo": "Dólar fecha em queda, com ajuste fiscal; Ibovespa recua pressionado por Vale (VALE3)",
           "resumo": "O dólar e o Ibovespa, principal índice de ações brasileiro, encerram o dia em queda, sob os reflexos da aprovação do pacote de ajuste fiscal pela Câmara dos Deputados e a sinalização de que o presidente Luiz Inácio Lula da Silva deve enviar uma PEC (Proposta de Emenda à Constituição) como uma segunda etapa do plano. O…",
@@ -273,6 +272,23 @@
           "pontos": 24
         },
         {
+          "id": "4cfe8deca4a4",
+          "outrosIds": [],
+          "titulo": "Um mês depois da eleição, Ibovespa acumula queda de 19% e algumas ações ficaram baratas. Veja quais são",
+          "resumo": "Desde a segunda-feira, 26 de outubro, em que o mercado se retraiu frente à reeleição de Luiz Inácio Lula da Silva e o circuit breaker foi acionado, o Ibovespa já acumula 19,6% de queda. O cenário se torna ainda mais destoante porque, nas vésperas do segundo turno, o Ibovespa acumulava alta de 27,28% em 2026, e batia…",
+          "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/26/um-mes-depois-da-eleicao-ibovespa-acumula-queda-de-19percent-e-algumas-acoes-ficaram-baratas-veja-quais-sao.ghtml",
+          "fonte": "Valor Investe",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T09:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F708bSTH4KTLobU1DiU_PmfpcDBs%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2022%2Fi%2FW%2FA5M7KUQIGEFcCAjAsTtg%2F100697159-politica-20-20s-c3-83o-20paulo-20sp-20-2001-09-2022-20-20agenda-20do-20candidato-20ao-20governo-20de-20s-c3-83o-20paulo-20fernand.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F708bSTH4KTLobU1DiU_PmfpcDBs%3D%2F3840x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2022%2Fi%2FW%2FA5M7KUQIGEFcCAjAsTtg%2F100697159-politica-20-20s-c3-83o-20paulo-20sp-20-2001-09-2022-20-20agenda-20do-20candidato-20ao-20governo-20de-20s-c3-83o-20paulo-20fernand.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "93d028eec257",
           "outrosIds": [],
           "titulo": "Fundo imobiliário anuncia distribuição extraordinária de dividendos; veja o porquê",
@@ -286,27 +302,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fdividendos-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "c8c8a8b0274e",
-          "outrosIds": [
-            "c64dbfce3aba"
-          ],
-          "titulo": "Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e gera apreensão",
-          "resumo": "Com investimentos de US$ 122 bilhões até 2031, estatal pode enfrentar pressão sobre a geração de caixa; Itaú BBA e Citi veem riscos aos proventos, enquanto BTG destaca potencial de crescimento da produção The post Petrobras (PETR4) vai conseguir manter os dividendos? Plano de Negócios conta com petróleo nas alturas e…",
-          "link": "https://www.seudinheiro.com/2026/empresas/petrobras-petr4-vai-conseguir-manter-os-dividendos-plano-de-negocios-conta-com-petroleo-nas-alturas-e-gera-apreensao-bdap/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-24T15:11:04.000Z",
-          "tambemEm": [
-            "Exame Invest"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2024%2F10%2Fpetrobras-petr4-petr3.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -360,7 +355,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "40053bf3d3e7",
@@ -377,7 +372,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FN7QcMerP8maG7ICqeo8yCyo_vz8%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F40ce9fe8-51aa-467c-804a-02e311b1ccd0.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "138f33b9da3e",
@@ -617,7 +612,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 35,
+      "itens": 36,
       "erro": null
     }
   ]
