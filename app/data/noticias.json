@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T15:17:23.190Z",
+  "geradoEm": "2026-11-27T18:17:23.738Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -7,9 +7,7 @@
       "itens": [
         {
           "id": "67ceea72acb5",
-          "outrosIds": [
-            "c455639fc4c8"
-          ],
+          "outrosIds": [],
           "titulo": "Plenário aprova calendário especial para PEC do Fundo Constitucional do DF",
           "resumo": "O presidente do Senado, Davi Alcolumbre, anunciou que a PEC que inclui expressamente o Fundo Constitucional do Distrito Federal (FCDF) na Constituição como o financiador das forças policiais e dos bombeiros do DF estará na pauta do Plenário na terça-feira (1º). Os senadores aprovaram requerimento de calendário…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df",
@@ -59,21 +57,21 @@
           "pontos": 24
         },
         {
-          "id": "bf885e06480e",
+          "id": "eb7ec35b32fe",
           "outrosIds": [],
-          "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
-          "resumo": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou, nesta quarta-feira (25), proposta de emenda à Constituição (PEC) que altera o artigo que define a responsabilidade da União no financiamento da segurança e de outros serviços públicos do Distrito Federal (DF). O texto ainda precisa passar pelos plenários do…",
-          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/ccj-do-senado-aprova-pec-sobre-papel-da-uniao-no-financiamento-do-df",
+          "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela defesa de Costa. O ministro afirmou que o ex--presidente do…",
+          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-paulo-henrique-costa-ex-presidente-do-brb",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T16:09:00.000Z",
+          "data": "2026-11-27T16:52:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fa_3LXYXESs3ZvNypavYqd7AiFY4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F11%2F25%2F0d9a6488.jpg%3Fitok%3Di4YDRg1X&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 19
         },
         {
           "id": "f601b8d855be",
@@ -99,6 +97,40 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "7f978a000164",
+          "outrosIds": [
+            "2371790e5d53",
+            "f2366146b9e6",
+            "08ce3158fff6",
+            "048aa381dcc5",
+            "19aac461dea0",
+            "f3c06792fae9",
+            "fc8cac71ad3b",
+            "376a60c94947",
+            "9cf594842bb3",
+            "6a16ee069ef1",
+            "41fb6eedb220"
+          ],
+          "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
+          "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T22:08:00.000Z",
+          "tambemEm": [
+            "IBGE",
+            "Money Times",
+            "InfoMoney",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 32
+        },
+        {
           "id": "7cfdd36aaa48",
           "outrosIds": [],
           "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
@@ -116,42 +148,26 @@
           "pontos": 28
         },
         {
-          "id": "5dd8494e37e7",
+          "id": "80e6429a6d2e",
           "outrosIds": [
-            "19e9b42a8bc8"
+            "7fbca097eb8c",
+            "f3055dad6666",
+            "c7953bf9a265"
           ],
-          "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
-          "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T17:38:09.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
-          "id": "34c62dc063d3",
-          "outrosIds": [
-            "09cfc778220d"
-          ],
-          "titulo": "IPCA-15 teve alta de 0,22% em novembro",
-          "resumo": "A prévia da inflação teve alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro (0,32%). O resultado vem, principalmente, das influências dos grupos alimentação e bebidas, com alta de 1,51% e impacto de 0,33 p.p. no índice geral; e transportes, que recuou -0,71% e exerceu influência de -0,14 pontos…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+          "titulo": "Contas do governo têm superávit de R$ 52,3 bilhões em outubro",
+          "resumo": "As contas do Governo Central registraram superávit primário de R$ 52,3 bilhões em outubro, informou hoje (27) o Tesouro Nacional. O resultado ficou acima das estimativas do mercado, projetadas em R$ 43,4 bilhões para o mês segundo o Prisma Fiscal – levantamento do Ministério da Fazenda com estimativas do mercado para…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-do-governo-tem-superavit-de-r-523-bilhoes-em-outubro",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T12:30:00.000Z",
+          "data": "2026-11-27T15:57:00.000Z",
           "tambemEm": [
-            "Agência Gov"
+            "Money Times",
+            "InfoMoney"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_drCizYcQ2dTn5kZU6-8_TJzdE4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F28%2F_ja03456-3.jpg%3Fitok%3DRhKFAzG4&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_drCizYcQ2dTn5kZU6-8_TJzdE4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F28%2F_ja03456-3.jpg%3Fitok%3DRhKFAzG4&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 25
         },
@@ -177,21 +193,23 @@
           "pontos": 24
         },
         {
-          "id": "f0fb5333ab26",
-          "outrosIds": [],
-          "titulo": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
-          "resumo": "Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T23:22:33.000Z",
+          "id": "5dd8494e37e7",
+          "outrosIds": [
+            "19e9b42a8bc8"
+          ],
+          "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+          "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T17:38:09.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 23
         }
       ]
     },
@@ -199,65 +217,6 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "eaecbf46fb3e",
-          "outrosIds": [
-            "55d4936f7274",
-            "4bbb7cc940e7",
-            "77b48c09c3c8",
-            "b0fe20ae556c",
-            "f32184f3aa09",
-            "70333d7814f2",
-            "ff6c9336f587",
-            "07646c0d0ba1",
-            "2f02412d0525",
-            "46e6c6df91c5",
-            "928a64a77fdb",
-            "550ff99f5286",
-            "5135bb25a17f",
-            "982616b068fe"
-          ],
-          "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quinta-feira (26) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T21:46:24.000Z",
-          "tambemEm": [
-            "InfoMoney",
-            "Exame Invest",
-            "Money Times",
-            "Seu Dinheiro",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F26184537%2Fibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F26184537%2Fibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 33
-        },
-        {
-          "id": "7a99dc619ebb",
-          "outrosIds": [
-            "86f618312b37"
-          ],
-          "titulo": "Índice de Letras Financeiras lidera valorização da renda fixa na B3 em outubro",
-          "resumo": "Indicadores ligados a debêntures e títulos públicos atrelados à Selic completam o Top 5 do mês",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/indices/indice-de-letras-financeiras-lidera-valorizacao-da-renda-fixa-na-b3-em-outubro/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T17:50:54.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2Fborainvestir%2F2022%2F08%2F20093928%2FETFs-Fundos-de-indices-1200x675.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 28
-        },
         {
           "id": "681e94f4d7bc",
           "outrosIds": [
@@ -281,6 +240,67 @@
           "pontos": 26
         },
         {
+          "id": "5135bb25a17f",
+          "outrosIds": [
+            "b0fe20ae556c"
+          ],
+          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T21:43:05.000Z",
+          "tambemEm": [
+            "Exame Invest"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
+          "id": "e862c410dc49",
+          "outrosIds": [],
+          "titulo": "Dividendo não é tudo: FIIs pagam todo mês, mas perdem para o CDI, diz estudo; entenda o que pesa contra os fundos na B3",
+          "resumo": "Levantamento da Nexa Finance mostra que o IFIX registrou retorno anualizado de 8,4% desde 2010, abaixo dos 9,9% do CDI The post Dividendo não é tudo: FIIs pagam todo mês, mas perdem para o CDI, diz estudo; entenda o que pesa contra os fundos na B3 appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/dividendo-nao-e-tudo-fiis-pagam-todo-mes-mas-perdem-para-o-cdi-entenda-o-que-pesa-contra-os-fundos-na-b3-igdl/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T17:35:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "7f461688a078",
+          "outrosIds": [
+            "294442d0e782",
+            "0268b2e41be2"
+          ],
+          "titulo": "B3 e seis instituições financeiras se unem para criar stablecoin em reais",
+          "resumo": "Para impulsionar ativos digitais, iniciativa conjunta de B3, Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP busca estabelecer infraestrutura compartilhada e um padrão comum para movimentação de valores e liquidação de operações",
+          "link": "https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T12:38:08.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 23
+        },
+        {
           "id": "1cdb6b21949c",
           "outrosIds": [],
           "titulo": "Fundo imobiliário amplia participação em complexo logístico em SP; IFIX emenda terceira alta",
@@ -295,29 +315,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "c3b79425f7fc",
-          "outrosIds": [
-            "e9d983125396",
-            "93d028eec257"
-          ],
-          "titulo": "FII estende projeção de dividendos após venda milionária e novos aluguéis no radar; saiba valor",
-          "resumo": "VILG11 mantém estimativa de distribuição entre R$ 0,80 e R$ 0,87 por cota, mas amplia prazo do guidance até fevereiro de 2027 The post FII estende projeção de dividendos após venda milionária e novos aluguéis no radar; saiba valor appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/fii-estende-projecao-de-dividendos-apos-venda-milionaria-e-novos-alugueis-no-radar-saiba-valor-igdl/",
-          "fonte": "Seu Dinheiro",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:44:00.000Z",
-          "tambemEm": [
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
+          "pontos": 23
         }
       ]
     },
@@ -325,6 +323,23 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "e2757cbeb59f",
+          "outrosIds": [],
+          "titulo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
+          "resumo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualiza&ccedil;&atilde;o para o Gemini Live que permitir&aacute; acompanhar tarefas executadas pela intelig&ecirc;ncia artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhar&aacute; uma…",
+          "link": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T17:02:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F0fqGhz-iV_SnIv-5H2DhHpNZdKg%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F28865af5-183c-4792-88c9-9a57317f5712.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F0fqGhz-iV_SnIv-5H2DhHpNZdKg%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F28865af5-183c-4792-88c9-9a57317f5712.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "d4e8c23b04d0",
           "outrosIds": [],
@@ -354,7 +369,24 @@
           "data": "2026-11-27T10:28:45.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 24
+          "pontos": 23
+        },
+        {
+          "id": "07cdb2ee26ba",
+          "outrosIds": [],
+          "titulo": "Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna",
+          "resumo": "Segundo informações de bastidores, empresa estaria gastando US$ 1,2 milhão por mês com inteligência artificial generativa e ampliando o uso da tecnologia na produção de jogos O post Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/27/games-e-consoles/ubisoft-ia-generativa-desenvolvedores-pressao-interna/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T16:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "e7043ee378d8",
@@ -372,40 +404,6 @@
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "23284cbf5695",
-          "outrosIds": [],
-          "titulo": "XP Educação lança pré-MBA que ensina gestores a usar IA na análise de dados",
-          "resumo": "Programa on-line e gravado aborda como organizar informações, interpretar indicadores e utilizar inteligência artificial para apoiar decisões no dia a dia das empresas. The post XP Educação lança pré-MBA que ensina gestores a usar IA na análise de dados appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/carreira/xp-educacao-pre-mba-ia-analise-dados/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T17:43:30.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "806ff390225a",
-          "outrosIds": [],
-          "titulo": "OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos",
-          "resumo": "Entenda como a correção afeta planos Go, Plus, Pro e Business, o impacto no Codex e por que não há cobrança retroativa do uso O post OpenAI corrige erro no GPT-6.2 e muda limites de uso dos planos apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/openai-corrige-erro-no-gpt-6-2-e-muda-limites-de-uso-dos-planos/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T15:27:54.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -501,7 +499,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 25,
+      "itens": 31,
       "erro": null
     },
     {

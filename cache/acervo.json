@@ -1,5 +1,678 @@
 [
   {
+    "titulo": "Safra: Seca no Norte e El Niño podem beneficiar Rumo e pressionar Hidrovias do Brasil",
+    "link": "https://www.infomoney.com.br/mercados/safra-seca-no-norte-e-el-nino-podem-beneficiar-rumo-e-pressionar-hidrovias-do-brasil/",
+    "resumo": "Efeito opostos nas companhias devem ser agravados pelo El Niño The post Safra: Seca no Norte e El Niño podem beneficiar Rumo e pressionar Hidrovias do Brasil appeared first on InfoMoney .",
+    "data": "2026-11-27T18:12:05.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-28-083158.png?fit=300%2C127&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Não atualize ainda: novo driver da NVIDIA corrige desgaste de SSD, mas causa tela preta",
+    "link": "https://canaltech.com.br/hardware/nao-atualize-ainda-novo-driver-da-nvidia-corrige-desgaste-de-ssd-mas-causa-tela-preta/",
+    "resumo": "Não atualize ainda: novo driver da NVIDIA corrige desgaste de SSD, mas causa tela preta A sequ&ecirc;ncia conturbada de atualiza&ccedil;&otilde;es da NVIDIA ganhou um novo cap&iacute;tulo. Liberado para otimizar jogos como Warhammer 40,000: Dawn of War IV e Assetto Corsa Rally, o driver 621.40 finalmente encerrou a…",
+    "data": "2026-11-27T18:09:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/daPghN0dEX48lY5xtAHQcCkONJw=/1200x675/smart/filters:format(webp):quality(85)/bf25e91b-feaa-4890-ac2a-3068c8047f6a.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal",
+    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/emendas-a-ldo-de-2027-tentam-proteger-programas-e-mudar-a-meta-fiscal",
+    "resumo": "O projeto da Lei de Diretrizes Orçamentárias (LDO) de 2027 recebeu 1.504 emendas de deputados e senadores. Muitas delas tentam proteger programas específicos de cortes orçamentários. Do total, 246 se referem ao Anexo de Prioridades e Metas. Com as emendas, vários parlamentares tentam reduzir a meta fiscal a zero para…",
+    "data": "2026-11-27T18:06:03.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Wall Street fecha em alta com impulso do setor de tecnologia",
+    "link": "https://www.moneytimes.com.br/wall-street-fecha-em-alta-em-sessao-mais-curta-impulsionada-pelo-setor-de-tecnologia-davs/",
+    "resumo": "Em dia de pregão mais curto, com as negociações encerradas às 15h (de Brasília), as bolsas de Nova York fecharam o pregão desta sexta-feira (24) em alta. O movimento ocorreu na retomada dos negócios após o feriado de Ação de Graças e em meio à Black Friday, que tradicionalmente marca o início da temporada de […]",
+    "data": "2026-11-27T18:05:30.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Espanha vai às urnas no domingo e eleição pode derrubar Pedro Sánchez, desafeto de Trump",
+    "link": "https://www.moneytimes.com.br/espanha-vai-as-urnas-no-domingo-e-eleicao-pode-derrubar-pedro-sanchez-desafeto-de-trump-ccgg/",
+    "resumo": "A Espanha realiza eleições antecipadas neste domingo (30). A votação pode derrubar o primeiro-ministro socialista Pedro Sánchez, que tem se desentendido com o presidente dos Estados Unidos, Donald Trump. O resultado também pode levar a extrema-direita ao governo pela primeira vez desde a redemocratização do país. O…",
+    "data": "2026-11-27T18:05:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "CONFEST/CONFEGE 2026: Conheça mais de cem palestrantes confirmados",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHoxUHhBLV9XS19aRUZ3Q1IwWWM2N2VaMGJITVhyXzR5c19lQzN1Qm4ybFNLT0RJb2JqckRKdDZ3ZUxWazIwWUxLS0V4UmR1MmtsdHJxVGZpRDZONmoya2dhb29EdnVDWHhOVmlvM3I5N2ttRVRmOXZFSDJKNWVKNVpCeWhMMkRMTDFWa3RYUjB0RzAzRUprZnNiSXNsNWV2bXBpZXotSzV0N1U0UmdtMlppalM5dlBNM0ljY2lpQ05aOVE4aEh4Y0lxblFhQmtRZXlGZ1pTeTA5cEVoSjgyWE1yaHBUbkxQMkdaTkJjOFQ5QQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T18:03:00.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome",
+    "link": "https://canaltech.com.br/apps/google-corrige-falha-que-fazia-aba-do-gemini-devorar-memoria-ram-no-chrome/",
+    "resumo": "Google corrige falha que fazia aba do Gemini devorar memória RAM no Chrome O Google corrigiu uma falha que fazia a vers&atilde;o web do Gemini consumir quantidades excessivas de mem&oacute;ria RAM no Chrome. O problema era relatado por usu&aacute;rios havia mais de um ano, com registros de consumo de at&eacute; 8,4 GB…",
+    "data": "2026-11-27T18:02:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/B0h8i8hw0Rlgfya0-54BGPTG_7o=/1200x675/smart/filters:format(webp):quality(85)/a909272c-096c-4cda-a749-bc6616c9a20b.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Após troca na Fazenda, Moretti deve ser mantido no Planejamento, dizem aliados",
+    "link": "https://www.infomoney.com.br/politica/apos-troca-na-fazenda-moretti-deve-ser-mantido-no-planejamento-dizem-aliados/",
+    "resumo": "Lula tem elogiado Moretti, a quem já chamou de \"mágico\" do orçamento The post Após troca na Fazenda, Moretti deve ser mantido no Planejamento, dizem aliados appeared first on InfoMoney .",
+    "data": "2026-11-27T18:01:48.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/HKWJR6NF3BIW5BTPAD2MJM5KCI.avif?resize=300,200",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Após “efeito Trabuco” inicial, o que pode fazer com que Bolsa tenha alta persistente?",
+    "link": "https://www.infomoney.com.br/mercados/apos-efeito-trabuco-inicial-o-que-pode-fazer-com-que-bolsa-tenha-alta-persistente/",
+    "resumo": "Vários desafios estão no radar do futuro ministro a partir de 2027 The post Após “efeito Trabuco” inicial, o que pode fazer com que Bolsa tenha alta persistente? appeared first on InfoMoney .",
+    "data": "2026-11-27T18:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_108502304.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "CNH B pode dirigir eletrificados com mais de 4.250 kg?",
+    "link": "https://canaltech.com.br/carros/cnh-b-pode-dirigir-eletrificados-com-mais-de-4250-kg/",
+    "resumo": "CNH B pode dirigir eletrificados com mais de 4.250 kg? Quem dirige SUVs e picapes eletrificados precisa ter aten&ccedil;&atilde;o. &Eacute; que esses carros podem ser mais pesados que suas vers&otilde;es equivalentes a combust&atilde;o &mdash; e, gra&ccedil;as a uma mudan&ccedil;a no C&oacute;digo de Tr&acirc;nsito…",
+    "data": "2026-11-27T18:00:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/CDLUKI-lPq16-ZC94i2OUckDx-M=/1200x675/smart/filters:format(webp):quality(85)/40528ea1-8aa0-4e1f-b535-e670301f9646.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Áudio: Proposta determina que haja pontos de apoio para trabalhadores da limpeza urbana",
+    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-determina-que-haja-pontos-de-apoio-para-trabalhadores-da-limpeza-urbana",
+    "resumo": "O projeto de lei (PL 5.559/2026), do senador Wellington Fagundes (PL-MT), prevê a criação de pontos de apoio para trabalhadores da limpeza urbana e do manejo de resíduos sólidos. Os locais deverão oferecer banheiros, água potável, espaços protegidos para descanso e refeições. Também deverão contar com vestiários,…",
+    "data": "2026-11-27T17:55:48.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "O que Trabuco tem que Joaquim Levy não teve no Ministério da Fazenda, segundo o UBS GWM",
+    "link": "https://www.moneytimes.com.br/o-que-trabuco-tem-que-joaquim-levy-nao-teve-no-ministerio-da-fazenda-segundo-o-ubs-gwm-jcav/",
+    "resumo": "A chegada de Luiz Carlos Trabuco ao Ministério da Fazenda remete à escolha de Joaquim Levy para comandar a equipe econômica durante o segundo mandato de Dilma Rousseff. Para o UBS GWM, entretanto, há uma diferença fundamental entre os dois momentos: o respaldo político. Em relatório divulgado nesta sexta-feira (27), o…",
+    "data": "2026-11-27T17:45:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Como ouvir os melhores diálogos íntimos entre Jason e Lucia em GTA 6",
+    "link": "https://canaltech.com.br/games/como-ouvir-os-melhores-dialogos-intimos-entre-jason-e-lucia-em-gta-6/",
+    "resumo": "Como ouvir os melhores diálogos íntimos entre Jason e Lucia em GTA 6 Jogadores come&ccedil;aram a descobrir como ouvir os melhores di&aacute;logos &iacute;ntimos entre Jason e Lucia, em GTA 6 . Ainda que os personagens tenham muitas intera&ccedil;&otilde;es ao longo da campanha, algumas das suas conversas como casal…",
+    "data": "2026-11-27T17:39:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/BkGR784gBelpmE-6kRx2UENLCpI=/1200x675/smart/filters:format(webp):quality(85)/afd008f6-b52c-45aa-bf04-bf64fed7c37a.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "AliExpress derruba preço do Galaxy Tab S10 Lite com S Pen e capa",
+    "link": "https://canaltech.com.br/tablet/aliexpress-derruba-preco-do-galaxy-tab-s10-lite-com-s-pen-e-capa/",
+    "resumo": "AliExpress derruba preço do Galaxy Tab S10 Lite com S Pen e capa Se voc&ecirc; estava esperando a chance certa para trocar o caderno de papel por um tablet completo para estudar, trabalhar ou maratonar suas s&eacute;ries, a hora chegou. O Samsung Galaxy Tab S10 Lite entrou em oferta rel&acirc;mpago no AliExpress e…",
+    "data": "2026-11-27T17:35:04.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/TF9Z8dUE7LNMmXV9E7JkIarjHg0=/1200x675/smart/filters:format(webp):quality(85)/17850e29-6958-478e-a2b6-e8ce815c2403.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Dividendo não é tudo: FIIs pagam todo mês, mas perdem para o CDI, diz estudo; entenda o que pesa contra os fundos na B3",
+    "link": "https://www.seudinheiro.com/2026/bolsa-dolar/dividendo-nao-e-tudo-fiis-pagam-todo-mes-mas-perdem-para-o-cdi-entenda-o-que-pesa-contra-os-fundos-na-b3-igdl/",
+    "resumo": "Levantamento da Nexa Finance mostra que o IFIX registrou retorno anualizado de 8,4% desde 2010, abaixo dos 9,9% do CDI The post Dividendo não é tudo: FIIs pagam todo mês, mas perdem para o CDI, diz estudo; entenda o que pesa contra os fundos na B3 appeared first on Seu Dinheiro .",
+    "data": "2026-11-27T17:35:00.000Z",
+    "imagemFeed": "https://www.seudinheiro.com/uploads/2026/11/image-41.png",
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Bolsas da Europa fecham em alta com setor tech e expectativas sobre futuro do BCE",
+    "link": "https://www.moneytimes.com.br/bolsas-da-europa-fecham-em-alta-com-setor-tech-e-expectativas-sobre-futuro-do-bce-davs/",
+    "resumo": "As bolsas da Europa fecharam em alta nesta sexta-feira (27), estendendo os ganhos da véspera, diante da retomada do apetite por ações de tecnologia. As expectativas para a trajetória de juros a ser seguida pelo Banco Central Europeu (BCE), assim como as mudanças na liderança da autoridade monetária, seguiram no radar…",
+    "data": "2026-11-27T17:30:54.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Tesouro IPCA+ rende mais de 9% em menos de uma semana com “efeito Trabuco”",
+    "link": "https://www.infomoney.com.br/onde-investir/tesouro-ipca-quanto-rende-efeito-trabuco/",
+    "resumo": "Queda das taxas valoriza títulos de longo prazo pela marcação a mercado. O ganho, porém, só se concretiza na venda antecipada e, para quem comprou nesta semana, seria em grande parte consumido pelo IOF The post Tesouro IPCA+ rende mais de 9% em menos de uma semana com “efeito Trabuco” appeared first on InfoMoney .",
+    "data": "2026-11-27T17:30:10.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img_7609_1.jpg?fit=300%2C185&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Black Friday da Latam Airlines oferece passagens nacionais a partir de R$ 121; veja",
+    "link": "https://www.infomoney.com.br/mercados/black-friday-latam-airlines-passagens-pacotes/",
+    "resumo": "As ofertas seguem até a segunda-feira (30) The post Black Friday da Latam Airlines oferece passagens nacionais a partir de R$ 121; veja appeared first on InfoMoney .",
+    "data": "2026-11-27T17:30:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/1132-1.jpg?fit=300%2C196&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ferramenta gratuita reúne mudanças para MEIs e pequenos negócios",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ferramenta-gratuita-reune-mudancas-para-meis-e-pequenos-negocios",
+    "resumo": "Microempreendedores individuais (MEIs) e donos de pequenos negócios podem consultar gratuitamente as mudanças previstas nas regras de faturamento, tributação e regularização de dívidas. O Radar das Mudanças para Pequenos Negócios reúne 11 medidas relacionadas à reforma tributária e ao pacote Prospera MEI , com…",
+    "data": "2026-11-27T17:26:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-economia",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "27.11.2026 (Maracanã - RJ) Imagens do encontro do Presidente Lula com idosos do Hospital Universitário Gaffrée e Guinle da UNIRIO",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/agenda-do-presidente/261127142506_27-11-26-pr-lula-coral-idosos",
+    "resumo": "",
+    "data": "2026-11-27T17:25:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Áudio: Senado pode votar alteração das regras de gerenciamento do Fundo Constitucional do DF",
+    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-pode-votar-alteracao-das-regras-de-gerenciamento-do-fundo-constitucional-do-df",
+    "resumo": "O Plenário do Senado pode votar na próxima semana uma proposta de emenda à Constituição que muda as regras de gerenciamento do Fundo Constitucional do Distrito Federal (PEC 1/2025). Há um requerimento de urgência para essa votação. O autor da proposta, senador Izalci Lucas (PL-DF), ressalta que a iniciativa dará ao…",
+    "data": "2026-11-27T17:18:50.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Agência - Detalhe de Mídia",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVFtbHoyWjl4OE5ud29idlFyc09YSnlzUGZkb096MG9hUUl3am5FS0dNaF9GR0Y3TTB5RWFOb19EVTJIMTduczNfbm1RWVpmeTBfeW1yb3UwdElZTUxoY0VtX0lpNmVaN3VUTHNsNVpnZl9PRTB5YllmdlRFYWh1aHFnSTBiWkQyVHpkU3A0amcwcWFVb2FNWGVIMnBpODJmdXZn?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T17:15:10.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Senador pede levantamento do sigilo de relatórios sobre ministros ao STF",
+    "link": "https://www.infomoney.com.br/politica/senador-pede-levantamento-do-sigilo-de-relatorios-sobre-ministros-ao-stf/",
+    "resumo": "Pedido de Alessandro Vieira ocorre em meio aos questionamentos sobre os relatórios reformulados pela PF neste mês The post Senador pede levantamento do sigilo de relatórios sobre ministros ao STF appeared first on InfoMoney .",
+    "data": "2026-11-27T17:04:46.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2022/11/52144118823_0b0ce2e1d5_c-e1758730770503.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Lula escolhe Camilo Santana para comandar a Casa Civil, dizem aliados",
+    "link": "https://www.infomoney.com.br/politica/lula-escolhe-camilo-santana-para-comandar-a-casa-civil-dizem-aliados/",
+    "resumo": "Ex-ministro da Educação ganhou força ao longo do segundo turno The post Lula escolhe Camilo Santana para comandar a Casa Civil, dizem aliados appeared first on InfoMoney .",
+    "data": "2026-11-27T17:04:11.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/02/0d4a4032.webp?fit=300%2C225&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
+    "link": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
+    "resumo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualiza&ccedil;&atilde;o para o Gemini Live que permitir&aacute; acompanhar tarefas executadas pela intelig&ecirc;ncia artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhar&aacute; uma…",
+    "data": "2026-11-27T17:02:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/0fqGhz-iV_SnIv-5H2DhHpNZdKg=/1200x675/smart/filters:format(webp):quality(85)/28865af5-183c-4792-88c9-9a57317f5712.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Lula garante benefícios em novo governo, mas defende revisão",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-beneficios-em-novo-governo-mas-defende-revisao",
+    "resumo": "O presidente Luiz Inácio Lula da Silva defendeu, nesta sexta-feira (27), uma revisão nos programas sociais do governo federal, porque, segundo ele, pessoas estão recebendo benefícios sem ter direito. “Não haverá hipótese de cortar qualquer benefício do povo pobre e da educação. Agora, teremos que fazer alguns ajustes,…",
+    "data": "2026-11-27T17:01:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-politica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Relançamento de Homem-Aranha: Um Novo Dia terá cena inédita de Doutor Destino",
+    "link": "https://canaltech.com.br/entretenimento/relancamento-de-homem-aranha-um-novo-dia-tera-cena-inedita-de-doutor-destino/",
+    "resumo": "Relançamento de Homem-Aranha: Um Novo Dia terá cena inédita de Doutor Destino Ap&oacute;s quebrar v&aacute;rios recordes nas telonas na metade do ano, Homem-Aranha: Um Novo Dia vai voltar aos cinemas mundiais em dezembro com uma atualiza&ccedil;&atilde;o. De acordo com o The New York Times, o longa contar&aacute; com…",
+    "data": "2026-11-27T17:01:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/-elM_pxUP87yf1DnA1l3O_UOE6g=/1200x675/smart/filters:format(webp):quality(85)/90c19620-097c-4415-88aa-22f61d6a7b4b.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "“Efeito Trabuco” na Fazenda: quais ações podem ganhar e quais podem perder na Bolsa?",
+    "link": "https://www.infomoney.com.br/mercados/efeito-trabuco-na-fazenda-quais-acoes-podem-ganhar-e-quais-podem-perder-na-bolsa/",
+    "resumo": "Setor financeiro e segmentos que ganham com queda de juros podem ganhar, enquanto exportadoras podem ficar para trás The post “Efeito Trabuco” na Fazenda: quais ações podem ganhar e quais podem perder na Bolsa? appeared first on InfoMoney .",
+    "data": "2026-11-27T17:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Lula não tem um “Posto Ipiranga” e terá de assumir defesa do ajuste fiscal",
+    "link": "https://www.infomoney.com.br/politica/lula-nao-tem-um-posto-ipiranga-e-tera-de-assumir-defesa-do-ajuste-fiscal/",
+    "resumo": "Para Cila Schulman, chegada de Trabuco à Fazenda não exime presidente da responsabilidade de explicar medidas econômicas que enfrentam resistência na própria esquerda The post Lula não tem um “Posto Ipiranga” e terá de assumir defesa do ajuste fiscal appeared first on InfoMoney .",
+    "data": "2026-11-27T17:00:00.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/img201404291317254784551.jpg?fit=300%2C197&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "‘Nanocoins’: Quais são os riscos e as vantagens de investir em criptomoedas com menor valor de mercado?",
+    "link": "https://www.moneytimes.com.br/nanocoins-quais-sao-os-riscos-e-as-vantagens-de-investir-em-criptomoedas-com-menor-valor-de-mercado-lbrdgm111/",
+    "resumo": "Saiba como uma ferramenta automatizada encontra criptomoedas ‘pequenas’ com potencial de valorização de até 214 vezes",
+    "data": "2026-11-27T17:00:00.000Z",
+    "imagemFeed": "https://www.moneytimes.com.br/uploads/2026/11/captura-de-tela-2026-11-26-151853.png",
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Interesse a descoberto na Anthropic cresce com aproximação do fim do lockup",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUjlLQ09BS0FmUkJrbGRFMWFhdGNNMG9ZYWtIOHhiR1A3ejZGYkhRckFsMTB6NklEM2FENFhadlFhczhiNUtHZkp4REx5ekxVdHBjY0kwd0tIZHd0bkRfYmpBdktxUW8zeFd1TXBiVm91SmpkcUpXb24zTlhJbWwydlhfZzRhS0Fka1ZUbzl0akRUWnhqOThEQ2dkZkRYVUp5OTVFOXhhSHRadm1HRTdqQXBmZDI3TDJXY2FPWGctME8yMnRxdkF4cGJGTQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T16:59:00.000Z",
+    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Pará e RJ entram em alerta por vírus respiratórios, diz Fiocruz",
+    "link": "https://www.infomoney.com.br/brasil/para-e-rj-entram-em-alerta-por-virus-respiratorios-diz-fiocruz/",
+    "resumo": "Covid aumenta nas regiões Sul e Sudeste The post Pará e RJ entram em alerta por vírus respiratórios, diz Fiocruz appeared first on InfoMoney .",
+    "data": "2026-11-27T16:58:55.000Z",
+    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/gripe.jpg?fit=300%2C179&amp;quality=70&amp;strip=all",
+    "fonteId": "infomoney",
+    "fonte": "InfoMoney",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "BC: inadimplência de produtores no crédito rural sobe para 9,6% em outubro",
+    "link": "https://www.moneytimes.com.br/bc-inadimplencia-de-produtores-no-credito-rural-sobe-para-96-em-outubro-pads/",
+    "resumo": "A inadimplência do crédito rural para pessoas físicas com recursos direcionados subiu para 9,6% em outubro, de 8,6% em setembro. O resultado está apenas 0,1 ponto porcentual abaixo do recorde da série, de 9,7%, registrado em agosto. As informações foram divulgadas nesta sexta-feira, 27, pelo Banco Central. A…",
+    "data": "2026-11-27T16:58:16.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Aprovada não é cumprida: por que leis não saem do papel?",
+    "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/aprovada-nao-e-cumprida-por-que-leis-nao-saem-do-papel",
+    "resumo": "",
+    "data": "2026-11-27T16:53:50.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom",
+    "link": "https://canaltech.com.br/telecom/antena-starlink-mini-despenca-para-r-299-no-pix-do-magalu-com-cupom/",
+    "resumo": "Antena Starlink Mini despenca para R$ 299 no PIX do Magalu com cupom Levar internet de alta velocidade e baixa lat&ecirc;ncia para s&iacute;tios, ch&aacute;caras, viagens de carro ou &aacute;reas rurais onde a fibra &oacute;ptica n&atilde;o chega nunca esteve t&atilde;o barato. A antena de internet via sat&eacute;lite…",
+    "data": "2026-11-27T16:53:50.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/DT1-OLvNA0ZqTtlN8hQqmZgU51Y=/1200x675/smart/filters:format(webp):quality(85)/b8d138c0-5e48-4d28-bbf4-01dff49052f6.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-paulo-henrique-costa-ex-presidente-do-brb",
+    "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela defesa de Costa. O ministro afirmou que o ex--presidente do…",
+    "data": "2026-11-27T16:52:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Com Interpol, ação da PF busca vítimas de abuso sexual infantojuvenil no mundo digital",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/pf-e-interpol-reunem-policiais-em-forca-tarefa-para-identificar-vitimas-de-abuso-sexual-infantojuvenil-no-ambiente-digital",
+    "resumo": "Informações serão encaminhadas às unidades responsáveis pelas investigações nos locais onde as vítimas e os investigados foram identificados",
+    "data": "2026-11-27T16:44:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Trabuco na Fazenda pode blindar Banco Central; veja os 3 pontos que o mercado vai monitorar, segundo UBS GWM",
+    "link": "https://www.moneytimes.com.br/trabuco-na-fazenda-pode-blindar-banco-central-veja-os-3-pontos-que-o-mercado-vai-monitorar-segundo-ubs-gwm/",
+    "resumo": "A escolha de Luiz Carlos Trabuco para o Ministério da Fazenda pode trazer benefícios não apenas para a condução da política fiscal brasileira, mas também para a atuação do Banco Central (BC), avalia o UBS GWM em relatório divulgado nesta sexta-feira (27). Segundo o banco suíço, a chegada do banqueiro à equipe…",
+    "data": "2026-11-27T16:20:14.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Nova câmera de segurança da TP-Link permite ligar para familiares com um toque",
+    "link": "https://canaltech.com.br/produtos/nova-camera-de-seguranca-da-tp-link-permite-ligar-para-familiares-com-um-toque/",
+    "resumo": "Nova câmera de segurança da TP-Link permite ligar para familiares com um toque A TP-Link lan&ccedil;ou a Tapo C825 , uma c&acirc;mera de seguran&ccedil;a para ambientes internos que permite fazer chamadas de v&iacute;deo com familiares por meio de uma tela sens&iacute;vel ao toque de 4 polegadas. Monitora ambientes em…",
+    "data": "2026-11-27T16:18:23.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/WAetSsuGG3R0PpL3jt1MKRhx-Zc=/1200x675/smart/filters:format(webp):quality(85)/8ce0fe33-ecf2-4517-ba7f-dec5ba51b6da.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Áudio: CAE analisa projeto que torna obrigatória remoção de veículos abandonados",
+    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-analisa-projeto-que-torna-obrigatoria-remocao-de-veiculos-abandonados",
+    "resumo": "Está na Comissão de Assuntos Econômicos (CAE) projeto que altera a Política Nacional de Resíduos Sólidos (Lei 12.305/2010) para tornar obrigatória a remoção de veículos abandonados em vias públicas, por oferecerem riscos ao meio ambiente e à saúde da população (PL 4.121/2020). A senadora Tereza Cristina (PP-MS) disse…",
+    "data": "2026-11-27T16:16:31.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Ibovespa reduz fôlego após euforia com Trabuco no comando da Fazenda; entenda",
+    "link": "https://www.moneytimes.com.br/ibovespa-reduz-folego-apos-euforia-com-trabuco-no-comando-da-fazenda-davs/",
+    "resumo": "A última sessão da semana é marcada por otimismo na bolsa brasileira, impulsionada pelo anúncio de que Luiz Carlos Trabuco assumirá o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva. Contudo, a festa na Faria Lima já começa a reduzir o ritmo inicial. Por volta de 13h (horário de…",
+    "data": "2026-11-27T16:10:21.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "4 redes de pizzarias brasileiras entram para ranking das melhores do mundo em 2026; veja quais são",
+    "link": "https://www.moneytimes.com.br/4-redes-de-pizzarias-brasileiras-entram-para-ranking-das-melhores-do-mundo-em-2026-veja-quais-sao-sama/",
+    "resumo": "Bráz lidera as representantes nacionais, na quarta colocação do 50 Top World Artisan Pizza Chains; 1900 Pizzeria, La Braciera e Ferro e Farinha também aparecem na seleção",
+    "data": "2026-11-27T16:10:00.000Z",
+    "imagemFeed": "https://www.moneytimes.com.br/uploads/2026/11/682709304-18581848726054280-7905191279138949135-n-768x1024.jpg",
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Pizzaria brasileira é eleita a terceira melhor do mundo em ranking italiano",
+    "link": "https://www.seudinheiro.com/2026/lifestyle/pizzaria-brasileira-e-eleita-a-terceira-melhor-do-mundo-em-ranking-italiano-sama/",
+    "resumo": "Fundada em Moema, em 1998, pizzaria paulistana conquistou o pódio no ranking 50 Top World Artisan Pizza Chains 2026, que também reúne outras três redes brasileiras The post Pizzaria brasileira é eleita a terceira melhor do mundo em ranking italiano appeared first on Seu Dinheiro .",
+    "data": "2026-11-27T16:10:00.000Z",
+    "imagemFeed": "https://www.seudinheiro.com/uploads/2026/11/432469360_18423297871054280_7523320866883797071_n.jpg",
+    "fonteId": "seudinheiro",
+    "fonte": "Seu Dinheiro",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "O gerente ficou maluco!: Bundle de Switch OLED está por quase metade do preço",
+    "link": "https://canaltech.com.br/games/o-gerente-ficou-maluco-bundle-de-switch-oled-esta-por-quase-metade-do-preco/",
+    "resumo": "O gerente ficou maluco!: Bundle de Switch OLED está por quase metade do preço O momento certo para colocar as m&atilde;os em um dos consoles mais queridos da Nintendo sem pesar no bolso chegou. O Nintendo Switch OLED na edi&ccedil;&atilde;o com Super Mario Bros. Wonder e 3 meses de Nintendo Switch Online (NSO)…",
+    "data": "2026-11-27T16:07:02.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/_8Ek-KZgBHruOPJ_uLHJPiuJQIw=/1200x675/smart/filters:format(webp):quality(85)/8deada24-9b03-4a13-83e7-c0db4f69ce11.jpeg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna",
+    "link": "https://olhardigital.com.br/2026/11/27/games-e-consoles/ubisoft-ia-generativa-desenvolvedores-pressao-interna/",
+    "resumo": "Segundo informações de bastidores, empresa estaria gastando US$ 1,2 milhão por mês com inteligência artificial generativa e ampliando o uso da tecnologia na produção de jogos O post Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna apareceu primeiro em Olhar Digital .",
+    "data": "2026-11-27T16:00:00.000Z",
+    "imagemFeed": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Ubisoft-Ubisoft-2-1024x576.jpg",
+    "fonteId": "olhar-digital-ia",
+    "fonte": "Olhar Digital",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "BYD Atto 2 desbanca rivais e vence o Carro do Ano 2027; veja a lista completa dos vencedores",
+    "link": "https://canaltech.com.br/carros/byd-atto-2-desbanca-rivais-e-vence-o-carro-do-ano-2027-veja-a-lista-completa-dos-vencedores/",
+    "resumo": "BYD Atto 2 desbanca rivais e vence o Carro do Ano 2027; veja a lista completa dos vencedores O BYD Atto 2 DM-i foi o grande vencedor do Carro do Ano 2027 , na 60&ordf; edi&ccedil;&atilde;o da tradicional premia&ccedil;&atilde;o brasileira. Ap&oacute;s a avalia&ccedil;&atilde;o de 26 jurados especialistas entre 61…",
+    "data": "2026-11-27T16:00:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/yWtLZfUXCWZKcph9Iv4BC6UAeqg=/1200x675/smart/filters:format(webp):quality(85)/0bc078c9-3ab0-45de-823f-755b6cd7422a.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Contas do governo têm superávit de R$ 52,3 bilhões em outubro",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-do-governo-tem-superavit-de-r-523-bilhoes-em-outubro",
+    "resumo": "As contas do Governo Central registraram superávit primário de R$ 52,3 bilhões em outubro, informou hoje (27) o Tesouro Nacional. O resultado ficou acima das estimativas do mercado, projetadas em R$ 43,4 bilhões para o mês segundo o Prisma Fiscal – levantamento do Ministério da Fazenda com estimativas do mercado para…",
+    "data": "2026-11-27T15:57:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-economia",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "XBOX Game Pass abre dezembro com terror de The Outlast Trials e aventura mágica",
+    "link": "https://canaltech.com.br/games/xbox-game-pass-abre-dezembro-com-terror-de-the-outlast-trials-e-aventura-magica/",
+    "resumo": "XBOX Game Pass abre dezembro com terror de The Outlast Trials e aventura mágica O XBOX anunciou que The Outlast Trials ser&aacute; o carro-chefe do Game Pass nesta primeira quinzena de dezembro. Lan&ccedil;ado em 2024, o t&iacute;tulo de terror co-op testar&aacute; os instintos de sobreviv&ecirc;ncia de todos os…",
+    "data": "2026-11-27T15:56:00.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/7gzE_PrQ3a7agYXdYJ8jjyepW6g=/1200x675/smart/filters:format(webp):quality(85)/9f23690b-491b-4af8-9129-9f1fc66c95fd.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre",
+    "link": "https://canaltech.com.br/smartphone/preco-do-iphone-air-de-256-gb-desaba-em-oferta-do-mercado-livre/",
+    "resumo": "Preço do iPhone Air de 256 GB desaba em oferta do Mercado Livre Quem acompanha promo&ccedil;&otilde;es de celulares sabe que encontrar um iPhone com mais de 50% de desconto &eacute; raridade, mesmo na Black Friday. Pois o Apple iPhone Air de 256 GB acaba de atingir o menor pre&ccedil;o hist&oacute;rico registrado pelo…",
+    "data": "2026-11-27T15:53:34.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/IvZONm7l_GrrusFyVKA5j6araV4=/1200x675/smart/filters:format(webp):quality(85)/8decc58b-e0a1-49e2-9c65-11481c6d1e92.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Áudio: Projeto incentiva compra de alimentos da agricultura familiar para merenda",
+    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-incentiva-compra-de-alimentos-da-agricultura-familiar-para-merenda",
+    "resumo": "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou na quarta-feira (25) uma proposta que incentiva os municípios a comprarem alimentos provenientes da agricultura familiar, para que sejam destinados à merenda escolar. O projeto (PL 1/2024) segue para análise na Comissão de Educação e Cultura do Senado…",
+    "data": "2026-11-27T15:53:31.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Comissão debate financiamento do Programa Nacional de Infraestrutura Escolar",
+    "link": "https://www.camara.leg.br/noticias/1323188-comissao-debate-financiamento-do-programa-nacional-de-infraestrutura-escolar",
+    "resumo": "Kayo Magalhães / Câmara dos Deputados O presidente do colegiado, Benes Leocádio, pediu a audiência A Comissão de Educação da Câmara dos Deputados realiza audiência pública na terça-feira (1º) para discutir o financiamento do Programa Nacional de Infraestrutura Escolar (PNIE). O debate atende a pedido do presidente do…",
+    "data": "2026-11-27T15:53:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20260318131413047-768x473.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Comissão debate perseguição a ativistas pró-Palestina; participe",
+    "link": "https://www.camara.leg.br/noticias/1323179-comissao-debate-perseguicao-a-ativistas-pro-palestina-participe",
+    "resumo": "O evento será interativo; envie suas perguntas",
+    "data": "2026-11-27T15:50:00.000Z",
+    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/palestina-768x514.jpg",
+    "fonteId": "camara",
+    "fonte": "Agência Câmara",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-prorroga-por-60-dias-investigacao-da-pf-sobre-filme-dark-horse",
+    "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, concedeu mais 60 dias de prazo à Polícia Federal (PF) para que conclua a investigação sobre a produção do filme Dark Horse , cinebiografia do ex-presidente Jair Bolsonaro. A prorrogação foi assinada na quinta-feira (26) e atende a pedido dos…",
+    "data": "2026-11-27T15:49:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-brasil-justica",
+    "fonte": "Agência Brasil",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Caicó (RN): IBGE destaca alcance global e oportunidades da CONFEST/CONFEGE 2026 no Seridó potiguar",
+    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbzJPQVAwQmxnTWxZM2VEc28xak5RUkVhT1ZqSDd0YWhUYUh0OTV0SWpLVnhYOXpHNmR6NG1oNGpveGdEUEVmbmxDMHdmZ1llTkp0ekZ0a1VMTkhTV1BtWUItQ0p1T3hRZnptdC1PVDV6T1ZKcjU4dmxnVDFDTEpIWUtwSUlKaEc5MkNQQ1NkeFMwY21LVS1ZREktZ1ZWSGNYZWNLUlMtWTRjSjNaX1dCSXJRamhSaVYwaS1mOXRUREdqMFVCNzlmekhyYWtXSTFUMzFUUXNBbHlBa2VyYUlSNmhLemRta1JtR2xKT2VlVWg0eXRIeWdBdXRkWFFaM1BNRUU0NWtCOHNIZ2ZpVXhTSjZHLTRLeXNKSXAxbHhkdGFVeXVh?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T15:49:00.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Áudio: Projeto permite que estados e municípios exijam programas de integridade em licitações",
+    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-permite-que-estados-e-municipios-exijam-programas-de-integridade-em-licitacoes",
+    "resumo": "O projeto de lei que permite que estados e municípios exijam programas de integridade em licitações de valor inferior ao dos contratos “de grande vulto” (PL 4.687/2023) avançou no Senado: o texto recebeu na quarta-feira (25) parecer favorável na Comissão de Constituição, Justiça e Cidadania e deve seguir para análise…",
+    "data": "2026-11-27T15:46:01.000Z",
+    "origem": "Senado Federal",
+    "imagemFeed": null,
+    "fonteId": "senado",
+    "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "iPhone 18 sofre novo atraso na produção e pode chegar com estoque limitado",
+    "link": "https://canaltech.com.br/smartphone/iphone-18-sofre-novo-atraso-na-producao-e-pode-chegar-com-estoque-limitado/",
+    "resumo": "iPhone 18 sofre novo atraso na produção e pode chegar com estoque limitado O iPhone 18 pode chegar &agrave;s lojas com estoque limitado caso a Apple n&atilde;o consiga acelerar sua produ&ccedil;&atilde;o nos pr&oacute;ximos meses. O modelo convencional e a vers&atilde;o 18e ainda n&atilde;o teriam iniciado a…",
+    "data": "2026-11-27T15:44:46.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/C-xmDtOG5D8J7tTh3a8-yBA6IlE=/1200x675/smart/filters:format(webp):quality(85)/b5df9b46-e6fc-4543-9629-8dde33addbb6.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "27.11.2026 (Niterói - RJ) Presidente Lula visita os estudantes da Universidade Federal Fluminense (UFF). 03",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/agenda-do-presidente/261127123905_rj-lula-dialogo-juventude-uff-2",
+    "resumo": "",
+    "data": "2026-11-27T15:44:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Agência - Detalhe de Mídia",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczgxMXdROXVvemozM1BxMWVsR3dJMlFWZlR0Tk9abmdOZWw4M3E4UlYtQ2s4U1Vweldhc0NJT18zSnVYdllIUHdfanZkU0hVbFF1Mlp5NlF3MzlMam1FbmVpOGFzbTBtUUtOc0pfdy1jVnhlYlJpdzZETnRrU0xPSFBKX3BLQ1p0UDZsMElJblQyV2t2TVlpaDVSTzlmT19ESVg4?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T15:36:55.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Áudio - William Kratochwill, analista da pesquisa (PNAD C Ago-Set-Out 2026)",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOU41OUEzUkV3QzJEc1dzSnc2ajE4ZWpkSWdsMHBHNlhQMEF2SGFKTkd6T1QyZVl0S3VlRTlpNnhtRm53S2lpNE9BUFFmUkdDMDI1YVQ3d3VKYjIyREdRYXVxWkpBbWF4bDY3TWgtTENCelprc0ZFcVZnT0cxd3FIVTA1YU5ESmZmd1hlNW5xbjNMd01fNlJWMUljcHZrbE52dnkw?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T15:36:54.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "KaBuM! derruba preço do Intel Core i5-14600KF: 14 núcleos por R$ 1.089 no PIX",
+    "link": "https://canaltech.com.br/hardware/kabum-derruba-preco-do-intel-core-i5-14600kf-14-nucleos-por-r-1089-no-pix/",
+    "resumo": "KaBuM! derruba preço do Intel Core i5-14600KF: 14 núcleos por R$ 1.089 no PIX Se o seu PC anda engasgando nos jogos mais pesados ou sofrendo na hora de abrir v&aacute;rios programas ao mesmo tempo, chegou a hora de resolver isso economizando quase R$ 440 . O Intel Core i5-14600KF est&aacute; com pre&ccedil;o no…",
+    "data": "2026-11-27T15:33:22.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/1Cu_EXTZqeP8-WtZhA6ZxvZMjQE=/1200x675/smart/filters:format(webp):quality(85)/72b19cf4-41bf-419c-aba2-2a0070d0882d.jpg",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "27.11.2026 (Niterói - RJ) Presidente Lula visita os estudantes da Universidade Federal Fluminense (UFF). 02",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/agenda-do-presidente/261127122435_rj-lula-dialogo-juventude-uff-1",
+    "resumo": "",
+    "data": "2026-11-27T15:33:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Alckmin deve assumir novo Ministério da Segurança Pública no Lula 4, dizem fontes",
+    "link": "https://www.moneytimes.com.br/alckmin-deve-assumir-novo-ministerio-da-seguranca-publica-dizem-fontes-ccgg/",
+    "resumo": "O vice-presidente Geraldo Alckmin deverá ser o indicado pelo presidente Luiz Inácio Lula da Silva para assumir o recém-criado Ministério da Segurança Pública, disseram à Reuters duas fontes que acompanham as negociações. Alckmin, que chegou a ser cotado também para o Ministério da Fazenda, atende os requisitos que…",
+    "data": "2026-11-27T15:28:55.000Z",
+    "imagemFeed": null,
+    "fonteId": "moneytimes",
+    "fonte": "Money Times",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Brasil reduz trabalho infantil em 9,2% e alcança menor taxa da série histórica",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-trabalho-infantil-em-9-2-e-alcanca-menor-taxa-da-serie-historica",
+    "resumo": "Levantamento do MTE aponta queda de 150,8 mil casos em 2025; Bahia e Ceará lideram as reduções entre as unidades da Federação.",
+    "data": "2026-11-27T15:20:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Black Friday: placa-mãe ASUS B760M com Wi-Fi 6 atinge menor preço histórico",
+    "link": "https://canaltech.com.br/hardware/black-friday-placa-mae-asus-b760m-com-wi-fi-6-atinge-menor-preco-historico/",
+    "resumo": "Black Friday: placa-mãe ASUS B760M com Wi-Fi 6 atinge menor preço histórico Quem est&aacute; montando um PC gamer ou pretende atualizar o computador pode economizar mais de R$ 560 nesta Black Friday. A placa-m&atilde;e ASUS B760M-AYW WIFI II est&aacute; dispon&iacute;vel por R$ 689,99 no Pix na TerabyteShop. O valor…",
+    "data": "2026-11-27T15:18:39.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/3SzZJbvre6HWUx7fC9k1A7TKRLc=/1200x675/smart/filters:format(webp):quality(85)/93e2f903-cbea-4e87-9953-08098c85a71e.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Monitor gamer com desconto: preço do Samsung Odyssey G5 OLED 27\" despenca na Black Friday",
+    "link": "https://canaltech.com.br/hardware/monitor-gamer-com-desconto-preco-do-samsung-odyssey-g5-oled-27-despenca-na-black-friday/",
+    "resumo": "Monitor gamer com desconto: preço do Samsung Odyssey G5 OLED 27\" despenca na Black Friday Trocar um monitor comum por uma tela OLED costuma exigir um investimento alto, mas a Black Friday abriu uma brecha rara para fazer esse upgrade sem pagar caro. O Samsung Odyssey G5 27\" OLED QHD acaba de atingir um dos menores…",
+    "data": "2026-11-27T15:18:15.000Z",
+    "imagemFeed": "https://tl.ctcdn.com.br/onM2e0lFXkCvP8qOhLAE1rseiJw=/1200x675/smart/filters:format(webp):quality(85)/dc2fcab9-1a1f-4943-b058-38a431010919.png",
+    "fonteId": "canaltech",
+    "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "27.11.2026 (Niterói - RJ) Presidente Lula visita os estudantes da Universidade Federal Fluminense (UFF). 01",
+    "link": "https://agenciagov.ebc.com.br/distribuicao/agenda-do-presidente/261127120535_rj-lula-dialogo-juventude-uff",
+    "resumo": "",
+    "data": "2026-11-27T15:15:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "“Homem do diálogo”: Trabuco é elogiado por representantes da economia real",
     "link": "https://www.infomoney.com.br/business/homem-do-dialogo-trabuco-e-elogiado-por-representantes-da-economia-real/",
     "resumo": "Com carreira no setor financeiro, próximo ministro da Fazenda agradou representantes dos setores industriais e do comércio The post “Homem do diálogo”: Trabuco é elogiado por representantes da economia real appeared first on InfoMoney .",
@@ -152,7 +825,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Presidente Lula se reúne com juventude no Rio de Janeiro. Acompanhe",
+    "titulo": "Presidente Lula se reúne com juventude no Rio de Janeiro",
     "link": "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-se-reune-com-juventude-no-rio-de-janeiro-acompanhe",
     "resumo": "Lula tem encontro com representantes da juventude e do movimento estudantil, no Caminho Niemeyer, em Niterói",
     "data": "2026-11-27T14:53:00.000Z",
@@ -212,6 +885,16 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Governo Federal derruba mais de 86 mil sites e perfis de apostas ilegais",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-derruba-mais-de-86-mil-sites-e-perfis-de-apostas-ilegais",
+    "resumo": "Fiscalização mirou sites, redes sociais, aplicativos de mensagens e influenciadores digitais desde o início da vigência da MP que proíbe as bets no Brasil",
+    "data": "2026-11-27T14:47:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "Comissão debate aumento da violência sexual contra crianças e adolescentes",
     "link": "https://www.camara.leg.br/noticias/1323193-comissao-debate-aumento-da-violencia-sexual-contra-criancas-e-adolescentes",
     "resumo": "André Borges/Agência Brasília Estima-se que 500 mil crianças e adolescentes sofram violência sexual por ano no Brasil A comissão externa da Câmara dos Deputados sobre prevenção e enfrentamento da violência sexual infantojuvenil discute na terça-feira (1º) o aumento desse tipo de violência no Brasil. A audiência será…",
@@ -230,6 +913,26 @@
     "imagemFeed": null,
     "fonteId": "senado",
     "fonte": "Agência Senado",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Expectativa de vida no Brasil alcança 76,9 anos e bate recorde histórico",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/expectativa-de-vida-no-brasil-alcanca-76-9-anos-e-bate-recorde-historico",
+    "resumo": "Patamar registrado em 2025 representa aumento de 3,1 meses frente a 2024. Dados fazem parte das Tábuas Completas de Mortalidade para o Brasil divulgadas nesta sexta-feira (27) pelo IBGE",
+    "data": "2026-11-27T14:39:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Enem 2026: resultados dos pedidos de reaplicação estão disponíveis",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-resultados-dos-pedidos-de-reaplicacao-estao-disponiveis",
+    "resumo": "Participantes podem consultar o resultado da solicitação na Página do Participante. Provas serão reaplicadas nos dias 15 e 16 de dezembro",
+    "data": "2026-11-27T14:37:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
     "categoria": "oficial"
   },
   {
@@ -424,6 +1127,16 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Alunos e professores recebem medalhas da Olimpíada Brasileira de Astronomia e Astronáutica",
+    "link": "https://agenciagov.ebc.com.br/noticias/202611/alunos-e-professores-recebem-medalhas-da-olimpiada-brasileira-de-astronomia-e-astronautica-1",
+    "resumo": "Cerimônia ocorreu durante a 23ª Semana Nacional de Ciência e Tecnologia, que segue até domingo (29), em Brasília",
+    "data": "2026-11-27T13:55:00.000Z",
+    "imagemFeed": null,
+    "fonteId": "agencia-gov",
+    "fonte": "Agência Gov",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "Huawei Watch GT 7 Pro despenca de preço na Black Friday da Shopee",
     "link": "https://canaltech.com.br/smartwatch/huawei-watch-gt-7-pro-despenca-de-preco-na-black-friday-da-shopee/",
     "resumo": "Huawei Watch GT 7 Pro despenca de preço na Black Friday da Shopee Quem procura um smartwatch para acompanhar os treinos sem precisar se preocupar diariamente com a bateria tem uma boa oportunidade nesta Black Friday. O Huawei Watch GT 7 Pro est&aacute; dispon&iacute;vel por R$ 1.659,73 na Shopee , com pagamento via…",
@@ -431,6 +1144,16 @@
     "imagemFeed": "https://tl.ctcdn.com.br/gfap5WtTiJuy_YZLiN51oUyvgSk=/1200x675/smart/filters:format(webp):quality(85)/bc6c8bec-6247-41e2-9ffd-70d2fea3e23c.png",
     "fonteId": "canaltech",
     "fonte": "Canaltech",
+    "categoria": "imprensa"
+  },
+  {
+    "titulo": "Consórcio movimenta R$ 454 bilhões em 9 meses, e PAN mira quem quer planejar carro, casa e reforma",
+    "link": "https://exame.com/invest/btg-insights/consorcio-movimenta-r-454-bilhoes-em-9-meses-e-pan-mira-quem-quer-planejar-carro-casa-e-reforma/",
+    "resumo": "Consórcio PAN substitui juros de financiamento por taxa de administração e organiza objetivos em parcelas mensais",
+    "data": "2026-11-27T13:45:29.000Z",
+    "imagemFeed": "https://classic.exame.com/wp-content/uploads/2026/11/Imagem1.png",
+    "fonteId": "exame-invest",
+    "fonte": "Exame Invest",
     "categoria": "imprensa"
   },
   {
@@ -442,16 +1165,6 @@
     "fonteId": "canaltech",
     "fonte": "Canaltech",
     "categoria": "imprensa"
-  },
-  {
-    "titulo": "Brasil reduz trabalho infantil em 9,2% e alcança menor taxa da série histórica",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-trabalho-infantil-em-9-2-e-alcanca-menor-taxa-da-serie-historica",
-    "resumo": "Levantamento do MTE aponta queda de 150,8 mil casos em 2025; Bahia e Ceará lideram as reduções entre as unidades da Federação.",
-    "data": "2026-11-27T13:31:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
   },
   {
     "titulo": "Galaxy S28 já tem rumores: chip mais potente e câmera aprimorada; saiba tudo",
@@ -514,9 +1227,9 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Tesouro Direto suspende negociações após forte queda nas taxas",
+    "titulo": "Tesouro Direto retoma negociações com IPCA+ pagando até 7,35%",
     "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/27/tesouro-direto-taxas-caem-trabuco-fazenda.ghtml",
-    "resumo": "As taxas dos títulos do Tesouro Direto operam em forte queda nesta sexta-feira (27), na esteira da escolha do presidente do conselho do Bradesco, Luiz Carlos Trabuco, para assumir o Ministério da Fazenda. Com a forte oscilação dos papéis, por volta das 11h42, apenas o Tesouro Reserve e o Selic constavam nas…",
+    "resumo": "As taxas dos títulos do Tesouro Direto operam em queda nesta sexta-feira (27), na esteira da escolha do presidente do conselho do Bradesco, Luiz Carlos Trabuco, para assumir o Ministério da Fazenda, embora tenham aliviado a pressão sobre o recuo ao longo da manhã. Cotações por volta das 12h50: Tesouro Prefixado 2029:…",
     "data": "2026-11-27T13:08:05.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/k3XpzP7zMlY2WzWasvO_NqGTmRc=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2020/R/E/obOyDaQwCBvadzWDqstg/gettyimages-1017275652.jpg",
     "fonteId": "valor-investe",
@@ -598,6 +1311,17 @@
   {
     "titulo": "Famílias de maior renda recebem, em média, 34 vezes mais que as de menor renda",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMTRXaGN0UkpvV0pLV2hJVDFNMlE1aGdZOVRra2pvNzhvR0hPQVJlTzBXdDYySTBzRXk2SWtQSWU2TjdrMk5TUUxBcWFhaV82X2ptUzdGYnFtYUs3eHV3MXVZRkJlUzNoeGZZcnprcV9tTzM4UXBGUlQ4bVYxNW5MSFRnM3V6WThGQTBMX0JNVGZTOEt1bTk2RmlqR0xCck9oS2kyY2NVTk9uMjNCYzhsU2xqbl8xaXNPWTAyLXcxSkNBZTJSMld6V19WaGkzd253Z3d5bjAweDhZS29COXlJV2wwbkIyTl9QUzFwRnBaaUJiV084WDRNcXFseWRKeFQ2?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T13:00:00.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
+    "titulo": "Life expectancy at birth rises to 76.9 years in Brazil in 2025",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjdOeFRXb3JGWXpDbnpLajlGMmYyb2d1aFlucm1RQ2hEYXZ2Q1ZJRnNEb0puZERKaExJWGNMbU9ndEFrS0pFN3I1S0ZCU2ROdXRmd2RmbHVNYUt1N2NjWTZDV1pCY3hmcG5MLWx0RzhmTG1iWlN6bHVNZk9JNDVqLWVoNW9pVV8xS1dZR2tscXhmbWVLSG1feDFnU0dKX2prN3lJMWhNdjI?oc=5",
     "resumo": "",
     "data": "2026-11-27T13:00:00.000Z",
     "origem": "Agência de Notícias - IBGE",
@@ -749,6 +1473,17 @@
     "fonteId": "canaltech",
     "fonte": "Canaltech",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "- Anthropic",
+    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T12:23:28.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
+    "categoria": "empresa"
   },
   {
     "titulo": "Indústria nacional de telecomunicações terá R$ 184,5 milhões para inovação",
@@ -945,9 +1680,9 @@
     "categoria": "oficial"
   },
   {
-    "titulo": "Dólar hoje cai a R$ 5,58 e Ibovespa sobe com Trabuco na Fazenda",
+    "titulo": "'Sim' de Trabuco alimenta apetite por ações, mas tombo do dólar derruba Petrobras (PETR4) e Vale (VALE3)",
     "link": "https://valorinveste.globo.com/mercados/renda-variavel/bolsas-e-indices/noticia/2026/11/27/dolar-e-ibovespa-hoje-escolha-de-trabuco-para-fazenda-27-11-2026.ghtml",
-    "resumo": "Depois de o Ibovespa disparar 6,07% e registrar a maior alta diária desde o primeiro turno das eleições de 2026, quando o principal índice da bolsa brasileira subiu 7,70%, o dia é de nova euforia no mercado. O otimismo começou com a ventilação do nome de Luiz Carlos Trabuco, presidente do Conselho do Bradesco, para…",
+    "resumo": "A confirmação de Luiz Carlos Trabuco, presidente do Conselho do Bradesco, para chefiar o Ministério da Fazenda no governo Lula 4 trouxe euforia ao mercado brasileiro, fazendo o Ibovespa disparar pela manhã e a cotação de dólar derreter. No entanto, o tombo da moeda americana e do preço do petróleo no exterior…",
     "data": "2026-11-27T11:59:21.000Z",
     "imagemFeed": "https://s2-valorinveste.glbimg.com/Idkv8dWZgJFq9E-fGa4Zr1YPKqk=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2022/T/t/KK4CBLRIaTr4o7HeTfNQ/120522-20trabuco-20portinari-20029.jpg",
     "fonteId": "valor-investe",
@@ -1179,7 +1914,7 @@
     "categoria": "imprensa"
   },
   {
-    "titulo": "Ibovespa dispara e dólar cai abaixo de R$ 5,55: por que Trabuco na Fazenda agrada ao mercado?",
+    "titulo": "Petrobras e Vale derrubam ritmo do Ibovespa, enquanto dólar segue abaixo de R$ 5,56",
     "link": "https://exame.com/invest/mercados/ibovespa-hoje-27-11-2026/",
     "resumo": "Confirmação de Trabuco na Fazenda ajuda principal índice da B3; dólar cai e bancos lideram ganhos",
     "data": "2026-11-27T11:06:28.000Z",
@@ -1821,6 +2556,17 @@
     "fonteId": "exame-invest",
     "fonte": "Exame Invest",
     "categoria": "imprensa"
+  },
+  {
+    "titulo": "Co-Founders & Executives",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2o0MlBsWFhmdC1MV1pfa2c4QzEyYkdiM0owWWRvM2RvYkk4LW5QTUtXanRIMnpZU2NDTnF3S2l2cURIU21makt1LUtzOHBtSHJDLUVtRGM3b2RRcmJMcFNyOVhpOC1jX24xQlZPYVdsYWxtenNnTGw0SVh5UjdidnEwM1FaV0h0c3E1bEVSYXlVdw?oc=5",
+    "resumo": "",
+    "data": "2026-11-27T04:27:35.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
+    "categoria": "empresa"
   },
   {
     "titulo": "Black Friday com Selic a 13,75%: como não cair em ciladas e evitar dívidas",
@@ -2637,6 +3383,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Frear a IA por empregos? CEO da Anthropic acha que sim",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdEQ3aXJZTlBiQUlsSnlma2NURE9NeTN6b0k5X2pkWU8zekJIVW0wSU15WFF3c1N0U2U3SzFOZGZYVEZNNG0zLTNMOTdJMFhTUDhkUVhDYnNhVlAweFl5QWFkQ080OVBseXlKN01uRGlMWHV1aU5tbmoybDF2YkVNQmlvS2dsRV9WZm50VUU3THFLdw?oc=5",
+    "resumo": "",
+    "data": "2026-11-26T21:11:32.000Z",
+    "origem": "StartSe",
+    "imagemFeed": null,
+    "fonteId": "google-news-claude",
+    "fonte": "StartSe",
+    "categoria": "imprensa"
+  },
+  {
     "titulo": "AMD Ryzen 5 8500G com vídeo integrado por apenas R$ 712 no PIX do KaBuM!",
     "link": "https://canaltech.com.br/hardware/amd-ryzen-5-8500g-com-video-integrado-por-r-712-no-pix-do-kabum/",
     "resumo": "AMD Ryzen 5 8500G com vídeo integrado por apenas R$ 712 no PIX do KaBuM! Montar um PC moderno na plataforma AM5 sem precisar investir imediatamente em uma placa de v&iacute;deo dedicada ficou muito mais f&aacute;cil. O processador AMD Ryzen 5 8500G &eacute; uma das op&ccedil;&otilde;es mais inteligentes para quem quer…",
@@ -3284,17 +4041,6 @@
     "fonteId": "canaltech",
     "fonte": "Canaltech",
     "categoria": "imprensa"
-  },
-  {
-    "titulo": "- Anthropic",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
-    "resumo": "",
-    "data": "2026-11-26T19:15:10.000Z",
-    "origem": "Anthropic",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
   },
   {
     "titulo": "Comissão aprova carga horária mínima para Filosofia e Sociologia no ensino médio",
@@ -7017,17 +7763,6 @@
     "fonteId": "camara",
     "fonte": "Agência Câmara",
     "categoria": "oficial"
-  },
-  {
-    "titulo": "Co-Founders & Executives",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2o0MlBsWFhmdC1MV1pfa2c4QzEyYkdiM0owWWRvM2RvYkk4LW5QTUtXanRIMnpZU2NDTnF3S2l2cURIU21makt1LUtzOHBtSHJDLUVtRGM3b2RRcmJMcFNyOVhpOC1jX24xQlZPYVdsYWxtenNnTGw0SVh5UjdidnEwM1FaV0h0c3E1bEVSYXlVdw?oc=5",
-    "resumo": "",
-    "data": "2026-11-25T19:53:51.000Z",
-    "origem": "Anthropic",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
   },
   {
     "titulo": "Banco Master: Esperidião Amin questiona mudanças em relatórios da Polícia Federal",
@@ -15245,714 +15980,6 @@
     "imagemFeed": null,
     "fonteId": "agencia-brasil-justica",
     "fonte": "Agência Brasil",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Returning to the Neuron Basis for Interpretability, Part 1: Answering Three Objections",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51RURTZW9Mc2ZrRWI5bDFKYnpkeThPVFFKQ3hVamlUWUZ2akJBOVNEaTA0WjFPR2pRUEtNdEllSFBJRjhNXzRVbUxYNndSQW9SVnNpN0xMNXVIRkVfNGRkZGs2OC1TRlI1?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T18:14:08.000Z",
-    "origem": "Anthropic Alignment Science Blog",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Returning to the Neuron Basis for Interpretability, Part 2: Using Neurons For Safety Applications",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SEl5Nm1XTnFSUk1iaEtQYkNkT3F5Ump1TkR1Y1lRQ1c5TllybllYUVhzQ2hOR3cxbzBSWUgwbC1BOFE1VjZiaDc0Rjd0S21NWFR0R3Y4MGg3UW14YzhHc1JrYUhRdm9kOUhnQVNnWDE?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T18:14:08.000Z",
-    "origem": "Anthropic Alignment Science blog",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Sem Censura, da TV Brasil, recebe ator Bruno Gagliasso, jornalista Leão Lobo e cantora Flor Gil",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/sem-censura-da-tv-brasil-recebe-ator-bruno-gagliasso-jornalista-leao-lobo-e-cantora-flor-gil",
-    "resumo": "Convidados participam do bate-papo comandado pela apresentadora Cissa Guimarães na emissora pública",
-    "data": "2026-11-23T18:13:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Ministério da Fazenda prevê crescimento menor e mais inflação em 2026 e 2027",
-    "link": "https://www.infomoney.com.br/economia/ministerio-da-fazenda-preve-crescimento-menor-e-mais-inflacao-em-2026-e-2027/",
-    "resumo": "Revisão para 2027 \"reflete juros e custo do crédito elevados por mais tempo, a menor contribuição da agropecuária e o menor carrego estatístico\" The post Ministério da Fazenda prevê crescimento menor e mais inflação em 2026 e 2027 appeared first on InfoMoney .",
-    "data": "2026-11-23T18:12:21.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/10/inflacion12.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "MBRF (MRBF3) faz parceria com McDonald’s para “lanche natalino” com chester",
-    "link": "https://www.infomoney.com.br/business/mbrf-mrbf3-faz-parceria-com-mcdonalds-para-lanche-natalino-com-chester/",
-    "resumo": "Novidade será lançada em 8 de dezembro e seguirá disponível nas lojas até o Natal The post MBRF (MRBF3) faz parceria com McDonald’s para “lanche natalino” com chester appeared first on InfoMoney .",
-    "data": "2026-11-23T18:12:16.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/mchester.png?fit=300%2C162&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Anthropic lança sistema de controle de dados para clientes corporativos",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWUxOTdRZm41alRpSFB3Y0RKYW9vcERMLTJYTU1Ma1hKM1kyOU0zQlEwMzZOcFBvTEU5MVpnajkxUFhzeThvZWJSY2k4UFhIaDhwUTNuVE95aVNHR1pTOGhVNmNDMnJpcXc1NFM3MEEtSENleW5NMjhQSkxrNHozMGg4RFozMEliYzk2bFB4SzhWck8xQ0V2QlczSWcxS3FrYjVDekRvSGsxQmRzOXdWVnl3OHdZWVBoSzB0VDMtZFM4R29jWnc?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T18:12:00.000Z",
-    "origem": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Petrobras divulga hoje plano bilionário: o que investidores devem observar para PETR4",
-    "link": "https://www.infomoney.com.br/mercados/petrobras-divulga-hoje-plano-bilionario-o-que-investidores-devem-observar-para-petr4/",
-    "resumo": "A questão sobre se o aumento dos gastos será acompanhado por retorno suficiente aos acionistas é destaque após a apresentação do plano The post Petrobras divulga hoje plano bilionário: o que investidores devem observar para PETR4 appeared first on InfoMoney .",
-    "data": "2026-11-23T18:10:00.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/04/FPSO-Maria-Quiteria-6.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Hipótese de Reimann: O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51N1Y4aFZLVi1RTTlsaU5vMU1ReF9maVd1YzUydTVTUF9DUFhJRDVILXlsbnFaMGFWemh2SDZvYzljX2tpN2NnenVIa25GOGhDejNLZ3FxM3ZuXzhGR0FiYUNCSdIBaEFVX3lxTE1UWXNmd3NHd0JZZzA3MmthVDJkeXdIeG01QVQwR3FOR3FiRFZaTnJWTkd3X1ZxYmlUZDlXb0FLRDlIUkU1bUE0ZGh6M3hrbXNnSk1WZW5WWmR0VWx4TGEwN2xMMHphZzlK?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T18:06:05.000Z",
-    "origem": "BBC",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "BBC",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Alta da Nvidia impulsiona Nasdaq e ações de rivais de chips",
-    "link": "https://olhardigital.com.br/2026/11/23/pro/alta-da-nvidia-impulsiona-nasdaq-e-acoes-de-rivais-de-chips/",
-    "resumo": "Valorização impulsiona Nasdaq e fabricantes de chips após queda de sexta ligada a relatos sobre investigação da SEC e à saída anterior de Huang da empresa O post Alta da Nvidia impulsiona Nasdaq e ações de rivais de chips apareceu primeiro em Olhar Digital .",
-    "data": "2026-11-23T18:05:40.000Z",
-    "imagemFeed": "https://olhardigital.com.br/wp-content/uploads/2026/11/jensen_huang_2-2-1-1024x682.jpg",
-    "fonteId": "olhar-digital-ia",
-    "fonte": "Olhar Digital",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Uma empresa bem-sucedida erra ao confiar demais na própria fórmula: CEO do Itaú revela o que aprendeu sobre liderança",
-    "link": "https://www.seudinheiro.com/2026/carreiras/uma-empresa-bem-sucedida-erra-ao-confiar-demais-na-propria-formula-ceo-do-itau-revela-o-que-aprendeu-sobre-lideranca-miql/",
-    "resumo": "No Itaú, Milton Maluhy renovou toda a cúpula do banco e aposta em uma nova cultura de gestão, com menos hierarquia, mais autonomia e preparação de sucessores The post Uma empresa bem-sucedida erra ao confiar demais na própria fórmula: CEO do Itaú revela o que aprendeu sobre liderança appeared first on Seu Dinheiro .",
-    "data": "2026-11-23T18:03:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Star Wars original ganha relançamento inédito em IMAX 70mm; veja data de estreia",
-    "link": "https://canaltech.com.br/entretenimento/star-wars-original-ganha-relancamento-inedito-em-imax-70mm-veja-data-de-estreia/",
-    "resumo": "Star Wars original ganha relançamento inédito em IMAX 70mm; veja data de estreia 2027 ser&aacute; um ano especial para os f&atilde;s de Star Wars : o filme original da franquia, Star Wars: Epis&oacute;dio IV &ndash; Uma Nova Esperan&ccedil;a (1997), vai voltar aos cinemas para celebrar 50 anos . O retorno promete ser…",
-    "data": "2026-11-23T18:02:00.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/8qDd3RPOEjzGgEAkDBIbjqI3trA=/1200x675/smart/filters:format(webp):quality(85)/d09c2703-fde1-4055-9134-bdfb35222873.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dona de Fiat e Jeep quase triplica venda de peças usadas em \"desmanche oficial\"",
-    "link": "https://canaltech.com.br/carros/dona-de-fiat-e-jeep-quase-triplica-venda-de-pecas-usadas-em-desmanche-oficial/",
-    "resumo": "Dona de Fiat e Jeep quase triplica venda de peças usadas em \"desmanche oficial\" Voc&ecirc; viu aqui no CT Auto que a Stellantis inaugurou no ano passado a Circular Autope&ccedil;as, seu primeiro Centro de Desmontagem Veicular da Am&eacute;rica Latina. Agora, com mais de um ano de atividades, o grupo registrou alta de…",
-    "data": "2026-11-23T18:00:07.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/7flrTENCVTazw761qPlkwC-RICY=/1200x675/smart/filters:format(webp):quality(85)/da428da9-a2bc-46af-8f30-0155f1f46fab.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Apple deve focar no lançamento de produtos acessíveis no começo de 2027",
-    "link": "https://canaltech.com.br/smartphone/apple-deve-focar-no-lancamento-de-produtos-acessiveis-no-comeco-de-2027/",
-    "resumo": "Apple deve focar no lançamento de produtos acessíveis no começo de 2027 A Apple deve come&ccedil;ar 2027 com foco no lan&ccedil;amento de produtos mais acess&iacute;veis. Segundo o jornalista Mark Gurman, da Bloomberg, a empresa prepara a chegada do iPhone 18e, de um novo iPad b&aacute;sico e da segunda…",
-    "data": "2026-11-23T18:00:02.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/bVQKu9WxVavTKihCr8r7FIBQJgg=/1200x675/smart/filters:format(webp):quality(85)/b0b93ffa-de28-4c49-a1fd-f15717f9e893.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Lei libera R$ 4,8 mi extras para tribunais e indenização a servidor de área de fronteira",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/lei-libera-r-4-8-mi-extras-para-tribunais-e-indenizacao-a-servidor-de-area-de-fronteira",
-    "resumo": "A Lei 15.548, publicada no Diário Oficial da União desta segunda-feira (23), abre crédito especial de R$ 4,8 milhões para os Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, para a Agência Brasileira de Inteligência (Abin) e para as Justiças Federal e do Trabalho. A norma teve origem em projeto de lei do…",
-    "data": "2026-11-23T17:57:22.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Sobe para R$ 8 milhões verba federal para socorro a Tupanciretã (RS)",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/sobe-para-r-8-milhoes-verba-federal-para-socorro-a-tupancireta-rs",
-    "resumo": "Portaria acrescenta mais R$ 3,8 milhões para limpeza urbana e compra de telhas",
-    "data": "2026-11-23T17:53:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Como MBRF pretende entregar o “maior Natal do mundo” em 2026?",
-    "link": "https://www.infomoney.com.br/mercados/como-mbrf-pretende-entregar-o-maior-natal-do-mundo-em-2026/",
-    "resumo": "Neste ano, a execução está mais de um mês na frente do histórico da companhia The post Como MBRF pretende entregar o “maior Natal do mundo” em 2026? appeared first on InfoMoney .",
-    "data": "2026-11-23T17:50:52.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/06/brf-marfrig-divulgacao-01.jpg?fit=300%2C193&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Natal mais magro? Para Molina, da MBRF (MBRF3), fim das bets pode trazer ‘surpresa muito boa’ para o varejo",
-    "link": "https://www.moneytimes.com.br/natal-mais-magro-para-molina-da-mbrf-fim-das-bets-pode-trazer-surpresa-muito-boa-para-o-varejo/",
-    "resumo": "Neste fim de ano, podemos ter “uma surpresa muito boa” e, possivelmente, “um dos melhores Natais” para o varejo e para a venda de proteínas, na avaliação de Marcos Molina, presidente do conselho de administração da MBRF (MBRF3), gigante dona de marcas como Sadia, Perdigão e Bassi. O motivo: a proibição das bets no…",
-    "data": "2026-11-23T17:50:29.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Apagões em São Paulo: o que falta para a Enel perder a concessão de energia?",
-    "link": "https://www.infomoney.com.br/brasil/apagoes-em-sao-paulo-o-que-falta-para-a-enel-perder-a-concessao-de-energia/",
-    "resumo": "Aneel formou maioria para recomendar o rompimento do contrato da concessionária de energia Enel após uma série de apagões The post Apagões em São Paulo: o que falta para a Enel perder a concessão de energia? appeared first on InfoMoney .",
-    "data": "2026-11-23T17:49:04.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/10/46_retro_2023_apagao_em_sao_paulo.webp?fit=300%2C179&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Singed Lab Desastres é apresentado a ministérios e órgãos em reunião no Palácio do Planalto",
-    "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOTnZaV2xwTkJVdzBnRXFfTU5CV1JTVVdhSFJYVkZqMGdrVXl0Z0p0TkNCaVFvZTZ3QTVCcDdUeFBEU2FNTWFVN25XMjhyLURTVVNrRnlEenFTcTJGcjBzQTdGTUxaOE02aUVwb3NKVTZKWm5sNmQ4V0stYWhzMmtIRVhFVHYxbkprRWc0X2ZoX01JeDhNeTFVTFBZZWp1SktlNW9WdERHWXpWRElMVy1vUUtKSlYybzN0RVZrbXBZYzdKRmFqWlJLcGlUSE1yZ1JhWk5KNDZoTGdTNXplX2JOYVFrTkJ1aWttQ1lPd2ZaVEI4eGhVcjFfWm42TUxKMXlkQU84eHFXZmptWDlwa1FrcU0yck53T2N5Q2tGSWdEOEdaUGtZaUQxVVZKNlVRMmFHanZmTDBodHk2UEVUOTBoVTJFQm5pNDhjWlJTeElvOHFTTERRNEV1dmZBQTNhbG1UeUhRTWs5bWlBMl94MzZzRkx3?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:48:00.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Funcionário da Anthropic afirma ter resolvido um dos maiores problemas da matemática com IA",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNkJDWG5IYWxWX2d4TzFYOURWcVJjVWU1NERja0FBazYzNjYzNjBsdXNLc002c3hnV29RMTJldlN6VWxrWkh4ajZ0dlZrbjRzb2VMNWRoWDlwUllRdGZQUkxMQVlaQzlyZ2J2dFBNSDRqQmQ5VGdtaHNoeG9sQnloV3VLQ2I2dGR1cHRpZXNKYW1ZX0ZPbjJiUFphaHZmRk16dWJZZ0l0UUpVbkFkM2ZjSV9adVg3V0FVTERJZVNKUzBvUzZxNnpuZmhZWUNVUFV5ZGZabFhHazhyV1hUbllVTWxJV2M4UVgwVElFTDNQTk5tSEFnby1ITmM4X3lfUU40ejdnNnNR?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:48:00.000Z",
-    "origem": "Terra",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Terra",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Singed Lab Desastres é apresentado a ministérios e órgãos de governo em reunião no Palácio do Planalto",
-    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPR0V0UHRkbUN1dlBpWGZTNk1nbTYwVy1QRWthSGdzNkV0SjBHZjJVc3IxZ3pyTm1yZ1U0TW5kWG1oS21hRGwwQVl2U3dvZzJUU0UyQUVNZ0JhTUthUUg3WG1Kc1lJdEdJUUdPYVNkZUM5YmtoSnBzeVdnbmRxMGhwODR6RGk1TlVhM1NaYmVaWDZsNjZFZ08za0hvU05yRWpFM3N5NVhHVWN6X091R0NYb2s5VDZUSUpobFlpaU1FN2FmSmoteWswR1lrWWRIb0VBNG9DbEZMYzh2b2VLZTNkZTc1eHk3LUhnLWRNS0VxNnV6Mkl5NVhuVHhPeF9lNXh5VjBYSGVzV3hXeFlzUlRDdEQ0YWxkNVphNEpKalAxd1d4ems?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:48:00.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "CVM suspende registro do BRB e instituição fica impedida de negociar ações na Bolsa",
-    "link": "https://www.infomoney.com.br/mercados/cvm-suspende-registro-do-brb-e-instituicao-fica-impedida-de-negociar-acoes-na-bolsa/",
-    "resumo": "Outras quatro companhias de capital aberto tiveram registros suspensos nesta segunda-feira (23) The post CVM suspende registro do BRB e instituição fica impedida de negociar ações na Bolsa appeared first on InfoMoney .",
-    "data": "2026-11-23T17:47:37.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/03/450774857.jpg?fit=300%2C225&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: CAE analisa programa de moradia de baixo impacto ambiental na Amazônia",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-analisa-programa-de-moradia-de-baixo-impacto-ambiental-na-amazonia",
-    "resumo": "A Comissão de Assuntos Econômicos (CAE) pode votar projeto que cria o Programa Nacional de Habitação Sustentável na Amazônia, com incentivos para a construção de casas com materiais regionais e de baixo impacto ambiental e para o uso de tecnologias sustentáveis, como a energia solar. De acordo com o autor do PL…",
-    "data": "2026-11-23T17:47:14.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Amazon e Google terão cerca de 29% das ações da Anthropic após IPO da startup",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLU1ZbmNPVmxTTXZfYUY4RGEydEpIendKTElzYXNVOGpqNzBSSHJUaGp6UVh3RmlpVWRkQlpiNnFpZy12dWF2eEV0SjRTUU1XMWhkS2lxbjAxOGhnMElpbkpPT0c4SUpsNVhCaEZRcGUyeEp1NFVhd01JT0lwOUZGRzVQSm9lWk5mR2Y5Ym1RaVBvNmN3a3JVdHh1S2ZCRE5LRVcyYUpyeDN1a1ZwU0RWN0NMeDVJNnlKV0tudUFpMEtTMzMzeURzQUhRaw?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:45:19.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "AGU se manifesta contra liminar de Dino sobre fim da escala 6×1",
-    "link": "https://www.infomoney.com.br/politica/agu-se-manifesta-contra-liminar-de-dino-sobre-fim-da-escala-6x1/",
-    "resumo": "Para a AGU, o fim das travas temporais prejudica a proteção da saúde, da segurança e da recuperação física e mental dos trabalhadores The post AGU se manifesta contra liminar de Dino sobre fim da escala 6×1 appeared first on InfoMoney .",
-    "data": "2026-11-23T17:43:33.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/01/agu.jpg?fit=300%2C165&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Câmbio reforça tendência de queda de preços de commodities, diz StoneX",
-    "link": "https://www.infomoney.com.br/economia/cambio-reforca-tendencia-de-queda-de-precos-de-commodities-diz-stonex/",
-    "resumo": "Para a consultoria, o câmbio brasileiro não foi o principal vetor de preços, mas influenciou parcialmente um recuo dos preços globais The post Câmbio reforça tendência de queda de preços de commodities, diz StoneX appeared first on InfoMoney .",
-    "data": "2026-11-23T17:42:43.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Soja_4eb83f.jpg?fit=300%2C200&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Morgan Stanley mantém visão negativa para ações brasileiras e cobra solução doméstica",
-    "link": "https://www.infomoney.com.br/mercados/morgan-stanley-mantem-visao-negativa-para-acoes-brasileiras-e-cobra-solucao-domestica/",
-    "resumo": "Banco vê semelhanças com 2003, mas afirma que os desafios atuais estão concentrados na dívida interna, no risco fiscal e na saída de recursos do mercado acionário The post Morgan Stanley mantém visão negativa para ações brasileiras e cobra solução doméstica appeared first on InfoMoney .",
-    "data": "2026-11-23T17:40:43.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ChatGPT-Image-14-de-set.-de-2026-19_09_19.jpg?fit=300%2C169&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "‘Botão de desligar’ é caminho para segurança da inteligência artificial, diz presidente da AWS",
-    "link": "https://www.moneytimes.com.br/presidente-da-aws-diz-que-engenharia-e-caminho-para-seguranca-da-ia-rens/",
-    "resumo": "O caminho para uma inteligência artificial mais segura não é um “botão de desligamento” e sim construir uma ratoeira melhor. Essa é a mensagem de Matt Garman, presidente-executivo da AWS em um manifesto de 1.300 palavras publicado nesta segunda-feira (23). “Aprendemos que a confiança não se constrói fazendo promessas…",
-    "data": "2026-11-23T17:38:55.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Não há Nvidia sem Jensen Huang e pessimismo com IA pode estar perto do fim, diz gestor",
-    "link": "https://exame.com/invest/mercados/nao-ha-nvidia-sem-jensen-huang-e-pessimismo-com-ia-pode-estar-perto-do-fim-diz-gestor/",
-    "resumo": "Thiago Kapulskis, global tech portfolio manager da São Pedro Capital, avalia que a volta do fundador reduz riscos para a execução da estratégia da fabricante de chips, mas não elimina as dúvidas sobre o ciclo da IA",
-    "data": "2026-11-23T17:38:37.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "YouTube testa 7 novos ícones no Android com direito a TV retrô e logo clássico",
-    "link": "https://canaltech.com.br/apps/youtube-testa-7-novos-icones-no-android-com-direito-a-tv-retro-e-logo-classico/",
-    "resumo": "YouTube testa 7 novos ícones no Android com direito a TV retrô e logo clássico O YouTube desenvolve uma op&ccedil;&atilde;o para trocar o &iacute;cone do aplicativo no Android. De acordo com o site Android Authority, j&aacute; existem sete alternativas diferentes, incluindo o logo original da plataforma , de 2006, uma…",
-    "data": "2026-11-23T17:37:13.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/JTw9x_tVD_FJjxDIqHDbew5fp0c=/1200x675/smart/filters:format(webp):quality(85)/c7c2a552-0394-4014-83d3-e44faabc4778.jpeg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Por que o ajuste fiscal virou “Plano Moretti” e o que isso revela sobre Lula 4",
-    "link": "https://www.infomoney.com.br/politica/por-que-o-ajuste-fiscal-virou-plano-moretti-e-o-que-isso-revela-sobre-lula-4/",
-    "resumo": "Protagonismo do ministro do Planejamento nas negociações, distância de Durigan e apoio de Alckmin colocam disputa pela Fazenda em evidência The post Por que o ajuste fiscal virou “Plano Moretti” e o que isso revela sobre Lula 4 appeared first on InfoMoney .",
-    "data": "2026-11-23T17:34:22.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/HKWJR6NF3BIW5BTPAD2MJM5KCI.avif?resize=300,200",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dividendos de 11% e desconto na bolsa: por que este fundo imobiliário é compra para o BTG",
-    "link": "https://www.moneytimes.com.br/dividendos-de-11-e-desconto-na-bolsa-fundo-imobiliario-recebe-recomendacao-de-compra-do-btg-veja-preco-alvo-igdl/",
-    "resumo": "O fundo imobiliário Patria Malls (PMLL11), do segmento de shopping centers, entrou na cobertura do BTG Pactual com recomendação de compra e preço-alvo de R$ 112 para as cotas, o que representa potencial de alta (upside) de 16% frente ao valor atual, de R$ 96. Em relatório assinado pelo analista Caio Nabuco de Araujo,…",
-    "data": "2026-11-23T17:34:11.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "A 15 dias do evento, IBGE prorroga inscrições da conferência em Natal, de 08 a 10/12",
-    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNLVhQRng0UW01QkNRRWZHLWQ1ZHBjNmFkc1ZDX1pSRDRMTVl6N2E3TlZ6Qk5NR1NkbHVNY1dvdFZPdmxVUEJ6LUtPd2RiVHVJQlpyTVB4cDZoOGhqVXRqcDdBZGltTk5lbWE0eVBCRlNMdkRKTU9nMllsNTNOTHMxMTFyNzhpNnQ5SDVIM1Fra1JwN3RaMTdZV2lraXlqVkd6YnVVNzQyQ0ItTnBBaV8yUDBEUzNEQlhFblM5NFZxWFZaYldqU1hPcW5kdTRLXzdlaFNXcFZNbTR0VXVYQW9MVGwteFR2VF9kMEhTdGdYV1lheTVXay0yU0hxX05pQzNGRXNLT2xNeTM?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:34:00.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "With 15 days to go before the event, the IBGE extends the registration period for the conference in Natal, taking place from December 8 to 10",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMUc3ZzBiRWVIVHhWRE11VE5XOHVIY1J2MmdnVmRKRmJDclRHZ3FReEkxTTBGdy1ZNnI5S21rWmtkRFVsRTRCcmZUSGtZc1FLbUxqaG9JZkJWUUZ5UG5McGdaZmNyRXNFQWhxT3dHQ2x2VEJ4YmE5TnhzZkpEejQ3V0hMWXhMSVZfYW1SeWNhMFpuWmlVendOb0pxdWZzQVJLN0c3N1htYnFGZDJEdXpaeTZfT3U1ZXVKd3JMemN1YzEtMmZCYml0Smtxd2ZZSUJTVy1SMDFVNkIwaWZnRU1WakFlcllQYXNhMDVXaFZZalY2eDBjeU1v?oc=5",
-    "resumo": "",
-    "data": "2026-11-23T17:34:00.000Z",
-    "origem": "Agência de Notícias - IBGE",
-    "imagemFeed": null,
-    "fonteId": "ibge-google",
-    "fonte": "IBGE",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Brasil estará em situação melhor em dois ou três anos, diz Roberto Setubal, do Itaú",
-    "link": "https://valorinveste.globo.com/mercados/noticia/2026/11/23/brasil-estara-em-situacao-melhor-em-dois-ou-tres-anos-diz-roberto-setubal-do-itau.ghtml",
-    "resumo": "O copresidente do conselho de administração do Itaú Unibanco, Roberto Setubal, acredita que a economia brasileira estará em uma situação melhor nos próximos dois ou três anos, apesar das dificuldades atuais. Durante o Itaú BBA Macrovision 2026, o executivo afirmou que mantém uma postura cuidadosa no curto prazo, mas…",
-    "data": "2026-11-23T17:25:22.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/6p9EP48lLQpyb4aCC4d3_P_BgoY=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/y/S/pK616jSwC7vzH0rdPzwg/roberto-setubal.avif",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Agenda de Dividendos: Petrobras (PETR4) e Porto Seguro (PSSA3) remuneram o investidor nesta semana",
-    "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/acoes/agenda-de-dividendos-petrobras-petr4-e-porto-seguro-pssa3-remuneram-o-investidor-nesta-semana/",
-    "resumo": "Valor dos proventos chega a R$ 1,13 por ação; veja lista completa de pagadoras",
-    "data": "2026-11-23T17:17:22.000Z",
-    "imagemFeed": "https://cdn.borainvestir.b3.com.br/2022/10/24154632/decimo-terceiro-como-rentabilizar.jpeg",
-    "fonteId": "b3",
-    "fonte": "B3 Bora Investir",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Receita Federal apreende mais de 700 ampolas de medicamentos emagrecedores em motocicleta na Aduana da Ponte da Amizade",
-    "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-apreende-mais-de-700-ampolas-de-medicamentos-emagrecedores-em-motocicleta-na-aduana-da-ponte-da-amizade",
-    "resumo": "Motorista brasileiro foi detido com 720 ampolas de medicamento emagrecedor de comercialização proibida no Brasil.",
-    "data": "2026-11-23T17:17:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "receita",
-    "fonte": "Receita Federal",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Vazou: dobrável da Motorola vai ter \"tela larga\" e bateria de 5.000 mAh",
-    "link": "https://canaltech.com.br/smartphone/vazou-dobravel-da-motorola-vai-ter-tela-larga-e-bateria-de-5000-mah/",
-    "resumo": "Vazou: dobrável da Motorola vai ter \"tela larga\" e bateria de 5.000 mAh A Motorola prepara um novo celular dobr&aacute;vel com um formato diferente do tradicional. O Razr Flex deve apostar em uma tela mais larga, bateria de 5.000 mAh e carregamento sem fio. O aparelho recebeu uma nova certifica&ccedil;&atilde;o que…",
-    "data": "2026-11-23T17:09:01.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/er2hgvKTHtLMbG4w2LQvO4BjwCs=/1200x675/smart/filters:format(webp):quality(85)/d94da7ea-9134-4830-914b-73f21124ed32.png",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Áudio: Debate aponta dificuldade no acesso a tratamento para fibrose pulmonar",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-aponta-dificuldade-no-acesso-a-tratamento-para-fibrose-pulmonar",
-    "resumo": "A fibrose pulmonar — doença crônica que, entre outras características, causa dificuldades respiratórias — foi tema da audiência pública promovida pelo Senado nesta segunda-feira (23). A dificuldade de acesso ao tratamento foi um dos assuntos discutidos durante a reunião. Ouça o áudio.",
-    "data": "2026-11-23T17:05:33.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Fibrose pulmonar: desafios vão do diagnóstico à qualidade de vida",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/fibrose-pulmonar-desafios-vao-do-diagnostico-a-qualidade-de-vida",
-    "resumo": "Pessoas com fibrose pulmonar precisam de diagnóstico mais rápido, acesso igualitário ao tratamento pelo Sistema Único de Saúde (SUS) em todo o país e recursos que contribuam para a qualidade de vida. Essas foram algumas das demandas apresentadas em audiência pública conjunta das Comissões de Assuntos Sociais (CAS) e…",
-    "data": "2026-11-23T17:05:10.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Mercado vive dias de incerteza, mas Galípolo vê uma vantagem para o BC: o tempo",
-    "link": "https://www.seudinheiro.com/2026/bolsa-dolar/mercado-vive-dias-de-incerteza-mas-galipolo-ve-uma-vantagem-para-o-bc-tempo-jcav/",
-    "resumo": "Em meio à volatilidade dos mercados presidente do BC afirma que postura conservadora adotada anteriormente permite ganhar tempo The post Mercado vive dias de incerteza, mas Galípolo vê uma vantagem para o BC: o tempo appeared first on Seu Dinheiro .",
-    "data": "2026-11-23T17:03:35.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "‘Resultado muito positivo’, diz Michelle sobre exame de Bolsonaro",
-    "link": "https://www.moneytimes.com.br/resultado-muito-positivo-diz-michelle-sobre-exame-de-bolsonaro-lmrs/",
-    "resumo": "A ex-primeira-dama e senadora eleita, Michelle Bolsonaro (PL-DF), informou, em publicação nas redes sociais, que o resultado do exame de endoscopia feito pelo ex-presidente Jair Bolsonaro foi “muito positivo”. Michelle afirmou que as notícias são boas e agradeceu pelas orações. “Um dia de cada vez, com muita fé,…",
-    "data": "2026-11-23T17:00:12.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "A more tailored Google Search that’s uniquely yours",
-    "link": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-    "resumo": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
-    "data": "2026-11-23T17:00:00.000Z",
-    "imagemFeed": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_pContext_Drive_1118.max-600x600.format-webp.webp",
-    "fonteId": "google-ai",
-    "fonte": "Google (blog oficial)",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Anvisa aprova novo medicamento Hertuzo para tratamento de câncer de mama",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/anvisa-aprova-novo-medicamento-para-tratamento-de-cancer-de-mama",
-    "resumo": "Também foi autorizada ampliação do uso de outro produto para tratar câncer de bexiga",
-    "data": "2026-11-23T17:00:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Finding faster quantum algorithms with agents and formal verification",
-    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-    "resumo": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-    "data": "2026-11-23T16:59:40.000Z",
-    "imagemFeed": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo",
-    "fonteId": "deepmind",
-    "fonte": "Google DeepMind",
-    "categoria": "empresa"
-  },
-  {
-    "titulo": "Força Nacional recebe terceira lancha blindada para policiamento na Amazônia",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-recebe-lancha-blindada-em-macapa-ap-para-reforcar-o-policiamento-na-amazonia",
-    "resumo": "Adquirida com recursos do Fundo Nacional de Segurança Pública, a embarcação vai ampliar o combate ao crime organizado no Amazonas, no Amapá e no Pará",
-    "data": "2026-11-23T16:55:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Áudio: Política de gestão de risco de desastres está em análise na CMA",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/politica-de-gestao-de-risco-de-desastres-esta-em-analise-na-cma",
-    "resumo": "Já aprovado na Comissão de Constituição e Justiça do Senado (CCJ), o projeto de lei que cria a Política Nacional de Gestão Integral de Risco de Desastres (PL 5.002/2023) aguarda análise e votação na Comissão de Meio Ambiente do Senado (CMA). Ouça o áudio.",
-    "data": "2026-11-23T16:52:02.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Bolsas da Europa fecham em forte alta com retorno Huang ao comando da Nvidia",
-    "link": "https://www.moneytimes.com.br/bolsas-europa-23-11-2026-davs/",
-    "resumo": "As bolsas europeias ganharam força após o anúncio do retorno de Jesen Huang ao cargo de CEO da Nvidia e fecharam o pregão desta segunda-feira (23) em forte alta. Além da empolgação com o setor de tecnologia, os principais índices da região foram alavancados pela queda nos preços do petróleo, apesar do avanço das…",
-    "data": "2026-11-23T16:50:34.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Dólar vai a R$ 6 e Ibovespa cai enquanto Nvidia e outras empresas de chips disparam; veja o que impacta o mercado hoje (23)",
-    "link": "https://www.moneytimes.com.br/dolar-vai-a-r-6-e-ibovespa-cai-enquanto-nvidia-e-outras-semicondutoras-disparam-mlem/",
-    "resumo": "O mercado brasileiro começou a semana na ponta negativa. Nesta segunda-feira (23), o dólar à vista atingiu a marca de R$ 6,00, enquanto o Ibovespa recua em meio às discussões sobre o pacote de ajuste fiscal e a divulgação Focus que, mais uma vez, colocou a inflação acima da meta do Banco Central. O cenário […]",
-    "data": "2026-11-23T16:36:47.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "BC cancela licença de fintech alvo de operação por lavagem de R$ 1 bi para bets ilegais",
-    "link": "https://valorinveste.globo.com/objetivo/de-olho-no-mercado/noticia/2026/11/23/bc-cancela-licenca-de-fintech-alvo-de-operacao-por-lavagem-de-r-1-bi-para-bets-ilegais.ghtml",
-    "resumo": "O Banco Central cancelou a licença da fintech A55 Sociedade de Crédito Direto, segundo decisão publicada nesta segunda-feira no Diário Oficial da União (DOU). De acordo com norma, o regulador poderá cancelar a licença quando constatar \"falta de prática habitual da atividade objeto da autorização\". No início do mês, a…",
-    "data": "2026-11-23T16:36:15.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/NtAczapvbKKrK-5ug1qGzWb_sqs=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2021/4/k/KitU3IQviB8ycNcSDHhg/gettyimages-1129235655.jpg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Apagões em São Paulo: o que falta para a Enel perder a concessão de energia?",
-    "link": "https://www.moneytimes.com.br/apagoes-em-sao-paulo-o-que-falta-para-a-enel-perder-a-concessao-de-energia-mlem/",
-    "resumo": "A Agência Nacional de Energia Elétrica (Aneel) formou maioria para recomendar o rompimento do contrato da concessionária de energia Enel após uma série de apagões em São Paulo, mas o julgamento foi paralisado por um pedido de vista do diretor-geral Sandoval de Araújo Feitosa Neto, que pediu mais tempo para analisar o…",
-    "data": "2026-11-23T16:32:49.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Debatedores pedem melhor atendimento a pacientes com doença rara do fígado",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/debatedores-pedem-melhor-atendimento-a-pacientes-com-doenca-rara-do-figado",
-    "resumo": "Pacientes e especialistas cobraram melhorias no diagnóstico e no tratamento da colangite biliar primária (CBP), doença autoimune rara que afeta o fígado e atinge principalmente mulheres. O tema foi discutido nesta segunda-feira (23), em audiência pública conjunta das comissões de Assuntos Sociais (CAS) e de Direitos…",
-    "data": "2026-11-23T16:31:03.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Trailer final de Vingadores: Doutor Destino anuncia fim de era no MCU; assista",
-    "link": "https://canaltech.com.br/entretenimento/trailer-final-de-vingadores-doutor-destino-anuncia-fim-de-era-no-mcu-assista/",
-    "resumo": "Trailer final de Vingadores: Doutor Destino anuncia fim de era no MCU; assista A semana come&ccedil;ou agitada para os f&atilde;s do MCU: o Marvel Studios divulgou o trailer final de Vingadores: Doutor Destino . A pr&eacute;via levou os entusiastas da franquia &agrave; loucura com uma escala &eacute;pica e algumas…",
-    "data": "2026-11-23T16:29:59.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/kha-pgY-XYAhzTeOl_e0JcTcOt4=/1200x675/smart/filters:format(webp):quality(85)/248b8302-d4f3-4c99-8c8d-0f44b42204f4.jpg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "AGU se manifesta contra liminar de Dino sobre fim da escala 6×1",
-    "link": "https://www.moneytimes.com.br/agu-se-manifesta-contra-liminar-de-dino-sobre-fim-da-escala-6x1-ccgg/",
-    "resumo": "A Advocacia-Geral da União (AGU) se manifestou contra a liminar do ministro do Supremo Tribunal Federal (STF) Flávio Dino que flexibilizou os prazos para folgas após o fim da escala 6×1. No documento enviado ao ministro nesta segunda-feira (23), o braço jurídico do governo sustenta que as questões tratadas pela…",
-    "data": "2026-11-23T16:14:33.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Juros altos não são o único problema do Brasil: CEO do Itaú aponta o que está travando a economia",
-    "link": "https://www.moneytimes.com.br/juros-altos-nao-sao-o-unico-problema-do-brasil-ceo-do-itau-aponta-o-que-esta-travando-a-economia-miql/",
-    "resumo": "O principal obstáculo ao crescimento sustentável do Brasil não está apenas na taxa Selic. Para Milton Maluhy Filho, CEO do Itaú Unibanco (ITUB4), o país precisa reduzir o custo de capital — e isso passa não só por juros menores, mas também por maior previsibilidade institucional, segurança jurídica e disciplina…",
-    "data": "2026-11-23T16:13:02.000Z",
-    "imagemFeed": null,
-    "fonteId": "moneytimes",
-    "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Petrobras (PETR4) cai com petróleo e plano de negócios no radar",
-    "link": "https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2026/11/23/petrobras-petr4-cai-com-petroleo-e-plano-de-negocios-no-radar.ghtml",
-    "resumo": "As ações da Petrobras (PETR3; PETR4) operam em queda na sessão desta segunda-feira (23) na B3, acompanhando a forte desvalorização do petróleo no mercado internacional e a cautela dos investidores antes da divulgação do plano estratégico da estatal para o período de 2027 a 2031, prevista para ocorrer após o fechamento…",
-    "data": "2026-11-23T16:03:10.000Z",
-    "imagemFeed": "https://s2-valorinveste.glbimg.com/Y9YQhbCd3yeyvC3zJ7xbXrOK2q0=/i.s3.glbimg.com/v1/AUTH_f035dd6fd91c438fa04ab718d608bbaa/internal_photos/bs/2026/V/D/5DzqbQRYqfvYz0xAmJOw/whatsappimage2026-06-12at180200.jpeg",
-    "fonteId": "valor-investe",
-    "fonte": "Valor Investe",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Jetour T0 estreia no Brasil em 2027 para enfrentar Jeep Compass e rivais",
-    "link": "https://canaltech.com.br/carros/jetour-t0-estreia-no-brasil-em-2027-para-enfrentar-jeep-compass-e-rivais/",
-    "resumo": "Jetour T0 estreia no Brasil em 2027 para enfrentar Jeep Compass e rivais H&aacute; mais um SUV a caminho de compor o portf&oacute;lio brasileiro. Em evento realizado no Rio de Janeiro na quarta (18), a Jetour confirmou que seu T0 chega ao mercado nacional no ano que vem . O novo modelo vai ser o primeiro 100%…",
-    "data": "2026-11-23T16:00:06.000Z",
-    "imagemFeed": "https://tl.ctcdn.com.br/_ufjS2QNVQCLQsotgGEECOdENFU=/1200x675/smart/filters:format(webp):quality(85)/d1014aec-5a82-42d0-a479-67c5b9a8b775.jpeg",
-    "fonteId": "canaltech",
-    "fonte": "Canaltech",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Fim da euforia? UBS BB vê ambiente mais difícil para a B3 (B3SA3) e rebaixa recomendação para a ação",
-    "link": "https://www.seudinheiro.com/2026/empresas/fim-da-euforia-ubs-bb-ve-ambiente-mais-dificil-para-a-b3-b3sa3-e-rebaixa-acao-lmrs/",
-    "resumo": "O UBS BB revisou a recomendação e o preço-alvo para a B3 (B3SA3), incorporando as perspectivas para 2027 The post Fim da euforia? UBS BB vê ambiente mais difícil para a B3 (B3SA3) e rebaixa recomendação para a ação appeared first on Seu Dinheiro .",
-    "data": "2026-11-23T15:59:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova projeto que proíbe destruir produtos não perecíveis que foram devolvidos ou não vendidos",
-    "link": "https://www.camara.leg.br/noticias/1321739-comissao-aprova-projeto-que-proibe-destruir-produtos-nao-pereciveis-que-foram-devolvidos-ou-nao-vendidos",
-    "resumo": "A proposta segue em análise na Câmara dos Deputados",
-    "data": "2026-11-23T15:58:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261118171523910-1-768x474.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Projeto cria regras para ONGs que recebem recursos do exterior e limita transferência de ativos estratégicos",
-    "link": "https://www.camara.leg.br/noticias/1321740-projeto-cria-regras-para-ongs-que-recebem-recursos-do-exterior-e-limita-transferencia-de-ativos-estrategicos",
-    "resumo": "Para virar lei, proposta precisa ser aprovada por deputados e senadores",
-    "data": "2026-11-23T15:55:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20260430143843205-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "50 Best reduz brasileiros em lista estendida com os melhores restaurantes da América Latina",
-    "link": "https://www.seudinheiro.com/2026/lifestyle/50-best-reduz-brasileiros-em-lista-estendida-com-os-melhores-restaurantes-da-america-latina-edvl/",
-    "resumo": "Relação inclui seis endereços brasileiros entre os 51º e 100º melhores restaurantes do continente; em 2025, Brasil tinha 10 nomes no ranking The post 50 Best reduz brasileiros em lista estendida com os melhores restaurantes da América Latina appeared first on Seu Dinheiro .",
-    "data": "2026-11-23T15:51:02.000Z",
-    "imagemFeed": "https://www.seudinheiro.com/uploads/2026/03/terminal-btg-pactual-alberto-landgraf-1024x683-1.jpg",
-    "fonteId": "seudinheiro",
-    "fonte": "Seu Dinheiro",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Por que o Ibovespa cai mesmo com as bolsas de Nova York em forte alta?",
-    "link": "https://exame.com/invest/mercados/por-que-o-ibovespa-cai-mesmo-com-as-bolsas-de-nova-york-em-forte-alta/",
-    "resumo": "Enquanto o retorno de Jensen Huang ao comando da Nvidia impulsiona Wall Street e anima investidores globais, cenário fiscal brasileiro e queda do petróleo pressionam a Bolsa local",
-    "data": "2026-11-23T15:50:12.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova criação de parques sustentáveis urbanos em áreas privadas",
-    "link": "https://www.camara.leg.br/noticias/1321725-comissao-aprova-criacao-de-parques-sustentaveis-urbanos-em-areas-privadas",
-    "resumo": "O projeto segue em análise na Câmara dos Deputados",
-    "data": "2026-11-23T15:48:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20260203191618474-1-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Áudio: Presidente da CDH defende protocolo nacional de busca de crianças desaparecidas",
-    "link": "https://www12.senado.leg.br/noticias/audios/2026/11/presidente-da-cdh-defende-protocolo-nacional-de-busca-de-criancas-desaparecidas",
-    "resumo": "A Comissão de Direitos Humanos (CDH) visitou o Rio de Janeiro na sexta-feira (19) e no sábado (20) para acompanhar as investigações sobre o desaparecimento do menino Edson Davi Silva Almeida na praia da Barra da Tijuca. Edson tinha 6 anos em 4 de janeiro de 2024 quando acompanhava o pai, que trabalhava em uma barraca.…",
-    "data": "2026-11-23T15:43:29.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "BRB tem registro suspenso pela CVM e ação fica impedida de ser negociada na Bolsa",
-    "link": "https://exame.com/invest/mercados/brb-tem-registro-suspenso-pela-cvm-e-acoes-ficam-impedidas-de-ser-negociadas-na-bolsa/",
-    "resumo": "Além da instituição, também foram suspensos os registros de Ambipar, Environmental ESG Participações, K-Infra Rodovia do Aço e Refit",
-    "data": "2026-11-23T15:32:53.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Comissão aprova ampliação de prazo para regularização de imóveis em faixa de fronteira",
-    "link": "https://www.camara.leg.br/noticias/1321700-comissao-aprova-ampliacao-de-prazo-para-regularizacao-de-imoveis-em-faixa-de-fronteira",
-    "resumo": "O projeto continua em análise na Câmara dos Deputados",
-    "data": "2026-11-23T15:32:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261111164105449-768x473.jpg",
-    "fonteId": "camara",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Desaparecimento do menino Edson Davi motiva ida da CDH ao Rio de Janeiro",
-    "link": "https://www12.senado.leg.br/noticias/materias/2026/11/23/desaparecimento-do-menino-edson-davi-motiva-ida-da-cdh-ao-rio-de-janeiro",
-    "resumo": "A Comissão de Direitos Humanos (CDH) concluiu diligência externa ao Rio de Janeiro (RJ) nesta sexta-feira (20) com sinalização de propostas para acelerar investigação sobre crianças desaparecidas. A visita de dois dias acompanhou as investigações do sumiço do menino Edson Davi em janeiro de 2024 na Barra da Tijuca,…",
-    "data": "2026-11-23T15:29:45.000Z",
-    "origem": "Senado Federal",
-    "imagemFeed": null,
-    "fonteId": "senado",
-    "fonte": "Agência Senado",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Luiz Marinho explica regulamentação da escala 5x2 em entrevista nesta terça, 24",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/luiz-marinho-explica-regulamentacao-da-escala-5x2-e-reducao-da-jornada-de-trabalho-no-201cbom-dia-ministro201d-desta-terca-24-11",
-    "resumo": "Titular do Ministério do Trabalho e Emprego (MTE) também irá detalhar geração de emprego no país e denúncias sobre assédio eleitoral. Programa é transmitido ao vivo a partir das 8h",
-    "data": "2026-11-23T15:29:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Ministério da Saúde firma seis compromissos para proteger de crianças e adolescentes",
-    "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-estabelece-seis-compromissos-para-fortalecer-a-protecao-de-criancas-e-adolescentes-contra-a-violencia",
-    "resumo": "Metas apresentadas em conferência global nas Filipinas incluem a qualificação de 10 mil profissionais de saúde até 2028, a prevenção nas escolas e a ampliação da atenção psicossocial",
-    "data": "2026-11-23T15:21:00.000Z",
-    "imagemFeed": null,
-    "fonteId": "agencia-gov",
-    "fonte": "Agência Gov",
     "categoria": "oficial"
   }
 ]
