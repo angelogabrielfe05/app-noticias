@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T12:17:29.635Z",
+  "geradoEm": "2026-11-27T15:17:23.190Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -42,6 +42,23 @@
           "pontos": 26
         },
         {
+          "id": "93c0d8c460f1",
+          "outrosIds": [],
+          "titulo": "Sancionada lei que atualiza ECA para garantir educação básica obrigatória",
+          "resumo": "O Estatuto da Criança e do Adolescente (ECA) passa a prever expressamente a oferta obrigatória e gratuita da educação básica dos 4 aos 17 anos de idade, além de assegurar o acesso gratuito a jovens e adultos que não tiveram a oportunidade de estudar na idade adequada. A medida consta da Lei 15.555, sancionada pelo…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/sancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T14:43:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "bf885e06480e",
           "outrosIds": [],
           "titulo": "CCJ do Senado aprova PEC sobre papel da União no financiamento do DF",
@@ -59,40 +76,21 @@
           "pontos": 23
         },
         {
-          "id": "9042b2e3ac2d",
-          "outrosIds": [
-            "e2ca9f51e144"
-          ],
-          "titulo": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
-          "resumo": "O Senado aprovou nesta quarta-feira (25), em regime de urgência, o projeto de lei que institucionaliza a Força Nacional do Sistema Único de Saúde (FN-SUS), responsável pelo atendimento a situações de emergência em saúde pública. A proposta detalha as atribuições da força, amplia as possibilidades de composição das…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T20:23:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fforca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao%2F20261125_03662t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
-        },
-        {
-          "id": "f0d6f4409a38",
+          "id": "f601b8d855be",
           "outrosIds": [],
-          "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
-          "resumo": "Texto segue para análise do Senado",
-          "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
-          "fonte": "Agência Câmara",
+          "titulo": "Reforma de 2019 traz mudanças para se aposentar no ano que vem. Veja as novas regras",
+          "resumo": "As medidas levam em consideração o cronograma de transição previsto na Reforma da Previdência. Há mais de uma modalidade para contagem de tempo. A plataforma Meu INSS faz simulação",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-2027-conheca-as-novas-regras-para-se-aposentar",
+          "fonte": "Agência Gov",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T14:49:00.000Z",
+          "data": "2026-11-26T19:46:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 17
+          "pontos": 16
         }
       ]
     },
@@ -100,42 +98,6 @@
       "nome": "Economia",
       "janelaHoras": 48,
       "itens": [
-        {
-          "id": "7f978a000164",
-          "outrosIds": [
-            "7babed19d57b",
-            "6f959c5145d9",
-            "0c711352d990",
-            "f2366146b9e6",
-            "08ce3158fff6",
-            "048aa381dcc5",
-            "19aac461dea0",
-            "f3c06792fae9",
-            "fc8cac71ad3b",
-            "376a60c94947",
-            "9cf594842bb3",
-            "6a16ee069ef1",
-            "41fb6eedb220"
-          ],
-          "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
-          "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T22:08:00.000Z",
-          "tambemEm": [
-            "IBGE",
-            "Money Times",
-            "InfoMoney",
-            "Valor Investe"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 32
-        },
         {
           "id": "7cfdd36aaa48",
           "outrosIds": [],
@@ -173,6 +135,48 @@
           "pontos": 25
         },
         {
+          "id": "34c62dc063d3",
+          "outrosIds": [
+            "09cfc778220d"
+          ],
+          "titulo": "IPCA-15 teve alta de 0,22% em novembro",
+          "resumo": "A prévia da inflação teve alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro (0,32%). O resultado vem, principalmente, das influências dos grupos alimentação e bebidas, com alta de 1,51% e impacto de 0,33 p.p. no índice geral; e transportes, que recuou -0,71% e exerceu influência de -0,14 pontos…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/ipca-15-teve-alta-de-022-em-novembro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T12:30:00.000Z",
+          "tambemEm": [
+            "Agência Gov"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAmxcK43z7LhyveoFtY2Rx8CLlpw%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F06%2F12%2F20231130_110016.jpg%3Fitok%3DTDHg8p3E&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
+        },
+        {
+          "id": "c326cdfb76ee",
+          "outrosIds": [
+            "2fdde46a2416"
+          ],
+          "titulo": "Desemprego cai no País e iguala menor patamar da série histórica",
+          "resumo": "A taxa de desocupação para o trimestre de agosto a outubro ficou em 5,1%, de acordo com o IBGE. A população ocupada chegou a 103,7 milhões, com estabilidade no trimestre",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/desemprego-cai-no-pais-e-iguala-menor-patamar-da-serie",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T12:36:00.000Z",
+          "tambemEm": [
+            "IBGE"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fdesemprego-cai-no-pais-e-iguala-menor-patamar-da-serie%2F%40%40download%2Fimage%2Femprego.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fdesemprego-cai-no-pais-e-iguala-menor-patamar-da-serie%2F%40%40download%2Fimage%2Femprego.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "f0fb5333ab26",
           "outrosIds": [],
           "titulo": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
@@ -188,23 +192,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "fbe6b4f84c22",
-          "outrosIds": [],
-          "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
-          "resumo": "Mesmo depois da surpresa positiva do IPCA-15, seguimos vendo uma combinação interessante nos títulos indexados à inflação de prazo mais curto. A correção recente da inflação ajuda a reduzir parte do risco de novas altas de juros, enquanto as taxas reais continuam em patamares atrativos. Nesse cenário, o PACC11 permite…",
-          "link": "https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:05:18.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
         }
       ]
     },
@@ -212,6 +199,44 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "eaecbf46fb3e",
+          "outrosIds": [
+            "55d4936f7274",
+            "4bbb7cc940e7",
+            "77b48c09c3c8",
+            "b0fe20ae556c",
+            "f32184f3aa09",
+            "70333d7814f2",
+            "ff6c9336f587",
+            "07646c0d0ba1",
+            "2f02412d0525",
+            "46e6c6df91c5",
+            "928a64a77fdb",
+            "550ff99f5286",
+            "5135bb25a17f",
+            "982616b068fe"
+          ],
+          "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quinta-feira (26) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T21:46:24.000Z",
+          "tambemEm": [
+            "InfoMoney",
+            "Exame Invest",
+            "Money Times",
+            "Seu Dinheiro",
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F26184537%2Fibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F26184537%2Fibovespa-b3-sobe-6-com-ipca-15-e-ministerio-da-fazenda-no-radar-dolar-cai-a-r-574.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 33
+        },
         {
           "id": "7a99dc619ebb",
           "outrosIds": [
@@ -234,23 +259,26 @@
           "pontos": 28
         },
         {
-          "id": "31428a06e3b1",
+          "id": "681e94f4d7bc",
           "outrosIds": [
+            "31428a06e3b1",
             "5ced0bd345ee"
           ],
-          "titulo": "Fundo imobiliário vende agência do Banco do Brasil (BBAS3) por R$ 14 milhões; veja lucro por cota",
-          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) vendeu um dos imóveis de seu portfólio, localizado na zona leste de São Paulo (SP), por R$ 14 milhões, mostra fato relevante divulgado ao mercado. De acordo com o documento, o ativo, atualmente locado ao Banco do Brasil (BBAS3), com contrato vigente até novembro de 2027, possui…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-agencia-do-banco-do-brasil-bbas3-por-r-14-milhoes-veja-lucro-por-cota-igdl/",
-          "fonte": "Money Times",
+          "titulo": "Depois da renovação, a separação: FII embolsa R$ 14 milhões com venda de agência do Banco do Brasil (BBAS3)",
+          "resumo": "Fundo imobiliário vende imóvel em SP e estima lucro de R$ 0,23 por cota; instituição financeira segue como principal inquilina do portfólio The post Depois da renovação, a separação: FII embolsa R$ 14 milhões com venda de agência do Banco do Brasil (BBAS3) appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/depois-da-renovacao-a-separacao-fii-embolsa-r-14-milhoes-com-venda-de-agencia-do-banco-do-brasil-bbas3-igdl/",
+          "fonte": "Seu Dinheiro",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-27T11:33:28.000Z",
-          "tambemEm": [],
+          "data": "2026-11-27T13:24:00.000Z",
+          "tambemEm": [
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 26
         },
         {
           "id": "1cdb6b21949c",
@@ -289,24 +317,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
-        },
-        {
-          "id": "d172ceca79f1",
-          "outrosIds": [],
-          "titulo": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
-          "resumo": "O mercado financeiro brasileiro teve um dia de forte valorização nesta quinta-feira (26). O Ibovespa disparou cerca de 6%, registrando a maior alta diária desde o primeiro turno das eleições de 2026. O dólar recuou para abaixo de R$ 5,80 pela primeira vez em quase duas semanas. O movimento foi impulsionado pela…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T22:54:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
+          "pontos": 22
         }
       ]
     },
@@ -314,6 +325,23 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "d4e8c23b04d0",
+          "outrosIds": [],
+          "titulo": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
+          "resumo": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma s&eacute;rie de recursos que permitir&atilde;o ao ChatGPT realizar liga&ccedil;&otilde;es, enviar mensagens e interpretar o conte&uacute;do da tela de celulares Android . As novidades aproximariam a intelig&ecirc;ncia…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T15:02:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FMQLxUZjp6ylPSPJMwmKLobWZKQ4%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Feff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FMQLxUZjp6ylPSPJMwmKLobWZKQ4%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Feff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "8ec90a1ec6d1",
           "outrosIds": [],
@@ -327,6 +355,25 @@
           "tambemEm": [],
           "foto": null,
           "pontos": 24
+        },
+        {
+          "id": "e7043ee378d8",
+          "outrosIds": [
+            "8d0af28e9088"
+          ],
+          "titulo": "Wall Street: ações dos EUA sobem com impulso de papéis de IA",
+          "resumo": "Investidores retornavam do feriado de Ação de Graças ​e voltavam a investir ​em ações de inteligência artificial The post Wall Street: ações dos EUA sobem com impulso de papéis de IA appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/mercados/wall-street-acoes-dos-eua-sobem-com-impulso-de-papeis-de-ia/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T14:49:34.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         },
         {
           "id": "23284cbf5695",
@@ -361,40 +408,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "6a9fb1efb4f4",
-          "outrosIds": [],
-          "titulo": "Gestão lança novo guia com cenários práticos para uso da IA no serviço público",
-          "resumo": "Publicação mostra como a IA pode apoiar tarefas como preparar minutas e resumir documentos, quais cuidados tomar e como conferir os resultados. Guia para elaboração de prompts também ganha novas versão",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T20:47:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores%2F%40%40download%2Fimage%2Fia.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "45c32e4debae",
-          "outrosIds": [],
-          "titulo": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
-          "resumo": "HUB Cidades, ambiente de inovação urbana ligado ao projeto Cidade Aruna, firmou carta de colaboração tecnológica com a big tech O post Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T01:09:24.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 19
         }
       ]
     }
@@ -488,7 +501,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 20,
+      "itens": 25,
       "erro": null
     },
     {
@@ -600,7 +613,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 33,
+      "itens": 24,
       "erro": null
     }
   ]
