@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T00:17:22.906Z",
+  "geradoEm": "2026-11-27T03:17:23.393Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -92,7 +92,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
+          "pontos": 17
         }
       ]
     },
@@ -150,7 +150,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "5dd8494e37e7",
@@ -252,41 +252,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-oOd0PhM3NNNc.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
-        },
-        {
-          "id": "53ee3e324e0b",
-          "outrosIds": [],
-          "titulo": "BDEV11: chega à bolsa o primeiro ETF do Índice Brasil Setores Estratégicos B3‌",
-          "resumo": "ETF da Bradesco Asset, em parceria com o BNDES, segue companhias de áreas como energia elétrica, saneamento, telecomunicações, saúde e transporte",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/etfs/bdev11-chega-a-bolsa-o-primeiro-etf-do-indice-brasil-setores-estrategicos-b3/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T19:50:37.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "bdd5995cc52e",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
-          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:34:45.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
+          "pontos": 24
         },
         {
           "id": "5ced0bd345ee",
@@ -306,6 +272,40 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
+        },
+        {
+          "id": "53ee3e324e0b",
+          "outrosIds": [],
+          "titulo": "BDEV11: chega à bolsa o primeiro ETF do Índice Brasil Setores Estratégicos B3‌",
+          "resumo": "ETF da Bradesco Asset, em parceria com o BNDES, segue companhias de áreas como energia elétrica, saneamento, telecomunicações, saúde e transporte",
+          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/etfs/bdev11-chega-a-bolsa-o-primeiro-etf-do-indice-brasil-setores-estrategicos-b3/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T19:50:37.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
+        },
+        {
+          "id": "5bc337ad55e6",
+          "outrosIds": [],
+          "titulo": "Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado",
+          "resumo": "Prefixados atingem os menores patamares desde a disparada dos juros após as eleições The post Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado appeared first on Seu Dinheiro .",
+          "link": "https://www.seudinheiro.com/2026/renda-fixa/adeus-aos-15-ao-ano-tesouro-direto-reduz-taxas-com-euforia-na-bolsa-e-trabuco-no-radar-do-mercado/",
+          "fonte": "Seu Dinheiro",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T16:05:27.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 21
         }
       ]
     },
@@ -325,7 +325,7 @@
           "data": "2026-11-26T21:11:32.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "23284cbf5695",
@@ -379,19 +379,19 @@
           "pontos": 22
         },
         {
-          "id": "3a834f44db53",
+          "id": "45c32e4debae",
           "outrosIds": [],
-          "titulo": "Brasileiro confia na IA para ajudar nas compras, mas não para gastar seu dinheiro",
-          "resumo": "O brasileiro está disposto a contar com a ajuda da inteligência artificial (IA) na hora de fazer compras, mas ainda tem ressalvas quando se trata de delegar à tecnologia a tarefa de gastar seu dinheiro. É o que aponta a primeira edição do Índice de Confiança em Pagamentos Digitais, elaborado para a fintech global…",
-          "link": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/11/26/brasileiro-confia-na-ia-para-ajudar-nas-compras-mas-nao-para-gastar-seu-dinheiro.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
+          "resumo": "HUB Cidades, ambiente de inovação urbana ligado ao projeto Cidade Aruna, firmou carta de colaboração tecnológica com a big tech O post Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T09:30:00.000Z",
+          "data": "2026-11-27T01:09:24.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -599,7 +599,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 34,
+      "itens": 35,
       "erro": null
     }
   ]

@@ -1,28 +1,4 @@
 {
-  "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3RPdGZNNUM5Z3dieFo4SE5QZDJUdG8yR2V4UXIwZi1qT3FIX2FjY0E4RVFRdXgxdVpRMlkyVTBLMUllV3NpWkkyaFV6TGY2Y1Y3aEFWODBfeXRRRmxNVG9fZDY1UEJidkJHckJfLTRhaGEweDlxRFJMRHM1aTJBb01jR3ZfSjVVekhxa3RGY3pCVWpkdDlEaGdZclFqMkQ4cVhHTGItWE02THpZdTIya0JfRHhwQQ?oc=5": {
-    "imagem": null,
-    "em": "2026-11-20T00:17:35.843Z"
-  },
-  "https://www.infomoney.com.br/mercados/congelem-a-ia-e-parem-oligarcas-das-techs-ipo-da-anthropic-provoca-protesto-em-ny/": {
-    "imagem": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-171020.png",
-    "em": "2026-11-20T00:17:35.843Z"
-  },
-  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf": {
-    "imagem": "https://imagens.ebc.com.br/CAkMlRo1nXtCNzcZ8o43w9Z5W5Y=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/02/02/abertura-stf-mc_abr_30012026-9.jpg?itok=pwBEFW-j",
-    "em": "2026-11-20T00:17:35.843Z"
-  },
-  "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro": {
-    "imagem": "https://imagens.ebc.com.br/JqHvFoqAEwNMxBM4sThGT3BKprI=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/manifestacao1_mcamgo_abr_080120231818-8.jpg?itok=6xDwX7zO",
-    "em": "2026-11-20T00:17:35.843Z"
-  },
-  "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025": {
-    "imagem": "https://imagens.ebc.com.br/qgr1uCa7n_TP2WKn5oQPmLd6V2M=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/07/23/2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg?itok=6u1xpzSK",
-    "em": "2026-11-20T00:17:35.843Z"
-  },
-  "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
-    "imagem": "https://images.ctfassets.net/kftzwdyauwt9/1GmNPxrS3qwhYU0t43dsaa/0df53811b9acf8f9699ace630362f112/performance-factory-social.png?w=1600&h=900&fit=fill",
-    "em": "2026-11-20T02:18:40.625Z"
-  },
   "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/bdrs/bdr-da-anthropic-chega-a-b3-por-cerca-de-r-60/": {
     "imagem": "https://cdn.borainvestir.b3.com.br/2026/11/17160343/claude.jpg",
     "em": "2026-11-20T09:17:24.616Z"
@@ -702,5 +678,9 @@
   "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/etfs/bdev11-chega-a-bolsa-o-primeiro-etf-do-indice-brasil-setores-estrategicos-b3/": {
     "imagem": "https://cdn.borainvestir.b3.com.br/2022/09/14171014/etfs-brasileiros.jpeg",
     "em": "2026-11-27T00:17:22.906Z"
+  },
+  "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/": {
+    "imagem": "https://olhardigital.com.br/wp-content/uploads/2026/11/nvidia-7.jpg",
+    "em": "2026-11-27T03:17:23.393Z"
   }
 }
