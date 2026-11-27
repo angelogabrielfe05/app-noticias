@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T03:17:23.393Z",
+  "geradoEm": "2026-11-27T06:17:22.423Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -153,23 +153,6 @@
           "pontos": 29
         },
         {
-          "id": "5dd8494e37e7",
-          "outrosIds": [],
-          "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
-          "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T17:38:09.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "2a2a129a774f",
           "outrosIds": [],
           "titulo": "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal",
@@ -185,6 +168,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 26
+        },
+        {
+          "id": "5dd8494e37e7",
+          "outrosIds": [],
+          "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
+          "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
+          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T17:38:09.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 25
         },
         {
           "id": "f0fb5333ab26",
@@ -203,7 +203,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         }
       ]
     },
@@ -291,19 +291,19 @@
           "pontos": 21
         },
         {
-          "id": "5bc337ad55e6",
+          "id": "bdd5995cc52e",
           "outrosIds": [],
-          "titulo": "Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado",
-          "resumo": "Prefixados atingem os menores patamares desde a disparada dos juros após as eleições The post Adeus aos 15% ao ano? Tesouro Direto reduz taxas com euforia na bolsa e Trabuco no radar do mercado appeared first on Seu Dinheiro .",
-          "link": "https://www.seudinheiro.com/2026/renda-fixa/adeus-aos-15-ao-ano-tesouro-direto-reduz-taxas-com-euforia-na-bolsa-e-trabuco-no-radar-do-mercado/",
-          "fonte": "Seu Dinheiro",
+          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
+          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
+          "fonte": "Money Times",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T16:05:27.000Z",
+          "data": "2026-11-26T14:34:45.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-MGvQKZ3scSyz.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 21
         }
@@ -342,7 +342,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2F2150408649.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "806ff390225a",
@@ -359,7 +359,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F09%2FOpenAI-GPT-6-Astra-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "6a9fb1efb4f4",
@@ -599,7 +599,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 35,
+      "itens": 34,
       "erro": null
     }
   ]
