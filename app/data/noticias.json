@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T12:15:31.227Z",
+  "geradoEm": "2026-11-27T12:17:29.635Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -488,7 +488,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
