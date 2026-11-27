@@ -1,10 +1,27 @@
 {
-  "geradoEm": "2026-11-27T18:17:23.738Z",
+  "geradoEm": "2026-11-27T21:17:23.552Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "1bf32c0cf8aa",
+          "outrosIds": [],
+          "titulo": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro",
+          "resumo": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino suspendeu a execução de emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Projeto de Lei Orçamentária Anual (Ploa) de 2027. São 14 emendas, totalizando R$ 79,3 milhões. “A fim de resguardar a higidez do devido processo orçamentário e…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro",
+          "fonte": "Agência Brasil",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T20:41:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
         {
           "id": "67ceea72acb5",
           "outrosIds": [],
@@ -23,23 +40,6 @@
           "pontos": 26
         },
         {
-          "id": "188ce565e647",
-          "outrosIds": [],
-          "titulo": "STF marca julgamento sobre eleições no Rio para 4 de dezembro",
-          "resumo": "O ministro do Supremo Tribunal Federal (STF) Cristiano Zanin pautou para 4 de dezembro o julgamento da nova ação que pede a realização de segundo turno das eleições para o governo do estado do Rio de Janeiro. O caso será analisado em sessão virtual do plenário e ficará aberto para votação até 15 de dezembro. Notícias…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-marca-julgamento-sobre-eleicoes-no-rio-para-4-de-dezembro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T20:20:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FpSzH81t4oBpuN_eHmLGCMGL8qmc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F_mg_8440.jpg%3Fitok%3D3ndmSk8K&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "93c0d8c460f1",
           "outrosIds": [],
           "titulo": "Sancionada lei que atualiza ECA para garantir educação básica obrigatória",
@@ -54,13 +54,13 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "eb7ec35b32fe",
           "outrosIds": [],
           "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela defesa de Costa. O ministro afirmou que o ex--presidente do…",
+          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela defesa de Costa. O ministro afirmou que o ex-presidente do…",
           "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-paulo-henrique-costa-ex-presidente-do-brb",
           "fonte": "Agência Brasil",
           "oficial": true,
@@ -74,21 +74,21 @@
           "pontos": 19
         },
         {
-          "id": "f601b8d855be",
+          "id": "f0d6f4409a38",
           "outrosIds": [],
-          "titulo": "Reforma de 2019 traz mudanças para se aposentar no ano que vem. Veja as novas regras",
-          "resumo": "As medidas levam em consideração o cronograma de transição previsto na Reforma da Previdência. Há mais de uma modalidade para contagem de tempo. A plataforma Meu INSS faz simulação",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-2027-conheca-as-novas-regras-para-se-aposentar",
-          "fonte": "Agência Gov",
+          "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
+          "resumo": "Texto segue para análise do Senado",
+          "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
+          "fonte": "Agência Câmara",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T19:46:00.000Z",
+          "data": "2026-11-26T14:49:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Finss-2027-conheca-as-novas-regras-para-se-aposentar%2F%40%40download%2Fimage%2Fc933b464-b4b2-4cd2-8685-4ea75bdeb0de.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.camara.leg.br%2Ftema%2Fassets%2Fimages%2Fimagens-compartilhamento%2Fimagem-padrao.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 16
+          "pontos": 15
         }
       ]
     },
@@ -99,6 +99,7 @@
         {
           "id": "7f978a000164",
           "outrosIds": [
+            "5f225d909c88",
             "2371790e5d53",
             "f2366146b9e6",
             "08ce3158fff6",
@@ -107,9 +108,7 @@
             "f3c06792fae9",
             "fc8cac71ad3b",
             "376a60c94947",
-            "9cf594842bb3",
-            "6a16ee069ef1",
-            "41fb6eedb220"
+            "9cf594842bb3"
           ],
           "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
           "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
@@ -131,6 +130,32 @@
           "pontos": 32
         },
         {
+          "id": "805899bfe789",
+          "outrosIds": [
+            "80e6429a6d2e",
+            "7fbca097eb8c",
+            "f3055dad6666",
+            "c7953bf9a265"
+          ],
+          "titulo": "Governo Central registra superávit primário de R$ 52,3 bilhões em outubro",
+          "resumo": "Conforme o Tesouro Nacional, resultado superou a mediana das expectativas do Prisma Fiscal do Ministério da Fazenda, que apontava superávit de R$ 43,4 bilhões",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T18:16:00.000Z",
+          "tambemEm": [
+            "Agência Brasil",
+            "Money Times",
+            "InfoMoney"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 27
+        },
+        {
           "id": "7cfdd36aaa48",
           "outrosIds": [],
           "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
@@ -145,52 +170,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 28
-        },
-        {
-          "id": "80e6429a6d2e",
-          "outrosIds": [
-            "7fbca097eb8c",
-            "f3055dad6666",
-            "c7953bf9a265"
-          ],
-          "titulo": "Contas do governo têm superávit de R$ 52,3 bilhões em outubro",
-          "resumo": "As contas do Governo Central registraram superávit primário de R$ 52,3 bilhões em outubro, informou hoje (27) o Tesouro Nacional. O resultado ficou acima das estimativas do mercado, projetadas em R$ 43,4 bilhões para o mês segundo o Prisma Fiscal – levantamento do Ministério da Fazenda com estimativas do mercado para…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/contas-do-governo-tem-superavit-de-r-523-bilhoes-em-outubro",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-27T15:57:00.000Z",
-          "tambemEm": [
-            "Money Times",
-            "InfoMoney"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_drCizYcQ2dTn5kZU6-8_TJzdE4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F28%2F_ja03456-3.jpg%3Fitok%3DRhKFAzG4&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2F_drCizYcQ2dTn5kZU6-8_TJzdE4%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F28%2F_ja03456-3.jpg%3Fitok%3DRhKFAzG4&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 25
-        },
-        {
-          "id": "c326cdfb76ee",
-          "outrosIds": [
-            "2fdde46a2416"
-          ],
-          "titulo": "Desemprego cai no País e iguala menor patamar da série histórica",
-          "resumo": "A taxa de desocupação para o trimestre de agosto a outubro ficou em 5,1%, de acordo com o IBGE. A população ocupada chegou a 103,7 milhões, com estabilidade no trimestre",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/desemprego-cai-no-pais-e-iguala-menor-patamar-da-serie",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-27T12:36:00.000Z",
-          "tambemEm": [
-            "IBGE"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fdesemprego-cai-no-pais-e-iguala-menor-patamar-da-serie%2F%40%40download%2Fimage%2Femprego.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fdesemprego-cai-no-pais-e-iguala-menor-patamar-da-serie%2F%40%40download%2Fimage%2Femprego.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 24
+          "pontos": 26
         },
         {
           "id": "5dd8494e37e7",
@@ -210,6 +190,23 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F26%2Fifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga%2F20261126_00674g.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 23
+        },
+        {
+          "id": "f0fb5333ab26",
+          "outrosIds": [],
+          "titulo": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
+          "resumo": "Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/",
+          "fonte": "InfoMoney",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T23:22:33.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -217,6 +214,28 @@
       "nome": "Mercado e bolsa",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "5135bb25a17f",
+          "outrosIds": [
+            "305712c9c469",
+            "c74940821c0e"
+          ],
+          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-25T21:43:05.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
         {
           "id": "681e94f4d7bc",
           "outrosIds": [
@@ -237,28 +256,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
-          "id": "5135bb25a17f",
-          "outrosIds": [
-            "b0fe20ae556c"
-          ],
-          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T21:43:05.000Z",
-          "tambemEm": [
-            "Exame Invest"
-          ],
+          "id": "9955fdc2e1e5",
+          "outrosIds": [],
+          "titulo": "FII BTLG11 quer investir R$ 798,5 milhões em galpões com Mercado Livre entre os inquilinos; cotistas decidem",
+          "resumo": "O fundo imobiliário BTG Pactual Logística (BTLG11) propôs aos cotistas a aquisição de participações em dois empreendimentos logísticos localizados em Guarulhos (SP) e Londrina (PR), por aproximadamente R$ 798,5 milhões, além de um aumento do limite de capital autorizado para R$ 30 bilhões. As matérias foram…",
+          "link": "https://www.moneytimes.com.br/fii-btlg11-quer-investir-r-798-milhoes-em-galpoes-com-mercado-livre-entre-os-inquilinos-cotistas-decidem-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T18:53:19.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 24
         },
         {
           "id": "e862c410dc49",
@@ -276,29 +291,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
-        },
-        {
-          "id": "7f461688a078",
-          "outrosIds": [
-            "294442d0e782",
-            "0268b2e41be2"
-          ],
-          "titulo": "B3 e seis instituições financeiras se unem para criar stablecoin em reais",
-          "resumo": "Para impulsionar ativos digitais, iniciativa conjunta de B3, Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP busca estabelecer infraestrutura compartilhada e um padrão comum para movimentação de valores e liquidação de operações",
-          "link": "https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-27T12:38:08.000Z",
-          "tambemEm": [
-            "Valor Investe",
-            "Money Times"
-          ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 23
         },
         {
           "id": "1cdb6b21949c",
@@ -324,36 +316,46 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "e2757cbeb59f",
-          "outrosIds": [],
-          "titulo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA",
-          "resumo": "Gemini Live vai ganhar aba de Atividade para gerenciar tarefas e rotinas da IA O Google trabalha em uma atualiza&ccedil;&atilde;o para o Gemini Live que permitir&aacute; acompanhar tarefas executadas pela intelig&ecirc;ncia artificial (IA) em segundo plano . O modo de conversas por voz do Gemini ganhar&aacute; uma…",
-          "link": "https://canaltech.com.br/apps/gemini-live-vai-ganhar-aba-de-atividade-para-gerenciar-tarefas-e-rotinas-da-ia/",
-          "fonte": "Canaltech",
+          "id": "4eca7b7c190a",
+          "outrosIds": [
+            "0a54ef6ffac8",
+            "099532dfc1e4"
+          ],
+          "titulo": "A era do Google acabou? Como a IA está mudando as compras online",
+          "resumo": "Está cada vez mais comum pedir ajuda a IAs como ChatGPT, Claude e Gemini para escolher produtos; entenda os limites e vantagens dessa mudança O post A era do Google acabou? Como a IA está mudando as compras online apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/27/pro/entenda-como-a-ia-esta-mudando-as-compras-online-e-se-a-era-do-google-acabou/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-27T17:02:00.000Z",
-          "tambemEm": [],
+          "data": "2026-11-27T19:28:44.000Z",
+          "tambemEm": [
+            "Valor Investe"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F0fqGhz-iV_SnIv-5H2DhHpNZdKg%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F28865af5-183c-4792-88c9-9a57317f5712.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F0fqGhz-iV_SnIv-5H2DhHpNZdKg%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F28865af5-183c-4792-88c9-9a57317f5712.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 26
         },
         {
-          "id": "d4e8c23b04d0",
-          "outrosIds": [],
-          "titulo": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela",
-          "resumo": "ChatGPT quer tomar vaga do Gemini no Android fazendo ligações e lendo a tela A OpenAI trabalha em uma s&eacute;rie de recursos que permitir&atilde;o ao ChatGPT realizar liga&ccedil;&otilde;es, enviar mensagens e interpretar o conte&uacute;do da tela de celulares Android . As novidades aproximariam a intelig&ecirc;ncia…",
-          "link": "https://canaltech.com.br/inteligencia-artificial/chatgpt-quer-tomar-vaga-do-gemini-no-android-fazendo-ligacoes-e-lendo-a-tela/",
+          "id": "f7450ecc7d21",
+          "outrosIds": [
+            "e2757cbeb59f",
+            "d4e8c23b04d0",
+            "ca5fef376277",
+            "e35f006ce869"
+          ],
+          "titulo": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini",
+          "resumo": "Google prepara novidades para o Modo IA ficar mais parecido com o Gemini O Google trabalha em tr&ecirc;s novidades para o Modo IA de seu buscador que j&aacute; est&atilde;o presentes no Gemini. A ferramenta ganhar&aacute; uma biblioteca de conte&uacute;dos gerados pela intelig&ecirc;ncia artificial (IA), al&eacute;m…",
+          "link": "https://canaltech.com.br/internet-e-redes-sociais/google-prepara-novidades-para-o-modo-ia-ficar-mais-parecido-com-o-gemini/",
           "fonte": "Canaltech",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-27T15:02:00.000Z",
+          "data": "2026-11-27T20:02:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FMQLxUZjp6ylPSPJMwmKLobWZKQ4%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Feff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FMQLxUZjp6ylPSPJMwmKLobWZKQ4%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Feff842d1-2d07-43d0-ad5f-2cc5ef98c683.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 24
         },
@@ -405,7 +407,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     }
