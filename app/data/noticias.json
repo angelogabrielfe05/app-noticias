@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T09:17:24.659Z",
+  "geradoEm": "2026-11-27T12:15:31.227Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -103,6 +103,8 @@
         {
           "id": "7f978a000164",
           "outrosIds": [
+            "7babed19d57b",
+            "6f959c5145d9",
             "0c711352d990",
             "f2366146b9e6",
             "08ce3158fff6",
@@ -113,8 +115,7 @@
             "376a60c94947",
             "9cf594842bb3",
             "6a16ee069ef1",
-            "41fb6eedb220",
-            "11be12e33db4"
+            "41fb6eedb220"
           ],
           "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
           "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
@@ -153,25 +154,10 @@
           "pontos": 28
         },
         {
-          "id": "2a2a129a774f",
-          "outrosIds": [],
-          "titulo": "Governo libera R$ 3,43 bilhões do Orçamento após ajuste fiscal",
-          "resumo": "O governo federal liberou R$ 3,43 bilhões do Orçamento de 2026, reduzindo o volume de despesas congeladas, apesar da piora na previsão do resultado das contas públicas. A medida foi anunciada nessa terça-feira (24), após a sanção da lei que permite excluir até R$ 10,5 bilhões em gastos com subsídios ao diesel da meta…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/governo-libera-r-343-bilhoes-do-orcamento-apos-ajuste-fiscal",
-          "fonte": "Agência Brasil",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T10:02:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FAbfzFSG3vlCZz5MeKu3cWN1t4Ws%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Freal_moedadinheiro_jfcrz_abr_1701220045_1.jpg%3Fitok%3Dzk8i9xAS&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
-        },
-        {
           "id": "5dd8494e37e7",
-          "outrosIds": [],
+          "outrosIds": [
+            "19e9b42a8bc8"
+          ],
           "titulo": "IFI entrega estudo sobre alíquota da CBS para Eduardo Braga",
           "resumo": "A Instituição Fiscal Independente (IFI) entregou nesta quinta-feira (26) à assessoria do senador Eduardo Braga (MDB-AM) uma Nota Técnica sobre a alíquota da Contribuição sobre Bens e Serviços (CBS), instituída pela Reforma Tributária. O texto tem o objetivo de aumentar a compreensão sobre o número calculado e oferecer…",
           "link": "https://www12.senado.leg.br/noticias/materias/2026/11/26/ifi-entrega-estudo-sobre-aliquota-da-cbs-para-eduardo-braga",
@@ -201,7 +187,24 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
+        },
+        {
+          "id": "fbe6b4f84c22",
+          "outrosIds": [],
+          "titulo": "PACC11: mesmo com surpresa do IPCA-15, títulos indexados à inflação seguem interessantes",
+          "resumo": "Mesmo depois da surpresa positiva do IPCA-15, seguimos vendo uma combinação interessante nos títulos indexados à inflação de prazo mais curto. A correção recente da inflação ajuda a reduzir parte do risco de novas altas de juros, enquanto as taxas reais continuam em patamares atrativos. Nesse cenário, o PACC11 permite…",
+          "link": "https://www.moneytimes.com.br/pacc11-mesmo-com-surpresa-do-ipca-15-titulos-indexados-a-inflacao-seguem-interessantes/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-26T14:05:18.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F07%2Fistock-2203591005-1-scaled-e1783700494278.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
         }
       ]
     },
@@ -231,6 +234,42 @@
           "pontos": 28
         },
         {
+          "id": "31428a06e3b1",
+          "outrosIds": [
+            "5ced0bd345ee"
+          ],
+          "titulo": "Fundo imobiliário vende agência do Banco do Brasil (BBAS3) por R$ 14 milhões; veja lucro por cota",
+          "resumo": "O fundo imobiliário Tivio Renda (TVRI11) vendeu um dos imóveis de seu portfólio, localizado na zona leste de São Paulo (SP), por R$ 14 milhões, mostra fato relevante divulgado ao mercado. De acordo com o documento, o ativo, atualmente locado ao Banco do Brasil (BBAS3), com contrato vigente até novembro de 2027, possui…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-vende-agencia-do-banco-do-brasil-bbas3-por-r-14-milhoes-veja-lucro-por-cota-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T11:33:28.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fbanco-do-brasil.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
+          "id": "1cdb6b21949c",
+          "outrosIds": [],
+          "titulo": "Fundo imobiliário amplia participação em complexo logístico em SP; IFIX emenda terceira alta",
+          "resumo": "O fundo imobiliário Pátria Log (HGLG11) anunciou, por meio de fato relevante, que concluiu a aquisição de uma participação de 12,59% de um galpão logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,3 milhões. Segundo o comunicado, a fração corresponde a 6,5 mil metros quadrados (m²) do empreendimento…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-amplia-participacao-em-complexo-logistico-em-sp-ifix-emenda-terceira-alta-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T10:59:24.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
+        {
           "id": "c3b79425f7fc",
           "outrosIds": [
             "e9d983125396",
@@ -253,57 +292,21 @@
           "pontos": 24
         },
         {
-          "id": "5ced0bd345ee",
-          "outrosIds": [
-            "72e92db09278"
-          ],
-          "titulo": "Fundo imobiliário fecha contrato que pode elevar receita em 36%; IFIX ensaia recuperação",
-          "resumo": "O fundo imobiliário Max Retail (MAXR11) fechou um novo contrato de locação para um dos imóveis comerciais de seu portfólio, localizado em João Pessoa (PB), mostra fato relevante divulgado ao mercado. Segundo o documento, o acordo prevê aluguel mensal inicial de R$ 170 mil e prazo de 10 anos, com início no próximo dia…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-nova-locacao-que-pode-elevar-receita-em-36-ifix-ensaia-recuperacao-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T10:47:46.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F08%2Ffundos-imobiliarios-fiis-imagem-cherdchai-chawienghong-istockphoto-id-da-foto2193626844.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 22
-        },
-        {
-          "id": "bdd5995cc52e",
+          "id": "d172ceca79f1",
           "outrosIds": [],
-          "titulo": "Fundo imobiliário quer negociar ativos ligados à própria gestora e convoca cotistas para decidir",
-          "resumo": "O fundo imobiliário Zagros Renda (GGRC11) convocou uma Assembleia Geral Extraordinária (AGE) para que seus cotistas deliberem sobre a realização de operações com potencial conflito de interesses. Na proposta apresentada ao mercado, o FII destaca que pretende ampliar as possibilidades de investimento de seu portfólio…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-quer-negociar-ativos-ligados-a-propria-gestora-e-convoca-cotistas-para-decidir-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-26T14:34:45.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2025%2F11%2Ffiis-fundos-imobiliarios-imagem-microstockhubistock.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 21
-        },
-        {
-          "id": "53ee3e324e0b",
-          "outrosIds": [],
-          "titulo": "BDEV11: chega à bolsa o primeiro ETF do Índice Brasil Setores Estratégicos B3‌",
-          "resumo": "ETF da Bradesco Asset, em parceria com o BNDES, segue companhias de áreas como energia elétrica, saneamento, telecomunicações, saúde e transporte",
-          "link": "https://borainvestir.b3.com.br/tipos-de-investimentos/renda-variavel/etfs/bdev11-chega-a-bolsa-o-primeiro-etf-do-indice-brasil-setores-estrategicos-b3/",
-          "fonte": "B3 Bora Investir",
+          "titulo": "Bolsa sobe 6% e tem maior alta desde o 1º turno; dólar cai a R$ 5,74",
+          "resumo": "O mercado financeiro brasileiro teve um dia de forte valorização nesta quinta-feira (26). O Ibovespa disparou cerca de 6%, registrando a maior alta diária desde o primeiro turno das eleições de 2026. O dólar recuou para abaixo de R$ 5,80 pela primeira vez em quase duas semanas. O movimento foi impulsionado pela…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-6-e-tem-maior-alta-desde-o-1o-turno-dolar-cai-r-574",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T19:50:37.000Z",
+          "data": "2026-11-26T22:54:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2022%2F09%2F14171014%2Fetfs-brasileiros.jpeg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fqgr1uCa7n_TP2WKn5oQPmLd6V2M%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F07%2F23%2F2026-07-23t123806z_1_lynxmpem6m19r_rtroptp_4_usa-trump-tariffs-indonesia.jpg%3Fitok%3D6u1xpzSK&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 21
         }
       ]
     },
@@ -320,7 +323,7 @@
           "fonte": "Estadão",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-27T04:49:15.000Z",
+          "data": "2026-11-27T10:28:45.000Z",
           "tambemEm": [],
           "foto": null,
           "pontos": 24
@@ -377,21 +380,21 @@
           "pontos": 22
         },
         {
-          "id": "3a834f44db53",
+          "id": "45c32e4debae",
           "outrosIds": [],
-          "titulo": "Brasileiro confia na IA para ajudar nas compras, mas não para gastar seu dinheiro",
-          "resumo": "O brasileiro está disposto a contar com a ajuda da inteligência artificial (IA) na hora de fazer compras, mas ainda tem ressalvas quando se trata de delegar à tecnologia a tarefa de gastar seu dinheiro. É o que aponta a primeira edição do Índice de Confiança em Pagamentos Digitais, elaborado para a fintech global…",
-          "link": "https://valorinveste.globo.com/objetivo/gastar-bem/noticia/2026/11/26/brasileiro-confia-na-ia-para-ajudar-nas-compras-mas-nao-para-gastar-seu-dinheiro.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia",
+          "resumo": "HUB Cidades, ambiente de inovação urbana ligado ao projeto Cidade Aruna, firmou carta de colaboração tecnológica com a big tech O post Cidade no Paraná quer usar IA em tudo — e terá apoio da Nvidia apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/26/inteligencia-artificial/cidade-no-parana-quer-usar-ia-em-tudo-e-tera-apoio-da-nvidia/",
+          "fonte": "Olhar Digital",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T09:30:00.000Z",
+          "data": "2026-11-27T01:09:24.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2Ff815Nl4OTmMvVu1cloV47thft2w%3D%2F2185x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2026%2Fh%2FV%2FnPNpspSxaCkVRWsvVJsg%2Fgettyimages-2229177564.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fnvidia-7.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 20
+          "pontos": 19
         }
       ]
     }
