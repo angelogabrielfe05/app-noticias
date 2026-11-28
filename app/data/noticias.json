@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-28T06:17:30.512Z",
+  "geradoEm": "2026-11-28T09:17:24.538Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -20,7 +20,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "93c0d8c460f1",
@@ -253,7 +253,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "e862c410dc49",
@@ -296,6 +296,20 @@
       "janelaHoras": 48,
       "itens": [
         {
+          "id": "8ec90a1ec6d1",
+          "outrosIds": [],
+          "titulo": "CEO da Anthropic teria sugerido usar games para acalmar ‘desempregados pela IA'",
+          "resumo": "",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN29NM1BLcFd2UlhxS2F2NWUxS2NobWlqQm1lQ2VMTV9RcmxlVnVPbEF3TnFoRmxOWWE2ODkzbDNzQzBITkFONVdtMDNpaTZMRzB5U3VQZDZBbXhxYm1JZ09sN2s5TFlBR2FnTzR4cEhMVG12RHlNVVhrYS10RDVFbC10OFpubGQ0eWdGVTZLU05vX3lEQ3JadFRVY2NtcXNsemxzNE5WZWY5MzZYXzF5SnE1Q080bGRLTzZDWDZEcTFGRnR4VjJ3RzVqaHJiTlM4bDM5VGE3aEVRcnJCUkJF?oc=5",
+          "fonte": "Estadão",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-28T06:53:36.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 24
+        },
+        {
           "id": "4eca7b7c190a",
           "outrosIds": [
             "0a54ef6ffac8",
@@ -315,7 +329,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "f7450ecc7d21",
@@ -337,20 +351,6 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
-        },
-        {
-          "id": "8ec90a1ec6d1",
-          "outrosIds": [],
-          "titulo": "CEO da Anthropic teria sugerido usar games para acalmar ‘desempregados pela IA'",
-          "resumo": "",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN29NM1BLcFd2UlhxS2F2NWUxS2NobWlqQm1lQ2VMTV9RcmxlVnVPbEF3TnFoRmxOWWE2ODkzbDNzQzBITkFONVdtMDNpaTZMRzB5U3VQZDZBbXhxYm1JZ09sN2s5TFlBR2FnTzR4cEhMVG12RHlNVVhrYS10RDVFbC10OFpubGQ0eWdGVTZLU05vX3lEQ3JadFRVY2NtcXNsemxzNE5WZWY5MzZYXzF5SnE1Q080bGRLTzZDWDZEcTFGRnR4VjJ3RzVqaHJiTlM4bDM5VGE3aEVRcnJCUkJF?oc=5",
-          "fonte": "Estadão",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T10:28:45.000Z",
-          "tambemEm": [],
-          "foto": null,
           "pontos": 22
         },
         {
@@ -487,9 +487,9 @@
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": true,
-      "itens": 30,
-      "erro": null
+      "ok": false,
+      "itens": 0,
+      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
     },
     {
       "id": "b3",
@@ -593,7 +593,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 22,
+      "itens": 21,
       "erro": null
     }
   ]
