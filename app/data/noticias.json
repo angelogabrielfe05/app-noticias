@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-27T21:17:23.552Z",
+  "geradoEm": "2026-11-28T00:17:26.863Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -21,23 +21,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 27
-        },
-        {
-          "id": "67ceea72acb5",
-          "outrosIds": [],
-          "titulo": "Plenário aprova calendário especial para PEC do Fundo Constitucional do DF",
-          "resumo": "O presidente do Senado, Davi Alcolumbre, anunciou que a PEC que inclui expressamente o Fundo Constitucional do Distrito Federal (FCDF) na Constituição como o financiador das forças policiais e dos bombeiros do DF estará na pauta do Plenário na terça-feira (1º). Os senadores aprovaram requerimento de calendário…",
-          "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-25T21:26:41.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F25%2Fplenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df%2F20261125_03591t.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
         },
         {
           "id": "93c0d8c460f1",
@@ -71,7 +54,21 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 19
+          "pontos": 18
+        },
+        {
+          "id": "0e39df09a532",
+          "outrosIds": [],
+          "titulo": "Aprovada não é cumprida: por que leis não saem do papel?",
+          "resumo": "",
+          "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/aprovada-nao-e-cumprida-por-que-leis-nao-saem-do-papel",
+          "fonte": "Agência Senado",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T16:53:50.000Z",
+          "tambemEm": [],
+          "foto": null,
+          "pontos": 15
         },
         {
           "id": "f0d6f4409a38",
@@ -97,36 +94,33 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "7f978a000164",
+          "id": "fc8cac71ad3b",
           "outrosIds": [
-            "5f225d909c88",
-            "2371790e5d53",
+            "c5a5904946d2",
+            "f06b1fda06e5",
+            "0c711352d990",
             "f2366146b9e6",
             "08ce3158fff6",
             "048aa381dcc5",
             "19aac461dea0",
             "f3c06792fae9",
-            "fc8cac71ad3b",
             "376a60c94947",
             "9cf594842bb3"
           ],
-          "titulo": "Dólar cai para R$ 5,81, em meio à discussão de nomes para Fazenda",
-          "resumo": "Em dia de alívio no mercado financeiro, o dólar caiu cerca de 1,5% nesta quarta-feira (25), fechando próximo de R$ 5,82. A bolsa avançou 1,6%, aos 166,7 mil pontos. O mercado brasileiro reagiu às expectativas de novas medidas de ajuste fiscal e às discussões para a escolha do próximo ministro da Fazenda. No exterior,…",
-          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-para-r-581-em-meio-discussao-de-nomes-para-fazenda",
-          "fonte": "Agência Brasil",
+          "titulo": "O IPCA-15 é de 0,22% em novembro",
+          "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo da taxa registrada em outubro (0,32%). O IPCA-15 acumula alta de 4,38% no ano e, em 12 meses, de 4,64%, acima dos 4,62%...",
+          "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease.html",
+          "fonte": "IBGE",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T22:08:00.000Z",
+          "data": "2026-11-26T12:00:00.000Z",
           "tambemEm": [
-            "IBGE",
+            "Agência Brasil",
             "Money Times",
             "InfoMoney",
             "Valor Investe"
           ],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FHFstwjy7zSpn44qi13cjPPhd5Yc%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2026%2F02%2F28%2F2026-02-26t200758z_1_lynxmpem1p1ak_rtroptp_4_dollar-hedging-bny.jpg%3Fitok%3DIg_sdLcA&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
+          "foto": null,
           "pontos": 32
         },
         {
@@ -153,7 +147,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "7cfdd36aaa48",
@@ -192,21 +186,21 @@
           "pontos": 23
         },
         {
-          "id": "f0fb5333ab26",
+          "id": "4dfa3e564af8",
           "outrosIds": [],
-          "titulo": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
-          "resumo": "Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/",
-          "fonte": "InfoMoney",
+          "titulo": "Tesouro Direto: Prefixados e títulos atrelados à inflação ganham espaço entre investidores",
+          "resumo": "Os títulos públicos prefixados e os atrelados à inflação ganharam espaço na carteira de novos investimentos dos brasileiros em outubro. Embora ainda sejam os preferidos dos investidores do Tesouro Direto, os papéis vinculados à taxa Selic passaram a responder por menos da metade das aplicações no mês, ante 57,5% em…",
+          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/27/tesouro-direto-prefixados-e-titulos-atrelados-a-inflacao-ganham-espaco-entre-investidores.ghtml",
+          "fonte": "Valor Investe",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-26T23:22:33.000Z",
+          "data": "2026-11-27T19:36:09.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F_bn_l2YllatgxD22VMS_7V1NXmU%3D%2F2140x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2019%2Fn%2F0%2FEghc4iSXudfXwIvLLaAA%2Fgettyimages-183865137.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F_bn_l2YllatgxD22VMS_7V1NXmU%3D%2F2140x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2019%2Fn%2F0%2FEghc4iSXudfXwIvLLaAA%2Fgettyimages-183865137.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 20
         }
       ]
     },
@@ -215,26 +209,26 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "5135bb25a17f",
+          "id": "e5f1f88a9c73",
           "outrosIds": [
-            "305712c9c469",
-            "c74940821c0e"
+            "eaecbf46fb3e",
+            "07646c0d0ba1"
           ],
-          "titulo": "Ibovespa B3 sobe 1,58%, com recuperação de Vale e Petrobras; dólar cai a R$ 5,81",
-          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta quarta-feira (25) e o que movimentou os ativos",
-          "link": "https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581/",
+          "titulo": "Petrobras e Vale limitam ganhos, mas Ibovespa B3 sobe 6% na semana; dólar cai a R$ 5,51",
+          "resumo": "Veja como se comportaram o Ibovespa B3 e o dólar nesta sexta-feira (27) e o que movimentou os ativos",
+          "link": "https://borainvestir.b3.com.br/noticias/mercado/petrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551/",
           "fonte": "B3 Bora Investir",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-25T21:43:05.000Z",
+          "data": "2026-11-27T21:46:32.000Z",
           "tambemEm": [
-            "Valor Investe"
+            "Money Times"
           ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F25184142%2Fibovespa-b3-sobe-158-com-recuperacao-de-vale-e-petrobras-dolar-cai-a-r-581.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 30
         },
         {
           "id": "681e94f4d7bc",
@@ -290,24 +284,30 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
-          "id": "1cdb6b21949c",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário amplia participação em complexo logístico em SP; IFIX emenda terceira alta",
-          "resumo": "O fundo imobiliário Pátria Log (HGLG11) anunciou, por meio de fato relevante, que concluiu a aquisição de uma participação de 12,59% de um galpão logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,3 milhões. Segundo o comunicado, a fração corresponde a 6,5 mil metros quadrados (m²) do empreendimento…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-amplia-participacao-em-complexo-logistico-em-sp-ifix-emenda-terceira-alta-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T10:59:24.000Z",
-          "tambemEm": [],
+          "id": "7f461688a078",
+          "outrosIds": [
+            "294442d0e782",
+            "0268b2e41be2"
+          ],
+          "titulo": "B3 e seis instituições financeiras se unem para criar stablecoin em reais",
+          "resumo": "Para impulsionar ativos digitais, iniciativa conjunta de B3, Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP busca estabelecer infraestrutura compartilhada e um padrão comum para movimentação de valores e liquidação de operações",
+          "link": "https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T12:38:08.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         }
       ]
     },
@@ -371,7 +371,7 @@
           "data": "2026-11-27T10:28:45.000Z",
           "tambemEm": [],
           "foto": null,
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "07cdb2ee26ba",
@@ -388,7 +388,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         },
         {
           "id": "e7043ee378d8",
@@ -501,7 +501,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 31,
+      "itens": 34,
       "erro": null
     },
     {
@@ -613,7 +613,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 24,
+      "itens": 23,
       "erro": null
     }
   ]
