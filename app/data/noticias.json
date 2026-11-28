@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-28T09:17:24.538Z",
+  "geradoEm": "2026-11-28T12:17:25.614Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -40,19 +40,19 @@
           "pontos": 22
         },
         {
-          "id": "eb7ec35b32fe",
+          "id": "523f7d6c0b6b",
           "outrosIds": [],
-          "titulo": "Fachin mantém prisão de Paulo Henrique Costa, ex-presidente do BRB",
-          "resumo": "O presidente do Supremo Tribunal Federal (STF), ministro Edson Fachin, decidiu nesta sexta-feira (27) manter a prisão preventiva do ex-presidente do Banco Regional de Brasília (BRB) Paulo Henrique Costa. Fachin negou um pedido de prisão domiciliar feito pela defesa de Costa. O ministro afirmou que o ex-presidente do…",
-          "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fachin-mantem-prisao-de-paulo-henrique-costa-ex-presidente-do-brb",
+          "titulo": "Interdição fraudulenta de idoso pode levar à perda de herança",
+          "resumo": "A luta por uma velhice mais digna ganhou mais um capítulo esta semana, com a aprovação de um projeto de Lei (PL) que impede o recebimento de herança por quem tiver promovido, de forma fraudulenta, processo contra pessoa idosa, alegando sua incapacidade civil, a chamada curatela abusiva. A proposta foi aprovada na…",
+          "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/interdicao-fraudulenta-de-idoso-pode-levar-perda-de-heranca",
           "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-27T16:52:00.000Z",
+          "data": "2026-11-28T11:07:00.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FxxGOD8oNe6Vwg5zqdPFAtp0F1Vo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf05776.jpg%3Fitok%3Dl8jZEXBX&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FxxGOD8oNe6Vwg5zqdPFAtp0F1Vo%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fraf05776.jpg%3Fitok%3Dl8jZEXBX&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 17
         },
@@ -80,34 +80,31 @@
       "janelaHoras": 48,
       "itens": [
         {
-          "id": "fc8cac71ad3b",
+          "id": "c5a5904946d2",
           "outrosIds": [
-            "c5a5904946d2",
             "f06b1fda06e5",
             "0c711352d990",
             "f2366146b9e6",
             "08ce3158fff6",
-            "048aa381dcc5",
-            "19aac461dea0",
-            "f3c06792fae9",
-            "376a60c94947",
-            "9cf594842bb3"
+            "048aa381dcc5"
           ],
-          "titulo": "O IPCA-15 é de 0,22% em novembro",
-          "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo da taxa registrada em outubro (0,32%). O IPCA-15 acumula alta de 4,38% no ano e, em 12 meses, de 4,64%, acima dos 4,62%...",
-          "link": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease.html",
-          "fonte": "IBGE",
+          "titulo": "Dólar cai quase 4% e fecha em R$ 5,51, após anúncio de Trabuco",
+          "resumo": "O dólar caiu quase 4% nesta sexta-feira (27) e fechou em R$ 5,51, após a confirmação de Luiz Carlos Trabuco no comando do Ministério da Fazenda no próximo governo de Luiz Inácio Lula da Silva. Na quinta sessão consecutiva de queda, a moeda americana acumulou recuo de pouco mais de 7% na semana, o maior desde outubro…",
+          "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-cai-quase-4-e-fecha-em-r-551-apos-anuncio-de-trabuco",
+          "fonte": "Agência Brasil",
           "oficial": true,
           "categoria": "oficial",
-          "data": "2026-11-26T12:00:00.000Z",
+          "data": "2026-11-27T22:47:00.000Z",
           "tambemEm": [
-            "Agência Brasil",
-            "Money Times",
+            "Valor Investe",
             "InfoMoney",
-            "Valor Investe"
+            "Money Times"
           ],
-          "foto": null,
-          "pontos": 32
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fl_XOQDzINzpO7ShpIRRVe-ToOXI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221207.jpg%3Fitok%3DfrxEmw7m&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fl_XOQDzINzpO7ShpIRRVe-ToOXI%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2Fdolar_moeda_0803221207.jpg%3Fitok%3DfrxEmw7m&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 31
         },
         {
           "id": "7cfdd36aaa48",
@@ -131,8 +128,7 @@
           "outrosIds": [
             "80e6429a6d2e",
             "7fbca097eb8c",
-            "f3055dad6666",
-            "c7953bf9a265"
+            "f3055dad6666"
           ],
           "titulo": "Governo Central registra superávit primário de R$ 52,3 bilhões em outubro",
           "resumo": "Conforme o Tesouro Nacional, resultado superou a mediana das expectativas do Prisma Fiscal do Ministério da Fazenda, que apontava superávit de R$ 43,4 bilhões",
@@ -143,14 +139,13 @@
           "data": "2026-11-27T18:16:00.000Z",
           "tambemEm": [
             "Agência Brasil",
-            "Money Times",
-            "InfoMoney"
+            "Money Times"
           ],
           "foto": {
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 23
         },
         {
           "id": "5dd8494e37e7",
@@ -214,13 +209,12 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 29
+          "pontos": 28
         },
         {
           "id": "681e94f4d7bc",
           "outrosIds": [
-            "31428a06e3b1",
-            "5ced0bd345ee"
+            "31428a06e3b1"
           ],
           "titulo": "Depois da renovação, a separação: FII embolsa R$ 14 milhões com venda de agência do Banco do Brasil (BBAS3)",
           "resumo": "Fundo imobiliário vende imóvel em SP e estima lucro de R$ 0,23 por cota; instituição financeira segue como principal inquilina do portfólio The post Depois da renovação, a separação: FII embolsa R$ 14 milhões com venda de agência do Banco do Brasil (BBAS3) appeared first on Seu Dinheiro .",
@@ -273,21 +267,27 @@
           "pontos": 22
         },
         {
-          "id": "1cdb6b21949c",
-          "outrosIds": [],
-          "titulo": "Fundo imobiliário amplia participação em complexo logístico em SP; IFIX emenda terceira alta",
-          "resumo": "O fundo imobiliário Pátria Log (HGLG11) anunciou, por meio de fato relevante, que concluiu a aquisição de uma participação de 12,59% de um galpão logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,3 milhões. Segundo o comunicado, a fração corresponde a 6,5 mil metros quadrados (m²) do empreendimento…",
-          "link": "https://www.moneytimes.com.br/fundo-imobiliario-amplia-participacao-em-complexo-logistico-em-sp-ifix-emenda-terceira-alta-igdl/",
-          "fonte": "Money Times",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T10:59:24.000Z",
-          "tambemEm": [],
+          "id": "7f461688a078",
+          "outrosIds": [
+            "294442d0e782",
+            "0268b2e41be2"
+          ],
+          "titulo": "B3 e seis instituições financeiras se unem para criar stablecoin em reais",
+          "resumo": "Para impulsionar ativos digitais, iniciativa conjunta de B3, Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP busca estabelecer infraestrutura compartilhada e um padrão comum para movimentação de valores e liquidação de operações",
+          "link": "https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/",
+          "fonte": "B3 Bora Investir",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-27T12:38:08.000Z",
+          "tambemEm": [
+            "Valor Investe",
+            "Money Times"
+          ],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 22
+          "pontos": 21
         }
       ]
     },
@@ -295,6 +295,23 @@
       "nome": "Inteligência artificial",
       "janelaHoras": 48,
       "itens": [
+        {
+          "id": "0596db4ec183",
+          "outrosIds": [],
+          "titulo": "O que são modelos de IA de código aberto?",
+          "resumo": "O que são modelos de IA de código aberto? As ferramentas de intelig&ecirc;ncia artificial mais conhecidas dispon&iacute;veis no mercado funcionam com c&oacute;digo fechado , como o ChatGPT, o Gemini e o Claude. Isso significa que as empresas respons&aacute;veis n&atilde;o divulgam o c&oacute;digo nem os…",
+          "link": "https://canaltech.com.br/inteligencia-artificial/o-que-sao-modelos-de-ia-de-codigo-aberto/",
+          "fonte": "Canaltech",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-28T10:30:03.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F57JgxeVzA8rnqg1bnTlkIgzHqPE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F9b3955bb-660f-4211-8b6a-2877fb890301.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2F57JgxeVzA8rnqg1bnTlkIgzHqPE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2F9b3955bb-660f-4211-8b6a-2877fb890301.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 24
+        },
         {
           "id": "8ec90a1ec6d1",
           "outrosIds": [],
@@ -332,6 +349,23 @@
           "pontos": 24
         },
         {
+          "id": "76adee562045",
+          "outrosIds": [],
+          "titulo": "Por que a IA ainda enfrenta obstáculos para avançar no mercado financeiro",
+          "resumo": "Fragmentação de dados, falta de integração entre sistemas e necessidade de rastreabilidade dificultam o uso da inteligência artificial em recomendações financeiras O post Por que a IA ainda enfrenta obstáculos para avançar no mercado financeiro apareceu primeiro em Olhar Digital .",
+          "link": "https://olhardigital.com.br/2026/11/28/inteligencia-artificial/por-que-a-ia-ainda-enfrenta-obstaculos-para-avancar-no-mercado-financeiro/",
+          "fonte": "Olhar Digital",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-28T10:00:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fia-mercado-financeiro.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fia-mercado-financeiro.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 22
+        },
+        {
           "id": "f7450ecc7d21",
           "outrosIds": [
             "e2757cbeb59f",
@@ -352,42 +386,6 @@
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
-        },
-        {
-          "id": "07cdb2ee26ba",
-          "outrosIds": [],
-          "titulo": "Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna",
-          "resumo": "Segundo informações de bastidores, empresa estaria gastando US$ 1,2 milhão por mês com inteligência artificial generativa e ampliando o uso da tecnologia na produção de jogos O post Ubisoft nega obrigar desenvolvedores a usar IA generativa, mas relatos apontam pressão interna apareceu primeiro em Olhar Digital .",
-          "link": "https://olhardigital.com.br/2026/11/27/games-e-consoles/ubisoft-ia-generativa-desenvolvedores-pressao-interna/",
-          "fonte": "Olhar Digital",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T16:00:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
-        },
-        {
-          "id": "e7043ee378d8",
-          "outrosIds": [
-            "8d0af28e9088"
-          ],
-          "titulo": "Wall Street: ações dos EUA sobem com impulso de papéis de IA",
-          "resumo": "Investidores retornavam do feriado de Ação de Graças ​e voltavam a investir ​em ações de inteligência artificial The post Wall Street: ações dos EUA sobem com impulso de papéis de IA appeared first on InfoMoney .",
-          "link": "https://www.infomoney.com.br/mercados/wall-street-acoes-dos-eua-sobem-com-impulso-de-papeis-de-ia/",
-          "fonte": "InfoMoney",
-          "oficial": false,
-          "categoria": "imprensa",
-          "data": "2026-11-27T14:49:34.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 20
         }
       ]
     }
@@ -481,7 +479,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 36,
+      "itens": 37,
       "erro": null
     },
     {
@@ -586,14 +584,14 @@
       "id": "anthropic",
       "nome": "Anthropic (site oficial)",
       "ok": true,
-      "itens": 100,
+      "itens": 97,
       "erro": null
     },
     {
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 21,
+      "itens": 25,
       "erro": null
     }
   ]
