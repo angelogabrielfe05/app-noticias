@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-28T00:17:26.863Z",
+  "geradoEm": "2026-11-28T03:17:32.970Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -20,7 +20,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2Fw4rPIWA4fdhmfrfcvs6EfaB_bPE%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F09%2F09%2F54776974910_27f774db1d_o.jpg%3Fitok%3DduUdnejI&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 27
+          "pontos": 26
         },
         {
           "id": "93c0d8c460f1",
@@ -37,7 +37,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww12.senado.leg.br%2Fnoticias%2Fmaterias%2F2026%2F11%2F27%2Fsancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria%2Fsala_de_aula_04.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "eb7ec35b32fe",
@@ -186,19 +186,19 @@
           "pontos": 23
         },
         {
-          "id": "4dfa3e564af8",
+          "id": "f0fb5333ab26",
           "outrosIds": [],
-          "titulo": "Tesouro Direto: Prefixados e títulos atrelados à inflação ganham espaço entre investidores",
-          "resumo": "Os títulos públicos prefixados e os atrelados à inflação ganharam espaço na carteira de novos investimentos dos brasileiros em outubro. Embora ainda sejam os preferidos dos investidores do Tesouro Direto, os papéis vinculados à taxa Selic passaram a responder por menos da metade das aplicações no mês, ante 57,5% em…",
-          "link": "https://valorinveste.globo.com/produtos/renda-fixa/tesouro-direto/noticia/2026/11/27/tesouro-direto-prefixados-e-titulos-atrelados-a-inflacao-ganham-espaco-entre-investidores.ghtml",
-          "fonte": "Valor Investe",
+          "titulo": "Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda",
+          "resumo": "Escolhido por Lula vai enfrentar um cenário macroeconômico desfavorável, de crescimento mais baixo da economia, inflação ainda longe da meta e juros nas alturas The post Ajuste fiscal, endividamento e estatais são desafios de novo ministro da Fazenda appeared first on InfoMoney .",
+          "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-endividamento-e-estatais-sao-desafios-de-novo-ministro-da-fazenda/",
+          "fonte": "InfoMoney",
           "oficial": false,
           "categoria": "imprensa",
-          "data": "2026-11-27T19:36:09.000Z",
+          "data": "2026-11-26T23:22:33.000Z",
           "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F_bn_l2YllatgxD22VMS_7V1NXmU%3D%2F2140x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2019%2Fn%2F0%2FEghc4iSXudfXwIvLLaAA%2Fgettyimages-183865137.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fs2-valor-investe.glbimg.com%2F_bn_l2YllatgxD22VMS_7V1NXmU%3D%2F2140x0%2Ffilters%3Aformat(jpeg)%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_f035dd6fd91c438fa04ab718d608bbaa%2Finternal_photos%2Fbs%2F2019%2Fn%2F0%2FEghc4iSXudfXwIvLLaAA%2Fgettyimages-183865137.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2Fimg20261125134951199.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 20
         }
@@ -250,7 +250,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F05%2Fimagem-gerada-por-IA-de-uma-agencia-do-banco-do-brasil-com-o-sol-vindo-por-tras.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 25
+          "pontos": 24
         },
         {
           "id": "9955fdc2e1e5",
@@ -267,7 +267,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F11%2Fai-insights-euy1ni0igbnv.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "e862c410dc49",
@@ -287,25 +287,19 @@
           "pontos": 23
         },
         {
-          "id": "7f461688a078",
-          "outrosIds": [
-            "294442d0e782",
-            "0268b2e41be2"
-          ],
-          "titulo": "B3 e seis instituições financeiras se unem para criar stablecoin em reais",
-          "resumo": "Para impulsionar ativos digitais, iniciativa conjunta de B3, Bradesco, BTG Pactual, Itaú Unibanco, Safra, Santander e XP busca estabelecer infraestrutura compartilhada e um padrão comum para movimentação de valores e liquidação de operações",
-          "link": "https://borainvestir.b3.com.br/noticias/b3-e-seis-instituicoes-financeiras-se-unem-para-criar-stablecoin-em-reais/",
-          "fonte": "B3 Bora Investir",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-27T12:38:08.000Z",
-          "tambemEm": [
-            "Valor Investe",
-            "Money Times"
-          ],
+          "id": "1cdb6b21949c",
+          "outrosIds": [],
+          "titulo": "Fundo imobiliário amplia participação em complexo logístico em SP; IFIX emenda terceira alta",
+          "resumo": "O fundo imobiliário Pátria Log (HGLG11) anunciou, por meio de fato relevante, que concluiu a aquisição de uma participação de 12,59% de um galpão logístico localizado em Itupeva, no interior de São Paulo, por R$ 31,3 milhões. Segundo o comunicado, a fração corresponde a 6,5 mil metros quadrados (m²) do empreendimento…",
+          "link": "https://www.moneytimes.com.br/fundo-imobiliario-amplia-participacao-em-complexo-logistico-em-sp-ifix-emenda-terceira-alta-igdl/",
+          "fonte": "Money Times",
+          "oficial": false,
+          "categoria": "imprensa",
+          "data": "2026-11-27T10:59:24.000Z",
+          "tambemEm": [],
           "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F02%2F26165940%2Fb3-b3sa3-registra-receita-de-r-111-bilhoes-em-2025-crescimento-de-52.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.moneytimes.com.br%2Fuploads%2F2026%2F01%2Ffiis-fundos-imobiliarios-imagem-lemon-tm-istockphoto.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
           "pontos": 22
         }
@@ -335,7 +329,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Folhardigital.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FDestaque-ChatGPT-e-Google-scaled.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "f7450ecc7d21",
@@ -357,7 +351,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Ftl.ctcdn.com.br%2FyW9REiEKTE0RqRVvH6ZsEaqJuKE%3D%2F1200x675%2Fsmart%2Ffilters%3Aformat(webp)%3Aquality(85)%2Ff2f8d9f9-0d53-416f-8f60-3ff5701e1cf5.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 24
+          "pontos": 23
         },
         {
           "id": "8ec90a1ec6d1",
@@ -407,7 +401,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.infomoney.com.br%2Fwp-content%2Fuploads%2F2025%2F01%2F2025-01-23T212112Z_1_LYNXNPEL0M0VA_RTROPTP_4_WALLST-ABRE.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         }
       ]
     }
@@ -501,15 +495,15 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 34,
+      "itens": 35,
       "erro": null
     },
     {
       "id": "receita",
       "nome": "Receita Federal",
-      "ok": false,
-      "itens": 0,
-      "erro": "fetch failed (ECONNRESET); fetch failed (ECONNRESET)"
+      "ok": true,
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "b3",
@@ -613,7 +607,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 23,
+      "itens": 25,
       "erro": null
     }
   ]
