@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-11-28T03:17:32.970Z",
+  "geradoEm": "2026-11-28T06:17:30.512Z",
   "abas": {
     "politica": {
       "nome": "Política do Brasil",
@@ -54,21 +54,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimagens.ebc.com.br%2FiMpgnK7kwTYdkONC7d1_MPRurK0%3D%2F1600x800%2Fhttps%3A%2F%2Fagenciabrasil.ebc.com.br%2Fsites%2Fdefault%2Ffiles%2Fthumbnails%2Fimage%2F2025%2F11%2F19%2F0d4a8719.jpg%3Fitok%3DwHQRKFmm&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 18
-        },
-        {
-          "id": "0e39df09a532",
-          "outrosIds": [],
-          "titulo": "Aprovada não é cumprida: por que leis não saem do papel?",
-          "resumo": "",
-          "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/10/aprovada-nao-e-cumprida-por-que-leis-nao-saem-do-papel",
-          "fonte": "Agência Senado",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-27T16:53:50.000Z",
-          "tambemEm": [],
-          "foto": null,
-          "pontos": 15
+          "pontos": 17
         },
         {
           "id": "f0d6f4409a38",
@@ -124,6 +110,23 @@
           "pontos": 32
         },
         {
+          "id": "7cfdd36aaa48",
+          "outrosIds": [],
+          "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
+          "resumo": "Medidas incluem imposto zero para cesta básica e remédios, devolução de tributos para famílias de baixa renda e apuração automática para empresas",
+          "link": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1",
+          "fonte": "Agência Gov",
+          "oficial": true,
+          "categoria": "oficial",
+          "data": "2026-11-26T20:05:00.000Z",
+          "tambemEm": [],
+          "foto": {
+            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
+            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
+          },
+          "pontos": 26
+        },
+        {
           "id": "805899bfe789",
           "outrosIds": [
             "80e6429a6d2e",
@@ -147,24 +150,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Fgoverno-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro%2F%40%40download%2Fimage%2Fsuper.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 26
-        },
-        {
-          "id": "7cfdd36aaa48",
-          "outrosIds": [],
-          "titulo": "Reforma Tributária: entenda regras que passam a valer a partir de 2027",
-          "resumo": "Medidas incluem imposto zero para cesta básica e remédios, devolução de tributos para famílias de baixa renda e apuração automática para empresas",
-          "link": "https://agenciagov.ebc.com.br/noticias/202611/reforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1",
-          "fonte": "Agência Gov",
-          "oficial": true,
-          "categoria": "oficial",
-          "data": "2026-11-26T20:05:00.000Z",
-          "tambemEm": [],
-          "foto": {
-            "grande": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
-            "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fagenciagov.ebc.com.br%2Fnoticias%2F202611%2Freforma-tributaria-entenda-as-regras-que-passam-a-valer-a-partir-de-2027-1%2F%40%40download%2Fimage%2Freforma_tributa.png&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
-          },
-          "pontos": 26
+          "pontos": 25
         },
         {
           "id": "5dd8494e37e7",
@@ -228,7 +214,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fcdn.borainvestir.b3.com.br%2F2026%2F11%2F27184504%2Fpetrobras-e-vale-limitam-ganhos-mas-ibovespa-b3-sobe-6-na-semana-dolar-cai-a-r-551.webp&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 30
+          "pontos": 29
         },
         {
           "id": "681e94f4d7bc",
@@ -284,7 +270,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fwww.seudinheiro.com%2Fuploads%2F2026%2F11%2Fai-insights-K3nyJjRMYsRO.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 23
+          "pontos": 22
         },
         {
           "id": "1cdb6b21949c",
@@ -382,7 +368,7 @@
             "grande": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=800&h=450&q=72",
             "miniatura": "https://wsrv.nl/?url=https%3A%2F%2Fimg.odcdn.com.br%2Fwp-content%2Fuploads%2F2026%2F11%2FUbisoft-Ubisoft-1.jpg&fit=cover&a=attention&output=webp&w=192&h=192&q=70"
           },
-          "pontos": 21
+          "pontos": 20
         },
         {
           "id": "e7043ee378d8",
@@ -495,7 +481,7 @@
       "id": "ibge-google",
       "nome": "IBGE",
       "ok": true,
-      "itens": 35,
+      "itens": 36,
       "erro": null
     },
     {
@@ -607,7 +593,7 @@
       "id": "google-news-claude",
       "nome": "{veiculo}",
       "ok": true,
-      "itens": 25,
+      "itens": 22,
       "erro": null
     }
   ]

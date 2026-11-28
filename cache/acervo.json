@@ -1,5 +1,16 @@
 [
   {
+    "titulo": "DRENAGEM E MANEJO DE ÁGUAS PLUVIAIS",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXRMV3ZyRlU2MldTSW9mLXVJV3Z2LVNUSEhBaXcyTEUwaE1yNHhKcGtkUkRWN3hVZERhdVdfZzVGNHN2MlplYk9reGE4NmFxVVdQVVBPR00zQWpYQjI4eXkwQ2dmd2tLSWY4V29tS2tZWk5Bb3RBN0pidDYzaGRGNnk4UThRcEVqeDh4VGVRdEVweXNlT2xKY0p4Z1k3TDIxSTQ1eUpR?oc=5",
+    "resumo": "",
+    "data": "2026-11-28T02:18:46.000Z",
+    "origem": "Agência de Notícias - IBGE",
+    "imagemFeed": null,
+    "fonteId": "ibge-google",
+    "fonte": "IBGE",
+    "categoria": "oficial"
+  },
+  {
     "titulo": "China encontra maneira de acessar chips de IA dos EUA mesmo com sanções",
     "link": "https://olhardigital.com.br/2026/11/27/pro/china-encontra-maneira-de-acessar-chips-de-ia-dos-eua-mesmo-com-sancoes/",
     "resumo": "Empresas chinesas alugam capacidade computacional em países, como a Malásia, para acessar processadores estadunidenses O post China encontra maneira de acessar chips de IA dos EUA mesmo com sanções apareceu primeiro em Olhar Digital .",
@@ -9618,6 +9629,17 @@
     "categoria": "imprensa"
   },
   {
+    "titulo": "Migrating our Messages API to Rust",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+    "resumo": "",
+    "data": "2026-11-25T17:15:45.000Z",
+    "origem": "Anthropic",
+    "imagemFeed": null,
+    "fonteId": "anthropic",
+    "fonte": "Anthropic (site oficial)",
+    "categoria": "empresa"
+  },
+  {
     "titulo": "Waldez Góes diz que é possível gerar emprego e renda com responsabilidade ambiental",
     "link": "https://agenciagov.ebc.com.br/noticias/202611/waldez-goes-201ce-possivel-gerar-emprego-e-renda-tendo-responsabilidade-ambiental201d",
     "resumo": "Em entrevista ao Bom Dia, Ministro, Waldez defendeu a compatibilidade entre atividade econômica e preservação ambiental",
@@ -9773,17 +9795,6 @@
     "fonteId": "exame-invest",
     "fonte": "Exame Invest",
     "categoria": "imprensa"
-  },
-  {
-    "titulo": "Migrating our Messages API to Rust",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
-    "resumo": "",
-    "data": "2026-11-25T16:25:47.000Z",
-    "origem": "Anthropic",
-    "imagemFeed": null,
-    "fonteId": "anthropic",
-    "fonte": "Anthropic (site oficial)",
-    "categoria": "empresa"
   },
   {
     "titulo": "25.11.2026 (Mídia Gratuita) Semana do Reservista - spot de rádio - Ministério da Defesa",
@@ -15593,107 +15604,6 @@
     "imagemFeed": null,
     "fonteId": "moneytimes",
     "fonte": "Money Times",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ibovespa cai apesar de 'alívio' fiscal, Vale desaba 5,5% e dólar recua a R$ 5,91",
-    "link": "https://exame.com/invest/mercados/ibovespa-hoje-24-11-2026/",
-    "resumo": "Notícias sobre uma nova proposta para conter despesas públicas aliviaram o câmbio e os juros, mas não impediram a reversão da Bolsa, pressionada por ações de peso",
-    "data": "2026-11-24T05:30:06.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Ameaça à Shopee? TikTok Shop avança no Brasil e já vende R$ 19 bilhões por ano",
-    "link": "https://exame.com/invest/mercados/ameaca-a-shopee-tiktok-shop-avanca-no-brasil-e-ja-vende-r-19-bilhoes-por-ano/",
-    "resumo": "Plataforma aposta em lives e 2,3 milhões de influenciadores; para o BTG, ameaça a Mercado Livre e Shopee vai além do tamanho atual",
-    "data": "2026-11-24T05:24:41.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "INSS começa pagamento de novembro nesta terça-feira, 24: veja quem tem direito",
-    "link": "https://exame.com/invest/minhas-financas/inss-comeca-pagamento-de-novembro-nesta-terca-feira-24-quem-tem-direito/",
-    "resumo": "Piso dos benefícios previdenciários que não podem ficar abaixo do salário mínimo é de R$ 1.621 em 2026",
-    "data": "2026-11-24T05:00:33.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "INSS começa folha de novembro nesta terça, 24; veja quem recebe",
-    "link": "https://exame.com/invest/minhas-financas/inss-comeca-folha-de-novembro-nesta-terca-24-veja-quem-recebe/",
-    "resumo": "Recebem hoje os segurados com final de benefício 1 que ganham até um salário mínimo",
-    "data": "2026-11-24T05:00:19.000Z",
-    "imagemFeed": null,
-    "fonteId": "exame-invest",
-    "fonte": "Exame Invest",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Motta vê ajuste fiscal como essencial para avançar com investimentos em 2027",
-    "link": "https://www.camara.leg.br/noticias/1322184-motta-ve-ajuste-fiscal-como-essencial-para-avancar-com-investimentos-em-2027",
-    "resumo": "Presidente cobrou, porém, mais medidas para conter juros e dólar",
-    "data": "2026-11-24T04:10:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261123195853161-768x473.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Base do governo defende ajuste fiscal; oposição critica impacto sobre empresas",
-    "link": "https://www.camara.leg.br/noticias/1322180-base-do-governo-defende-ajuste-fiscal-oposicao-critica-impacto-sobre-empresas",
-    "resumo": "Projeto permite limitar despesas para cumprir metas de superávit primário a partir de 2027; parlamentares divergem sobre os efeitos da medida",
-    "data": "2026-11-24T04:02:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261123195951729-768x473.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Projeto limita repasses da Lei Kandir e despesas com exportações e previdência",
-    "link": "https://www.camara.leg.br/noticias/1322175-projeto-limita-repasses-da-lei-kandir-e-despesas-com-exportacoes-e-previdencia",
-    "resumo": "Texto também altera regras para incentivos da reforma tributária, seguro rural e restos a pagar",
-    "data": "2026-11-24T03:57:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/midias/image/2026/11/img20261123200014322-768x473.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Câmara aprova ajuste fiscal sem alterações; projeto segue para sanção presidencial",
-    "link": "https://www.camara.leg.br/noticias/1322152-camara-aprova-ajuste-fiscal-sem-alteracoes-projeto-segue-para-sancao-presidencial",
-    "resumo": "Projeto permite ao governo limitar a execução de despesas para alcançar as metas de superávit primário a partir de 2027",
-    "data": "2026-11-24T03:46:00.000Z",
-    "imagemFeed": "https://www.camara.leg.br/internet/bancoimagem/banco/2026/11/img20261123195844403.jpg",
-    "fonteId": "camara-economia",
-    "fonte": "Agência Câmara",
-    "categoria": "oficial"
-  },
-  {
-    "titulo": "Anthropic supera SpaceX e faz o maior IPO da história. Veja o ranking dos dez maiores",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE5fbmg5dm45QmQ3TW56dEdnV1FBMi15NXI4Tmo4MldjbmROb1lIYlU1QVFjX2Z1MWFSWkFyUHNJTlpTNDZKak5MUGpidy1ZSUFRcWxUNjNmYTI4SGRlQjMyVW1UZ1pfQ2owYkR5RXg4LXRvQjlmR3VnZWVSUnRfc1ZQSm9iUG9zV0Jqb3IxeHFOeXBDYllxT0xlS0pMbVh3ckhrdS00Q09ZcEpGcGtaLWxqNkd0UXE5dTREODRVZFlsTGJIejQ0UC1waUVYR1JlV2FnT0o0Z29sUmRDb21sZTZoODBGdw?oc=5",
-    "resumo": "",
-    "data": "2026-11-24T03:41:34.000Z",
-    "origem": "Estadão",
-    "imagemFeed": null,
-    "fonteId": "google-news-claude",
-    "fonte": "Estadão",
-    "categoria": "imprensa"
-  },
-  {
-    "titulo": "Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda",
-    "link": "https://www.infomoney.com.br/politica/supersalarios-serao-cortados-apos-a-aprovacao-do-pacote-fiscal-entenda-o-que-muda/",
-    "resumo": "Texto aprovado pelo Congresso estabelece prazo de 60 dias para regulamentar pagamentos acima do teto constitucional, mas redução de benefícios depende de nova lei The post Supersalários serão cortados após a aprovação do pacote fiscal? Entenda o que muda appeared first on InfoMoney .",
-    "data": "2026-11-24T03:36:32.000Z",
-    "imagemFeed": "https://www.infomoney.com.br/wp-content/uploads/2026/11/2026-11-16T154732Z_1_LYNXNPEMAF1IY_RTROPTP_4_BRAZIL-ELECTION.jpg?fit=300%2C199&amp;quality=70&amp;strip=all",
-    "fonteId": "infomoney",
-    "fonte": "InfoMoney",
     "categoria": "imprensa"
   }
 ]
